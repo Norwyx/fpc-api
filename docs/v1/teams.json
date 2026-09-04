@@ -1,0 +1,675 @@
+{
+ "meta": {
+  "version": 1,
+  "updated": "2026-09-03T19:49:40Z",
+  "source": "https://es.wikipedia.org/wiki/Categoría_Primera_A"
+ },
+ "teams": [
+  {
+   "id": "aguilas",
+   "name": "Águilas Doradas",
+   "short_name": "Águilas",
+   "city": "Medellín",
+   "stadium": "Cincuentenario",
+   "capacity": 4000,
+   "founded": 2008,
+   "colors": {
+    "primary": "#EAAA00",
+    "secondary": "#000000"
+   },
+   "wikipedia": "https://es.wikipedia.org/wiki//wiki/%C3%81guilas_Doradas",
+   "active": true
+  },
+  {
+   "id": "alianza",
+   "name": "Alianza Valledupar",
+   "short_name": "Alianza",
+   "city": "Valledupar",
+   "stadium": "Armando Maestre Pavajeau",
+   "capacity": 11500,
+   "founded": 2024,
+   "colors": {
+    "primary": "#FFC72C",
+    "secondary": "#000000"
+   },
+   "wikipedia": "https://es.wikipedia.org/wiki//wiki/Alianza_Valledupar",
+   "active": true
+  },
+  {
+   "id": "america",
+   "name": "América de Cali",
+   "short_name": "América",
+   "city": "Cali",
+   "stadium": "Olímpico Pascual Guerrero",
+   "capacity": 37899,
+   "founded": 1927,
+   "colors": {
+    "primary": "#E30613",
+    "secondary": "#FFFFFF"
+   },
+   "wikipedia": "https://es.wikipedia.org/wiki//wiki/Am%C3%A9rica_de_Cali",
+   "active": true
+  },
+  {
+   "id": "bucamanga",
+   "name": "Atlético Bucaramanga",
+   "short_name": "Bucaramanga",
+   "city": "Bucaramanga",
+   "stadium": "Américo Montanini",
+   "capacity": 25000,
+   "founded": 1949,
+   "colors": {
+    "primary": "#FFC72C",
+    "secondary": "#006F44"
+   },
+   "wikipedia": "https://es.wikipedia.org/wiki//wiki/Atl%C3%A9tico_Bucaramanga",
+   "active": true
+  },
+  {
+   "id": "caldas",
+   "name": "Once Caldas",
+   "short_name": "Once Caldas",
+   "city": "Manizales",
+   "stadium": "Palogrande",
+   "capacity": 28678,
+   "founded": 1947,
+   "colors": {
+    "primary": "#FFFFFF",
+    "secondary": "#DA291C"
+   },
+   "wikipedia": "https://es.wikipedia.org/wiki//wiki/Once_Caldas",
+   "active": true
+  },
+  {
+   "id": "cali",
+   "name": "Deportivo Cali",
+   "short_name": "Cali",
+   "city": "Cali",
+   "stadium": "Deportivo Cali",
+   "capacity": 44000,
+   "founded": 1912,
+   "colors": {
+    "primary": "#00954C",
+    "secondary": "#FFFFFF"
+   },
+   "wikipedia": "https://es.wikipedia.org/wiki//wiki/Deportivo_Cali",
+   "active": true
+  },
+  {
+   "id": "chico",
+   "name": "Boyacá Chicó",
+   "short_name": "Chicó",
+   "city": "Tunja",
+   "stadium": "La Independencia",
+   "capacity": 20630,
+   "founded": 2002,
+   "colors": {
+    "primary": "#0B5ED7",
+    "secondary": "#FFFFFF"
+   },
+   "wikipedia": "https://es.wikipedia.org/wiki//wiki/Boyac%C3%A1_Chic%C3%B3",
+   "active": true
+  },
+  {
+   "id": "cucuta",
+   "name": "Cúcuta Deportivo",
+   "short_name": "Cúcuta",
+   "city": "Cúcuta",
+   "stadium": "General Santander",
+   "capacity": 42000,
+   "founded": 1924,
+   "colors": {
+    "primary": "#D6001C",
+    "secondary": "#000000"
+   },
+   "wikipedia": "https://es.wikipedia.org/wiki//wiki/C%C3%BAcuta_Deportivo",
+   "active": true
+  },
+  {
+   "id": "fortaleza",
+   "name": "Fortaleza CEIF",
+   "short_name": "Fortaleza",
+   "city": "Bogotá",
+   "stadium": "Metropolitano de Techo",
+   "capacity": 10000,
+   "founded": 2010,
+   "colors": {
+    "primary": "#0B4EA2",
+    "secondary": "#FFFFFF"
+   },
+   "wikipedia": "https://es.wikipedia.org/wiki//wiki/Fortaleza_CEIF",
+   "active": true
+  },
+  {
+   "id": "internacional-bogota",
+   "name": "Internacional de Bogotá",
+   "short_name": "Internacional",
+   "city": "Bogotá",
+   "stadium": "Metropolitano de Techo",
+   "capacity": 10000,
+   "founded": 2025,
+   "colors": null,
+   "wikipedia": "https://es.wikipedia.org/wiki//wiki/Internacional_de_Bogot%C3%A1",
+   "active": true
+  },
+  {
+   "id": "jaguares",
+   "name": "Jaguares de Córdoba",
+   "short_name": "Jaguares",
+   "city": "Montería",
+   "stadium": "Jaraguay",
+   "capacity": 12000,
+   "founded": 2012,
+   "colors": {
+    "primary": "#C8102E",
+    "secondary": "#000000"
+   },
+   "wikipedia": "https://es.wikipedia.org/wiki//wiki/Jaguares_de_C%C3%B3rdoba",
+   "active": true
+  },
+  {
+   "id": "junior",
+   "name": "Junior",
+   "short_name": "Junior",
+   "city": "Barranquilla",
+   "stadium": "Metropolitano Roberto Meléndez Municipal Romelio Martínez",
+   "capacity": 466908600,
+   "founded": 1924,
+   "colors": {
+    "primary": "#C8102E",
+    "secondary": "#FFFFFF"
+   },
+   "wikipedia": "https://es.wikipedia.org/wiki//wiki/Junior_de_Barranquilla",
+   "active": true
+  },
+  {
+   "id": "llaneros",
+   "name": "Llaneros",
+   "short_name": "Llaneros",
+   "city": "Villavicencio",
+   "stadium": "Bello Horizonte - Rey Pelé",
+   "capacity": 18000,
+   "founded": 2012,
+   "colors": {
+    "primary": "#00843D",
+    "secondary": "#FFFFFF"
+   },
+   "wikipedia": "https://es.wikipedia.org/wiki//wiki/Club_Llaneros",
+   "active": true
+  },
+  {
+   "id": "medellin",
+   "name": "Independiente Medellín",
+   "short_name": "Medellín",
+   "city": "Medellín",
+   "stadium": "Atanasio Girardot",
+   "capacity": 46000,
+   "founded": 1913,
+   "colors": {
+    "primary": "#E4032E",
+    "secondary": "#0B4EA2"
+   },
+   "wikipedia": "https://es.wikipedia.org/wiki//wiki/Deportivo_Independiente_Medell%C3%ADn",
+   "active": true
+  },
+  {
+   "id": "millonarios",
+   "name": "Millonarios",
+   "short_name": "Millonarios",
+   "city": "Bogotá",
+   "stadium": "Nemesio Camacho El Campín",
+   "capacity": 36340,
+   "founded": 1946,
+   "colors": {
+    "primary": "#0B4EA2",
+    "secondary": "#FFFFFF"
+   },
+   "wikipedia": "https://es.wikipedia.org/wiki//wiki/Millonarios_F%C3%BAtbol_Club",
+   "active": true
+  },
+  {
+   "id": "nacional",
+   "name": "Atlético Nacional",
+   "short_name": "Nacional",
+   "city": "Medellín",
+   "stadium": "Atanasio Girardot",
+   "capacity": 46000,
+   "founded": 1947,
+   "colors": {
+    "primary": "#00A859",
+    "secondary": "#FFFFFF"
+   },
+   "wikipedia": "https://es.wikipedia.org/wiki//wiki/Atl%C3%A9tico_Nacional",
+   "active": true
+  },
+  {
+   "id": "pasto",
+   "name": "Deportivo Pasto",
+   "short_name": "Pasto",
+   "city": "Pasto",
+   "stadium": "Departamental Libertad",
+   "capacity": 20000,
+   "founded": 1949,
+   "colors": {
+    "primary": "#E4002B",
+    "secondary": "#FFFFFF"
+   },
+   "wikipedia": "https://es.wikipedia.org/wiki//wiki/Deportivo_Pasto",
+   "active": true
+  },
+  {
+   "id": "pereira",
+   "name": "Deportivo Pereira",
+   "short_name": "Pereira",
+   "city": "Pereira",
+   "stadium": "Hernán Ramírez Villegas",
+   "capacity": 30290,
+   "founded": 1944,
+   "colors": {
+    "primary": "#FFD200",
+    "secondary": "#000000"
+   },
+   "wikipedia": "https://es.wikipedia.org/wiki//wiki/Deportivo_Pereira",
+   "active": true
+  },
+  {
+   "id": "santafe",
+   "name": "Santa Fe",
+   "short_name": "Santa Fe",
+   "city": "Bogotá",
+   "stadium": "Nemesio Camacho El Campín",
+   "capacity": 36340,
+   "founded": 1941,
+   "colors": {
+    "primary": "#E31B23",
+    "secondary": "#FFFFFF"
+   },
+   "wikipedia": "https://es.wikipedia.org/wiki//wiki/Club_Independiente_Santa_Fe",
+   "active": true
+  },
+  {
+   "id": "tolima",
+   "name": "Deportes Tolima",
+   "short_name": "Tolima",
+   "city": "Ibagué",
+   "stadium": "Manuel Murillo Toro",
+   "capacity": 28100,
+   "founded": 1954,
+   "colors": {
+    "primary": "#C8102E",
+    "secondary": "#FFFFFF"
+   },
+   "wikipedia": "https://es.wikipedia.org/wiki//wiki/Deportes_Tolima",
+   "active": true
+  },
+  {
+   "id": "academia",
+   "name": "Academia",
+   "short_name": "Academia",
+   "city": null,
+   "stadium": null,
+   "capacity": null,
+   "founded": null,
+   "colors": null,
+   "wikipedia": null,
+   "active": false
+  },
+  {
+   "id": "atletico",
+   "name": "Atlético",
+   "short_name": "Atlético",
+   "city": null,
+   "stadium": null,
+   "capacity": null,
+   "founded": null,
+   "colors": null,
+   "wikipedia": null,
+   "active": false
+  },
+  {
+   "id": "atletico-de-la-sabana",
+   "name": "De La Sabana",
+   "short_name": "De La Sabana",
+   "city": null,
+   "stadium": null,
+   "capacity": null,
+   "founded": null,
+   "colors": null,
+   "wikipedia": null,
+   "active": false
+  },
+  {
+   "id": "barranquilla",
+   "name": "Barranquilla",
+   "short_name": "Barranquilla",
+   "city": null,
+   "stadium": null,
+   "capacity": null,
+   "founded": null,
+   "colors": null,
+   "wikipedia": null,
+   "active": false
+  },
+  {
+   "id": "bogota",
+   "name": "Bogotá",
+   "short_name": "Bogotá",
+   "city": null,
+   "stadium": null,
+   "capacity": null,
+   "founded": null,
+   "colors": null,
+   "wikipedia": null,
+   "active": false
+  },
+  {
+   "id": "centro-juvenil",
+   "name": "Centro Juvenil",
+   "short_name": "Centro Juvenil",
+   "city": null,
+   "stadium": null,
+   "capacity": null,
+   "founded": null,
+   "colors": null,
+   "wikipedia": null,
+   "active": false
+  },
+  {
+   "id": "cortulua",
+   "name": "Cortuluá",
+   "short_name": "Cortuluá",
+   "city": null,
+   "stadium": null,
+   "capacity": null,
+   "founded": null,
+   "colors": {
+    "primary": "#F26522",
+    "secondary": "#00843D"
+   },
+   "wikipedia": null,
+   "active": false
+  },
+  {
+   "id": "deportes-savio",
+   "name": "Savio",
+   "short_name": "Savio",
+   "city": null,
+   "stadium": null,
+   "capacity": null,
+   "founded": null,
+   "colors": null,
+   "wikipedia": null,
+   "active": false
+  },
+  {
+   "id": "deportivo-antioquia",
+   "name": "Deportivo Antioquia",
+   "short_name": "Deportivo Antioquia",
+   "city": null,
+   "stadium": null,
+   "capacity": null,
+   "founded": null,
+   "colors": null,
+   "wikipedia": null,
+   "active": false
+  },
+  {
+   "id": "deportivo-rionegro",
+   "name": "Deportivo Rionegro",
+   "short_name": "Deportivo Rionegro",
+   "city": null,
+   "stadium": null,
+   "capacity": null,
+   "founded": null,
+   "colors": null,
+   "wikipedia": null,
+   "active": false
+  },
+  {
+   "id": "envigado",
+   "name": "Envigado",
+   "short_name": "Envigado",
+   "city": null,
+   "stadium": null,
+   "capacity": null,
+   "founded": null,
+   "colors": {
+    "primary": "#F58220",
+    "secondary": "#FFFFFF"
+   },
+   "wikipedia": null,
+   "active": false
+  },
+  {
+   "id": "equidad",
+   "name": "La Equidad",
+   "short_name": "La Equidad",
+   "city": null,
+   "stadium": null,
+   "capacity": null,
+   "founded": null,
+   "colors": {
+    "primary": "#00843D",
+    "secondary": "#FFFFFF"
+   },
+   "wikipedia": null,
+   "active": false
+  },
+  {
+   "id": "expreso-rojo",
+   "name": "Expreso Rojo",
+   "short_name": "Expreso Rojo",
+   "city": null,
+   "stadium": null,
+   "capacity": null,
+   "founded": null,
+   "colors": null,
+   "wikipedia": null,
+   "active": false
+  },
+  {
+   "id": "fortaleza-fc",
+   "name": "Fortaleza",
+   "short_name": "Fortaleza",
+   "city": null,
+   "stadium": null,
+   "capacity": null,
+   "founded": null,
+   "colors": null,
+   "wikipedia": null,
+   "active": false
+  },
+  {
+   "id": "huila",
+   "name": "Atlético Huila",
+   "short_name": "Huila",
+   "city": null,
+   "stadium": null,
+   "capacity": null,
+   "founded": null,
+   "colors": {
+    "primary": "#00843D",
+    "secondary": "#FFFFFF"
+   },
+   "wikipedia": null,
+   "active": false
+  },
+  {
+   "id": "internacional",
+   "name": "Palmira",
+   "short_name": "Palmira",
+   "city": null,
+   "stadium": null,
+   "capacity": null,
+   "founded": null,
+   "colors": null,
+   "wikipedia": null,
+   "active": false
+  },
+  {
+   "id": "itague",
+   "name": "Itagüí",
+   "short_name": "Itagüí",
+   "city": null,
+   "stadium": null,
+   "capacity": null,
+   "founded": null,
+   "colors": null,
+   "wikipedia": null,
+   "active": false
+  },
+  {
+   "id": "leones",
+   "name": "Leones",
+   "short_name": "Leones",
+   "city": null,
+   "stadium": null,
+   "capacity": null,
+   "founded": null,
+   "colors": null,
+   "wikipedia": null,
+   "active": false
+  },
+  {
+   "id": "magdalena",
+   "name": "Unión Magdalena",
+   "short_name": "Unión Magdalena",
+   "city": null,
+   "stadium": null,
+   "capacity": null,
+   "founded": null,
+   "colors": {
+    "primary": "#CE1126",
+    "secondary": "#FFFFFF"
+   },
+   "wikipedia": null,
+   "active": false
+  },
+  {
+   "id": "oromana",
+   "name": "Oromana",
+   "short_name": "Oromana",
+   "city": null,
+   "stadium": null,
+   "capacity": null,
+   "founded": null,
+   "colors": null,
+   "wikipedia": null,
+   "active": false
+  },
+  {
+   "id": "patriotas",
+   "name": "Patriotas",
+   "short_name": "Patriotas",
+   "city": null,
+   "stadium": null,
+   "capacity": null,
+   "founded": null,
+   "colors": {
+    "primary": "#FFD100",
+    "secondary": "#00843D"
+   },
+   "wikipedia": null,
+   "active": false
+  },
+  {
+   "id": "quindio",
+   "name": "Deportes Quindío",
+   "short_name": "Quindío",
+   "city": null,
+   "stadium": null,
+   "capacity": null,
+   "founded": null,
+   "colors": {
+    "primary": "#C8102E",
+    "secondary": "#0B4EA2"
+   },
+   "wikipedia": null,
+   "active": false
+  },
+  {
+   "id": "real-cartagena",
+   "name": "Real Cartagena",
+   "short_name": "Real Cartagena",
+   "city": null,
+   "stadium": null,
+   "capacity": null,
+   "founded": null,
+   "colors": null,
+   "wikipedia": null,
+   "active": false
+  },
+  {
+   "id": "real-santander",
+   "name": "Real Santander",
+   "short_name": "Real Santander",
+   "city": null,
+   "stadium": null,
+   "capacity": null,
+   "founded": null,
+   "colors": null,
+   "wikipedia": null,
+   "active": false
+  },
+  {
+   "id": "real-soacha",
+   "name": "Real Soacha",
+   "short_name": "Real Soacha",
+   "city": null,
+   "stadium": null,
+   "capacity": null,
+   "founded": null,
+   "colors": null,
+   "wikipedia": null,
+   "active": false
+  },
+  {
+   "id": "tigres",
+   "name": "Tigres",
+   "short_name": "Tigres",
+   "city": null,
+   "stadium": null,
+   "capacity": null,
+   "founded": null,
+   "colors": null,
+   "wikipedia": null,
+   "active": false
+  },
+  {
+   "id": "uniautonoma",
+   "name": "Uniautónoma",
+   "short_name": "Uniautónoma",
+   "city": null,
+   "stadium": null,
+   "capacity": null,
+   "founded": null,
+   "colors": null,
+   "wikipedia": null,
+   "active": false
+  },
+  {
+   "id": "universitario",
+   "name": "Universitario",
+   "short_name": "Universitario",
+   "city": null,
+   "stadium": null,
+   "capacity": null,
+   "founded": null,
+   "colors": null,
+   "wikipedia": null,
+   "active": false
+  },
+  {
+   "id": "valledupar",
+   "name": "Valledupar",
+   "short_name": "Valledupar",
+   "city": null,
+   "stadium": null,
+   "capacity": null,
+   "founded": null,
+   "colors": null,
+   "wikipedia": null,
+   "active": false
+  }
+ ]
+}

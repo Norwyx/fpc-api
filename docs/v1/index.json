@@ -1,0 +1,87 @@
+{
+ "meta": {
+  "version": 1,
+  "updated": "2026-09-03T19:49:45Z",
+  "name": "FPC API",
+  "description": "API pública de datos del fútbol profesional colombiano (Categoría Primera A)",
+  "license": "MIT (código) · CC BY-SA 4.0 (datos, de Wikipedia)"
+ },
+ "endpoints": [
+  {
+   "path": "/v1/teams.json",
+   "description": "Clubes de Primera A (activos e históricos)"
+  },
+  {
+   "path": "/v1/players.json",
+   "description": "Plantillas actuales (best-effort)"
+  },
+  {
+   "path": "/v1/champions.json",
+   "description": "Campeones 1948–hoy"
+  },
+  {
+   "path": "/v1/seasons.json",
+   "description": "Índice de temporadas"
+  },
+  {
+   "path": "/v1/seasons/{year}-{i|ii}.json",
+   "description": "Temporada: standings, partidos, goleadores, asistencias"
+  }
+ ],
+ "seasons": [
+  {
+   "id": "2024-i",
+   "year": 2024,
+   "tournament": "apertura",
+   "status": "completed",
+   "champion": "bucamanga",
+   "n_matches": 216,
+   "url": "/v1/seasons/2024-i.json"
+  },
+  {
+   "id": "2024-ii",
+   "year": 2024,
+   "tournament": "finalizacion",
+   "status": "completed",
+   "champion": "nacional",
+   "n_matches": 216,
+   "url": "/v1/seasons/2024-ii.json"
+  },
+  {
+   "id": "2025-i",
+   "year": 2025,
+   "tournament": "apertura",
+   "status": "completed",
+   "champion": "santafe",
+   "n_matches": 226,
+   "url": "/v1/seasons/2025-i.json"
+  },
+  {
+   "id": "2025-ii",
+   "year": 2025,
+   "tournament": "finalizacion",
+   "status": "completed",
+   "champion": "junior",
+   "n_matches": 226,
+   "url": "/v1/seasons/2025-ii.json"
+  },
+  {
+   "id": "2026-i",
+   "year": 2026,
+   "tournament": "apertura",
+   "status": "completed",
+   "champion": "junior",
+   "n_matches": 204,
+   "url": "/v1/seasons/2026-i.json"
+  },
+  {
+   "id": "2026-ii",
+   "year": 2026,
+   "tournament": "finalizacion",
+   "status": "in_progress",
+   "champion": null,
+   "n_matches": 190,
+   "url": "/v1/seasons/2026-ii.json"
+  }
+ ]
+}

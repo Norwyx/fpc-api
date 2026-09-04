@@ -1,0 +1,5417 @@
+{
+ "meta": {
+  "version": 1,
+  "updated": "2026-09-03T20:45:26Z",
+  "source": "es.wikipedia.org (secciones 'Plantilla' de cada club)",
+  "warnings": [
+   "homónimos 'javier-mena' en ['aguilas', 'pereira']: ids sufijados con el club",
+   "homónimos 'kevin-balanta' en ['fortaleza', 'santafe']: ids sufijados con el club",
+   "homónimos 'kevin-londono' en ['bucamanga', 'cucuta']: ids sufijados con el club",
+   "homónimos 'luis-marquinez' en ['nacional', 'pasto']: ids sufijados con el club",
+   "homónimos 'luis-palacios' en ['pereira', 'santafe']: ids sufijados con el club",
+   "homónimos 'luis-vasquez' en ['aguilas', 'bucamanga']: ids sufijados con el club"
+  ]
+ },
+ "players": [
+  {
+   "name": "Jorge Soto",
+   "team": "aguilas",
+   "position": "GK",
+   "shirt_number": 1,
+   "age": 33,
+   "source": "https://es.wikipedia.org/wiki/Águilas_Doradas",
+   "id": "jorge-soto"
+  },
+  {
+   "name": "Héctor Arango",
+   "team": "aguilas",
+   "position": "GK",
+   "shirt_number": 34,
+   "age": 24,
+   "source": "https://es.wikipedia.org/wiki/Águilas_Doradas",
+   "id": "hector-arango"
+  },
+  {
+   "name": "Juan Hurtado",
+   "team": "aguilas",
+   "position": "GK",
+   "shirt_number": null,
+   "age": 19,
+   "source": "https://es.wikipedia.org/wiki/Águilas_Doradas",
+   "id": "juan-hurtado"
+  },
+  {
+   "name": "John García",
+   "team": "aguilas",
+   "position": "DF",
+   "shirt_number": 2,
+   "age": 37,
+   "source": "https://es.wikipedia.org/wiki/Águilas_Doradas",
+   "id": "john-garcia"
+  },
+  {
+   "name": "Jhon Ontaneda",
+   "team": "aguilas",
+   "position": "DF",
+   "shirt_number": 3,
+   "age": 30,
+   "source": "https://es.wikipedia.org/wiki/Águilas_Doradas",
+   "id": "jhon-ontaneda"
+  },
+  {
+   "name": "Andrés Mosquera Guardia",
+   "team": "aguilas",
+   "position": "DF",
+   "shirt_number": 4,
+   "age": 36,
+   "source": "https://es.wikipedia.org/wiki/Águilas_Doradas",
+   "id": "andres-mosquera-guardia"
+  },
+  {
+   "name": "Jhon Meléndez",
+   "team": "aguilas",
+   "position": "DF",
+   "shirt_number": 13,
+   "age": 24,
+   "source": "https://es.wikipedia.org/wiki/Águilas_Doradas",
+   "id": "jhon-melendez"
+  },
+  {
+   "name": "Alberto Higgins",
+   "team": "aguilas",
+   "position": "DF",
+   "shirt_number": 20,
+   "age": 21,
+   "source": "https://es.wikipedia.org/wiki/Águilas_Doradas",
+   "id": "alberto-higgins"
+  },
+  {
+   "name": "Dylan Lozano",
+   "team": "aguilas",
+   "position": "DF",
+   "shirt_number": 26,
+   "age": 24,
+   "source": "https://es.wikipedia.org/wiki/Águilas_Doradas",
+   "id": "dylan-lozano"
+  },
+  {
+   "name": "Sebastián Rodríguez",
+   "team": "aguilas",
+   "position": "DF",
+   "shirt_number": 28,
+   "age": 25,
+   "source": "https://es.wikipedia.org/wiki/Águilas_Doradas",
+   "id": "sebastian-rodriguez"
+  },
+  {
+   "name": "Nicolás Lara",
+   "team": "aguilas",
+   "position": "DF",
+   "shirt_number": 30,
+   "age": 23,
+   "source": "https://es.wikipedia.org/wiki/Águilas_Doradas",
+   "id": "nicolas-lara"
+  },
+  {
+   "name": "Javier Mena",
+   "team": "aguilas",
+   "position": "DF",
+   "shirt_number": 32,
+   "age": 21,
+   "source": "https://es.wikipedia.org/wiki/Águilas_Doradas",
+   "id": "javier-mena-aguilas"
+  },
+  {
+   "name": "Luis Vasquez",
+   "team": "aguilas",
+   "position": "DF",
+   "shirt_number": null,
+   "age": 23,
+   "source": "https://es.wikipedia.org/wiki/Águilas_Doradas",
+   "id": "luis-vasquez-aguilas"
+  },
+  {
+   "name": "Iván Rojas",
+   "team": "aguilas",
+   "position": "MF",
+   "shirt_number": 6,
+   "age": 29,
+   "source": "https://es.wikipedia.org/wiki/Águilas_Doradas",
+   "id": "ivan-rojas"
+  },
+  {
+   "name": "Andrés Ricaurte",
+   "team": "aguilas",
+   "position": "MF",
+   "shirt_number": 8,
+   "age": 34,
+   "source": "https://es.wikipedia.org/wiki/Águilas_Doradas",
+   "id": "andres-ricaurte"
+  },
+  {
+   "name": "Junior Noguera",
+   "team": "aguilas",
+   "position": "MF",
+   "shirt_number": 10,
+   "age": 24,
+   "source": "https://es.wikipedia.org/wiki/Águilas_Doradas",
+   "id": "junior-noguera"
+  },
+  {
+   "name": "Ángel Cortés",
+   "team": "aguilas",
+   "position": "MF",
+   "shirt_number": 14,
+   "age": 20,
+   "source": "https://es.wikipedia.org/wiki/Águilas_Doradas",
+   "id": "angel-cortes"
+  },
+  {
+   "name": "Fabián Charales",
+   "team": "aguilas",
+   "position": "MF",
+   "shirt_number": 15,
+   "age": 22,
+   "source": "https://es.wikipedia.org/wiki/Águilas_Doradas",
+   "id": "fabian-charales"
+  },
+  {
+   "name": "Matías Ramírez",
+   "team": "aguilas",
+   "position": "MF",
+   "shirt_number": 16,
+   "age": 27,
+   "source": "https://es.wikipedia.org/wiki/Águilas_Doradas",
+   "id": "matias-ramirez"
+  },
+  {
+   "name": "Frank Lozano",
+   "team": "aguilas",
+   "position": "MF",
+   "shirt_number": 19,
+   "age": 33,
+   "source": "https://es.wikipedia.org/wiki/Águilas_Doradas",
+   "id": "frank-lozano"
+  },
+  {
+   "name": "Juan Esteban Ávalo",
+   "team": "aguilas",
+   "position": "MF",
+   "shirt_number": 24,
+   "age": 24,
+   "source": "https://es.wikipedia.org/wiki/Águilas_Doradas",
+   "id": "juan-esteban-avalo"
+  },
+  {
+   "name": "Juan Camilo Roa",
+   "team": "aguilas",
+   "position": "MF",
+   "shirt_number": 25,
+   "age": 31,
+   "source": "https://es.wikipedia.org/wiki/Águilas_Doradas",
+   "id": "juan-camilo-roa"
+  },
+  {
+   "name": "Carlos Londoño",
+   "team": "aguilas",
+   "position": "MF",
+   "shirt_number": 27,
+   "age": 19,
+   "source": "https://es.wikipedia.org/wiki/Águilas_Doradas",
+   "id": "carlos-londono"
+  },
+  {
+   "name": "Eduar Arízalas",
+   "team": "aguilas",
+   "position": "FW",
+   "shirt_number": 7,
+   "age": 24,
+   "source": "https://es.wikipedia.org/wiki/Águilas_Doradas",
+   "id": "eduar-arizalas"
+  },
+  {
+   "name": "Antony Vásquez",
+   "team": "aguilas",
+   "position": "FW",
+   "shirt_number": 9,
+   "age": 24,
+   "source": "https://es.wikipedia.org/wiki/Águilas_Doradas",
+   "id": "antony-vasquez"
+  },
+  {
+   "name": "Tomás Blandón",
+   "team": "aguilas",
+   "position": "FW",
+   "shirt_number": 17,
+   "age": 19,
+   "source": "https://es.wikipedia.org/wiki/Águilas_Doradas",
+   "id": "tomas-blandon"
+  },
+  {
+   "name": "Andrés Carreño",
+   "team": "aguilas",
+   "position": "FW",
+   "shirt_number": 18,
+   "age": 23,
+   "source": "https://es.wikipedia.org/wiki/Águilas_Doradas",
+   "id": "andres-carreno"
+  },
+  {
+   "name": "Ricardo Márquez",
+   "team": "aguilas",
+   "position": "FW",
+   "shirt_number": 21,
+   "age": 28,
+   "source": "https://es.wikipedia.org/wiki/Águilas_Doradas",
+   "id": "ricardo-marquez"
+  },
+  {
+   "name": "Johan Wallens",
+   "team": "alianza",
+   "position": "GK",
+   "shirt_number": 1,
+   "age": 34,
+   "source": "https://es.wikipedia.org/wiki/Alianza_Valledupar",
+   "id": "johan-wallens"
+  },
+  {
+   "name": "Juan Chaverra",
+   "team": "alianza",
+   "position": "GK",
+   "shirt_number": 12,
+   "age": 33,
+   "source": "https://es.wikipedia.org/wiki/Alianza_Valledupar",
+   "id": "juan-chaverra"
+  },
+  {
+   "name": "Antonio Simancas",
+   "team": "alianza",
+   "position": "GK",
+   "shirt_number": 13,
+   "age": 19,
+   "source": "https://es.wikipedia.org/wiki/Alianza_Valledupar",
+   "id": "antonio-simancas"
+  },
+  {
+   "name": "Eduar Esteban",
+   "team": "alianza",
+   "position": "GK",
+   "shirt_number": 40,
+   "age": 26,
+   "source": "https://es.wikipedia.org/wiki/Alianza_Valledupar",
+   "id": "eduar-esteban"
+  },
+  {
+   "name": "Kevin Moreno",
+   "team": "alianza",
+   "position": "DF",
+   "shirt_number": 3,
+   "age": 26,
+   "source": "https://es.wikipedia.org/wiki/Alianza_Valledupar",
+   "id": "kevin-moreno"
+  },
+  {
+   "name": "Kevin Aponzá",
+   "team": "alianza",
+   "position": "DF",
+   "shirt_number": 4,
+   "age": 20,
+   "source": "https://es.wikipedia.org/wiki/Alianza_Valledupar",
+   "id": "kevin-aponza"
+  },
+  {
+   "name": "Pedro Franco",
+   "team": "alianza",
+   "position": "DF",
+   "shirt_number": 5,
+   "age": 35,
+   "source": "https://es.wikipedia.org/wiki/Alianza_Valledupar",
+   "id": "pedro-franco"
+  },
+  {
+   "name": "Yilson Rosales",
+   "team": "alianza",
+   "position": "DF",
+   "shirt_number": 16,
+   "age": 25,
+   "source": "https://es.wikipedia.org/wiki/Alianza_Valledupar",
+   "id": "yilson-rosales"
+  },
+  {
+   "name": "Jesús Figueroa",
+   "team": "alianza",
+   "position": "DF",
+   "shirt_number": 22,
+   "age": 30,
+   "source": "https://es.wikipedia.org/wiki/Alianza_Valledupar",
+   "id": "jesus-figueroa"
+  },
+  {
+   "name": "Israel Alba",
+   "team": "alianza",
+   "position": "DF",
+   "shirt_number": 23,
+   "age": 31,
+   "source": "https://es.wikipedia.org/wiki/Alianza_Valledupar",
+   "id": "israel-alba"
+  },
+  {
+   "name": "Eduard Banguero",
+   "team": "alianza",
+   "position": "DF",
+   "shirt_number": 24,
+   "age": 25,
+   "source": "https://es.wikipedia.org/wiki/Alianza_Valledupar",
+   "id": "eduard-banguero"
+  },
+  {
+   "name": "Jhildrey Lasso",
+   "team": "alianza",
+   "position": "DF",
+   "shirt_number": 26,
+   "age": 24,
+   "source": "https://es.wikipedia.org/wiki/Alianza_Valledupar",
+   "id": "jhildrey-lasso"
+  },
+  {
+   "name": "Juan Viveros",
+   "team": "alianza",
+   "position": "DF",
+   "shirt_number": 32,
+   "age": 22,
+   "source": "https://es.wikipedia.org/wiki/Alianza_Valledupar",
+   "id": "juan-viveros"
+  },
+  {
+   "name": "Ever Meza",
+   "team": "alianza",
+   "position": "MF",
+   "shirt_number": 6,
+   "age": 26,
+   "source": "https://es.wikipedia.org/wiki/Alianza_Valledupar",
+   "id": "ever-meza"
+  },
+  {
+   "name": "Jair Castillo",
+   "team": "alianza",
+   "position": "MF",
+   "shirt_number": 7,
+   "age": 29,
+   "source": "https://es.wikipedia.org/wiki/Alianza_Valledupar",
+   "id": "jair-castillo"
+  },
+  {
+   "name": "Déinner Quiñones",
+   "team": "alianza",
+   "position": "MF",
+   "shirt_number": 10,
+   "age": 31,
+   "source": "https://es.wikipedia.org/wiki/Alianza_Valledupar",
+   "id": "deinner-quinones"
+  },
+  {
+   "name": "Sergio Aponzá",
+   "team": "alianza",
+   "position": "MF",
+   "shirt_number": 11,
+   "age": 21,
+   "source": "https://es.wikipedia.org/wiki/Alianza_Valledupar",
+   "id": "sergio-aponza"
+  },
+  {
+   "name": "Charly Villegas",
+   "team": "alianza",
+   "position": "MF",
+   "shirt_number": 14,
+   "age": 21,
+   "source": "https://es.wikipedia.org/wiki/Alianza_Valledupar",
+   "id": "charly-villegas"
+  },
+  {
+   "name": "Carlos Esparragoza",
+   "team": "alianza",
+   "position": "MF",
+   "shirt_number": 15,
+   "age": 27,
+   "source": "https://es.wikipedia.org/wiki/Alianza_Valledupar",
+   "id": "carlos-esparragoza"
+  },
+  {
+   "name": "Fabian Cantillo",
+   "team": "alianza",
+   "position": "MF",
+   "shirt_number": 21,
+   "age": 28,
+   "source": "https://es.wikipedia.org/wiki/Alianza_Valledupar",
+   "id": "fabian-cantillo"
+  },
+  {
+   "name": "Josy Pérez",
+   "team": "alianza",
+   "position": "MF",
+   "shirt_number": 25,
+   "age": 26,
+   "source": "https://es.wikipedia.org/wiki/Alianza_Valledupar",
+   "id": "josy-perez"
+  },
+  {
+   "name": "Yeiner Londoño",
+   "team": "alianza",
+   "position": "MF",
+   "shirt_number": 27,
+   "age": 25,
+   "source": "https://es.wikipedia.org/wiki/Alianza_Valledupar",
+   "id": "yeiner-londono"
+  },
+  {
+   "name": "Wiston Fernández",
+   "team": "alianza",
+   "position": "MF",
+   "shirt_number": 55,
+   "age": 28,
+   "source": "https://es.wikipedia.org/wiki/Alianza_Valledupar",
+   "id": "wiston-fernandez"
+  },
+  {
+   "name": "Leyner Palacios",
+   "team": "alianza",
+   "position": "MF",
+   "shirt_number": 88,
+   "age": 22,
+   "source": "https://es.wikipedia.org/wiki/Alianza_Valledupar",
+   "id": "leyner-palacios"
+  },
+  {
+   "name": "Jesús Muñoz",
+   "team": "alianza",
+   "position": "FW",
+   "shirt_number": 8,
+   "age": 24,
+   "source": "https://es.wikipedia.org/wiki/Alianza_Valledupar",
+   "id": "jesus-munoz"
+  },
+  {
+   "name": "Cristian Vergara",
+   "team": "alianza",
+   "position": "FW",
+   "shirt_number": 15,
+   "age": 26,
+   "source": "https://es.wikipedia.org/wiki/Alianza_Valledupar",
+   "id": "cristian-vergara"
+  },
+  {
+   "name": "Felipe Pardo",
+   "team": "alianza",
+   "position": "FW",
+   "shirt_number": 17,
+   "age": 36,
+   "source": "https://es.wikipedia.org/wiki/Alianza_Valledupar",
+   "id": "felipe-pardo"
+  },
+  {
+   "name": "Francesco Fiorelli",
+   "team": "alianza",
+   "position": "FW",
+   "shirt_number": 19,
+   "age": 21,
+   "source": "https://es.wikipedia.org/wiki/Alianza_Valledupar",
+   "id": "francesco-fiorelli"
+  },
+  {
+   "name": "Jeison Osorio",
+   "team": "alianza",
+   "position": "FW",
+   "shirt_number": 28,
+   "age": 19,
+   "source": "https://es.wikipedia.org/wiki/Alianza_Valledupar",
+   "id": "jeison-osorio"
+  },
+  {
+   "name": "Jhon Valoyes",
+   "team": "alianza",
+   "position": "FW",
+   "shirt_number": 30,
+   "age": 17,
+   "source": "https://es.wikipedia.org/wiki/Alianza_Valledupar",
+   "id": "jhon-valoyes"
+  },
+  {
+   "name": "Misael Martínez",
+   "team": "alianza",
+   "position": "FW",
+   "shirt_number": 77,
+   "age": 28,
+   "source": "https://es.wikipedia.org/wiki/Alianza_Valledupar",
+   "id": "misael-martinez"
+  },
+  {
+   "name": "Sebastián Ramírez",
+   "team": "alianza",
+   "position": "FW",
+   "shirt_number": null,
+   "age": 21,
+   "source": "https://es.wikipedia.org/wiki/Alianza_Valledupar",
+   "id": "sebastian-ramirez"
+  },
+  {
+   "name": "Jean Fernandes",
+   "team": "america",
+   "position": "GK",
+   "shirt_number": 1,
+   "age": 30,
+   "source": "https://es.wikipedia.org/wiki/América_de_Cali",
+   "id": "jean-fernandes"
+  },
+  {
+   "name": "Juan Pablo Montoya",
+   "team": "america",
+   "position": "GK",
+   "shirt_number": 12,
+   "age": 27,
+   "source": "https://es.wikipedia.org/wiki/América_de_Cali",
+   "id": "juan-pablo-montoya"
+  },
+  {
+   "name": "Alexis Sinisterra",
+   "team": "america",
+   "position": "GK",
+   "shirt_number": 47,
+   "age": 21,
+   "source": "https://es.wikipedia.org/wiki/América_de_Cali",
+   "id": "alexis-sinisterra"
+  },
+  {
+   "name": "Marlon Torres",
+   "team": "america",
+   "position": "DF",
+   "shirt_number": 2,
+   "age": 30,
+   "source": "https://es.wikipedia.org/wiki/América_de_Cali",
+   "id": "marlon-torres"
+  },
+  {
+   "name": "Dany Rosero",
+   "team": "america",
+   "position": "DF",
+   "shirt_number": 3,
+   "age": 32,
+   "source": "https://es.wikipedia.org/wiki/América_de_Cali",
+   "id": "dany-rosero"
+  },
+  {
+   "name": "Mateo Castillo",
+   "team": "america",
+   "position": "DF",
+   "shirt_number": 13,
+   "age": 23,
+   "source": "https://es.wikipedia.org/wiki/América_de_Cali",
+   "id": "mateo-castillo"
+  },
+  {
+   "name": "Marcos Mina",
+   "team": "america",
+   "position": "DF",
+   "shirt_number": 14,
+   "age": 27,
+   "source": "https://es.wikipedia.org/wiki/América_de_Cali",
+   "id": "marcos-mina"
+  },
+  {
+   "name": "Nicolás Hernández",
+   "team": "america",
+   "position": "DF",
+   "shirt_number": 22,
+   "age": 28,
+   "source": "https://es.wikipedia.org/wiki/América_de_Cali",
+   "id": "nicolas-hernandez"
+  },
+  {
+   "name": "Cristian Tovar",
+   "team": "america",
+   "position": "DF",
+   "shirt_number": 24,
+   "age": 28,
+   "source": "https://es.wikipedia.org/wiki/América_de_Cali",
+   "id": "cristian-tovar"
+  },
+  {
+   "name": "Yhorman Hurtado",
+   "team": "america",
+   "position": "DF",
+   "shirt_number": 26,
+   "age": 29,
+   "source": "https://es.wikipedia.org/wiki/América_de_Cali",
+   "id": "yhorman-hurtado"
+  },
+  {
+   "name": "Ómar Bertel",
+   "team": "america",
+   "position": "DF",
+   "shirt_number": 30,
+   "age": 29,
+   "source": "https://es.wikipedia.org/wiki/América_de_Cali",
+   "id": "omar-bertel"
+  },
+  {
+   "name": "Brayan Córdoba",
+   "team": "america",
+   "position": "DF",
+   "shirt_number": 44,
+   "age": 26,
+   "source": "https://es.wikipedia.org/wiki/América_de_Cali",
+   "id": "brayan-cordoba"
+  },
+  {
+   "name": "Josen Escobar",
+   "team": "america",
+   "position": "MF",
+   "shirt_number": 5,
+   "age": 21,
+   "source": "https://es.wikipedia.org/wiki/América_de_Cali",
+   "id": "josen-escobar"
+  },
+  {
+   "name": "José Cavadía",
+   "team": "america",
+   "position": "MF",
+   "shirt_number": 6,
+   "age": 20,
+   "source": "https://es.wikipedia.org/wiki/América_de_Cali",
+   "id": "jose-cavadia"
+  },
+  {
+   "name": "Jhon Murillo",
+   "team": "america",
+   "position": "MF",
+   "shirt_number": 7,
+   "age": 30,
+   "source": "https://es.wikipedia.org/wiki/América_de_Cali",
+   "id": "jhon-murillo"
+  },
+  {
+   "name": "Yeison Guzmán",
+   "team": "america",
+   "position": "MF",
+   "shirt_number": 10,
+   "age": 28,
+   "source": "https://es.wikipedia.org/wiki/América_de_Cali",
+   "id": "yeison-guzman"
+  },
+  {
+   "name": "Rafael Carrascal",
+   "team": "america",
+   "position": "MF",
+   "shirt_number": 15,
+   "age": 33,
+   "source": "https://es.wikipedia.org/wiki/América_de_Cali",
+   "id": "rafael-carrascal"
+  },
+  {
+   "name": "Jan Lucumí",
+   "team": "america",
+   "position": "MF",
+   "shirt_number": 17,
+   "age": 22,
+   "source": "https://es.wikipedia.org/wiki/América_de_Cali",
+   "id": "jan-lucumi"
+  },
+  {
+   "name": "Yani Quintero",
+   "team": "america",
+   "position": "MF",
+   "shirt_number": 18,
+   "age": 24,
+   "source": "https://es.wikipedia.org/wiki/América_de_Cali",
+   "id": "yani-quintero"
+  },
+  {
+   "name": "Juan Aponzá",
+   "team": "america",
+   "position": "MF",
+   "shirt_number": 25,
+   "age": 18,
+   "source": "https://es.wikipedia.org/wiki/América_de_Cali",
+   "id": "juan-aponza"
+  },
+  {
+   "name": "Camilo Amú",
+   "team": "america",
+   "position": "MF",
+   "shirt_number": 29,
+   "age": 18,
+   "source": "https://es.wikipedia.org/wiki/América_de_Cali",
+   "id": "camilo-amu"
+  },
+  {
+   "name": "Edson Tortolero",
+   "team": "america",
+   "position": "MF",
+   "shirt_number": 77,
+   "age": 28,
+   "source": "https://es.wikipedia.org/wiki/América_de_Cali",
+   "id": "edson-tortolero"
+  },
+  {
+   "name": "Daniel Valencia",
+   "team": "america",
+   "position": "FW",
+   "shirt_number": 9,
+   "age": 30,
+   "source": "https://es.wikipedia.org/wiki/América_de_Cali",
+   "id": "daniel-valencia"
+  },
+  {
+   "name": "Adrián Ramos",
+   "team": "america",
+   "position": "FW",
+   "shirt_number": 20,
+   "age": 40,
+   "source": "https://es.wikipedia.org/wiki/América_de_Cali",
+   "id": "adrian-ramos"
+  },
+  {
+   "name": "Tomás Ángel",
+   "team": "america",
+   "position": "FW",
+   "shirt_number": 21,
+   "age": 23,
+   "source": "https://es.wikipedia.org/wiki/América_de_Cali",
+   "id": "tomas-angel"
+  },
+  {
+   "name": "Luis Quiñones",
+   "team": "america",
+   "position": "FW",
+   "shirt_number": 23,
+   "age": 35,
+   "source": "https://es.wikipedia.org/wiki/América_de_Cali",
+   "id": "luis-quinones"
+  },
+  {
+   "name": "Jhon Tilman Palacios",
+   "team": "america",
+   "position": "FW",
+   "shirt_number": 88,
+   "age": 21,
+   "source": "https://es.wikipedia.org/wiki/América_de_Cali",
+   "id": "jhon-tilman-palacios"
+  },
+  {
+   "name": "Diego Novoa",
+   "team": "bucamanga",
+   "position": "GK",
+   "shirt_number": 12,
+   "age": 36,
+   "source": "https://es.wikipedia.org/wiki/Atlético_Bucaramanga",
+   "id": "diego-novoa"
+  },
+  {
+   "name": "Luis Matheus",
+   "team": "bucamanga",
+   "position": "GK",
+   "shirt_number": 16,
+   "age": 19,
+   "source": "https://es.wikipedia.org/wiki/Atlético_Bucaramanga",
+   "id": "luis-matheus"
+  },
+  {
+   "name": "Cristopher Fiermarin",
+   "team": "bucamanga",
+   "position": "GK",
+   "shirt_number": 25,
+   "age": 28,
+   "source": "https://es.wikipedia.org/wiki/Atlético_Bucaramanga",
+   "id": "cristopher-fiermarin"
+  },
+  {
+   "name": "Luis Vásquez",
+   "team": "bucamanga",
+   "position": "GK",
+   "shirt_number": null,
+   "age": 29,
+   "source": "https://es.wikipedia.org/wiki/Atlético_Bucaramanga",
+   "id": "luis-vasquez-bucamanga"
+  },
+  {
+   "name": "Martín Rea",
+   "team": "bucamanga",
+   "position": "DF",
+   "shirt_number": 3,
+   "age": 28,
+   "source": "https://es.wikipedia.org/wiki/Atlético_Bucaramanga",
+   "id": "martin-rea"
+  },
+  {
+   "name": "Freddy Hinestroza",
+   "team": "bucamanga",
+   "position": "DF",
+   "shirt_number": 8,
+   "age": 35,
+   "source": "https://es.wikipedia.org/wiki/Atlético_Bucaramanga",
+   "id": "freddy-hinestroza"
+  },
+  {
+   "name": "Aldair Gutiérrez",
+   "team": "bucamanga",
+   "position": "DF",
+   "shirt_number": 19,
+   "age": 27,
+   "source": "https://es.wikipedia.org/wiki/Atlético_Bucaramanga",
+   "id": "aldair-gutierrez"
+  },
+  {
+   "name": "Jose Garcia",
+   "team": "bucamanga",
+   "position": "DF",
+   "shirt_number": 4,
+   "age": 22,
+   "source": "https://es.wikipedia.org/wiki/Atlético_Bucaramanga",
+   "id": "jose-garcia"
+  },
+  {
+   "name": "Jose Ortiz",
+   "team": "bucamanga",
+   "position": "DF",
+   "shirt_number": 24,
+   "age": 27,
+   "source": "https://es.wikipedia.org/wiki/Atlético_Bucaramanga",
+   "id": "jose-ortiz"
+  },
+  {
+   "name": "Carlos Romaña",
+   "team": "bucamanga",
+   "position": "DF",
+   "shirt_number": 23,
+   "age": 26,
+   "source": "https://es.wikipedia.org/wiki/Atlético_Bucaramanga",
+   "id": "carlos-romana"
+  },
+  {
+   "name": "Nilson Castrillón",
+   "team": "bucamanga",
+   "position": "DF",
+   "shirt_number": 6,
+   "age": 29,
+   "source": "https://es.wikipedia.org/wiki/Atlético_Bucaramanga",
+   "id": "nilson-castrillon"
+  },
+  {
+   "name": "Kevin Londoño",
+   "team": "bucamanga",
+   "position": "MF",
+   "shirt_number": 7,
+   "age": 32,
+   "source": "https://es.wikipedia.org/wiki/Atlético_Bucaramanga",
+   "id": "kevin-londono-bucamanga"
+  },
+  {
+   "name": "Fabián Sambueza",
+   "team": "bucamanga",
+   "position": "MF",
+   "shirt_number": 10,
+   "age": 37,
+   "source": "https://es.wikipedia.org/wiki/Atlético_Bucaramanga",
+   "id": "fabian-sambueza"
+  },
+  {
+   "name": "Juan Camilo Mosquera",
+   "team": "bucamanga",
+   "position": "MF",
+   "shirt_number": 14,
+   "age": 23,
+   "source": "https://es.wikipedia.org/wiki/Atlético_Bucaramanga",
+   "id": "juan-camilo-mosquera"
+  },
+  {
+   "name": "Aldair Zárate",
+   "team": "bucamanga",
+   "position": "MF",
+   "shirt_number": 20,
+   "age": 26,
+   "source": "https://es.wikipedia.org/wiki/Atlético_Bucaramanga",
+   "id": "aldair-zarate"
+  },
+  {
+   "name": "Félix Charrupí",
+   "team": "bucamanga",
+   "position": "MF",
+   "shirt_number": 21,
+   "age": 24,
+   "source": "https://es.wikipedia.org/wiki/Atlético_Bucaramanga",
+   "id": "felix-charrupi"
+  },
+  {
+   "name": "Fabry Castro",
+   "team": "bucamanga",
+   "position": "MF",
+   "shirt_number": 22,
+   "age": 33,
+   "source": "https://es.wikipedia.org/wiki/Atlético_Bucaramanga",
+   "id": "fabry-castro"
+  },
+  {
+   "name": "Leonardo Flores",
+   "team": "bucamanga",
+   "position": "MF",
+   "shirt_number": 28,
+   "age": 30,
+   "source": "https://es.wikipedia.org/wiki/Atlético_Bucaramanga",
+   "id": "leonardo-flores"
+  },
+  {
+   "name": "Víctor Cantillo",
+   "team": "bucamanga",
+   "position": "MF",
+   "shirt_number": 30,
+   "age": 32,
+   "source": "https://es.wikipedia.org/wiki/Atlético_Bucaramanga",
+   "id": "victor-cantillo"
+  },
+  {
+   "name": "Ronaldo Ramírez",
+   "team": "bucamanga",
+   "position": "MF",
+   "shirt_number": 16,
+   "age": 21,
+   "source": "https://es.wikipedia.org/wiki/Atlético_Bucaramanga",
+   "id": "ronaldo-ramirez"
+  },
+  {
+   "name": "Brandon Caicedo",
+   "team": "bucamanga",
+   "position": "FW",
+   "shirt_number": 9,
+   "age": 24,
+   "source": "https://es.wikipedia.org/wiki/Atlético_Bucaramanga",
+   "id": "brandon-caicedo"
+  },
+  {
+   "name": "Jhon Fredy Salazar",
+   "team": "bucamanga",
+   "position": "FW",
+   "shirt_number": 11,
+   "age": 30,
+   "source": "https://es.wikipedia.org/wiki/Atlético_Bucaramanga",
+   "id": "jhon-fredy-salazar"
+  },
+  {
+   "name": "Emerson Batalla",
+   "team": "bucamanga",
+   "position": "FW",
+   "shirt_number": 17,
+   "age": 24,
+   "source": "https://es.wikipedia.org/wiki/Atlético_Bucaramanga",
+   "id": "emerson-batalla"
+  },
+  {
+   "name": "Luciano Pons",
+   "team": "bucamanga",
+   "position": "FW",
+   "shirt_number": 27,
+   "age": 35,
+   "source": "https://es.wikipedia.org/wiki/Atlético_Bucaramanga",
+   "id": "luciano-pons"
+  },
+  {
+   "name": "Omar Albornoz",
+   "team": "bucamanga",
+   "position": "FW",
+   "shirt_number": 80,
+   "age": 30,
+   "source": "https://es.wikipedia.org/wiki/Atlético_Bucaramanga",
+   "id": "omar-albornoz"
+  },
+  {
+   "name": "Juan Gallego",
+   "team": "caldas",
+   "position": "GK",
+   "shirt_number": 25,
+   "age": 21,
+   "source": "https://es.wikipedia.org/wiki/Once_Caldas",
+   "id": "juan-gallego"
+  },
+  {
+   "name": "Joan Parra",
+   "team": "caldas",
+   "position": "GK",
+   "shirt_number": 99,
+   "age": 26,
+   "source": "https://es.wikipedia.org/wiki/Once_Caldas",
+   "id": "joan-parra"
+  },
+  {
+   "name": "Jesús Camargo",
+   "team": "caldas",
+   "position": "GK",
+   "shirt_number": 12,
+   "age": 28,
+   "source": "https://es.wikipedia.org/wiki/Once_Caldas",
+   "id": "jesus-camargo"
+  },
+  {
+   "name": "Jorge Cardona",
+   "team": "caldas",
+   "position": "DF",
+   "shirt_number": 2,
+   "age": 27,
+   "source": "https://es.wikipedia.org/wiki/Once_Caldas",
+   "id": "jorge-cardona"
+  },
+  {
+   "name": "Andrés Correa",
+   "team": "caldas",
+   "position": "DF",
+   "shirt_number": 3,
+   "age": 32,
+   "source": "https://es.wikipedia.org/wiki/Once_Caldas",
+   "id": "andres-correa"
+  },
+  {
+   "name": "Efraín Navarro",
+   "team": "caldas",
+   "position": "DF",
+   "shirt_number": 4,
+   "age": 27,
+   "source": "https://es.wikipedia.org/wiki/Once_Caldas",
+   "id": "efrain-navarro"
+  },
+  {
+   "name": "Juan Felipe Castaño",
+   "team": "caldas",
+   "position": "DF",
+   "shirt_number": 16,
+   "age": 28,
+   "source": "https://es.wikipedia.org/wiki/Once_Caldas",
+   "id": "juan-felipe-castano"
+  },
+  {
+   "name": "Jáider Riquett",
+   "team": "caldas",
+   "position": "DF",
+   "shirt_number": 18,
+   "age": 36,
+   "source": "https://es.wikipedia.org/wiki/Once_Caldas",
+   "id": "jaider-riquett"
+  },
+  {
+   "name": "Juan David Cuesta",
+   "team": "caldas",
+   "position": "DF",
+   "shirt_number": 22,
+   "age": 28,
+   "source": "https://es.wikipedia.org/wiki/Once_Caldas",
+   "id": "juan-david-cuesta"
+  },
+  {
+   "name": "Daniel Londoño",
+   "team": "caldas",
+   "position": "DF",
+   "shirt_number": 30,
+   "age": 31,
+   "source": "https://es.wikipedia.org/wiki/Once_Caldas",
+   "id": "daniel-londono"
+  },
+  {
+   "name": "Juan Patiño",
+   "team": "caldas",
+   "position": "DF",
+   "shirt_number": 33,
+   "age": 27,
+   "source": "https://es.wikipedia.org/wiki/Once_Caldas",
+   "id": "juan-patino"
+  },
+  {
+   "name": "Hian Rincon",
+   "team": "caldas",
+   "position": "DF",
+   "shirt_number": 39,
+   "age": 18,
+   "source": "https://es.wikipedia.org/wiki/Once_Caldas",
+   "id": "hian-rincon"
+  },
+  {
+   "name": "Daniel Marmolejo",
+   "team": "caldas",
+   "position": "DF",
+   "shirt_number": 6,
+   "age": 22,
+   "source": "https://es.wikipedia.org/wiki/Once_Caldas",
+   "id": "daniel-marmolejo"
+  },
+  {
+   "name": "Juan Pablo Nieto",
+   "team": "caldas",
+   "position": "MF",
+   "shirt_number": 5,
+   "age": 33,
+   "source": "https://es.wikipedia.org/wiki/Once_Caldas",
+   "id": "juan-pablo-nieto"
+  },
+  {
+   "name": "Michael Barrios",
+   "team": "caldas",
+   "position": "MF",
+   "shirt_number": 7,
+   "age": 35,
+   "source": "https://es.wikipedia.org/wiki/Once_Caldas",
+   "id": "michael-barrios"
+  },
+  {
+   "name": "Jaime Alvarado",
+   "team": "caldas",
+   "position": "MF",
+   "shirt_number": 15,
+   "age": 27,
+   "source": "https://es.wikipedia.org/wiki/Once_Caldas",
+   "id": "jaime-alvarado"
+  },
+  {
+   "name": "Tomás García",
+   "team": "caldas",
+   "position": "MF",
+   "shirt_number": 19,
+   "age": 20,
+   "source": "https://es.wikipedia.org/wiki/Once_Caldas",
+   "id": "tomas-garcia"
+  },
+  {
+   "name": "Andrés Roa",
+   "team": "caldas",
+   "position": "MF",
+   "shirt_number": 20,
+   "age": 33,
+   "source": "https://es.wikipedia.org/wiki/Once_Caldas",
+   "id": "andres-roa"
+  },
+  {
+   "name": "Andrés Colorado",
+   "team": "caldas",
+   "position": "MF",
+   "shirt_number": 23,
+   "age": 27,
+   "source": "https://es.wikipedia.org/wiki/Once_Caldas",
+   "id": "andres-colorado"
+  },
+  {
+   "name": "Kevin Villada",
+   "team": "caldas",
+   "position": "MF",
+   "shirt_number": 27,
+   "age": 19,
+   "source": "https://es.wikipedia.org/wiki/Once_Caldas",
+   "id": "kevin-villada"
+  },
+  {
+   "name": "Mateo Zuleta",
+   "team": "caldas",
+   "position": "MF",
+   "shirt_number": 28,
+   "age": 24,
+   "source": "https://es.wikipedia.org/wiki/Once_Caldas",
+   "id": "mateo-zuleta"
+  },
+  {
+   "name": "Rafael Acuña",
+   "team": "caldas",
+   "position": "MF",
+   "shirt_number": 36,
+   "age": 20,
+   "source": "https://es.wikipedia.org/wiki/Once_Caldas",
+   "id": "rafael-acuna"
+  },
+  {
+   "name": "Jáder Quiñones",
+   "team": "caldas",
+   "position": "MF",
+   "shirt_number": 42,
+   "age": 25,
+   "source": "https://es.wikipedia.org/wiki/Once_Caldas",
+   "id": "jader-quinones"
+  },
+  {
+   "name": "Pipe Gómez",
+   "team": "caldas",
+   "position": "FW",
+   "shirt_number": 9,
+   "age": 26,
+   "source": "https://es.wikipedia.org/wiki/Once_Caldas",
+   "id": "pipe-gomez"
+  },
+  {
+   "name": "Jefry Zapata",
+   "team": "caldas",
+   "position": "FW",
+   "shirt_number": 14,
+   "age": 26,
+   "source": "https://es.wikipedia.org/wiki/Once_Caldas",
+   "id": "jefry-zapata"
+  },
+  {
+   "name": "Dayro Moreno",
+   "team": "caldas",
+   "position": "FW",
+   "shirt_number": 17,
+   "age": 40,
+   "source": "https://es.wikipedia.org/wiki/Once_Caldas",
+   "id": "dayro-moreno"
+  },
+  {
+   "name": "Helieyker Guzmán",
+   "team": "caldas",
+   "position": "FW",
+   "shirt_number": 21,
+   "age": 19,
+   "source": "https://es.wikipedia.org/wiki/Once_Caldas",
+   "id": "helieyker-guzman"
+  },
+  {
+   "name": "Edwin Torres",
+   "team": "caldas",
+   "position": "FW",
+   "shirt_number": 29,
+   "age": 28,
+   "source": "https://es.wikipedia.org/wiki/Once_Caldas",
+   "id": "edwin-torres"
+  },
+  {
+   "name": "Pedro Gallese",
+   "team": "cali",
+   "position": "GK",
+   "shirt_number": 1,
+   "age": 36,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Cali",
+   "id": "pedro-gallese"
+  },
+  {
+   "name": "José Moya",
+   "team": "cali",
+   "position": "DF",
+   "shirt_number": 2,
+   "age": 34,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Cali",
+   "id": "jose-moya"
+  },
+  {
+   "name": "Fernando Álvarez",
+   "team": "cali",
+   "position": "DF",
+   "shirt_number": 4,
+   "age": 23,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Cali",
+   "id": "fernando-alvarez"
+  },
+  {
+   "name": "Gustavo Cuéllar",
+   "team": "cali",
+   "position": "MF",
+   "shirt_number": 5,
+   "age": 33,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Cali",
+   "id": "gustavo-cuellar"
+  },
+  {
+   "name": "Daniel Giraldo",
+   "team": "cali",
+   "position": "MF",
+   "shirt_number": 8,
+   "age": 34,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Cali",
+   "id": "daniel-giraldo"
+  },
+  {
+   "name": "Juan Ignacio Dinenno",
+   "team": "cali",
+   "position": "FW",
+   "shirt_number": 9,
+   "age": 32,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Cali",
+   "id": "juan-ignacio-dinenno"
+  },
+  {
+   "name": "Emanuel Reynoso",
+   "team": "cali",
+   "position": "MF",
+   "shirt_number": 10,
+   "age": 30,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Cali",
+   "id": "emanuel-reynoso"
+  },
+  {
+   "name": "José Caldera",
+   "team": "cali",
+   "position": "DF",
+   "shirt_number": 12,
+   "age": 24,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Cali",
+   "id": "jose-caldera"
+  },
+  {
+   "name": "Ronaldo Pájaro",
+   "team": "cali",
+   "position": "MF",
+   "shirt_number": 13,
+   "age": 24,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Cali",
+   "id": "ronaldo-pajaro"
+  },
+  {
+   "name": "Alexis Manyoma",
+   "team": "cali",
+   "position": "MF",
+   "shirt_number": 14,
+   "age": 23,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Cali",
+   "id": "alexis-manyoma"
+  },
+  {
+   "name": "Leyser Chaverra",
+   "team": "cali",
+   "position": "DF",
+   "shirt_number": 15,
+   "age": 29,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Cali",
+   "id": "leyser-chaverra"
+  },
+  {
+   "name": "Keimer Sandoval",
+   "team": "cali",
+   "position": "DF",
+   "shirt_number": 16,
+   "age": 21,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Cali",
+   "id": "keimer-sandoval"
+  },
+  {
+   "name": "Avilés Hurtado",
+   "team": "cali",
+   "position": "FW",
+   "shirt_number": 18,
+   "age": 39,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Cali",
+   "id": "aviles-hurtado"
+  },
+  {
+   "name": "Johan Martínez",
+   "team": "cali",
+   "position": "MF",
+   "shirt_number": 19,
+   "age": 24,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Cali",
+   "id": "johan-martinez"
+  },
+  {
+   "name": "Eduard Bello",
+   "team": "cali",
+   "position": "MF",
+   "shirt_number": 20,
+   "age": 31,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Cali",
+   "id": "eduard-bello"
+  },
+  {
+   "name": "Nicolás Benedetti",
+   "team": "cali",
+   "position": "MF",
+   "shirt_number": 21,
+   "age": 29,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Cali",
+   "id": "nicolas-benedetti"
+  },
+  {
+   "name": "Santiago Mondragón",
+   "team": "cali",
+   "position": "GK",
+   "shirt_number": 22,
+   "age": 18,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Cali",
+   "id": "santiago-mondragon"
+  },
+  {
+   "name": "Steven Rodríguez",
+   "team": "cali",
+   "position": "FW",
+   "shirt_number": 23,
+   "age": 27,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Cali",
+   "id": "steven-rodriguez"
+  },
+  {
+   "name": "Kalazán Suárez",
+   "team": "cali",
+   "position": "DF",
+   "shirt_number": 24,
+   "age": 24,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Cali",
+   "id": "kalazan-suarez"
+  },
+  {
+   "name": "Juan José Tello",
+   "team": "cali",
+   "position": "DF",
+   "shirt_number": 26,
+   "age": 24,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Cali",
+   "id": "juan-jose-tello"
+  },
+  {
+   "name": "Fabián Viáfara",
+   "team": "cali",
+   "position": "DF",
+   "shirt_number": 27,
+   "age": 34,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Cali",
+   "id": "fabian-viafara"
+  },
+  {
+   "name": "Edwin Velasco",
+   "team": "cali",
+   "position": "DF",
+   "shirt_number": 28,
+   "age": 34,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Cali",
+   "id": "edwin-velasco"
+  },
+  {
+   "name": "Kevin Suarez",
+   "team": "cali",
+   "position": "FW",
+   "shirt_number": 29,
+   "age": 18,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Cali",
+   "id": "kevin-suarez"
+  },
+  {
+   "name": "Joan Gomez",
+   "team": "cali",
+   "position": "MF",
+   "shirt_number": 30,
+   "age": 21,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Cali",
+   "id": "joan-gomez"
+  },
+  {
+   "name": "Alejandro Rojo",
+   "team": "cali",
+   "position": "GK",
+   "shirt_number": 32,
+   "age": 20,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Cali",
+   "id": "alejandro-rojo"
+  },
+  {
+   "name": "Juan Gómez Miranda",
+   "team": "cali",
+   "position": "DF",
+   "shirt_number": 34,
+   "age": 19,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Cali",
+   "id": "juan-gomez-miranda"
+  },
+  {
+   "name": "Santiago Vallecilla",
+   "team": "cali",
+   "position": "DF",
+   "shirt_number": 35,
+   "age": 17,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Cali",
+   "id": "santiago-vallecilla"
+  },
+  {
+   "name": "Miguel Correa",
+   "team": "cali",
+   "position": "MF",
+   "shirt_number": 36,
+   "age": 18,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Cali",
+   "id": "miguel-correa"
+  },
+  {
+   "name": "Alejandro Rodríguez",
+   "team": "cali",
+   "position": "GK",
+   "shirt_number": 38,
+   "age": 25,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Cali",
+   "id": "alejandro-rodriguez"
+  },
+  {
+   "name": "Ronaldo Riascos",
+   "team": "cali",
+   "position": "FW",
+   "shirt_number": 40,
+   "age": 18,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Cali",
+   "id": "ronaldo-riascos"
+  },
+  {
+   "name": "Mateo Benitez",
+   "team": "cali",
+   "position": "DF",
+   "shirt_number": 41,
+   "age": 20,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Cali",
+   "id": "mateo-benitez"
+  },
+  {
+   "name": "Luigi Ortiz",
+   "team": "cali",
+   "position": "GK",
+   "shirt_number": 42,
+   "age": 17,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Cali",
+   "id": "luigi-ortiz"
+  },
+  {
+   "name": "Santiago Martinez",
+   "team": "cali",
+   "position": "MF",
+   "shirt_number": 43,
+   "age": 20,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Cali",
+   "id": "santiago-martinez"
+  },
+  {
+   "name": "Matias Botero",
+   "team": "cali",
+   "position": "DF",
+   "shirt_number": 45,
+   "age": 18,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Cali",
+   "id": "matias-botero"
+  },
+  {
+   "name": "Carlos Bacca",
+   "team": "cali",
+   "position": "FW",
+   "shirt_number": 70,
+   "age": 39,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Cali",
+   "id": "carlos-bacca"
+  },
+  {
+   "name": "Santiago Colonia",
+   "team": "cali",
+   "position": "MF",
+   "shirt_number": null,
+   "age": 19,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Cali",
+   "id": "santiago-colonia"
+  },
+  {
+   "name": "David Agudelo",
+   "team": "chico",
+   "position": "GK",
+   "shirt_number": 1,
+   "age": 29,
+   "source": "https://es.wikipedia.org/wiki/Boyacá_Chicó",
+   "id": "david-agudelo"
+  },
+  {
+   "name": "Branndon Zapata",
+   "team": "chico",
+   "position": "GK",
+   "shirt_number": 12,
+   "age": null,
+   "source": "https://es.wikipedia.org/wiki/Boyacá_Chicó",
+   "id": "branndon-zapata"
+  },
+  {
+   "name": "David Quintero",
+   "team": "chico",
+   "position": "GK",
+   "shirt_number": null,
+   "age": 28,
+   "source": "https://es.wikipedia.org/wiki/Boyacá_Chicó",
+   "id": "david-quintero"
+  },
+  {
+   "name": "Rogerio Caicedo",
+   "team": "chico",
+   "position": "GK",
+   "shirt_number": null,
+   "age": 32,
+   "source": "https://es.wikipedia.org/wiki/Boyacá_Chicó",
+   "id": "rogerio-caicedo"
+  },
+  {
+   "name": "Daniel Polanco",
+   "team": "chico",
+   "position": "DF",
+   "shirt_number": 2,
+   "age": 27,
+   "source": "https://es.wikipedia.org/wiki/Boyacá_Chicó",
+   "id": "daniel-polanco"
+  },
+  {
+   "name": "Jefferson Mena",
+   "team": "chico",
+   "position": "DF",
+   "shirt_number": 4,
+   "age": 37,
+   "source": "https://es.wikipedia.org/wiki/Boyacá_Chicó",
+   "id": "jefferson-mena"
+  },
+  {
+   "name": "Jhonier Alomía",
+   "team": "chico",
+   "position": "DF",
+   "shirt_number": 5,
+   "age": 27,
+   "source": "https://es.wikipedia.org/wiki/Boyacá_Chicó",
+   "id": "jhonier-alomia"
+  },
+  {
+   "name": "Yaliston Martínez",
+   "team": "chico",
+   "position": "DF",
+   "shirt_number": 13,
+   "age": 26,
+   "source": "https://es.wikipedia.org/wiki/Boyacá_Chicó",
+   "id": "yaliston-martinez"
+  },
+  {
+   "name": "Cristian Blanco",
+   "team": "chico",
+   "position": "DF",
+   "shirt_number": 14,
+   "age": 27,
+   "source": "https://es.wikipedia.org/wiki/Boyacá_Chicó",
+   "id": "cristian-blanco"
+  },
+  {
+   "name": "Sander Navarro",
+   "team": "chico",
+   "position": "DF",
+   "shirt_number": 15,
+   "age": 23,
+   "source": "https://es.wikipedia.org/wiki/Boyacá_Chicó",
+   "id": "sander-navarro"
+  },
+  {
+   "name": "Cristian Mosquera",
+   "team": "chico",
+   "position": "DF",
+   "shirt_number": 24,
+   "age": 25,
+   "source": "https://es.wikipedia.org/wiki/Boyacá_Chicó",
+   "id": "cristian-mosquera"
+  },
+  {
+   "name": "Juan Palma",
+   "team": "chico",
+   "position": "DF",
+   "shirt_number": 25,
+   "age": 27,
+   "source": "https://es.wikipedia.org/wiki/Boyacá_Chicó",
+   "id": "juan-palma"
+  },
+  {
+   "name": "Jesús Campo",
+   "team": "chico",
+   "position": "DF",
+   "shirt_number": null,
+   "age": 18,
+   "source": "https://es.wikipedia.org/wiki/Boyacá_Chicó",
+   "id": "jesus-campo"
+  },
+  {
+   "name": "Arlen Banguero",
+   "team": "chico",
+   "position": "DF",
+   "shirt_number": null,
+   "age": 26,
+   "source": "https://es.wikipedia.org/wiki/Boyacá_Chicó",
+   "id": "arlen-banguero"
+  },
+  {
+   "name": "Camilo Quiceno",
+   "team": "chico",
+   "position": "MF",
+   "shirt_number": 3,
+   "age": 22,
+   "source": "https://es.wikipedia.org/wiki/Boyacá_Chicó",
+   "id": "camilo-quiceno"
+  },
+  {
+   "name": "Juan Díaz",
+   "team": "chico",
+   "position": "MF",
+   "shirt_number": 6,
+   "age": 25,
+   "source": "https://es.wikipedia.org/wiki/Boyacá_Chicó",
+   "id": "juan-diaz"
+  },
+  {
+   "name": "Sebastián Salazar",
+   "team": "chico",
+   "position": "MF",
+   "shirt_number": 8,
+   "age": 30,
+   "source": "https://es.wikipedia.org/wiki/Boyacá_Chicó",
+   "id": "sebastian-salazar"
+  },
+  {
+   "name": "Yesus Cabrera",
+   "team": "chico",
+   "position": "MF",
+   "shirt_number": 10,
+   "age": 35,
+   "source": "https://es.wikipedia.org/wiki/Boyacá_Chicó",
+   "id": "yesus-cabrera"
+  },
+  {
+   "name": "Delio Ramírez",
+   "team": "chico",
+   "position": "MF",
+   "shirt_number": 11,
+   "age": 25,
+   "source": "https://es.wikipedia.org/wiki/Boyacá_Chicó",
+   "id": "delio-ramirez"
+  },
+  {
+   "name": "Santiago Mera",
+   "team": "chico",
+   "position": "MF",
+   "shirt_number": 16,
+   "age": 25,
+   "source": "https://es.wikipedia.org/wiki/Boyacá_Chicó",
+   "id": "santiago-mera"
+  },
+  {
+   "name": "Estiven Sarria",
+   "team": "chico",
+   "position": "MF",
+   "shirt_number": 17,
+   "age": 25,
+   "source": "https://es.wikipedia.org/wiki/Boyacá_Chicó",
+   "id": "estiven-sarria"
+  },
+  {
+   "name": "Junior Palacios",
+   "team": "chico",
+   "position": "MF",
+   "shirt_number": 18,
+   "age": 30,
+   "source": "https://es.wikipedia.org/wiki/Boyacá_Chicó",
+   "id": "junior-palacios"
+  },
+  {
+   "name": "Sebastián Viveros",
+   "team": "chico",
+   "position": "MF",
+   "shirt_number": null,
+   "age": 29,
+   "source": "https://es.wikipedia.org/wiki/Boyacá_Chicó",
+   "id": "sebastian-viveros"
+  },
+  {
+   "name": "Juan Peñaloza",
+   "team": "chico",
+   "position": "MF",
+   "shirt_number": null,
+   "age": 26,
+   "source": "https://es.wikipedia.org/wiki/Boyacá_Chicó",
+   "id": "juan-penaloza"
+  },
+  {
+   "name": "Andrés Aedo",
+   "team": "chico",
+   "position": "MF",
+   "shirt_number": null,
+   "age": 22,
+   "source": "https://es.wikipedia.org/wiki/Boyacá_Chicó",
+   "id": "andres-aedo"
+  },
+  {
+   "name": "Jhon Romaña",
+   "team": "chico",
+   "position": "MF",
+   "shirt_number": null,
+   "age": 20,
+   "source": "https://es.wikipedia.org/wiki/Boyacá_Chicó",
+   "id": "jhon-romana"
+  },
+  {
+   "name": "Felipe Cifuentes",
+   "team": "chico",
+   "position": "FW",
+   "shirt_number": 7,
+   "age": 24,
+   "source": "https://es.wikipedia.org/wiki/Boyacá_Chicó",
+   "id": "felipe-cifuentes"
+  },
+  {
+   "name": "Isaac Camargo",
+   "team": "chico",
+   "position": "FW",
+   "shirt_number": 9,
+   "age": 26,
+   "source": "https://es.wikipedia.org/wiki/Boyacá_Chicó",
+   "id": "isaac-camargo"
+  },
+  {
+   "name": "Óscar Caicedo",
+   "team": "chico",
+   "position": "FW",
+   "shirt_number": 17,
+   "age": 20,
+   "source": "https://es.wikipedia.org/wiki/Boyacá_Chicó",
+   "id": "oscar-caicedo"
+  },
+  {
+   "name": "Julián Castillo",
+   "team": "chico",
+   "position": "FW",
+   "shirt_number": 19,
+   "age": 20,
+   "source": "https://es.wikipedia.org/wiki/Boyacá_Chicó",
+   "id": "julian-castillo"
+  },
+  {
+   "name": "Jacobo Pimentel",
+   "team": "chico",
+   "position": "FW",
+   "shirt_number": 21,
+   "age": 24,
+   "source": "https://es.wikipedia.org/wiki/Boyacá_Chicó",
+   "id": "jacobo-pimentel"
+  },
+  {
+   "name": "Alejandro Maya",
+   "team": "chico",
+   "position": "FW",
+   "shirt_number": null,
+   "age": 22,
+   "source": "https://es.wikipedia.org/wiki/Boyacá_Chicó",
+   "id": "alejandro-maya"
+  },
+  {
+   "name": "Juan David Ramirez",
+   "team": "cucuta",
+   "position": "GK",
+   "shirt_number": 1,
+   "age": 29,
+   "source": "https://es.wikipedia.org/wiki/Cúcuta_Deportivo",
+   "id": "juan-david-ramirez"
+  },
+  {
+   "name": "Federico Abadía",
+   "team": "cucuta",
+   "position": "GK",
+   "shirt_number": 12,
+   "age": 28,
+   "source": "https://es.wikipedia.org/wiki/Cúcuta_Deportivo",
+   "id": "federico-abadia"
+  },
+  {
+   "name": "Diego Muñoz Martínez",
+   "team": "cucuta",
+   "position": "GK",
+   "shirt_number": null,
+   "age": 18,
+   "source": "https://es.wikipedia.org/wiki/Cúcuta_Deportivo",
+   "id": "diego-munoz-martinez"
+  },
+  {
+   "name": "Hernán Lopes",
+   "team": "cucuta",
+   "position": "DF",
+   "shirt_number": 2,
+   "age": 35,
+   "source": "https://es.wikipedia.org/wiki/Cúcuta_Deportivo",
+   "id": "hernan-lopes"
+  },
+  {
+   "name": "Diego Calcaterra",
+   "team": "cucuta",
+   "position": "DF",
+   "shirt_number": 3,
+   "age": 25,
+   "source": "https://es.wikipedia.org/wiki/Cúcuta_Deportivo",
+   "id": "diego-calcaterra"
+  },
+  {
+   "name": "Jhon Alexander Quiñones",
+   "team": "cucuta",
+   "position": "DF",
+   "shirt_number": 4,
+   "age": 22,
+   "source": "https://es.wikipedia.org/wiki/Cúcuta_Deportivo",
+   "id": "jhon-alexander-quinones"
+  },
+  {
+   "name": "Kevin Tamayo",
+   "team": "cucuta",
+   "position": "DF",
+   "shirt_number": 14,
+   "age": 26,
+   "source": "https://es.wikipedia.org/wiki/Cúcuta_Deportivo",
+   "id": "kevin-tamayo"
+  },
+  {
+   "name": "Leison Ochoa",
+   "team": "cucuta",
+   "position": "DF",
+   "shirt_number": 17,
+   "age": 20,
+   "source": "https://es.wikipedia.org/wiki/Cúcuta_Deportivo",
+   "id": "leison-ochoa"
+  },
+  {
+   "name": "Joao Abonía",
+   "team": "cucuta",
+   "position": "DF",
+   "shirt_number": 26,
+   "age": 26,
+   "source": "https://es.wikipedia.org/wiki/Cúcuta_Deportivo",
+   "id": "joao-abonia"
+  },
+  {
+   "name": "Mauricio Duarte",
+   "team": "cucuta",
+   "position": "DF",
+   "shirt_number": 27,
+   "age": 34,
+   "source": "https://es.wikipedia.org/wiki/Cúcuta_Deportivo",
+   "id": "mauricio-duarte"
+  },
+  {
+   "name": "Brayan Montaño",
+   "team": "cucuta",
+   "position": "DF",
+   "shirt_number": 30,
+   "age": 24,
+   "source": "https://es.wikipedia.org/wiki/Cúcuta_Deportivo",
+   "id": "brayan-montano"
+  },
+  {
+   "name": "Víctor Mejía",
+   "team": "cucuta",
+   "position": "MF",
+   "shirt_number": 5,
+   "age": 33,
+   "source": "https://es.wikipedia.org/wiki/Cúcuta_Deportivo",
+   "id": "victor-mejia"
+  },
+  {
+   "name": "Jader Manyoma",
+   "team": "cucuta",
+   "position": "MF",
+   "shirt_number": 7,
+   "age": 22,
+   "source": "https://es.wikipedia.org/wiki/Cúcuta_Deportivo",
+   "id": "jader-manyoma"
+  },
+  {
+   "name": "Diego Ceballos",
+   "team": "cucuta",
+   "position": "MF",
+   "shirt_number": 8,
+   "age": 27,
+   "source": "https://es.wikipedia.org/wiki/Cúcuta_Deportivo",
+   "id": "diego-ceballos"
+  },
+  {
+   "name": "Léider Berdugo",
+   "team": "cucuta",
+   "position": "MF",
+   "shirt_number": 10,
+   "age": 24,
+   "source": "https://es.wikipedia.org/wiki/Cúcuta_Deportivo",
+   "id": "leider-berdugo"
+  },
+  {
+   "name": "Santiago Vásquez",
+   "team": "cucuta",
+   "position": "MF",
+   "shirt_number": 15,
+   "age": 16,
+   "source": "https://es.wikipedia.org/wiki/Cúcuta_Deportivo",
+   "id": "santiago-vasquez"
+  },
+  {
+   "name": "Kevin Londoño",
+   "team": "cucuta",
+   "position": "MF",
+   "shirt_number": 16,
+   "age": 26,
+   "source": "https://es.wikipedia.org/wiki/Cúcuta_Deportivo",
+   "id": "kevin-londono-cucuta"
+  },
+  {
+   "name": "Dayan Pérez",
+   "team": "cucuta",
+   "position": "MF",
+   "shirt_number": 20,
+   "age": 18,
+   "source": "https://es.wikipedia.org/wiki/Cúcuta_Deportivo",
+   "id": "dayan-perez"
+  },
+  {
+   "name": "Marlon Carabali",
+   "team": "cucuta",
+   "position": "MF",
+   "shirt_number": 21,
+   "age": 23,
+   "source": "https://es.wikipedia.org/wiki/Cúcuta_Deportivo",
+   "id": "marlon-carabali"
+  },
+  {
+   "name": "Samir Mayo",
+   "team": "cucuta",
+   "position": "MF",
+   "shirt_number": 23,
+   "age": 23,
+   "source": "https://es.wikipedia.org/wiki/Cúcuta_Deportivo",
+   "id": "samir-mayo"
+  },
+  {
+   "name": "Lucas Ríos",
+   "team": "cucuta",
+   "position": "MF",
+   "shirt_number": 29,
+   "age": 28,
+   "source": "https://es.wikipedia.org/wiki/Cúcuta_Deportivo",
+   "id": "lucas-rios"
+  },
+  {
+   "name": "Sebastián Támara",
+   "team": "cucuta",
+   "position": "MF",
+   "shirt_number": 33,
+   "age": 30,
+   "source": "https://es.wikipedia.org/wiki/Cúcuta_Deportivo",
+   "id": "sebastian-tamara"
+  },
+  {
+   "name": "Carlos Rentería",
+   "team": "cucuta",
+   "position": "MF",
+   "shirt_number": 77,
+   "age": 31,
+   "source": "https://es.wikipedia.org/wiki/Cúcuta_Deportivo",
+   "id": "carlos-renteria"
+  },
+  {
+   "name": "Jaime Peralta",
+   "team": "cucuta",
+   "position": "FW",
+   "shirt_number": 9,
+   "age": 21,
+   "source": "https://es.wikipedia.org/wiki/Cúcuta_Deportivo",
+   "id": "jaime-peralta"
+  },
+  {
+   "name": "Gustavo Torres",
+   "team": "cucuta",
+   "position": "FW",
+   "shirt_number": 11,
+   "age": 30,
+   "source": "https://es.wikipedia.org/wiki/Cúcuta_Deportivo",
+   "id": "gustavo-torres"
+  },
+  {
+   "name": "Breyner Rodríguez",
+   "team": "cucuta",
+   "position": "FW",
+   "shirt_number": 13,
+   "age": 19,
+   "source": "https://es.wikipedia.org/wiki/Cúcuta_Deportivo",
+   "id": "breyner-rodriguez"
+  },
+  {
+   "name": "Jesús Díaz",
+   "team": "cucuta",
+   "position": "FW",
+   "shirt_number": 31,
+   "age": 27,
+   "source": "https://es.wikipedia.org/wiki/Cúcuta_Deportivo",
+   "id": "jesus-diaz"
+  },
+  {
+   "name": "Jonathan Agudelo",
+   "team": "cucuta",
+   "position": "FW",
+   "shirt_number": 32,
+   "age": 33,
+   "source": "https://es.wikipedia.org/wiki/Cúcuta_Deportivo",
+   "id": "jonathan-agudelo"
+  },
+  {
+   "name": "Hassler Beltrán",
+   "team": "cucuta",
+   "position": "FW",
+   "shirt_number": null,
+   "age": 20,
+   "source": "https://es.wikipedia.org/wiki/Cúcuta_Deportivo",
+   "id": "hassler-beltran"
+  },
+  {
+   "name": "Williams Barlasina",
+   "team": "fortaleza",
+   "position": "GK",
+   "shirt_number": 1,
+   "age": 28,
+   "source": "https://es.wikipedia.org/wiki/Fortaleza_CEIF",
+   "id": "williams-barlasina"
+  },
+  {
+   "name": "Michael Barragán",
+   "team": "fortaleza",
+   "position": "GK",
+   "shirt_number": 22,
+   "age": 22,
+   "source": "https://es.wikipedia.org/wiki/Fortaleza_CEIF",
+   "id": "michael-barragan"
+  },
+  {
+   "name": "Cristian Santander",
+   "team": "fortaleza",
+   "position": "GK",
+   "shirt_number": 32,
+   "age": 23,
+   "source": "https://es.wikipedia.org/wiki/Fortaleza_CEIF",
+   "id": "cristian-santander"
+  },
+  {
+   "name": "Andrés Copete",
+   "team": "fortaleza",
+   "position": "DF",
+   "shirt_number": 2,
+   "age": 25,
+   "source": "https://es.wikipedia.org/wiki/Fortaleza_CEIF",
+   "id": "andres-copete"
+  },
+  {
+   "name": "David Ramírez",
+   "team": "fortaleza",
+   "position": "DF",
+   "shirt_number": 3,
+   "age": 24,
+   "source": "https://es.wikipedia.org/wiki/Fortaleza_CEIF",
+   "id": "david-ramirez"
+  },
+  {
+   "name": "Santiago Cabezas",
+   "team": "fortaleza",
+   "position": "DF",
+   "shirt_number": 4,
+   "age": 21,
+   "source": "https://es.wikipedia.org/wiki/Fortaleza_CEIF",
+   "id": "santiago-cabezas"
+  },
+  {
+   "name": "Yesid Díaz",
+   "team": "fortaleza",
+   "position": "DF",
+   "shirt_number": 6,
+   "age": 29,
+   "source": "https://es.wikipedia.org/wiki/Fortaleza_CEIF",
+   "id": "yesid-diaz"
+  },
+  {
+   "name": "Santiago Cuero",
+   "team": "fortaleza",
+   "position": "DF",
+   "shirt_number": 15,
+   "age": 22,
+   "source": "https://es.wikipedia.org/wiki/Fortaleza_CEIF",
+   "id": "santiago-cuero"
+  },
+  {
+   "name": "Joan Cajares",
+   "team": "fortaleza",
+   "position": "DF",
+   "shirt_number": 16,
+   "age": 23,
+   "source": "https://es.wikipedia.org/wiki/Fortaleza_CEIF",
+   "id": "joan-cajares"
+  },
+  {
+   "name": "Harold Balanta",
+   "team": "fortaleza",
+   "position": "DF",
+   "shirt_number": 18,
+   "age": 28,
+   "source": "https://es.wikipedia.org/wiki/Fortaleza_CEIF",
+   "id": "harold-balanta"
+  },
+  {
+   "name": "Juan Castillo",
+   "team": "fortaleza",
+   "position": "DF",
+   "shirt_number": 23,
+   "age": 23,
+   "source": "https://es.wikipedia.org/wiki/Fortaleza_CEIF",
+   "id": "juan-castillo"
+  },
+  {
+   "name": "Jonathan Marulanda",
+   "team": "fortaleza",
+   "position": "DF",
+   "shirt_number": null,
+   "age": 30,
+   "source": "https://es.wikipedia.org/wiki/Fortaleza_CEIF",
+   "id": "jonathan-marulanda"
+  },
+  {
+   "name": "Sebastián Navarro",
+   "team": "fortaleza",
+   "position": "MF",
+   "shirt_number": 8,
+   "age": 26,
+   "source": "https://es.wikipedia.org/wiki/Fortaleza_CEIF",
+   "id": "sebastian-navarro"
+  },
+  {
+   "name": "Jhon Velásquez",
+   "team": "fortaleza",
+   "position": "MF",
+   "shirt_number": 10,
+   "age": 31,
+   "source": "https://es.wikipedia.org/wiki/Fortaleza_CEIF",
+   "id": "jhon-velasquez"
+  },
+  {
+   "name": "Andy Batioja",
+   "team": "fortaleza",
+   "position": "MF",
+   "shirt_number": 11,
+   "age": 20,
+   "source": "https://es.wikipedia.org/wiki/Fortaleza_CEIF",
+   "id": "andy-batioja"
+  },
+  {
+   "name": "Leonardo Pico",
+   "team": "fortaleza",
+   "position": "MF",
+   "shirt_number": 14,
+   "age": 34,
+   "source": "https://es.wikipedia.org/wiki/Fortaleza_CEIF",
+   "id": "leonardo-pico"
+  },
+  {
+   "name": "Kevin Balanta",
+   "team": "fortaleza",
+   "position": "MF",
+   "shirt_number": 17,
+   "age": 22,
+   "source": "https://es.wikipedia.org/wiki/Fortaleza_CEIF",
+   "id": "kevin-balanta-fortaleza"
+  },
+  {
+   "name": "Jhon Sebastián Palacios",
+   "team": "fortaleza",
+   "position": "FW",
+   "shirt_number": 22,
+   "age": 21,
+   "source": "https://es.wikipedia.org/wiki/Fortaleza_CEIF",
+   "id": "jhon-sebastian-palacios"
+  },
+  {
+   "name": "Jerónimo Barrera",
+   "team": "fortaleza",
+   "position": "MF",
+   "shirt_number": 25,
+   "age": 22,
+   "source": "https://es.wikipedia.org/wiki/Fortaleza_CEIF",
+   "id": "jeronimo-barrera"
+  },
+  {
+   "name": "Richardson Rivas",
+   "team": "fortaleza",
+   "position": "MF",
+   "shirt_number": 26,
+   "age": 20,
+   "source": "https://es.wikipedia.org/wiki/Fortaleza_CEIF",
+   "id": "richardson-rivas"
+  },
+  {
+   "name": "Santiago Vivas",
+   "team": "fortaleza",
+   "position": "MF",
+   "shirt_number": 28,
+   "age": 20,
+   "source": "https://es.wikipedia.org/wiki/Fortaleza_CEIF",
+   "id": "santiago-vivas"
+  },
+  {
+   "name": "Jhon Solís",
+   "team": "fortaleza",
+   "position": "MF",
+   "shirt_number": 30,
+   "age": 27,
+   "source": "https://es.wikipedia.org/wiki/Fortaleza_CEIF",
+   "id": "jhon-solis"
+  },
+  {
+   "name": "Jerónimo Velásquez",
+   "team": "fortaleza",
+   "position": "MF",
+   "shirt_number": 31,
+   "age": 18,
+   "source": "https://es.wikipedia.org/wiki/Fortaleza_CEIF",
+   "id": "jeronimo-velasquez"
+  },
+  {
+   "name": "Ítalo Montaño",
+   "team": "fortaleza",
+   "position": "FW",
+   "shirt_number": 7,
+   "age": 27,
+   "source": "https://es.wikipedia.org/wiki/Fortaleza_CEIF",
+   "id": "italo-montano"
+  },
+  {
+   "name": "Sebastián Herrera",
+   "team": "fortaleza",
+   "position": "FW",
+   "shirt_number": 9,
+   "age": 31,
+   "source": "https://es.wikipedia.org/wiki/Fortaleza_CEIF",
+   "id": "sebastian-herrera"
+  },
+  {
+   "name": "Franco Pulicastro",
+   "team": "fortaleza",
+   "position": "FW",
+   "shirt_number": 19,
+   "age": 26,
+   "source": "https://es.wikipedia.org/wiki/Fortaleza_CEIF",
+   "id": "franco-pulicastro"
+  },
+  {
+   "name": "Jhonier Blanco",
+   "team": "fortaleza",
+   "position": "FW",
+   "shirt_number": 20,
+   "age": 25,
+   "source": "https://es.wikipedia.org/wiki/Fortaleza_CEIF",
+   "id": "jhonier-blanco"
+  },
+  {
+   "name": "Jhoiner Salas",
+   "team": "fortaleza",
+   "position": "FW",
+   "shirt_number": 24,
+   "age": 22,
+   "source": "https://es.wikipedia.org/wiki/Fortaleza_CEIF",
+   "id": "jhoiner-salas"
+  },
+  {
+   "name": "Teun Wilke",
+   "team": "fortaleza",
+   "position": "FW",
+   "shirt_number": 29,
+   "age": 24,
+   "source": "https://es.wikipedia.org/wiki/Fortaleza_CEIF",
+   "id": "teun-wilke"
+  },
+  {
+   "name": "Wuilker Fariñez",
+   "team": "internacional-bogota",
+   "position": "GK",
+   "shirt_number": 1,
+   "age": 28,
+   "source": "https://es.wikipedia.org/wiki/Internacional_de_Bogotá",
+   "id": "wuilker-farinez"
+  },
+  {
+   "name": "Juan Carrasco",
+   "team": "internacional-bogota",
+   "position": "GK",
+   "shirt_number": 12,
+   "age": 19,
+   "source": "https://es.wikipedia.org/wiki/Internacional_de_Bogotá",
+   "id": "juan-carrasco"
+  },
+  {
+   "name": "Simón Zapata",
+   "team": "internacional-bogota",
+   "position": "GK",
+   "shirt_number": 30,
+   "age": 20,
+   "source": "https://es.wikipedia.org/wiki/Internacional_de_Bogotá",
+   "id": "simon-zapata"
+  },
+  {
+   "name": "Kevin Cataño",
+   "team": "internacional-bogota",
+   "position": "GK",
+   "shirt_number": 33,
+   "age": 23,
+   "source": "https://es.wikipedia.org/wiki/Internacional_de_Bogotá",
+   "id": "kevin-catano"
+  },
+  {
+   "name": "Carlos Vivas",
+   "team": "internacional-bogota",
+   "position": "DF",
+   "shirt_number": 2,
+   "age": 24,
+   "source": "https://es.wikipedia.org/wiki/Internacional_de_Bogotá",
+   "id": "carlos-vivas"
+  },
+  {
+   "name": "Mateo Rodas",
+   "team": "internacional-bogota",
+   "position": "DF",
+   "shirt_number": 4,
+   "age": 28,
+   "source": "https://es.wikipedia.org/wiki/Internacional_de_Bogotá",
+   "id": "mateo-rodas"
+  },
+  {
+   "name": "Miguel Amaya",
+   "team": "internacional-bogota",
+   "position": "DF",
+   "shirt_number": 6,
+   "age": 22,
+   "source": "https://es.wikipedia.org/wiki/Internacional_de_Bogotá",
+   "id": "miguel-amaya"
+  },
+  {
+   "name": "Miguel Pernía",
+   "team": "internacional-bogota",
+   "position": "DF",
+   "shirt_number": 13,
+   "age": 25,
+   "source": "https://es.wikipedia.org/wiki/Internacional_de_Bogotá",
+   "id": "miguel-pernia"
+  },
+  {
+   "name": "Yulián Gómez",
+   "team": "internacional-bogota",
+   "position": "DF",
+   "shirt_number": 16,
+   "age": 28,
+   "source": "https://es.wikipedia.org/wiki/Internacional_de_Bogotá",
+   "id": "yulian-gomez"
+  },
+  {
+   "name": "Joan Castro",
+   "team": "internacional-bogota",
+   "position": "DF",
+   "shirt_number": 20,
+   "age": 29,
+   "source": "https://es.wikipedia.org/wiki/Internacional_de_Bogotá",
+   "id": "joan-castro"
+  },
+  {
+   "name": "Ronaldo Julio",
+   "team": "internacional-bogota",
+   "position": "DF",
+   "shirt_number": 25,
+   "age": 21,
+   "source": "https://es.wikipedia.org/wiki/Internacional_de_Bogotá",
+   "id": "ronaldo-julio"
+  },
+  {
+   "name": "Agustín Irazoque",
+   "team": "internacional-bogota",
+   "position": "DF",
+   "shirt_number": 26,
+   "age": 26,
+   "source": "https://es.wikipedia.org/wiki/Internacional_de_Bogotá",
+   "id": "agustin-irazoque"
+  },
+  {
+   "name": "Larry Vásquez",
+   "team": "internacional-bogota",
+   "position": "MF",
+   "shirt_number": 5,
+   "age": 33,
+   "source": "https://es.wikipedia.org/wiki/Internacional_de_Bogotá",
+   "id": "larry-vasquez"
+  },
+  {
+   "name": "Dewar Victoria",
+   "team": "internacional-bogota",
+   "position": "MF",
+   "shirt_number": 8,
+   "age": 25,
+   "source": "https://es.wikipedia.org/wiki/Internacional_de_Bogotá",
+   "id": "dewar-victoria"
+  },
+  {
+   "name": "Facundo Boné",
+   "team": "internacional-bogota",
+   "position": "MF",
+   "shirt_number": 10,
+   "age": 30,
+   "source": "https://es.wikipedia.org/wiki/Internacional_de_Bogotá",
+   "id": "facundo-bone"
+  },
+  {
+   "name": "Mateo Santamaría",
+   "team": "internacional-bogota",
+   "position": "MF",
+   "shirt_number": 14,
+   "age": 21,
+   "source": "https://es.wikipedia.org/wiki/Internacional_de_Bogotá",
+   "id": "mateo-santamaria"
+  },
+  {
+   "name": "Dannovi Quiñones",
+   "team": "internacional-bogota",
+   "position": "MF",
+   "shirt_number": 15,
+   "age": 25,
+   "source": "https://es.wikipedia.org/wiki/Internacional_de_Bogotá",
+   "id": "dannovi-quinones"
+  },
+  {
+   "name": "Fabián Chaverra",
+   "team": "internacional-bogota",
+   "position": "MF",
+   "shirt_number": 17,
+   "age": 23,
+   "source": "https://es.wikipedia.org/wiki/Internacional_de_Bogotá",
+   "id": "fabian-chaverra"
+  },
+  {
+   "name": "Sebastián Girado",
+   "team": "internacional-bogota",
+   "position": "MF",
+   "shirt_number": 22,
+   "age": 22,
+   "source": "https://es.wikipedia.org/wiki/Internacional_de_Bogotá",
+   "id": "sebastian-girado"
+  },
+  {
+   "name": "Johan Caballero",
+   "team": "internacional-bogota",
+   "position": "MF",
+   "shirt_number": 23,
+   "age": 28,
+   "source": "https://es.wikipedia.org/wiki/Internacional_de_Bogotá",
+   "id": "johan-caballero"
+  },
+  {
+   "name": "Rubén Manjarrés",
+   "team": "internacional-bogota",
+   "position": "MF",
+   "shirt_number": 24,
+   "age": 26,
+   "source": "https://es.wikipedia.org/wiki/Internacional_de_Bogotá",
+   "id": "ruben-manjarres"
+  },
+  {
+   "name": "Fabricio Sanguinetti",
+   "team": "internacional-bogota",
+   "position": "FW",
+   "shirt_number": 7,
+   "age": 26,
+   "source": "https://es.wikipedia.org/wiki/Internacional_de_Bogotá",
+   "id": "fabricio-sanguinetti"
+  },
+  {
+   "name": "Diego Duarte",
+   "team": "internacional-bogota",
+   "position": "FW",
+   "shirt_number": 9,
+   "age": 24,
+   "source": "https://es.wikipedia.org/wiki/Internacional_de_Bogotá",
+   "id": "diego-duarte"
+  },
+  {
+   "name": "Cristian Dájome",
+   "team": "internacional-bogota",
+   "position": "FW",
+   "shirt_number": 11,
+   "age": 32,
+   "source": "https://es.wikipedia.org/wiki/Internacional_de_Bogotá",
+   "id": "cristian-dajome"
+  },
+  {
+   "name": "Yojan Garcés",
+   "team": "internacional-bogota",
+   "position": "FW",
+   "shirt_number": 21,
+   "age": 20,
+   "source": "https://es.wikipedia.org/wiki/Internacional_de_Bogotá",
+   "id": "yojan-garces"
+  },
+  {
+   "name": "Emilio Gutiérrez",
+   "team": "internacional-bogota",
+   "position": "FW",
+   "shirt_number": 27,
+   "age": 19,
+   "source": "https://es.wikipedia.org/wiki/Internacional_de_Bogotá",
+   "id": "emilio-gutierrez"
+  },
+  {
+   "name": "Hather Cuesta",
+   "team": "internacional-bogota",
+   "position": "FW",
+   "shirt_number": 28,
+   "age": 19,
+   "source": "https://es.wikipedia.org/wiki/Internacional_de_Bogotá",
+   "id": "hather-cuesta"
+  },
+  {
+   "name": "Diego Martínez",
+   "team": "jaguares",
+   "position": "GK",
+   "shirt_number": 1,
+   "age": 36,
+   "source": "https://es.wikipedia.org/wiki/Jaguares_de_Córdoba",
+   "id": "diego-martinez"
+  },
+  {
+   "name": "Franklin Mosquera",
+   "team": "jaguares",
+   "position": "GK",
+   "shirt_number": 12,
+   "age": 27,
+   "source": "https://es.wikipedia.org/wiki/Jaguares_de_Córdoba",
+   "id": "franklin-mosquera"
+  },
+  {
+   "name": "Jerson Malagón",
+   "team": "jaguares",
+   "position": "DF",
+   "shirt_number": 3,
+   "age": 33,
+   "source": "https://es.wikipedia.org/wiki/Jaguares_de_Córdoba",
+   "id": "jerson-malagon"
+  },
+  {
+   "name": "Juan Franco",
+   "team": "jaguares",
+   "position": "DF",
+   "shirt_number": 4,
+   "age": 24,
+   "source": "https://es.wikipedia.org/wiki/Jaguares_de_Córdoba",
+   "id": "juan-franco"
+  },
+  {
+   "name": "Jonathan Lovera",
+   "team": "jaguares",
+   "position": "DF",
+   "shirt_number": 6,
+   "age": 21,
+   "source": "https://es.wikipedia.org/wiki/Jaguares_de_Córdoba",
+   "id": "jonathan-lovera"
+  },
+  {
+   "name": "Edwin Martinez",
+   "team": "jaguares",
+   "position": "DF",
+   "shirt_number": 14,
+   "age": 22,
+   "source": "https://es.wikipedia.org/wiki/Jaguares_de_Córdoba",
+   "id": "edwin-martinez"
+  },
+  {
+   "name": "Luis Jiménez",
+   "team": "jaguares",
+   "position": "DF",
+   "shirt_number": 18,
+   "age": 28,
+   "source": "https://es.wikipedia.org/wiki/Jaguares_de_Córdoba",
+   "id": "luis-jimenez"
+  },
+  {
+   "name": "Nicolás Giraldo",
+   "team": "jaguares",
+   "position": "DF",
+   "shirt_number": 22,
+   "age": 33,
+   "source": "https://es.wikipedia.org/wiki/Jaguares_de_Córdoba",
+   "id": "nicolas-giraldo"
+  },
+  {
+   "name": "Juan Arcila",
+   "team": "jaguares",
+   "position": "DF",
+   "shirt_number": 23,
+   "age": 26,
+   "source": "https://es.wikipedia.org/wiki/Jaguares_de_Córdoba",
+   "id": "juan-arcila"
+  },
+  {
+   "name": "Carlos Henao",
+   "team": "jaguares",
+   "position": "DF",
+   "shirt_number": 29,
+   "age": 37,
+   "source": "https://es.wikipedia.org/wiki/Jaguares_de_Córdoba",
+   "id": "carlos-henao"
+  },
+  {
+   "name": "Yan Mosquera",
+   "team": "jaguares",
+   "position": "DF",
+   "shirt_number": null,
+   "age": 31,
+   "source": "https://es.wikipedia.org/wiki/Jaguares_de_Córdoba",
+   "id": "yan-mosquera"
+  },
+  {
+   "name": "Andrés Alfonso",
+   "team": "jaguares",
+   "position": "MF",
+   "shirt_number": 2,
+   "age": 21,
+   "source": "https://es.wikipedia.org/wiki/Jaguares_de_Córdoba",
+   "id": "andres-alfonso"
+  },
+  {
+   "name": "Royscer Colpa",
+   "team": "jaguares",
+   "position": "MF",
+   "shirt_number": 5,
+   "age": 31,
+   "source": "https://es.wikipedia.org/wiki/Jaguares_de_Córdoba",
+   "id": "royscer-colpa"
+  },
+  {
+   "name": "Duvan Rodríguez",
+   "team": "jaguares",
+   "position": "MF",
+   "shirt_number": 8,
+   "age": 30,
+   "source": "https://es.wikipedia.org/wiki/Jaguares_de_Córdoba",
+   "id": "duvan-rodriguez"
+  },
+  {
+   "name": "Cristian Álvarez",
+   "team": "jaguares",
+   "position": "MF",
+   "shirt_number": 10,
+   "age": 33,
+   "source": "https://es.wikipedia.org/wiki/Jaguares_de_Córdoba",
+   "id": "cristian-alvarez"
+  },
+  {
+   "name": "Johan Hinestroza",
+   "team": "jaguares",
+   "position": "MF",
+   "shirt_number": 13,
+   "age": 24,
+   "source": "https://es.wikipedia.org/wiki/Jaguares_de_Córdoba",
+   "id": "johan-hinestroza"
+  },
+  {
+   "name": "Jader Maza",
+   "team": "jaguares",
+   "position": "MF",
+   "shirt_number": 15,
+   "age": 31,
+   "source": "https://es.wikipedia.org/wiki/Jaguares_de_Córdoba",
+   "id": "jader-maza"
+  },
+  {
+   "name": "Esteban Beltrán",
+   "team": "jaguares",
+   "position": "MF",
+   "shirt_number": 16,
+   "age": 26,
+   "source": "https://es.wikipedia.org/wiki/Jaguares_de_Córdoba",
+   "id": "esteban-beltran"
+  },
+  {
+   "name": "Carlos Cantillo",
+   "team": "jaguares",
+   "position": "MF",
+   "shirt_number": 19,
+   "age": 23,
+   "source": "https://es.wikipedia.org/wiki/Jaguares_de_Córdoba",
+   "id": "carlos-cantillo"
+  },
+  {
+   "name": "Faber Gil",
+   "team": "jaguares",
+   "position": "MF",
+   "shirt_number": 20,
+   "age": 31,
+   "source": "https://es.wikipedia.org/wiki/Jaguares_de_Córdoba",
+   "id": "faber-gil"
+  },
+  {
+   "name": "Rafael Bustamante",
+   "team": "jaguares",
+   "position": "MF",
+   "shirt_number": 21,
+   "age": 26,
+   "source": "https://es.wikipedia.org/wiki/Jaguares_de_Córdoba",
+   "id": "rafael-bustamante"
+  },
+  {
+   "name": "Wilfrido de la Rosa",
+   "team": "jaguares",
+   "position": "FW",
+   "shirt_number": 7,
+   "age": 32,
+   "source": "https://es.wikipedia.org/wiki/Jaguares_de_Córdoba",
+   "id": "wilfrido-de-la-rosa"
+  },
+  {
+   "name": "Johar Mejía",
+   "team": "jaguares",
+   "position": "FW",
+   "shirt_number": 9,
+   "age": 26,
+   "source": "https://es.wikipedia.org/wiki/Jaguares_de_Córdoba",
+   "id": "johar-mejia"
+  },
+  {
+   "name": "Andrés Rentería",
+   "team": "jaguares",
+   "position": "FW",
+   "shirt_number": 11,
+   "age": 33,
+   "source": "https://es.wikipedia.org/wiki/Jaguares_de_Córdoba",
+   "id": "andres-renteria"
+  },
+  {
+   "name": "Darwin López",
+   "team": "jaguares",
+   "position": "FW",
+   "shirt_number": 17,
+   "age": 34,
+   "source": "https://es.wikipedia.org/wiki/Jaguares_de_Córdoba",
+   "id": "darwin-lopez"
+  },
+  {
+   "name": "Santiago Cubides",
+   "team": "jaguares",
+   "position": "FW",
+   "shirt_number": 24,
+   "age": 25,
+   "source": "https://es.wikipedia.org/wiki/Jaguares_de_Córdoba",
+   "id": "santiago-cubides"
+  },
+  {
+   "name": "Mauro Silveira",
+   "team": "junior",
+   "position": "GK",
+   "shirt_number": 1,
+   "age": 26,
+   "source": "https://es.wikipedia.org/wiki/Junior_de_Barranquilla",
+   "id": "mauro-silveira"
+  },
+  {
+   "name": "Jaime Acosta",
+   "team": "junior",
+   "position": "DF",
+   "shirt_number": 12,
+   "age": 24,
+   "source": "https://es.wikipedia.org/wiki/Junior_de_Barranquilla",
+   "id": "jaime-acosta"
+  },
+  {
+   "name": "Jefersson Martínez",
+   "team": "junior",
+   "position": "GK",
+   "shirt_number": 30,
+   "age": 33,
+   "source": "https://es.wikipedia.org/wiki/Junior_de_Barranquilla",
+   "id": "jefersson-martinez"
+  },
+  {
+   "name": "Danny Castro SUB-20",
+   "team": "junior",
+   "position": "GK",
+   "shirt_number": null,
+   "age": 20,
+   "source": "https://es.wikipedia.org/wiki/Junior_de_Barranquilla",
+   "id": "danny-castro-sub-20"
+  },
+  {
+   "name": "Edwin Herrera",
+   "team": "junior",
+   "position": "DF",
+   "shirt_number": 3,
+   "age": 28,
+   "source": "https://es.wikipedia.org/wiki/Junior_de_Barranquilla",
+   "id": "edwin-herrera"
+  },
+  {
+   "name": "Daniel Rivera",
+   "team": "junior",
+   "position": "DF",
+   "shirt_number": 5,
+   "age": 27,
+   "source": "https://es.wikipedia.org/wiki/Junior_de_Barranquilla",
+   "id": "daniel-rivera"
+  },
+  {
+   "name": "Carlos Pérez SUB-20",
+   "team": "junior",
+   "position": "DF",
+   "shirt_number": 16,
+   "age": 18,
+   "source": "https://es.wikipedia.org/wiki/Junior_de_Barranquilla",
+   "id": "carlos-perez-sub-20"
+  },
+  {
+   "name": "Pablo Ortiz",
+   "team": "junior",
+   "position": "DF",
+   "shirt_number": 23,
+   "age": 26,
+   "source": "https://es.wikipedia.org/wiki/Junior_de_Barranquilla",
+   "id": "pablo-ortiz"
+  },
+  {
+   "name": "Jean Pestaña",
+   "team": "junior",
+   "position": "FW",
+   "shirt_number": 24,
+   "age": 29,
+   "source": "https://es.wikipedia.org/wiki/Junior_de_Barranquilla",
+   "id": "jean-pestana"
+  },
+  {
+   "name": "Yeison Suárez",
+   "team": "junior",
+   "position": "DF",
+   "shirt_number": 26,
+   "age": 29,
+   "source": "https://es.wikipedia.org/wiki/Junior_de_Barranquilla",
+   "id": "yeison-suarez"
+  },
+  {
+   "name": "Daniel Socarrás SUB-20",
+   "team": "junior",
+   "position": "DF",
+   "shirt_number": 34,
+   "age": 19,
+   "source": "https://es.wikipedia.org/wiki/Junior_de_Barranquilla",
+   "id": "daniel-socarras-sub-20"
+  },
+  {
+   "name": "Jermein Peña",
+   "team": "junior",
+   "position": "DF",
+   "shirt_number": 98,
+   "age": 26,
+   "source": "https://es.wikipedia.org/wiki/Junior_de_Barranquilla",
+   "id": "jermein-pena"
+  },
+  {
+   "name": "Fabián Correa",
+   "team": "junior",
+   "position": "DF",
+   "shirt_number": 99,
+   "age": 20,
+   "source": "https://es.wikipedia.org/wiki/Junior_de_Barranquilla",
+   "id": "fabian-correa"
+  },
+  {
+   "name": "Dilan Villarreal SUB-20",
+   "team": "junior",
+   "position": "MF",
+   "shirt_number": 6,
+   "age": 17,
+   "source": "https://es.wikipedia.org/wiki/Junior_de_Barranquilla",
+   "id": "dilan-villarreal-sub-20"
+  },
+  {
+   "name": "Harold Rivera",
+   "team": "junior",
+   "position": "MF",
+   "shirt_number": 7,
+   "age": 33,
+   "source": "https://es.wikipedia.org/wiki/Junior_de_Barranquilla",
+   "id": "harold-rivera"
+  },
+  {
+   "name": "Yimmi Chará",
+   "team": "junior",
+   "position": "MF",
+   "shirt_number": 8,
+   "age": 35,
+   "source": "https://es.wikipedia.org/wiki/Junior_de_Barranquilla",
+   "id": "yimmi-chara"
+  },
+  {
+   "name": "Juan David Ríos",
+   "team": "junior",
+   "position": "MF",
+   "shirt_number": 14,
+   "age": 34,
+   "source": "https://es.wikipedia.org/wiki/Junior_de_Barranquilla",
+   "id": "juan-david-rios"
+  },
+  {
+   "name": "Kevin Pérez",
+   "team": "junior",
+   "position": "MF",
+   "shirt_number": 18,
+   "age": 29,
+   "source": "https://es.wikipedia.org/wiki/Junior_de_Barranquilla",
+   "id": "kevin-perez"
+  },
+  {
+   "name": "Jannenson Sarmiento",
+   "team": "junior",
+   "position": "MF",
+   "shirt_number": 20,
+   "age": 26,
+   "source": "https://es.wikipedia.org/wiki/Junior_de_Barranquilla",
+   "id": "jannenson-sarmiento"
+  },
+  {
+   "name": "Jesús Rivas",
+   "team": "junior",
+   "position": "MF",
+   "shirt_number": 22,
+   "age": 29,
+   "source": "https://es.wikipedia.org/wiki/Junior_de_Barranquilla",
+   "id": "jesus-rivas"
+  },
+  {
+   "name": "Guillermo Celis",
+   "team": "junior",
+   "position": "MF",
+   "shirt_number": 28,
+   "age": 33,
+   "source": "https://es.wikipedia.org/wiki/Junior_de_Barranquilla",
+   "id": "guillermo-celis"
+  },
+  {
+   "name": "Andrés Shmalbach SUB-20",
+   "team": "junior",
+   "position": "MF",
+   "shirt_number": 38,
+   "age": 19,
+   "source": "https://es.wikipedia.org/wiki/Junior_de_Barranquilla",
+   "id": "andres-shmalbach-sub-20"
+  },
+  {
+   "name": "Fabián Ángel",
+   "team": "junior",
+   "position": "MF",
+   "shirt_number": 80,
+   "age": 25,
+   "source": "https://es.wikipedia.org/wiki/Junior_de_Barranquilla",
+   "id": "fabian-angel"
+  },
+  {
+   "name": "Guillermo Paiva",
+   "team": "junior",
+   "position": "FW",
+   "shirt_number": 9,
+   "age": 29,
+   "source": "https://es.wikipedia.org/wiki/Junior_de_Barranquilla",
+   "id": "guillermo-paiva"
+  },
+  {
+   "name": "Luis Muriel",
+   "team": "junior",
+   "position": "FW",
+   "shirt_number": 10,
+   "age": 35,
+   "source": "https://es.wikipedia.org/wiki/Junior_de_Barranquilla",
+   "id": "luis-muriel"
+  },
+  {
+   "name": "José Munive SUB-20",
+   "team": "junior",
+   "position": "FW",
+   "shirt_number": 15,
+   "age": 19,
+   "source": "https://es.wikipedia.org/wiki/Junior_de_Barranquilla",
+   "id": "jose-munive-sub-20"
+  },
+  {
+   "name": "Francisco Fydriszewski",
+   "team": "junior",
+   "position": "FW",
+   "shirt_number": 19,
+   "age": 33,
+   "source": "https://es.wikipedia.org/wiki/Junior_de_Barranquilla",
+   "id": "francisco-fydriszewski"
+  },
+  {
+   "name": "Joel Canchimbo",
+   "team": "junior",
+   "position": "FW",
+   "shirt_number": 21,
+   "age": 21,
+   "source": "https://es.wikipedia.org/wiki/Junior_de_Barranquilla",
+   "id": "joel-canchimbo"
+  },
+  {
+   "name": "Déiber Caicedo",
+   "team": "junior",
+   "position": "FW",
+   "shirt_number": 25,
+   "age": 26,
+   "source": "https://es.wikipedia.org/wiki/Junior_de_Barranquilla",
+   "id": "deiber-caicedo"
+  },
+  {
+   "name": "Teófilo Gutiérrez",
+   "team": "junior",
+   "position": "FW",
+   "shirt_number": 29,
+   "age": 41,
+   "source": "https://es.wikipedia.org/wiki/Junior_de_Barranquilla",
+   "id": "teofilo-gutierrez"
+  },
+  {
+   "name": "Cristian Barrios",
+   "team": "junior",
+   "position": "FW",
+   "shirt_number": 77,
+   "age": 28,
+   "source": "https://es.wikipedia.org/wiki/Junior_de_Barranquilla",
+   "id": "cristian-barrios"
+  },
+  {
+   "name": "Bryan Castrillón",
+   "team": "junior",
+   "position": "FW",
+   "shirt_number": 88,
+   "age": 27,
+   "source": "https://es.wikipedia.org/wiki/Junior_de_Barranquilla",
+   "id": "bryan-castrillon"
+  },
+  {
+   "name": "Sebastián Araújo",
+   "team": "junior",
+   "position": "GK",
+   "shirt_number": null,
+   "age": 29,
+   "source": "https://es.wikipedia.org/wiki/Junior_de_Barranquilla",
+   "id": "sebastian-araujo"
+  },
+  {
+   "name": "Juan Loaiza",
+   "team": "llaneros",
+   "position": "GK",
+   "shirt_number": 12,
+   "age": 24,
+   "source": "https://es.wikipedia.org/wiki/Club_Llaneros",
+   "id": "juan-loaiza"
+  },
+  {
+   "name": "Roameth Romaña",
+   "team": "llaneros",
+   "position": "GK",
+   "shirt_number": 22,
+   "age": 29,
+   "source": "https://es.wikipedia.org/wiki/Club_Llaneros",
+   "id": "roameth-romana"
+  },
+  {
+   "name": "Howell Mena",
+   "team": "llaneros",
+   "position": "DF",
+   "shirt_number": 2,
+   "age": 25,
+   "source": "https://es.wikipedia.org/wiki/Club_Llaneros",
+   "id": "howell-mena"
+  },
+  {
+   "name": "Victor Vidal",
+   "team": "llaneros",
+   "position": "DF",
+   "shirt_number": 3,
+   "age": 19,
+   "source": "https://es.wikipedia.org/wiki/Club_Llaneros",
+   "id": "victor-vidal"
+  },
+  {
+   "name": "Juan Pertuz",
+   "team": "llaneros",
+   "position": "DF",
+   "shirt_number": 4,
+   "age": 21,
+   "source": "https://es.wikipedia.org/wiki/Club_Llaneros",
+   "id": "juan-pertuz"
+  },
+  {
+   "name": "Jhojan Escobar",
+   "team": "llaneros",
+   "position": "DF",
+   "shirt_number": 16,
+   "age": 26,
+   "source": "https://es.wikipedia.org/wiki/Club_Llaneros",
+   "id": "jhojan-escobar"
+  },
+  {
+   "name": "Francisco Meza",
+   "team": "llaneros",
+   "position": "DF",
+   "shirt_number": 21,
+   "age": 35,
+   "source": "https://es.wikipedia.org/wiki/Club_Llaneros",
+   "id": "francisco-meza"
+  },
+  {
+   "name": "Alejandro Moralez",
+   "team": "llaneros",
+   "position": "DF",
+   "shirt_number": 23,
+   "age": 25,
+   "source": "https://es.wikipedia.org/wiki/Club_Llaneros",
+   "id": "alejandro-moralez"
+  },
+  {
+   "name": "Dennis Quintero",
+   "team": "llaneros",
+   "position": "DF",
+   "shirt_number": 26,
+   "age": 29,
+   "source": "https://es.wikipedia.org/wiki/Club_Llaneros",
+   "id": "dennis-quintero"
+  },
+  {
+   "name": "Leider Riascos",
+   "team": "llaneros",
+   "position": "DF",
+   "shirt_number": 29,
+   "age": 26,
+   "source": "https://es.wikipedia.org/wiki/Club_Llaneros",
+   "id": "leider-riascos"
+  },
+  {
+   "name": "Emilio Pardo",
+   "team": "llaneros",
+   "position": "DF",
+   "shirt_number": 31,
+   "age": null,
+   "source": "https://es.wikipedia.org/wiki/Club_Llaneros",
+   "id": "emilio-pardo"
+  },
+  {
+   "name": "Jimmy Medranda",
+   "team": "llaneros",
+   "position": "DF",
+   "shirt_number": 94,
+   "age": 32,
+   "source": "https://es.wikipedia.org/wiki/Club_Llaneros",
+   "id": "jimmy-medranda"
+  },
+  {
+   "name": "Daniel Quiñones",
+   "team": "llaneros",
+   "position": "DF",
+   "shirt_number": 99,
+   "age": 27,
+   "source": "https://es.wikipedia.org/wiki/Club_Llaneros",
+   "id": "daniel-quinones"
+  },
+  {
+   "name": "Eyder Restrepo",
+   "team": "llaneros",
+   "position": "MF",
+   "shirt_number": 5,
+   "age": 27,
+   "source": "https://es.wikipedia.org/wiki/Club_Llaneros",
+   "id": "eyder-restrepo"
+  },
+  {
+   "name": "Marlon Ricardo Sierra",
+   "team": "llaneros",
+   "position": "MF",
+   "shirt_number": 6,
+   "age": 31,
+   "source": "https://es.wikipedia.org/wiki/Club_Llaneros",
+   "id": "marlon-ricardo-sierra"
+  },
+  {
+   "name": "Juan José Ramírez",
+   "team": "llaneros",
+   "position": "MF",
+   "shirt_number": 8,
+   "age": 24,
+   "source": "https://es.wikipedia.org/wiki/Club_Llaneros",
+   "id": "juan-jose-ramirez"
+  },
+  {
+   "name": "Néider Ospina",
+   "team": "llaneros",
+   "position": "MF",
+   "shirt_number": 10,
+   "age": 23,
+   "source": "https://es.wikipedia.org/wiki/Club_Llaneros",
+   "id": "neider-ospina"
+  },
+  {
+   "name": "Juan Castilla",
+   "team": "llaneros",
+   "position": "MF",
+   "shirt_number": 13,
+   "age": 22,
+   "source": "https://es.wikipedia.org/wiki/Club_Llaneros",
+   "id": "juan-castilla"
+  },
+  {
+   "name": "Daniel Mantilla",
+   "team": "llaneros",
+   "position": "MF",
+   "shirt_number": 19,
+   "age": 29,
+   "source": "https://es.wikipedia.org/wiki/Club_Llaneros",
+   "id": "daniel-mantilla"
+  },
+  {
+   "name": "Julián Beltrán",
+   "team": "llaneros",
+   "position": "MF",
+   "shirt_number": 30,
+   "age": null,
+   "source": "https://es.wikipedia.org/wiki/Club_Llaneros",
+   "id": "julian-beltran"
+  },
+  {
+   "name": "Frank Castañeda",
+   "team": "llaneros",
+   "position": "MF",
+   "shirt_number": 32,
+   "age": 32,
+   "source": "https://es.wikipedia.org/wiki/Club_Llaneros",
+   "id": "frank-castaneda"
+  },
+  {
+   "name": "Kelvin Osorio",
+   "team": "llaneros",
+   "position": "MF",
+   "shirt_number": 33,
+   "age": 32,
+   "source": "https://es.wikipedia.org/wiki/Club_Llaneros",
+   "id": "kelvin-osorio"
+  },
+  {
+   "name": "Joel Contreras",
+   "team": "llaneros",
+   "position": "MF",
+   "shirt_number": 70,
+   "age": 27,
+   "source": "https://es.wikipedia.org/wiki/Club_Llaneros",
+   "id": "joel-contreras"
+  },
+  {
+   "name": "Jhon Vásquez",
+   "team": "llaneros",
+   "position": "MF",
+   "shirt_number": 95,
+   "age": 31,
+   "source": "https://es.wikipedia.org/wiki/Club_Llaneros",
+   "id": "jhon-vasquez"
+  },
+  {
+   "name": "Brandon Chury",
+   "team": "llaneros",
+   "position": "MF",
+   "shirt_number": null,
+   "age": 21,
+   "source": "https://es.wikipedia.org/wiki/Club_Llaneros",
+   "id": "brandon-chury"
+  },
+  {
+   "name": "Luis Miranda",
+   "team": "llaneros",
+   "position": "FW",
+   "shirt_number": 7,
+   "age": 29,
+   "source": "https://es.wikipedia.org/wiki/Club_Llaneros",
+   "id": "luis-miranda"
+  },
+  {
+   "name": "Manuel Barreiro",
+   "team": "llaneros",
+   "position": "FW",
+   "shirt_number": 9,
+   "age": 24,
+   "source": "https://es.wikipedia.org/wiki/Club_Llaneros",
+   "id": "manuel-barreiro"
+  },
+  {
+   "name": "Luis Marimón",
+   "team": "llaneros",
+   "position": "FW",
+   "shirt_number": 11,
+   "age": 22,
+   "source": "https://es.wikipedia.org/wiki/Club_Llaneros",
+   "id": "luis-marimon"
+  },
+  {
+   "name": "Yorleys Mena",
+   "team": "llaneros",
+   "position": "FW",
+   "shirt_number": 17,
+   "age": 35,
+   "source": "https://es.wikipedia.org/wiki/Club_Llaneros",
+   "id": "yorleys-mena"
+  },
+  {
+   "name": "Kevin Rincón",
+   "team": "llaneros",
+   "position": "FW",
+   "shirt_number": 77,
+   "age": 20,
+   "source": "https://es.wikipedia.org/wiki/Club_Llaneros",
+   "id": "kevin-rincon"
+  },
+  {
+   "name": "Salvador Ichazo",
+   "team": "medellin",
+   "position": "GK",
+   "shirt_number": 1,
+   "age": 34,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Independiente_Medellín",
+   "id": "salvador-ichazo"
+  },
+  {
+   "name": "Simón Romero",
+   "team": "medellin",
+   "position": "GK",
+   "shirt_number": 12,
+   "age": 20,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Independiente_Medellín",
+   "id": "simon-romero"
+  },
+  {
+   "name": "Eder Chaux",
+   "team": "medellin",
+   "position": "GK",
+   "shirt_number": 25,
+   "age": 34,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Independiente_Medellín",
+   "id": "eder-chaux"
+  },
+  {
+   "name": "Kevin Mantilla",
+   "team": "medellin",
+   "position": "DF",
+   "shirt_number": 4,
+   "age": 23,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Independiente_Medellín",
+   "id": "kevin-mantilla"
+  },
+  {
+   "name": "Joaquín Varela",
+   "team": "medellin",
+   "position": "DF",
+   "shirt_number": 5,
+   "age": 28,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Independiente_Medellín",
+   "id": "joaquin-varela"
+  },
+  {
+   "name": "Jhan Mena",
+   "team": "medellin",
+   "position": "DF",
+   "shirt_number": 13,
+   "age": 20,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Independiente_Medellín",
+   "id": "jhan-mena"
+  },
+  {
+   "name": "Frank Fabra",
+   "team": "medellin",
+   "position": "DF",
+   "shirt_number": 18,
+   "age": 35,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Independiente_Medellín",
+   "id": "frank-fabra"
+  },
+  {
+   "name": "Alfonso Simarra",
+   "team": "medellin",
+   "position": "DF",
+   "shirt_number": 19,
+   "age": 26,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Independiente_Medellín",
+   "id": "alfonso-simarra"
+  },
+  {
+   "name": "Esneyder Mena",
+   "team": "medellin",
+   "position": "DF",
+   "shirt_number": 26,
+   "age": 28,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Independiente_Medellín",
+   "id": "esneyder-mena"
+  },
+  {
+   "name": "Hayen Palacios",
+   "team": "medellin",
+   "position": "DF",
+   "shirt_number": 32,
+   "age": 26,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Independiente_Medellín",
+   "id": "hayen-palacios"
+  },
+  {
+   "name": "Luis Escorcia",
+   "team": "medellin",
+   "position": "DF",
+   "shirt_number": 39,
+   "age": 22,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Independiente_Medellín",
+   "id": "luis-escorcia"
+  },
+  {
+   "name": "Didier Moreno",
+   "team": "medellin",
+   "position": "MF",
+   "shirt_number": 6,
+   "age": 34,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Independiente_Medellín",
+   "id": "didier-moreno"
+  },
+  {
+   "name": "Léider Berrío",
+   "team": "medellin",
+   "position": "MF",
+   "shirt_number": 7,
+   "age": 28,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Independiente_Medellín",
+   "id": "leider-berrio"
+  },
+  {
+   "name": "Juan Fernando Quintero",
+   "team": "medellin",
+   "position": "MF",
+   "shirt_number": 8,
+   "age": 33,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Independiente_Medellín",
+   "id": "juan-fernando-quintero"
+  },
+  {
+   "name": "Daniel Cataño",
+   "team": "medellin",
+   "position": "MF",
+   "shirt_number": 10,
+   "age": 34,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Independiente_Medellín",
+   "id": "daniel-catano"
+  },
+  {
+   "name": "Baldomero Perlaza",
+   "team": "medellin",
+   "position": "MF",
+   "shirt_number": 14,
+   "age": 34,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Independiente_Medellín",
+   "id": "baldomero-perlaza"
+  },
+  {
+   "name": "Luis Maturana",
+   "team": "medellin",
+   "position": "MF",
+   "shirt_number": 15,
+   "age": 17,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Independiente_Medellín",
+   "id": "luis-maturana"
+  },
+  {
+   "name": "Halam Loboa",
+   "team": "medellin",
+   "position": "MF",
+   "shirt_number": 16,
+   "age": 20,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Independiente_Medellín",
+   "id": "halam-loboa"
+  },
+  {
+   "name": "Gerónimo Mancilla",
+   "team": "medellin",
+   "position": "MF",
+   "shirt_number": 17,
+   "age": 17,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Independiente_Medellín",
+   "id": "geronimo-mancilla"
+  },
+  {
+   "name": "Agustín Martegani",
+   "team": "medellin",
+   "position": "MF",
+   "shirt_number": 21,
+   "age": 26,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Independiente_Medellín",
+   "id": "agustin-martegani"
+  },
+  {
+   "name": "Diego Moreno",
+   "team": "medellin",
+   "position": "MF",
+   "shirt_number": 31,
+   "age": 30,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Independiente_Medellín",
+   "id": "diego-moreno"
+  },
+  {
+   "name": "Keiner Klinger",
+   "team": "medellin",
+   "position": "MF",
+   "shirt_number": 34,
+   "age": 18,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Independiente_Medellín",
+   "id": "keiner-klinger"
+  },
+  {
+   "name": "Juan José Córdoba",
+   "team": "medellin",
+   "position": "MF",
+   "shirt_number": 70,
+   "age": 23,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Independiente_Medellín",
+   "id": "juan-jose-cordoba"
+  },
+  {
+   "name": "Alexis Serna",
+   "team": "medellin",
+   "position": "MF",
+   "shirt_number": 80,
+   "age": 28,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Independiente_Medellín",
+   "id": "alexis-serna"
+  },
+  {
+   "name": "Jeison Medina",
+   "team": "medellin",
+   "position": "FW",
+   "shirt_number": 9,
+   "age": 31,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Independiente_Medellín",
+   "id": "jeison-medina"
+  },
+  {
+   "name": "Yony González",
+   "team": "medellin",
+   "position": "FW",
+   "shirt_number": 11,
+   "age": 32,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Independiente_Medellín",
+   "id": "yony-gonzalez"
+  },
+  {
+   "name": "John Montaño",
+   "team": "medellin",
+   "position": "FW",
+   "shirt_number": 20,
+   "age": 19,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Independiente_Medellín",
+   "id": "john-montano"
+  },
+  {
+   "name": "Andrés Dávila",
+   "team": "medellin",
+   "position": "FW",
+   "shirt_number": 28,
+   "age": 19,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Independiente_Medellín",
+   "id": "andres-davila"
+  },
+  {
+   "name": "Carlos Lucumí",
+   "team": "medellin",
+   "position": "FW",
+   "shirt_number": 32,
+   "age": 26,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Independiente_Medellín",
+   "id": "carlos-lucumi"
+  },
+  {
+   "name": "Enzo Larrosa",
+   "team": "medellin",
+   "position": "FW",
+   "shirt_number": 33,
+   "age": 25,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Independiente_Medellín",
+   "id": "enzo-larrosa"
+  },
+  {
+   "name": "Javier Burrai",
+   "team": "millonarios",
+   "position": "GK",
+   "shirt_number": 1,
+   "age": 35,
+   "source": "https://es.wikipedia.org/wiki/Millonarios_Fútbol_Club",
+   "id": "javier-burrai"
+  },
+  {
+   "name": "James Aguirre",
+   "team": "millonarios",
+   "position": "GK",
+   "shirt_number": 12,
+   "age": 34,
+   "source": "https://es.wikipedia.org/wiki/Millonarios_Fútbol_Club",
+   "id": "james-aguirre"
+  },
+  {
+   "name": "Carlos Sarabia",
+   "team": "millonarios",
+   "position": "DF",
+   "shirt_number": 2,
+   "age": 21,
+   "source": "https://es.wikipedia.org/wiki/Millonarios_Fútbol_Club",
+   "id": "carlos-sarabia"
+  },
+  {
+   "name": "Samuel Martín",
+   "team": "millonarios",
+   "position": "DF",
+   "shirt_number": 3,
+   "age": 20,
+   "source": "https://es.wikipedia.org/wiki/Millonarios_Fútbol_Club",
+   "id": "samuel-martin"
+  },
+  {
+   "name": "Stiven Barreiro",
+   "team": "millonarios",
+   "position": "DF",
+   "shirt_number": 4,
+   "age": 32,
+   "source": "https://es.wikipedia.org/wiki/Millonarios_Fútbol_Club",
+   "id": "stiven-barreiro"
+  },
+  {
+   "name": "Sergio Mosquera",
+   "team": "millonarios",
+   "position": "DF",
+   "shirt_number": 6,
+   "age": 32,
+   "source": "https://es.wikipedia.org/wiki/Millonarios_Fútbol_Club",
+   "id": "sergio-mosquera"
+  },
+  {
+   "name": "Jorge Arias 4.º",
+   "team": "millonarios",
+   "position": "DF",
+   "shirt_number": 17,
+   "age": 33,
+   "source": "https://es.wikipedia.org/wiki/Millonarios_Fútbol_Club",
+   "id": "jorge-arias-4"
+  },
+  {
+   "name": "Danovis Banguero",
+   "team": "millonarios",
+   "position": "DF",
+   "shirt_number": 20,
+   "age": 36,
+   "source": "https://es.wikipedia.org/wiki/Millonarios_Fútbol_Club",
+   "id": "danovis-banguero"
+  },
+  {
+   "name": "Sebastián Valencia",
+   "team": "millonarios",
+   "position": "DF",
+   "shirt_number": 22,
+   "age": 30,
+   "source": "https://es.wikipedia.org/wiki/Millonarios_Fútbol_Club",
+   "id": "sebastian-valencia"
+  },
+  {
+   "name": "Andrés Llinás 3.º",
+   "team": "millonarios",
+   "position": "DF",
+   "shirt_number": 26,
+   "age": 29,
+   "source": "https://es.wikipedia.org/wiki/Millonarios_Fútbol_Club",
+   "id": "andres-llinas-3"
+  },
+  {
+   "name": "Álex Moreno",
+   "team": "millonarios",
+   "position": "DF",
+   "shirt_number": 29,
+   "age": 24,
+   "source": "https://es.wikipedia.org/wiki/Millonarios_Fútbol_Club",
+   "id": "alex-moreno"
+  },
+  {
+   "name": "Jhomier Guerrero",
+   "team": "millonarios",
+   "position": "DF",
+   "shirt_number": 34,
+   "age": 25,
+   "source": "https://es.wikipedia.org/wiki/Millonarios_Fútbol_Club",
+   "id": "jhomier-guerrero"
+  },
+  {
+   "name": "Darwin Cortés",
+   "team": "millonarios",
+   "position": "DF",
+   "shirt_number": null,
+   "age": 19,
+   "source": "https://es.wikipedia.org/wiki/Millonarios_Fútbol_Club",
+   "id": "darwin-cortes"
+  },
+  {
+   "name": "Daniel Ruiz",
+   "team": "millonarios",
+   "position": "MF",
+   "shirt_number": 10,
+   "age": 25,
+   "source": "https://es.wikipedia.org/wiki/Millonarios_Fútbol_Club",
+   "id": "daniel-ruiz"
+  },
+  {
+   "name": "David Mackalister Silva 2.º",
+   "team": "millonarios",
+   "position": "MF",
+   "shirt_number": 14,
+   "age": 39,
+   "source": "https://es.wikipedia.org/wiki/Millonarios_Fútbol_Club",
+   "id": "david-mackalister-silva-2"
+  },
+  {
+   "name": "Rodrigo Ureña",
+   "team": "millonarios",
+   "position": "MF",
+   "shirt_number": 18,
+   "age": 33,
+   "source": "https://es.wikipedia.org/wiki/Millonarios_Fútbol_Club",
+   "id": "rodrigo-urena"
+  },
+  {
+   "name": "Mateo García",
+   "team": "millonarios",
+   "position": "MF",
+   "shirt_number": 19,
+   "age": 28,
+   "source": "https://es.wikipedia.org/wiki/Millonarios_Fútbol_Club",
+   "id": "mateo-garcia"
+  },
+  {
+   "name": "Darwin Quintero",
+   "team": "millonarios",
+   "position": "MF",
+   "shirt_number": 25,
+   "age": 38,
+   "source": "https://es.wikipedia.org/wiki/Millonarios_Fútbol_Club",
+   "id": "darwin-quintero"
+  },
+  {
+   "name": "Stiven Vega 5.º",
+   "team": "millonarios",
+   "position": "MF",
+   "shirt_number": 28,
+   "age": 28,
+   "source": "https://es.wikipedia.org/wiki/Millonarios_Fútbol_Club",
+   "id": "stiven-vega-5"
+  },
+  {
+   "name": "Sebastián del Castillo",
+   "team": "millonarios",
+   "position": "MF",
+   "shirt_number": 30,
+   "age": 21,
+   "source": "https://es.wikipedia.org/wiki/Millonarios_Fútbol_Club",
+   "id": "sebastian-del-castillo"
+  },
+  {
+   "name": "Leonai Souza",
+   "team": "millonarios",
+   "position": "MF",
+   "shirt_number": 55,
+   "age": 31,
+   "source": "https://es.wikipedia.org/wiki/Millonarios_Fútbol_Club",
+   "id": "leonai-souza"
+  },
+  {
+   "name": "Juan Carlos Pereira",
+   "team": "millonarios",
+   "position": "MF",
+   "shirt_number": null,
+   "age": 33,
+   "source": "https://es.wikipedia.org/wiki/Millonarios_Fútbol_Club",
+   "id": "juan-carlos-pereira"
+  },
+  {
+   "name": "Andrey Estupiñán",
+   "team": "millonarios",
+   "position": "FW",
+   "shirt_number": 11,
+   "age": 32,
+   "source": "https://es.wikipedia.org/wiki/Millonarios_Fútbol_Club",
+   "id": "andrey-estupinan"
+  },
+  {
+   "name": "Francisco Chaverra",
+   "team": "millonarios",
+   "position": "FW",
+   "shirt_number": 13,
+   "age": 26,
+   "source": "https://es.wikipedia.org/wiki/Millonarios_Fútbol_Club",
+   "id": "francisco-chaverra"
+  },
+  {
+   "name": "Leonardo Castro",
+   "team": "millonarios",
+   "position": "FW",
+   "shirt_number": 23,
+   "age": 34,
+   "source": "https://es.wikipedia.org/wiki/Millonarios_Fútbol_Club",
+   "id": "leonardo-castro"
+  },
+  {
+   "name": "Julián Angulo",
+   "team": "millonarios",
+   "position": "FW",
+   "shirt_number": 24,
+   "age": 24,
+   "source": "https://es.wikipedia.org/wiki/Millonarios_Fútbol_Club",
+   "id": "julian-angulo"
+  },
+  {
+   "name": "Rodrigo Contreras",
+   "team": "millonarios",
+   "position": "FW",
+   "shirt_number": 27,
+   "age": 30,
+   "source": "https://es.wikipedia.org/wiki/Millonarios_Fútbol_Club",
+   "id": "rodrigo-contreras"
+  },
+  {
+   "name": "Sebastián Mosquera",
+   "team": "millonarios",
+   "position": "FW",
+   "shirt_number": 35,
+   "age": 19,
+   "source": "https://es.wikipedia.org/wiki/Millonarios_Fútbol_Club",
+   "id": "sebastian-mosquera"
+  },
+  {
+   "name": "Santiago Giordana",
+   "team": "millonarios",
+   "position": "FW",
+   "shirt_number": null,
+   "age": 31,
+   "source": "https://es.wikipedia.org/wiki/Millonarios_Fútbol_Club",
+   "id": "santiago-giordana"
+  },
+  {
+   "name": "Jhostin Díaz",
+   "team": "millonarios",
+   "position": "GK",
+   "shirt_number": 31,
+   "age": 19,
+   "source": "https://es.wikipedia.org/wiki/Millonarios_Fútbol_Club",
+   "id": "jhostin-diaz"
+  },
+  {
+   "name": "Iván Diaz",
+   "team": "millonarios",
+   "position": "GK",
+   "shirt_number": 39,
+   "age": 19,
+   "source": "https://es.wikipedia.org/wiki/Millonarios_Fútbol_Club",
+   "id": "ivan-diaz"
+  },
+  {
+   "name": "Criss Angel Macías",
+   "team": "millonarios",
+   "position": "DF",
+   "shirt_number": 16,
+   "age": 18,
+   "source": "https://es.wikipedia.org/wiki/Millonarios_Fútbol_Club",
+   "id": "criss-angel-macias"
+  },
+  {
+   "name": "Cristian Uparela",
+   "team": "millonarios",
+   "position": "DF",
+   "shirt_number": 43,
+   "age": 19,
+   "source": "https://es.wikipedia.org/wiki/Millonarios_Fútbol_Club",
+   "id": "cristian-uparela"
+  },
+  {
+   "name": "Romario Espín",
+   "team": "millonarios",
+   "position": "MF",
+   "shirt_number": 33,
+   "age": 18,
+   "source": "https://es.wikipedia.org/wiki/Millonarios_Fútbol_Club",
+   "id": "romario-espin"
+  },
+  {
+   "name": "Yeiner Romero",
+   "team": "millonarios",
+   "position": "FW",
+   "shirt_number": 15,
+   "age": 18,
+   "source": "https://es.wikipedia.org/wiki/Millonarios_Fútbol_Club",
+   "id": "yeiner-romero"
+  },
+  {
+   "name": "Luis Marquinez",
+   "team": "nacional",
+   "position": "GK",
+   "shirt_number": 25,
+   "age": 23,
+   "source": "https://es.wikipedia.org/wiki/Atlético_Nacional",
+   "id": "luis-marquinez-nacional"
+  },
+  {
+   "name": "Franco Armani",
+   "team": "nacional",
+   "position": "GK",
+   "shirt_number": 34,
+   "age": 39,
+   "source": "https://es.wikipedia.org/wiki/Atlético_Nacional",
+   "id": "franco-armani"
+  },
+  {
+   "name": "Edimer Zea",
+   "team": "nacional",
+   "position": "GK",
+   "shirt_number": 44,
+   "age": 19,
+   "source": "https://es.wikipedia.org/wiki/Atlético_Nacional",
+   "id": "edimer-zea"
+  },
+  {
+   "name": "Néider Parra",
+   "team": "nacional",
+   "position": "DF",
+   "shirt_number": 3,
+   "age": 21,
+   "source": "https://es.wikipedia.org/wiki/Atlético_Nacional",
+   "id": "neider-parra"
+  },
+  {
+   "name": "César Haydar",
+   "team": "nacional",
+   "position": "DF",
+   "shirt_number": 4,
+   "age": 25,
+   "source": "https://es.wikipedia.org/wiki/Atlético_Nacional",
+   "id": "cesar-haydar"
+  },
+  {
+   "name": "Andrés Felipe Román",
+   "team": "nacional",
+   "position": "DF",
+   "shirt_number": 6,
+   "age": 30,
+   "source": "https://es.wikipedia.org/wiki/Atlético_Nacional",
+   "id": "andres-felipe-roman"
+  },
+  {
+   "name": "Andrés Reyes",
+   "team": "nacional",
+   "position": "DF",
+   "shirt_number": 15,
+   "age": 26,
+   "source": "https://es.wikipedia.org/wiki/Atlético_Nacional",
+   "id": "andres-reyes"
+  },
+  {
+   "name": "William Tesillo",
+   "team": "nacional",
+   "position": "DF",
+   "shirt_number": 16,
+   "age": 36,
+   "source": "https://es.wikipedia.org/wiki/Atlético_Nacional",
+   "id": "william-tesillo"
+  },
+  {
+   "name": "Milton Casco",
+   "team": "nacional",
+   "position": "DF",
+   "shirt_number": 20,
+   "age": 38,
+   "source": "https://es.wikipedia.org/wiki/Atlético_Nacional",
+   "id": "milton-casco"
+  },
+  {
+   "name": "Yeicar Perlaza",
+   "team": "nacional",
+   "position": "DF",
+   "shirt_number": 27,
+   "age": 23,
+   "source": "https://es.wikipedia.org/wiki/Atlético_Nacional",
+   "id": "yeicar-perlaza"
+  },
+  {
+   "name": "Simón García",
+   "team": "nacional",
+   "position": "DF",
+   "shirt_number": 28,
+   "age": 21,
+   "source": "https://es.wikipedia.org/wiki/Atlético_Nacional",
+   "id": "simon-garcia"
+  },
+  {
+   "name": "Samuel Velásquez",
+   "team": "nacional",
+   "position": "DF",
+   "shirt_number": 33,
+   "age": 23,
+   "source": "https://es.wikipedia.org/wiki/Atlético_Nacional",
+   "id": "samuel-velasquez"
+  },
+  {
+   "name": "Mateus Uribe",
+   "team": "nacional",
+   "position": "MF",
+   "shirt_number": 8,
+   "age": 35,
+   "source": "https://es.wikipedia.org/wiki/Atlético_Nacional",
+   "id": "mateus-uribe"
+  },
+  {
+   "name": "Edwin Cardona",
+   "team": "nacional",
+   "position": "MF",
+   "shirt_number": 10,
+   "age": 33,
+   "source": "https://es.wikipedia.org/wiki/Atlético_Nacional",
+   "id": "edwin-cardona"
+  },
+  {
+   "name": "Felipe Marín",
+   "team": "nacional",
+   "position": "MF",
+   "shirt_number": 14,
+   "age": 19,
+   "source": "https://es.wikipedia.org/wiki/Atlético_Nacional",
+   "id": "felipe-marin"
+  },
+  {
+   "name": "Juan Rengifo",
+   "team": "nacional",
+   "position": "MF",
+   "shirt_number": 19,
+   "age": 21,
+   "source": "https://es.wikipedia.org/wiki/Atlético_Nacional",
+   "id": "juan-rengifo"
+  },
+  {
+   "name": "Jorman Campuzano",
+   "team": "nacional",
+   "position": "MF",
+   "shirt_number": 21,
+   "age": 30,
+   "source": "https://es.wikipedia.org/wiki/Atlético_Nacional",
+   "id": "jorman-campuzano"
+  },
+  {
+   "name": "Elkin Rivero",
+   "team": "nacional",
+   "position": "MF",
+   "shirt_number": 26,
+   "age": 20,
+   "source": "https://es.wikipedia.org/wiki/Atlético_Nacional",
+   "id": "elkin-rivero"
+  },
+  {
+   "name": "Xavy Rios",
+   "team": "nacional",
+   "position": "MF",
+   "shirt_number": 31,
+   "age": 20,
+   "source": "https://es.wikipedia.org/wiki/Atlético_Nacional",
+   "id": "xavy-rios"
+  },
+  {
+   "name": "Matías Lozano",
+   "team": "nacional",
+   "position": "MF",
+   "shirt_number": 35,
+   "age": 18,
+   "source": "https://es.wikipedia.org/wiki/Atlético_Nacional",
+   "id": "matias-lozano"
+  },
+  {
+   "name": "Luis Landázuri",
+   "team": "nacional",
+   "position": "MF",
+   "shirt_number": 37,
+   "age": 20,
+   "source": "https://es.wikipedia.org/wiki/Atlético_Nacional",
+   "id": "luis-landazuri"
+  },
+  {
+   "name": "Juan Zapata",
+   "team": "nacional",
+   "position": "MF",
+   "shirt_number": 80,
+   "age": 26,
+   "source": "https://es.wikipedia.org/wiki/Atlético_Nacional",
+   "id": "juan-zapata"
+  },
+  {
+   "name": "Elías Cabrera",
+   "team": "nacional",
+   "position": "MF",
+   "shirt_number": null,
+   "age": 23,
+   "source": "https://es.wikipedia.org/wiki/Atlético_Nacional",
+   "id": "elias-cabrera"
+  },
+  {
+   "name": "Marlos Moreno",
+   "team": "nacional",
+   "position": "FW",
+   "shirt_number": 7,
+   "age": 29,
+   "source": "https://es.wikipedia.org/wiki/Atlético_Nacional",
+   "id": "marlos-moreno"
+  },
+  {
+   "name": "Alfredo Morelos",
+   "team": "nacional",
+   "position": "FW",
+   "shirt_number": 9,
+   "age": 30,
+   "source": "https://es.wikipedia.org/wiki/Atlético_Nacional",
+   "id": "alfredo-morelos"
+  },
+  {
+   "name": "Nico Rodríguez",
+   "team": "nacional",
+   "position": "FW",
+   "shirt_number": 13,
+   "age": 22,
+   "source": "https://es.wikipedia.org/wiki/Atlético_Nacional",
+   "id": "nico-rodriguez"
+  },
+  {
+   "name": "Cristian Arango",
+   "team": "nacional",
+   "position": "FW",
+   "shirt_number": 17,
+   "age": 31,
+   "source": "https://es.wikipedia.org/wiki/Atlético_Nacional",
+   "id": "cristian-arango"
+  },
+  {
+   "name": "Juan Rosa",
+   "team": "nacional",
+   "position": "FW",
+   "shirt_number": 24,
+   "age": 19,
+   "source": "https://es.wikipedia.org/wiki/Atlético_Nacional",
+   "id": "juan-rosa"
+  },
+  {
+   "name": "Andrés Sarmiento",
+   "team": "nacional",
+   "position": "FW",
+   "shirt_number": 29,
+   "age": 28,
+   "source": "https://es.wikipedia.org/wiki/Atlético_Nacional",
+   "id": "andres-sarmiento"
+  },
+  {
+   "name": "Kevin Parra",
+   "team": "nacional",
+   "position": "FW",
+   "shirt_number": 30,
+   "age": 23,
+   "source": "https://es.wikipedia.org/wiki/Atlético_Nacional",
+   "id": "kevin-parra"
+  },
+  {
+   "name": "Ian Poveda",
+   "team": "nacional",
+   "position": "FW",
+   "shirt_number": 99,
+   "age": 26,
+   "source": "https://es.wikipedia.org/wiki/Atlético_Nacional",
+   "id": "ian-poveda"
+  },
+  {
+   "name": "Ederson Cabezas",
+   "team": "pasto",
+   "position": "GK",
+   "shirt_number": 1,
+   "age": 26,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Pasto",
+   "id": "ederson-cabezas"
+  },
+  {
+   "name": "Geovanni Banguera",
+   "team": "pasto",
+   "position": "GK",
+   "shirt_number": 12,
+   "age": 30,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Pasto",
+   "id": "geovanni-banguera"
+  },
+  {
+   "name": "Luis Marquinez",
+   "team": "pasto",
+   "position": "GK",
+   "shirt_number": 24,
+   "age": 18,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Pasto",
+   "id": "luis-marquinez-pasto"
+  },
+  {
+   "name": "Fainer Torijano",
+   "team": "pasto",
+   "position": "DF",
+   "shirt_number": 2,
+   "age": 38,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Pasto",
+   "id": "fainer-torijano"
+  },
+  {
+   "name": "Joyce Ossa",
+   "team": "pasto",
+   "position": "DF",
+   "shirt_number": 3,
+   "age": 28,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Pasto",
+   "id": "joyce-ossa"
+  },
+  {
+   "name": "Derik Osede",
+   "team": "pasto",
+   "position": "DF",
+   "shirt_number": 4,
+   "age": 33,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Pasto",
+   "id": "derik-osede"
+  },
+  {
+   "name": "Nicolás Gil",
+   "team": "pasto",
+   "position": "DF",
+   "shirt_number": 5,
+   "age": 29,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Pasto",
+   "id": "nicolas-gil"
+  },
+  {
+   "name": "Santiago Jiménez",
+   "team": "pasto",
+   "position": "DF",
+   "shirt_number": 6,
+   "age": 28,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Pasto",
+   "id": "santiago-jimenez"
+  },
+  {
+   "name": "Heiler Moreno",
+   "team": "pasto",
+   "position": "DF",
+   "shirt_number": 26,
+   "age": 18,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Pasto",
+   "id": "heiler-moreno"
+  },
+  {
+   "name": "Hervin Goyes",
+   "team": "pasto",
+   "position": "DF",
+   "shirt_number": 27,
+   "age": 20,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Pasto",
+   "id": "hervin-goyes"
+  },
+  {
+   "name": "Mateo Garavito",
+   "team": "pasto",
+   "position": "DF",
+   "shirt_number": 33,
+   "age": 25,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Pasto",
+   "id": "mateo-garavito"
+  },
+  {
+   "name": "Frank Martínez",
+   "team": "pasto",
+   "position": "DF",
+   "shirt_number": 35,
+   "age": 19,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Pasto",
+   "id": "frank-martinez"
+  },
+  {
+   "name": "Julián Quiñones",
+   "team": "pasto",
+   "position": "DF",
+   "shirt_number": 36,
+   "age": 36,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Pasto",
+   "id": "julian-quinones"
+  },
+  {
+   "name": "Ramiro Morales",
+   "team": "pasto",
+   "position": "DF",
+   "shirt_number": null,
+   "age": 21,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Pasto",
+   "id": "ramiro-morales"
+  },
+  {
+   "name": "Jonathan Perlaza",
+   "team": "pasto",
+   "position": "MF",
+   "shirt_number": 7,
+   "age": 25,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Pasto",
+   "id": "jonathan-perlaza"
+  },
+  {
+   "name": "Enrique Serje",
+   "team": "pasto",
+   "position": "MF",
+   "shirt_number": 8,
+   "age": 30,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Pasto",
+   "id": "enrique-serje"
+  },
+  {
+   "name": "Diego Chávez",
+   "team": "pasto",
+   "position": "MF",
+   "shirt_number": 10,
+   "age": 28,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Pasto",
+   "id": "diego-chavez"
+  },
+  {
+   "name": "Harrinson Mancilla",
+   "team": "pasto",
+   "position": "MF",
+   "shirt_number": 15,
+   "age": 34,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Pasto",
+   "id": "harrinson-mancilla"
+  },
+  {
+   "name": "John Méndez",
+   "team": "pasto",
+   "position": "MF",
+   "shirt_number": 17,
+   "age": 21,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Pasto",
+   "id": "john-mendez"
+  },
+  {
+   "name": "Yeison Tolosa",
+   "team": "pasto",
+   "position": "MF",
+   "shirt_number": 22,
+   "age": 27,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Pasto",
+   "id": "yeison-tolosa"
+  },
+  {
+   "name": "Yéiler Góez",
+   "team": "pasto",
+   "position": "MF",
+   "shirt_number": 23,
+   "age": 26,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Pasto",
+   "id": "yeiler-goez"
+  },
+  {
+   "name": "Franco Leys",
+   "team": "pasto",
+   "position": "MF",
+   "shirt_number": 25,
+   "age": 32,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Pasto",
+   "id": "franco-leys"
+  },
+  {
+   "name": "David Guerrero",
+   "team": "pasto",
+   "position": "MF",
+   "shirt_number": 30,
+   "age": 29,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Pasto",
+   "id": "david-guerrero"
+  },
+  {
+   "name": "Matías Pisano",
+   "team": "pasto",
+   "position": "MF",
+   "shirt_number": 32,
+   "age": 34,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Pasto",
+   "id": "matias-pisano"
+  },
+  {
+   "name": "Gian Cabezas",
+   "team": "pasto",
+   "position": "MF",
+   "shirt_number": null,
+   "age": 21,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Pasto",
+   "id": "gian-cabezas"
+  },
+  {
+   "name": "Jorge Obregón",
+   "team": "pasto",
+   "position": "FW",
+   "shirt_number": 9,
+   "age": 29,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Pasto",
+   "id": "jorge-obregon"
+  },
+  {
+   "name": "Andrés Ibargüen",
+   "team": "pasto",
+   "position": "FW",
+   "shirt_number": 11,
+   "age": 34,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Pasto",
+   "id": "andres-ibarguen"
+  },
+  {
+   "name": "Mayer Gil",
+   "team": "pasto",
+   "position": "FW",
+   "shirt_number": 16,
+   "age": 22,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Pasto",
+   "id": "mayer-gil"
+  },
+  {
+   "name": "Joider Micolta",
+   "team": "pasto",
+   "position": "FW",
+   "shirt_number": 18,
+   "age": 24,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Pasto",
+   "id": "joider-micolta"
+  },
+  {
+   "name": "Patrick Preciado",
+   "team": "pasto",
+   "position": "FW",
+   "shirt_number": 19,
+   "age": 21,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Pasto",
+   "id": "patrick-preciado"
+  },
+  {
+   "name": "Santiago Córdoba",
+   "team": "pasto",
+   "position": "FW",
+   "shirt_number": 29,
+   "age": 29,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Pasto",
+   "id": "santiago-cordoba"
+  },
+  {
+   "name": "Luther Rueda",
+   "team": "pasto",
+   "position": "FW",
+   "shirt_number": 31,
+   "age": 20,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Pasto",
+   "id": "luther-rueda"
+  },
+  {
+   "name": "Jorge Martínez",
+   "team": "pereira",
+   "position": "GK",
+   "shirt_number": 1,
+   "age": 19,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Pereira",
+   "id": "jorge-martinez"
+  },
+  {
+   "name": "Juan Betancourth",
+   "team": "pereira",
+   "position": "GK",
+   "shirt_number": 12,
+   "age": 22,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Pereira",
+   "id": "juan-betancourth"
+  },
+  {
+   "name": "Yimmy Gómez",
+   "team": "pereira",
+   "position": "GK",
+   "shirt_number": 33,
+   "age": 27,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Pereira",
+   "id": "yimmy-gomez"
+  },
+  {
+   "name": "Sebastián Urrea",
+   "team": "pereira",
+   "position": "DF",
+   "shirt_number": 2,
+   "age": 24,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Pereira",
+   "id": "sebastian-urrea"
+  },
+  {
+   "name": "Julián Bazán",
+   "team": "pereira",
+   "position": "MF",
+   "shirt_number": 4,
+   "age": 20,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Pereira",
+   "id": "julian-bazan"
+  },
+  {
+   "name": "Danilo Ortiz",
+   "team": "pereira",
+   "position": "DF",
+   "shirt_number": 6,
+   "age": 34,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Pereira",
+   "id": "danilo-ortiz"
+  },
+  {
+   "name": "Santiago Aguilar",
+   "team": "pereira",
+   "position": "DF",
+   "shirt_number": 15,
+   "age": 28,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Pereira",
+   "id": "santiago-aguilar"
+  },
+  {
+   "name": "Eber Moreno",
+   "team": "pereira",
+   "position": "DF",
+   "shirt_number": 16,
+   "age": 24,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Pereira",
+   "id": "eber-moreno"
+  },
+  {
+   "name": "Richard Renteria",
+   "team": "pereira",
+   "position": "DF",
+   "shirt_number": 17,
+   "age": 30,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Pereira",
+   "id": "richard-renteria"
+  },
+  {
+   "name": "Jordy Monroy",
+   "team": "pereira",
+   "position": "DF",
+   "shirt_number": 20,
+   "age": 30,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Pereira",
+   "id": "jordy-monroy"
+  },
+  {
+   "name": "Walmer Pacheco",
+   "team": "pereira",
+   "position": "DF",
+   "shirt_number": 21,
+   "age": 31,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Pereira",
+   "id": "walmer-pacheco"
+  },
+  {
+   "name": "Fabio Delgado",
+   "team": "pereira",
+   "position": "DF",
+   "shirt_number": 25,
+   "age": 27,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Pereira",
+   "id": "fabio-delgado"
+  },
+  {
+   "name": "Tobías Bovone",
+   "team": "pereira",
+   "position": "DF",
+   "shirt_number": 30,
+   "age": 26,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Pereira",
+   "id": "tobias-bovone"
+  },
+  {
+   "name": "Nicolás Rengifo",
+   "team": "pereira",
+   "position": "MF",
+   "shirt_number": 3,
+   "age": 22,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Pereira",
+   "id": "nicolas-rengifo"
+  },
+  {
+   "name": "Jorge Bermúdez",
+   "team": "pereira",
+   "position": "MF",
+   "shirt_number": 5,
+   "age": 25,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Pereira",
+   "id": "jorge-bermudez"
+  },
+  {
+   "name": "Felipe Mosquera",
+   "team": "pereira",
+   "position": "MF",
+   "shirt_number": 8,
+   "age": 24,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Pereira",
+   "id": "felipe-mosquera"
+  },
+  {
+   "name": "Sebastián Acosta",
+   "team": "pereira",
+   "position": "MF",
+   "shirt_number": 10,
+   "age": 31,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Pereira",
+   "id": "sebastian-acosta"
+  },
+  {
+   "name": "Jhon Largacha",
+   "team": "pereira",
+   "position": "MF",
+   "shirt_number": 11,
+   "age": 22,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Pereira",
+   "id": "jhon-largacha"
+  },
+  {
+   "name": "Ederson Moreno",
+   "team": "pereira",
+   "position": "MF",
+   "shirt_number": 14,
+   "age": 32,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Pereira",
+   "id": "ederson-moreno"
+  },
+  {
+   "name": "Miguel Aguirre",
+   "team": "pereira",
+   "position": "MF",
+   "shirt_number": 19,
+   "age": 19,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Pereira",
+   "id": "miguel-aguirre"
+  },
+  {
+   "name": "Yúber Quiñones",
+   "team": "pereira",
+   "position": "MF",
+   "shirt_number": 88,
+   "age": 23,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Pereira",
+   "id": "yuber-quinones"
+  },
+  {
+   "name": "Javier Mena",
+   "team": "pereira",
+   "position": "MF",
+   "shirt_number": null,
+   "age": 20,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Pereira",
+   "id": "javier-mena-pereira"
+  },
+  {
+   "name": "Anderson Plata",
+   "team": "pereira",
+   "position": "FW",
+   "shirt_number": 7,
+   "age": 35,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Pereira",
+   "id": "anderson-plata"
+  },
+  {
+   "name": "Marco Pérez",
+   "team": "pereira",
+   "position": "FW",
+   "shirt_number": 18,
+   "age": 35,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Pereira",
+   "id": "marco-perez"
+  },
+  {
+   "name": "Luis Palacios",
+   "team": "pereira",
+   "position": "FW",
+   "shirt_number": 24,
+   "age": 22,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Pereira",
+   "id": "luis-palacios-pereira"
+  },
+  {
+   "name": "Manuel Díaz",
+   "team": "pereira",
+   "position": "FW",
+   "shirt_number": 29,
+   "age": null,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Pereira",
+   "id": "manuel-diaz"
+  },
+  {
+   "name": "Andrés Calderón",
+   "team": "pereira",
+   "position": "FW",
+   "shirt_number": 31,
+   "age": 17,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Pereira",
+   "id": "andres-calderon"
+  },
+  {
+   "name": "Andrés Mosquera",
+   "team": "santafe",
+   "position": "GK",
+   "shirt_number": 1,
+   "age": 34,
+   "source": "https://es.wikipedia.org/wiki/Club_Independiente_Santa_Fe",
+   "id": "andres-mosquera"
+  },
+  {
+   "name": "Weimar Asprilla",
+   "team": "santafe",
+   "position": "GK",
+   "shirt_number": 12,
+   "age": 27,
+   "source": "https://es.wikipedia.org/wiki/Club_Independiente_Santa_Fe",
+   "id": "weimar-asprilla"
+  },
+  {
+   "name": "Emiliano Contreras",
+   "team": "santafe",
+   "position": "GK",
+   "shirt_number": 30,
+   "age": 19,
+   "source": "https://es.wikipedia.org/wiki/Club_Independiente_Santa_Fe",
+   "id": "emiliano-contreras"
+  },
+  {
+   "name": "Juan Espitia",
+   "team": "santafe",
+   "position": "GK",
+   "shirt_number": 31,
+   "age": 26,
+   "source": "https://es.wikipedia.org/wiki/Club_Independiente_Santa_Fe",
+   "id": "juan-espitia"
+  },
+  {
+   "name": "Carlos Nemocón",
+   "team": "santafe",
+   "position": "GK",
+   "shirt_number": 33,
+   "age": 18,
+   "source": "https://es.wikipedia.org/wiki/Club_Independiente_Santa_Fe",
+   "id": "carlos-nemocon"
+  },
+  {
+   "name": "Jhoyler Andrades",
+   "team": "santafe",
+   "position": "GK",
+   "shirt_number": 36,
+   "age": 22,
+   "source": "https://es.wikipedia.org/wiki/Club_Independiente_Santa_Fe",
+   "id": "jhoyler-andrades"
+  },
+  {
+   "name": "Juan Quintero",
+   "team": "santafe",
+   "position": "DF",
+   "shirt_number": 2,
+   "age": 31,
+   "source": "https://es.wikipedia.org/wiki/Club_Independiente_Santa_Fe",
+   "id": "juan-quintero"
+  },
+  {
+   "name": "Víctor Moreno",
+   "team": "santafe",
+   "position": "DF",
+   "shirt_number": 3,
+   "age": 31,
+   "source": "https://es.wikipedia.org/wiki/Club_Independiente_Santa_Fe",
+   "id": "victor-moreno"
+  },
+  {
+   "name": "Mateo Puerta",
+   "team": "santafe",
+   "position": "DF",
+   "shirt_number": 4,
+   "age": 29,
+   "source": "https://es.wikipedia.org/wiki/Club_Independiente_Santa_Fe",
+   "id": "mateo-puerta"
+  },
+  {
+   "name": "Helibelton Palacios",
+   "team": "santafe",
+   "position": "DF",
+   "shirt_number": 13,
+   "age": 33,
+   "source": "https://es.wikipedia.org/wiki/Club_Independiente_Santa_Fe",
+   "id": "helibelton-palacios"
+  },
+  {
+   "name": "Iván Scarpeta",
+   "team": "santafe",
+   "position": "DF",
+   "shirt_number": 15,
+   "age": 30,
+   "source": "https://es.wikipedia.org/wiki/Club_Independiente_Santa_Fe",
+   "id": "ivan-scarpeta"
+  },
+  {
+   "name": "Emanuel Olivera",
+   "team": "santafe",
+   "position": "DF",
+   "shirt_number": 18,
+   "age": 36,
+   "source": "https://es.wikipedia.org/wiki/Club_Independiente_Santa_Fe",
+   "id": "emanuel-olivera"
+  },
+  {
+   "name": "Jeison Angulo",
+   "team": "santafe",
+   "position": "DF",
+   "shirt_number": 24,
+   "age": 30,
+   "source": "https://es.wikipedia.org/wiki/Club_Independiente_Santa_Fe",
+   "id": "jeison-angulo"
+  },
+  {
+   "name": "Christian Mafla",
+   "team": "santafe",
+   "position": "DF",
+   "shirt_number": 32,
+   "age": 33,
+   "source": "https://es.wikipedia.org/wiki/Club_Independiente_Santa_Fe",
+   "id": "christian-mafla"
+  },
+  {
+   "name": "Kevin Balanta",
+   "team": "santafe",
+   "position": "DF",
+   "shirt_number": 35,
+   "age": 29,
+   "source": "https://es.wikipedia.org/wiki/Club_Independiente_Santa_Fe",
+   "id": "kevin-balanta-santafe"
+  },
+  {
+   "name": "Jean Carlos Caicedo",
+   "team": "santafe",
+   "position": "DF",
+   "shirt_number": 43,
+   "age": 19,
+   "source": "https://es.wikipedia.org/wiki/Club_Independiente_Santa_Fe",
+   "id": "jean-carlos-caicedo"
+  },
+  {
+   "name": "Kilian Toscano",
+   "team": "santafe",
+   "position": "MF",
+   "shirt_number": 6,
+   "age": 22,
+   "source": "https://es.wikipedia.org/wiki/Club_Independiente_Santa_Fe",
+   "id": "kilian-toscano"
+  },
+  {
+   "name": "Jhojan Torres",
+   "team": "santafe",
+   "position": "MF",
+   "shirt_number": 7,
+   "age": 23,
+   "source": "https://es.wikipedia.org/wiki/Club_Independiente_Santa_Fe",
+   "id": "jhojan-torres"
+  },
+  {
+   "name": "Franco Fagúndez",
+   "team": "santafe",
+   "position": "MF",
+   "shirt_number": 9,
+   "age": 26,
+   "source": "https://es.wikipedia.org/wiki/Club_Independiente_Santa_Fe",
+   "id": "franco-fagundez"
+  },
+  {
+   "name": "Alexis Zapata",
+   "team": "santafe",
+   "position": "MF",
+   "shirt_number": 10,
+   "age": 31,
+   "source": "https://es.wikipedia.org/wiki/Club_Independiente_Santa_Fe",
+   "id": "alexis-zapata"
+  },
+  {
+   "name": "Daniel Torres",
+   "team": "santafe",
+   "position": "MF",
+   "shirt_number": 16,
+   "age": 36,
+   "source": "https://es.wikipedia.org/wiki/Club_Independiente_Santa_Fe",
+   "id": "daniel-torres"
+  },
+  {
+   "name": "Maximiliano Lovera",
+   "team": "santafe",
+   "position": "MF",
+   "shirt_number": 17,
+   "age": 27,
+   "source": "https://es.wikipedia.org/wiki/Club_Independiente_Santa_Fe",
+   "id": "maximiliano-lovera"
+  },
+  {
+   "name": "Yílmar Velásquez",
+   "team": "santafe",
+   "position": "MF",
+   "shirt_number": 20,
+   "age": 27,
+   "source": "https://es.wikipedia.org/wiki/Club_Independiente_Santa_Fe",
+   "id": "yilmar-velasquez"
+  },
+  {
+   "name": "Ewil Murillo",
+   "team": "santafe",
+   "position": "MF",
+   "shirt_number": 21,
+   "age": 26,
+   "source": "https://es.wikipedia.org/wiki/Club_Independiente_Santa_Fe",
+   "id": "ewil-murillo"
+  },
+  {
+   "name": "Omar Fernández",
+   "team": "santafe",
+   "position": "FW",
+   "shirt_number": 8,
+   "age": 33,
+   "source": "https://es.wikipedia.org/wiki/Club_Independiente_Santa_Fe",
+   "id": "omar-fernandez"
+  },
+  {
+   "name": "Hugo Rodallega",
+   "team": "santafe",
+   "position": "FW",
+   "shirt_number": 11,
+   "age": 41,
+   "source": "https://es.wikipedia.org/wiki/Club_Independiente_Santa_Fe",
+   "id": "hugo-rodallega"
+  },
+  {
+   "name": "Luis Palacios",
+   "team": "santafe",
+   "position": "FW",
+   "shirt_number": 14,
+   "age": 25,
+   "source": "https://es.wikipedia.org/wiki/Club_Independiente_Santa_Fe",
+   "id": "luis-palacios-santafe"
+  },
+  {
+   "name": "Nahuel Bustos",
+   "team": "santafe",
+   "position": "FW",
+   "shirt_number": 19,
+   "age": 28,
+   "source": "https://es.wikipedia.org/wiki/Club_Independiente_Santa_Fe",
+   "id": "nahuel-bustos"
+  },
+  {
+   "name": "Emerson Rodríguez",
+   "team": "santafe",
+   "position": "FW",
+   "shirt_number": 25,
+   "age": 26,
+   "source": "https://es.wikipedia.org/wiki/Club_Independiente_Santa_Fe",
+   "id": "emerson-rodriguez"
+  },
+  {
+   "name": "Marlon Balanta",
+   "team": "santafe",
+   "position": "FW",
+   "shirt_number": 34,
+   "age": 18,
+   "source": "https://es.wikipedia.org/wiki/Club_Independiente_Santa_Fe",
+   "id": "marlon-balanta"
+  },
+  {
+   "name": "Cristhian Portocarrero",
+   "team": "santafe",
+   "position": "FW",
+   "shirt_number": 39,
+   "age": 18,
+   "source": "https://es.wikipedia.org/wiki/Club_Independiente_Santa_Fe",
+   "id": "cristhian-portocarrero"
+  },
+  {
+   "name": "Martín Palacios",
+   "team": "santafe",
+   "position": "FW",
+   "shirt_number": 40,
+   "age": 19,
+   "source": "https://es.wikipedia.org/wiki/Club_Independiente_Santa_Fe",
+   "id": "martin-palacios"
+  },
+  {
+   "name": "Yan Carlos Vega",
+   "team": "santafe",
+   "position": "FW",
+   "shirt_number": 41,
+   "age": 21,
+   "source": "https://es.wikipedia.org/wiki/Club_Independiente_Santa_Fe",
+   "id": "yan-carlos-vega"
+  },
+  {
+   "name": "Jáder Obrian",
+   "team": "santafe",
+   "position": "FW",
+   "shirt_number": 77,
+   "age": 31,
+   "source": "https://es.wikipedia.org/wiki/Club_Independiente_Santa_Fe",
+   "id": "jader-obrian"
+  },
+  {
+   "name": "Neto Volpi",
+   "team": "tolima",
+   "position": "GK",
+   "shirt_number": 1,
+   "age": 34,
+   "source": "https://es.wikipedia.org/wiki/Deportes_Tolima",
+   "id": "neto-volpi"
+  },
+  {
+   "name": "Gali José Balanta",
+   "team": "tolima",
+   "position": "GK",
+   "shirt_number": 23,
+   "age": 24,
+   "source": "https://es.wikipedia.org/wiki/Deportes_Tolima",
+   "id": "gali-jose-balanta"
+  },
+  {
+   "name": "Miguel Ortega",
+   "team": "tolima",
+   "position": "GK",
+   "shirt_number": 70,
+   "age": 31,
+   "source": "https://es.wikipedia.org/wiki/Deportes_Tolima",
+   "id": "miguel-ortega"
+  },
+  {
+   "name": "Anderson Angulo",
+   "team": "tolima",
+   "position": "DF",
+   "shirt_number": 2,
+   "age": 30,
+   "source": "https://es.wikipedia.org/wiki/Deportes_Tolima",
+   "id": "anderson-angulo"
+  },
+  {
+   "name": "Jan Carlos Angulo",
+   "team": "tolima",
+   "position": "DF",
+   "shirt_number": 3,
+   "age": 25,
+   "source": "https://es.wikipedia.org/wiki/Deportes_Tolima",
+   "id": "jan-carlos-angulo"
+  },
+  {
+   "name": "Daniel Pedrozo",
+   "team": "tolima",
+   "position": "DF",
+   "shirt_number": 4,
+   "age": 22,
+   "source": "https://es.wikipedia.org/wiki/Deportes_Tolima",
+   "id": "daniel-pedrozo"
+  },
+  {
+   "name": "Juan José Mera",
+   "team": "tolima",
+   "position": "DF",
+   "shirt_number": 5,
+   "age": 24,
+   "source": "https://es.wikipedia.org/wiki/Deportes_Tolima",
+   "id": "juan-jose-mera"
+  },
+  {
+   "name": "Cristian Arrieta",
+   "team": "tolima",
+   "position": "DF",
+   "shirt_number": 17,
+   "age": 30,
+   "source": "https://es.wikipedia.org/wiki/Deportes_Tolima",
+   "id": "cristian-arrieta"
+  },
+  {
+   "name": "Junior Hernández",
+   "team": "tolima",
+   "position": "DF",
+   "shirt_number": 20,
+   "age": 27,
+   "source": "https://es.wikipedia.org/wiki/Deportes_Tolima",
+   "id": "junior-hernandez"
+  },
+  {
+   "name": "Shean Paul Barbosa",
+   "team": "tolima",
+   "position": "DF",
+   "shirt_number": 30,
+   "age": 22,
+   "source": "https://es.wikipedia.org/wiki/Deportes_Tolima",
+   "id": "shean-paul-barbosa"
+  },
+  {
+   "name": "Jherson Mosquera",
+   "team": "tolima",
+   "position": "DF",
+   "shirt_number": 33,
+   "age": 26,
+   "source": "https://es.wikipedia.org/wiki/Deportes_Tolima",
+   "id": "jherson-mosquera"
+  },
+  {
+   "name": "Yordan Osorio",
+   "team": "tolima",
+   "position": "DF",
+   "shirt_number": 71,
+   "age": 32,
+   "source": "https://es.wikipedia.org/wiki/Deportes_Tolima",
+   "id": "yordan-osorio"
+  },
+  {
+   "name": "Cristian Trujillo",
+   "team": "tolima",
+   "position": "MF",
+   "shirt_number": 6,
+   "age": 28,
+   "source": "https://es.wikipedia.org/wiki/Deportes_Tolima",
+   "id": "cristian-trujillo"
+  },
+  {
+   "name": "Luis Sánchez",
+   "team": "tolima",
+   "position": "MF",
+   "shirt_number": 10,
+   "age": 25,
+   "source": "https://es.wikipedia.org/wiki/Deportes_Tolima",
+   "id": "luis-sanchez"
+  },
+  {
+   "name": "Homer Martínez",
+   "team": "tolima",
+   "position": "MF",
+   "shirt_number": 14,
+   "age": 28,
+   "source": "https://es.wikipedia.org/wiki/Deportes_Tolima",
+   "id": "homer-martinez"
+  },
+  {
+   "name": "Víctor Manuel Reyes",
+   "team": "tolima",
+   "position": "MF",
+   "shirt_number": 16,
+   "age": 19,
+   "source": "https://es.wikipedia.org/wiki/Deportes_Tolima",
+   "id": "victor-manuel-reyes"
+  },
+  {
+   "name": "Santiago Joven",
+   "team": "tolima",
+   "position": "MF",
+   "shirt_number": 19,
+   "age": 18,
+   "source": "https://es.wikipedia.org/wiki/Deportes_Tolima",
+   "id": "santiago-joven"
+  },
+  {
+   "name": "Neifer Sánchez",
+   "team": "tolima",
+   "position": "MF",
+   "shirt_number": 29,
+   "age": 18,
+   "source": "https://es.wikipedia.org/wiki/Deportes_Tolima",
+   "id": "neifer-sanchez"
+  },
+  {
+   "name": "Sebastián Guzmán",
+   "team": "tolima",
+   "position": "MF",
+   "shirt_number": 32,
+   "age": 29,
+   "source": "https://es.wikipedia.org/wiki/Deportes_Tolima",
+   "id": "sebastian-guzman"
+  },
+  {
+   "name": "Bryan Rovira",
+   "team": "tolima",
+   "position": "MF",
+   "shirt_number": 80,
+   "age": 29,
+   "source": "https://es.wikipedia.org/wiki/Deportes_Tolima",
+   "id": "bryan-rovira"
+  },
+  {
+   "name": "Jorge Hurtado",
+   "team": "tolima",
+   "position": "FW",
+   "shirt_number": 7,
+   "age": 22,
+   "source": "https://es.wikipedia.org/wiki/Deportes_Tolima",
+   "id": "jorge-hurtado"
+  },
+  {
+   "name": "Ever Valencia",
+   "team": "tolima",
+   "position": "FW",
+   "shirt_number": 8,
+   "age": 29,
+   "source": "https://es.wikipedia.org/wiki/Deportes_Tolima",
+   "id": "ever-valencia"
+  },
+  {
+   "name": "Luis Sandoval",
+   "team": "tolima",
+   "position": "FW",
+   "shirt_number": 9,
+   "age": 27,
+   "source": "https://es.wikipedia.org/wiki/Deportes_Tolima",
+   "id": "luis-sandoval"
+  },
+  {
+   "name": "Jáder Valencia",
+   "team": "tolima",
+   "position": "FW",
+   "shirt_number": 11,
+   "age": 26,
+   "source": "https://es.wikipedia.org/wiki/Deportes_Tolima",
+   "id": "jader-valencia"
+  },
+  {
+   "name": "Sergio Aguayo",
+   "team": "tolima",
+   "position": "FW",
+   "shirt_number": 15,
+   "age": 23,
+   "source": "https://es.wikipedia.org/wiki/Deportes_Tolima",
+   "id": "sergio-aguayo"
+  },
+  {
+   "name": "Kelvin Flórez",
+   "team": "tolima",
+   "position": "FW",
+   "shirt_number": 18,
+   "age": 22,
+   "source": "https://es.wikipedia.org/wiki/Deportes_Tolima",
+   "id": "kelvin-florez"
+  },
+  {
+   "name": "Adrián Parra",
+   "team": "tolima",
+   "position": "FW",
+   "shirt_number": 24,
+   "age": 29,
+   "source": "https://es.wikipedia.org/wiki/Deportes_Tolima",
+   "id": "adrian-parra"
+  },
+  {
+   "name": "Edwar López",
+   "team": "tolima",
+   "position": "FW",
+   "shirt_number": 28,
+   "age": 31,
+   "source": "https://es.wikipedia.org/wiki/Deportes_Tolima",
+   "id": "edwar-lopez"
+  },
+  {
+   "name": "Yoimar Moreno",
+   "team": "tolima",
+   "position": "FW",
+   "shirt_number": 31,
+   "age": 18,
+   "source": "https://es.wikipedia.org/wiki/Deportes_Tolima",
+   "id": "yoimar-moreno"
+  }
+ ]
+}
