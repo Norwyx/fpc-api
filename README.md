@@ -18,29 +18,29 @@ Una vez publicado el repo (con GitHub Pages activado):
 
 ```bash
 # Catálogo de la API
-curl -s https://USER.github.io/fpc-api/v1/index.json
+curl -s https://Norwyx.github.io/fpc-api/v1/index.json
 
 # Clubes (activos e históricos, con ciudad, estadio, fundación y colores)
-curl -s https://USER.github.io/fpc-api/v1/teams.json
+curl -s https://Norwyx.github.io/fpc-api/v1/teams.json
 
 # Una temporada: standings, partidos con fecha y marcador, goleadores, asistencias
-curl -s https://USER.github.io/fpc-api/v1/seasons/2026-i.json
+curl -s https://Norwyx.github.io/fpc-api/v1/seasons/2026-i.json
 
 # Campeones de toda la era profesional (1948–hoy)
-curl -s https://USER.github.io/fpc-api/v1/champions.json
+curl -s https://Norwyx.github.io/fpc-api/v1/champions.json
 ```
 
 Sin Pages también funciona (CORS incluido en `raw.githubusercontent.com`):
 
 ```bash
-curl -s https://raw.githubusercontent.com/USER/fpc-api/main/docs/v1/teams.json
+curl -s https://raw.githubusercontent.com/Norwyx/fpc-api/main/docs/v1/teams.json
 ```
 
 JavaScript:
 
 ```js
-const seasons = await fetch("https://USER.github.io/fpc-api/v1/seasons.json").then(r => r.json());
-const season  = await fetch(`https://USER.github.io/fpc-api/v1/seasons/2026-ii.json`).then(r => r.json());
+const seasons = await fetch("https://Norwyx.github.io/fpc-api/v1/seasons.json").then(r => r.json());
+const season  = await fetch(`https://Norwyx.github.io/fpc-api/v1/seasons/2026-ii.json`).then(r => r.json());
 season.matches.filter(m => m.status === "played" && m.round === 7);
 ```
 
