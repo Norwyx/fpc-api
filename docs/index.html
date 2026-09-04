@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>FPC API — Fútbol Profesional Colombiano</title>
+<style>
+  :root {
+    --bg: #0d1117; --panel: #161b22; --border: #30363d; --text: #e6edf3;
+    --muted: #8b949e; --accent: #ffd200; --green: #3fb950; --blue: #58a6ff;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background: var(--bg); color: var(--text); line-height: 1.55;
+  }
+  .wrap { max-width: 980px; margin: 0 auto; padding: 2.5rem 1.25rem 4rem; }
+  header { border-bottom: 1px solid var(--border); padding-bottom: 1.5rem; margin-bottom: 2rem; }
+  h1 { font-size: 1.9rem; letter-spacing: -0.02em; }
+  h1 .flag { color: var(--accent); }
+  .tagline { color: var(--muted); margin-top: 0.35rem; }
+  .badges { margin-top: 0.9rem; display: flex; gap: 0.5rem; flex-wrap: wrap; }
+  .badge {
+    font-size: 0.75rem; border: 1px solid var(--border); border-radius: 999px;
+    padding: 0.15rem 0.7rem; color: var(--muted);
+  }
+  .badge.ok { color: var(--green); border-color: #1f6f37; }
+  h2 { font-size: 1.1rem; margin: 2.2rem 0 0.9rem; color: var(--accent); }
+  .cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 0.9rem; }
+  .card {
+    background: var(--panel); border: 1px solid var(--border); border-radius: 10px;
+    padding: 1rem 1.1rem; transition: border-color .15s;
+  }
+  .card:hover { border-color: var(--blue); }
+  .card .path { font-family: ui-monospace, "SF Mono", Menlo, monospace; font-size: 0.85rem; color: var(--blue); word-break: break-all; }
+  .card .desc { font-size: 0.85rem; color: var(--muted); margin-top: 0.4rem; }
+  table { width: 100%; border-collapse: collapse; font-size: 0.88rem; background: var(--panel); border: 1px solid var(--border); border-radius: 10px; overflow: hidden; }
+  th, td { text-align: left; padding: 0.55rem 0.9rem; border-bottom: 1px solid var(--border); }
+  th { color: var(--muted); font-weight: 600; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.05em; }
+  tr:last-child td { border-bottom: none; }
+  a { color: var(--blue); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  pre {
+    background: var(--panel); border: 1px solid var(--border); border-radius: 10px;
+    padding: 1rem 1.2rem; overflow-x: auto; font-size: 0.82rem; line-height: 1.6;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+  }
+  pre .c { color: var(--muted); }
+  .meta { color: var(--muted); font-size: 0.8rem; margin-top: 2.5rem; }
+  .status { display: inline-block; width: 8px; height: 8px; border-radius: 50%; margin-right: 6px; }
+  .status.completed { background: var(--green); }
+  .status.in_progress { background: var(--accent); }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>FPC API <span class="flag">⚽🇨🇴</span></h1>
+    <p class="tagline">API pública y abierta de datos del fútbol profesional colombiano — Categoría Primera A (Liga BetPlay Dimayor).</p>
+    <div class="badges">
+      <span class="badge ok" id="badge-status">● cargando…</span>
+      <span class="badge" id="badge-updated">actualizado —</span>
+      <span class="badge">datos: Wikipedia (CC BY-SA)</span>
+      <span class="badge">código: MIT</span>
+    </div>
+  </header>
+
+  <h2>Endpoints</h2>
+  <div class="cards" id="endpoints"></div>
+
+  <h2>Temporadas disponibles</h2>
+  <table>
+    <thead><tr><th>Temporada</th><th>Torneo</th><th>Estado</th><th>Partidos</th><th>Campeón</th><th>JSON</th></tr></thead>
+    <tbody id="seasons"><tr><td colspan="6">cargando…</td></tr></tbody>
+  </table>
+
+  <h2>Consumo</h2>
+<pre><span class="c"># Tabla de equipos</span>
+curl -s https://raw.githubusercontent.com/USER/fpc-api/main/docs/v1/teams.json
+
+<span class="c"># Una temporada completa (posiciones, partidos, goleadores, asistencias)</span>
+curl -s https://raw.githubusercontent.com/USER/fpc-api/main/docs/v1/seasons/2026-i.json
+
+<span class="c"># Con GitHub Pages activado (Settings → Pages → GitHub Actions)</span>
+curl -s https://USER.github.io/fpc-api/v1/index.json
+
+<span class="c"># JavaScript (CORS habilitado)</span>
+const data = await fetch('https://USER.github.io/fpc-api/v1/teams.json').then(r => r.json());</pre>
+
+  <p class="meta">
+    Proyecto independiente, no afiliado a DIMAYOR ni a la Federación Colombiana de Fútbol.
+    Datos extraídos de Wikipedia en español y publicados bajo CC BY-SA 4.0 · Código bajo MIT ·
+    <a href="https://github.com/USER/fpc-api">repositorio</a>
+  </p>
+</div>
+
+<script>
+(async () => {
+  const base = document.location.pathname.replace(/[^/]*$/, "");
+  try {
+    const idx = await fetch(base + "v1/index.json").then(r => r.json());
+    document.getElementById("badge-updated").textContent = "actualizado " + (idx.meta.updated || "").slice(0, 10);
+    document.getElementById("badge-status").textContent = "● " + idx.seasons.length + " temporadas";
+    document.getElementById("endpoints").innerHTML = idx.endpoints.map(e =>
+      `<div class="card"><div class="path">${e.path}</div><div class="desc">${e.description}</div></div>`).join("");
+    const rows = idx.seasons.map(s => {
+      const t = s.tournament === "apertura" ? "Apertura" : "Finalización";
+      return `<tr>
+        <td><strong>${s.id}</strong></td><td>${t}</td>
+        <td><span class="status ${s.status}"></span>${s.status === "completed" ? "finalizado" : "en curso"}</td>
+        <td>${s.n_matches}</td><td>${s.champion ?? "—"}</td>
+        <td><a href="v1/seasons/${s.id}.json">ver</a></td></tr>`;
+    }).join("");
+    document.getElementById("seasons").innerHTML = rows;
+  } catch (e) {
+    document.getElementById("badge-status").textContent = "● sin index.json local";
+    document.getElementById("seasons").innerHTML =
+      `<tr><td colspan="6">Ejecuta <code>python -m fpc_api.build all</code> para generar los datos.</td></tr>`;
+  }
+})();
+</script>
+</body>
+</html>
