@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-09-03T20:45:26Z",
+  "updated": "2026-09-05T16:34:49Z",
   "source": "es.wikipedia.org (secciones 'Plantilla' de cada club)",
   "warnings": [
    "homónimos 'javier-mena' en ['aguilas', 'pereira']: ids sufijados con el club",
@@ -3222,7 +3222,7 @@
    "team": "llaneros",
    "position": "DF",
    "shirt_number": 4,
-   "age": 21,
+   "age": 22,
    "source": "https://es.wikipedia.org/wiki/Club_Llaneros",
    "id": "juan-pertuz"
   },
@@ -4127,15 +4127,6 @@
    "id": "yeicar-perlaza"
   },
   {
-   "name": "Simón García",
-   "team": "nacional",
-   "position": "DF",
-   "shirt_number": 28,
-   "age": 21,
-   "source": "https://es.wikipedia.org/wiki/Atlético_Nacional",
-   "id": "simon-garcia"
-  },
-  {
    "name": "Samuel Velásquez",
    "team": "nacional",
    "position": "DF",
@@ -4482,7 +4473,7 @@
    "team": "pasto",
    "position": "MF",
    "shirt_number": 17,
-   "age": 21,
+   "age": 22,
    "source": "https://es.wikipedia.org/wiki/Deportivo_Pasto",
    "id": "john-mendez"
   },
@@ -4784,6 +4775,15 @@
    "id": "miguel-aguirre"
   },
   {
+   "name": "Javier Mena",
+   "team": "pereira",
+   "position": "MF",
+   "shirt_number": 30,
+   "age": 20,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Pereira",
+   "id": "javier-mena-pereira"
+  },
+  {
    "name": "Yúber Quiñones",
    "team": "pereira",
    "position": "MF",
@@ -4791,15 +4791,6 @@
    "age": 23,
    "source": "https://es.wikipedia.org/wiki/Deportivo_Pereira",
    "id": "yuber-quinones"
-  },
-  {
-   "name": "Javier Mena",
-   "team": "pereira",
-   "position": "MF",
-   "shirt_number": null,
-   "age": 20,
-   "source": "https://es.wikipedia.org/wiki/Deportivo_Pereira",
-   "id": "javier-mena-pereira"
   },
   {
    "name": "Anderson Plata",

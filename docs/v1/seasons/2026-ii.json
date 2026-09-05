@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-09-03T19:49:42Z",
+  "updated": "2026-09-05T16:34:28Z",
   "source": "https://es.wikipedia.org/wiki/Torneo_Finalización_2026_(Colombia)"
  },
  "season": {
@@ -40,18 +40,30 @@
   {
    "team": "america",
    "position": 1,
-   "played": 7,
-   "won": 5,
+   "played": 8,
+   "won": 6,
    "drawn": 2,
    "lost": 0,
-   "goals_for": 17,
+   "goals_for": 20,
    "goals_against": 4,
-   "goal_diff": 13,
-   "points": 17
+   "goal_diff": 16,
+   "points": 20
+  },
+  {
+   "team": "medellin",
+   "position": 2,
+   "played": 6,
+   "won": 5,
+   "drawn": 0,
+   "lost": 1,
+   "goals_for": 12,
+   "goals_against": 6,
+   "goal_diff": 6,
+   "points": 15
   },
   {
    "team": "tolima",
-   "position": 2,
+   "position": 3,
    "played": 6,
    "won": 4,
    "drawn": 1,
@@ -63,7 +75,7 @@
   },
   {
    "team": "nacional",
-   "position": 3,
+   "position": 4,
    "played": 5,
    "won": 4,
    "drawn": 0,
@@ -71,18 +83,6 @@
    "goals_for": 12,
    "goals_against": 4,
    "goal_diff": 8,
-   "points": 12
-  },
-  {
-   "team": "medellin",
-   "position": 4,
-   "played": 5,
-   "won": 4,
-   "drawn": 0,
-   "lost": 1,
-   "goals_for": 9,
-   "goals_against": 6,
-   "goal_diff": 3,
    "points": 12
   },
   {
@@ -208,13 +208,13 @@
   {
    "team": "pereira",
    "position": 15,
-   "played": 4,
+   "played": 5,
    "won": 1,
    "drawn": 2,
-   "lost": 1,
+   "lost": 2,
    "goals_for": 2,
-   "goals_against": 2,
-   "goal_diff": 0,
+   "goals_against": 5,
+   "goal_diff": 3,
    "points": 5
   },
   {
@@ -244,13 +244,13 @@
   {
    "team": "alianza",
    "position": 18,
-   "played": 6,
+   "played": 7,
    "won": 0,
    "drawn": 2,
-   "lost": 4,
+   "lost": 5,
    "goals_for": 5,
-   "goals_against": 12,
-   "goal_diff": 7,
+   "goals_against": 15,
+   "goal_diff": 10,
    "points": 2
   },
   {
@@ -383,7 +383,7 @@
    "id": "2026-ii-regular-r1-chico-nacional",
    "stage": "regular",
    "round": 1,
-   "date": "2026-09-09",
+   "date": "2026-10-17",
    "home": "chico",
    "away": "nacional",
    "home_goals": null,
@@ -702,7 +702,7 @@
    "id": "2026-ii-regular-r4-medellin-millonarios",
    "stage": "regular",
    "round": 4,
-   "date": null,
+   "date": "2026-09-29",
    "home": "medellin",
    "away": "millonarios",
    "home_goals": null,
@@ -713,7 +713,7 @@
    "id": "2026-ii-regular-r4-junior-pereira",
    "stage": "regular",
    "round": 4,
-   "date": null,
+   "date": "2026-10-14",
    "home": "junior",
    "away": "pereira",
    "home_goals": null,
@@ -743,12 +743,12 @@
    "status": "scheduled"
   },
   {
-   "id": "2026-ii-regular-r5-nacional-santafe",
+   "id": "2026-ii-regular-r5-cucuta-aguilas",
    "stage": "regular",
    "round": 5,
-   "date": null,
-   "home": "nacional",
-   "away": "santafe",
+   "date": "2026-10-27",
+   "home": "cucuta",
+   "away": "aguilas",
    "home_goals": null,
    "away_goals": null,
    "status": "scheduled"
@@ -757,64 +757,9 @@
    "id": "2026-ii-regular-r5-chico-junior",
    "stage": "regular",
    "round": 5,
-   "date": null,
+   "date": "2026-10-27",
    "home": "chico",
    "away": "junior",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "id": "2026-ii-regular-r5-cucuta-aguilas",
-   "stage": "regular",
-   "round": 5,
-   "date": null,
-   "home": "cucuta",
-   "away": "aguilas",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "id": "2026-ii-regular-r5-internacional-bogota-medellin",
-   "stage": "regular",
-   "round": 5,
-   "date": null,
-   "home": "internacional-bogota",
-   "away": "medellin",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "id": "2026-ii-regular-r5-bucamanga-pasto",
-   "stage": "regular",
-   "round": 5,
-   "date": null,
-   "home": "bucamanga",
-   "away": "pasto",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "id": "2026-ii-regular-r5-america-fortaleza",
-   "stage": "regular",
-   "round": 5,
-   "date": null,
-   "home": "america",
-   "away": "fortaleza",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "id": "2026-ii-regular-r5-pereira-jaguares",
-   "stage": "regular",
-   "round": 5,
-   "date": null,
-   "home": "pereira",
-   "away": "jaguares",
    "home_goals": null,
    "away_goals": null,
    "status": "scheduled"
@@ -823,9 +768,64 @@
    "id": "2026-ii-regular-r5-caldas-alianza",
    "stage": "regular",
    "round": 5,
-   "date": null,
+   "date": "2026-10-28",
    "home": "caldas",
    "away": "alianza",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "id": "2026-ii-regular-r5-internacional-bogota-medellin",
+   "stage": "regular",
+   "round": 5,
+   "date": "2026-10-28",
+   "home": "internacional-bogota",
+   "away": "medellin",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "id": "2026-ii-regular-r5-america-fortaleza",
+   "stage": "regular",
+   "round": 5,
+   "date": "2026-10-29",
+   "home": "america",
+   "away": "fortaleza",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "id": "2026-ii-regular-r5-nacional-santafe",
+   "stage": "regular",
+   "round": 5,
+   "date": "2026-10-29",
+   "home": "nacional",
+   "away": "santafe",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "id": "2026-ii-regular-r5-pereira-jaguares",
+   "stage": "regular",
+   "round": 5,
+   "date": "2026-10-30",
+   "home": "pereira",
+   "away": "jaguares",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "id": "2026-ii-regular-r5-bucamanga-pasto",
+   "stage": "regular",
+   "round": 5,
+   "date": "2026-10-30",
+   "home": "bucamanga",
+   "away": "pasto",
    "home_goals": null,
    "away_goals": null,
    "status": "scheduled"
@@ -1013,6 +1013,17 @@
    "date": "2026-09-03",
    "home": "pereira",
    "away": "medellin",
+   "home_goals": 0,
+   "away_goals": 3,
+   "status": "played"
+  },
+  {
+   "id": "2026-ii-regular-r7-caldas-tolima",
+   "stage": "regular",
+   "round": 7,
+   "date": "2026-09-16",
+   "home": "caldas",
+   "away": "tolima",
    "home_goals": null,
    "away_goals": null,
    "status": "scheduled"
@@ -1021,7 +1032,7 @@
    "id": "2026-ii-regular-r7-bucamanga-aguilas",
    "stage": "regular",
    "round": 7,
-   "date": null,
+   "date": "2026-09-17",
    "home": "bucamanga",
    "away": "aguilas",
    "home_goals": null,
@@ -1032,20 +1043,9 @@
    "id": "2026-ii-regular-r7-santafe-jaguares",
    "stage": "regular",
    "round": 7,
-   "date": null,
+   "date": "2026-10-14",
    "home": "santafe",
    "away": "jaguares",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "id": "2026-ii-regular-r7-caldas-tolima",
-   "stage": "regular",
-   "round": 7,
-   "date": null,
-   "home": "caldas",
-   "away": "tolima",
    "home_goals": null,
    "away_goals": null,
    "status": "scheduled"
@@ -1167,9 +1167,9 @@
    "date": "2026-09-03",
    "home": "america",
    "away": "alianza",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
+   "home_goals": 3,
+   "away_goals": 0,
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r9-chico-caldas",
@@ -1282,23 +1282,12 @@
    "status": "scheduled"
   },
   {
-   "id": "2026-ii-regular-r10-alianza-junior",
+   "id": "2026-ii-regular-r10-santafe-tolima",
    "stage": "regular",
    "round": 10,
    "date": "2026-09-11",
-   "home": "alianza",
-   "away": "junior",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "id": "2026-ii-regular-r10-pereira-bucamanga",
-   "stage": "regular",
-   "round": 10,
-   "date": "2026-09-12",
-   "home": "pereira",
-   "away": "bucamanga",
+   "home": "santafe",
+   "away": "tolima",
    "home_goals": null,
    "away_goals": null,
    "status": "scheduled"
@@ -1326,12 +1315,23 @@
    "status": "scheduled"
   },
   {
-   "id": "2026-ii-regular-r10-santafe-tolima",
+   "id": "2026-ii-regular-r10-alianza-junior",
+   "stage": "regular",
+   "round": 10,
+   "date": "2026-09-12",
+   "home": "alianza",
+   "away": "junior",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "id": "2026-ii-regular-r10-pereira-bucamanga",
    "stage": "regular",
    "round": 10,
    "date": "2026-09-13",
-   "home": "santafe",
-   "away": "tolima",
+   "home": "pereira",
+   "away": "bucamanga",
    "home_goals": null,
    "away_goals": null,
    "status": "scheduled"
@@ -1381,17 +1381,6 @@
    "status": "scheduled"
   },
   {
-   "id": "2026-ii-regular-r11-aguilas-pereira",
-   "stage": "regular",
-   "round": 11,
-   "date": "2026-09-18",
-   "home": "aguilas",
-   "away": "pereira",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
    "id": "2026-ii-regular-r11-medellin-jaguares",
    "stage": "regular",
    "round": 11,
@@ -1403,12 +1392,12 @@
    "status": "scheduled"
   },
   {
-   "id": "2026-ii-regular-r11-pasto-caldas",
+   "id": "2026-ii-regular-r11-millonarios-chico",
    "stage": "regular",
    "round": 11,
    "date": "2026-09-19",
-   "home": "pasto",
-   "away": "caldas",
+   "home": "millonarios",
+   "away": "chico",
    "home_goals": null,
    "away_goals": null,
    "status": "scheduled"
@@ -1436,12 +1425,12 @@
    "status": "scheduled"
   },
   {
-   "id": "2026-ii-regular-r11-millonarios-chico",
+   "id": "2026-ii-regular-r11-pasto-caldas",
    "stage": "regular",
    "round": 11,
    "date": "2026-09-19",
-   "home": "millonarios",
-   "away": "chico",
+   "home": "pasto",
+   "away": "caldas",
    "home_goals": null,
    "away_goals": null,
    "status": "scheduled"
@@ -1491,6 +1480,17 @@
    "status": "scheduled"
   },
   {
+   "id": "2026-ii-regular-r11-aguilas-pereira",
+   "stage": "regular",
+   "round": 11,
+   "date": "2026-10-08",
+   "home": "aguilas",
+   "away": "pereira",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
    "id": "2026-ii-regular-r12-santafe-cali",
    "stage": "regular",
    "round": 12,
@@ -1516,7 +1516,7 @@
    "id": "2026-ii-regular-r12-nacional-millonarios",
    "stage": "regular",
    "round": 12,
-   "date": "2026-09-23",
+   "date": "2026-09-24",
    "home": "nacional",
    "away": "millonarios",
    "home_goals": null,
@@ -1601,12 +1601,12 @@
    "status": "scheduled"
   },
   {
-   "id": "2026-ii-regular-r13-aguilas-jaguares",
+   "id": "2026-ii-regular-r13-internacional-bogota-nacional",
    "stage": "regular",
    "round": 13,
-   "date": "2026-10-03",
-   "home": "aguilas",
-   "away": "jaguares",
+   "date": "2026-09-16",
+   "home": "internacional-bogota",
+   "away": "nacional",
    "home_goals": null,
    "away_goals": null,
    "status": "scheduled"
@@ -1615,9 +1615,20 @@
    "id": "2026-ii-regular-r13-cali-alianza",
    "stage": "regular",
    "round": 13,
-   "date": "2026-10-03",
+   "date": "2026-10-02",
    "home": "cali",
    "away": "alianza",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "id": "2026-ii-regular-r13-aguilas-jaguares",
+   "stage": "regular",
+   "round": 13,
+   "date": "2026-10-03",
+   "home": "aguilas",
+   "away": "jaguares",
    "home_goals": null,
    "away_goals": null,
    "status": "scheduled"
@@ -1692,20 +1703,9 @@
    "id": "2026-ii-regular-r13-millonarios-caldas",
    "stage": "regular",
    "round": 13,
-   "date": "2026-10-13",
+   "date": "2026-10-20",
    "home": "millonarios",
    "away": "caldas",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "id": "2026-ii-regular-r13-internacional-bogota-nacional",
-   "stage": "regular",
-   "round": 13,
-   "date": "2026-10-16",
-   "home": "internacional-bogota",
-   "away": "nacional",
    "home_goals": null,
    "away_goals": null,
    "status": "scheduled"
@@ -1744,23 +1744,23 @@
    "status": "scheduled"
   },
   {
+   "id": "2026-ii-regular-r14-nacional-pasto",
+   "stage": "regular",
+   "round": 14,
+   "date": "2026-10-10",
+   "home": "nacional",
+   "away": "pasto",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
    "id": "2026-ii-regular-r14-pereira-cali",
    "stage": "regular",
    "round": 14,
    "date": "2026-10-11",
    "home": "pereira",
    "away": "cali",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "id": "2026-ii-regular-r14-nacional-pasto",
-   "stage": "regular",
-   "round": 14,
-   "date": "2026-10-11",
-   "home": "nacional",
-   "away": "pasto",
    "home_goals": null,
    "away_goals": null,
    "status": "scheduled"
@@ -1813,20 +1813,9 @@
    "id": "2026-ii-regular-r14-santafe-bucamanga",
    "stage": "regular",
    "round": 14,
-   "date": "2026-10-14",
+   "date": "2026-10-26",
    "home": "santafe",
    "away": "bucamanga",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "id": "2026-ii-regular-r15-millonarios-jaguares",
-   "stage": "regular",
-   "round": 15,
-   "date": "2026-10-17",
-   "home": "millonarios",
-   "away": "jaguares",
    "home_goals": null,
    "away_goals": null,
    "status": "scheduled"
@@ -1843,12 +1832,12 @@
    "status": "scheduled"
   },
   {
-   "id": "2026-ii-regular-r15-bucamanga-america",
+   "id": "2026-ii-regular-r15-millonarios-jaguares",
    "stage": "regular",
    "round": 15,
    "date": "2026-10-17",
-   "home": "bucamanga",
-   "away": "america",
+   "home": "millonarios",
+   "away": "jaguares",
    "home_goals": null,
    "away_goals": null,
    "status": "scheduled"
@@ -1860,6 +1849,17 @@
    "date": "2026-10-17",
    "home": "medellin",
    "away": "caldas",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "id": "2026-ii-regular-r15-bucamanga-america",
+   "stage": "regular",
+   "round": 15,
+   "date": "2026-10-18",
+   "home": "bucamanga",
+   "away": "america",
    "home_goals": null,
    "away_goals": null,
    "status": "scheduled"
@@ -1887,17 +1887,6 @@
    "status": "scheduled"
   },
   {
-   "id": "2026-ii-regular-r15-pereira-chico",
-   "stage": "regular",
-   "round": 15,
-   "date": "2026-10-19",
-   "home": "pereira",
-   "away": "chico",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
    "id": "2026-ii-regular-r15-pasto-alianza",
    "stage": "regular",
    "round": 15,
@@ -1909,12 +1898,12 @@
    "status": "scheduled"
   },
   {
-   "id": "2026-ii-regular-r15-internacional-bogota-fortaleza",
+   "id": "2026-ii-regular-r15-pereira-chico",
    "stage": "regular",
    "round": 15,
    "date": "2026-10-20",
-   "home": "internacional-bogota",
-   "away": "fortaleza",
+   "home": "pereira",
+   "away": "chico",
    "home_goals": null,
    "away_goals": null,
    "status": "scheduled"
@@ -1931,6 +1920,17 @@
    "status": "scheduled"
   },
   {
+   "id": "2026-ii-regular-r15-internacional-bogota-fortaleza",
+   "stage": "regular",
+   "round": 15,
+   "date": "2026-10-21",
+   "home": "internacional-bogota",
+   "away": "fortaleza",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
    "id": "2026-ii-regular-r16-santafe-millonarios",
    "stage": "regular",
    "round": 16,
@@ -1942,34 +1942,12 @@
    "status": "played"
   },
   {
-   "id": "2026-ii-regular-r16-america-cucuta",
-   "stage": "regular",
-   "round": 16,
-   "date": "2026-10-23",
-   "home": "america",
-   "away": "cucuta",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
    "id": "2026-ii-regular-r16-chico-bucamanga",
    "stage": "regular",
    "round": 16,
-   "date": "2026-10-24",
+   "date": "2026-10-23",
    "home": "chico",
    "away": "bucamanga",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "id": "2026-ii-regular-r16-alianza-internacional-bogota",
-   "stage": "regular",
-   "round": 16,
-   "date": "2026-10-24",
-   "home": "alianza",
-   "away": "internacional-bogota",
    "home_goals": null,
    "away_goals": null,
    "status": "scheduled"
@@ -1978,9 +1956,20 @@
    "id": "2026-ii-regular-r16-junior-aguilas",
    "stage": "regular",
    "round": 16,
-   "date": "2026-10-24",
+   "date": "2026-10-23",
    "home": "junior",
    "away": "aguilas",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "id": "2026-ii-regular-r16-america-cucuta",
+   "stage": "regular",
+   "round": 16,
+   "date": "2026-10-24",
+   "home": "america",
+   "away": "cucuta",
    "home_goals": null,
    "away_goals": null,
    "status": "scheduled"
@@ -2008,12 +1997,12 @@
    "status": "scheduled"
   },
   {
-   "id": "2026-ii-regular-r16-jaguares-llaneros",
+   "id": "2026-ii-regular-r16-alianza-internacional-bogota",
    "stage": "regular",
    "round": 16,
    "date": "2026-10-25",
-   "home": "jaguares",
-   "away": "llaneros",
+   "home": "alianza",
+   "away": "internacional-bogota",
    "home_goals": null,
    "away_goals": null,
    "status": "scheduled"
@@ -2041,34 +2030,12 @@
    "status": "scheduled"
   },
   {
-   "id": "2026-ii-regular-r17-millonarios-america",
+   "id": "2026-ii-regular-r16-jaguares-llaneros",
    "stage": "regular",
-   "round": 17,
+   "round": 16,
    "date": "2026-10-26",
-   "home": "millonarios",
-   "away": "america",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "id": "2026-ii-regular-r17-aguilas-fortaleza",
-   "stage": "regular",
-   "round": 17,
-   "date": "2026-10-29",
-   "home": "aguilas",
-   "away": "fortaleza",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "id": "2026-ii-regular-r17-pereira-tolima",
-   "stage": "regular",
-   "round": 17,
-   "date": "2026-10-29",
-   "home": "pereira",
-   "away": "tolima",
+   "home": "jaguares",
+   "away": "llaneros",
    "home_goals": null,
    "away_goals": null,
    "status": "scheduled"
@@ -2077,42 +2044,9 @@
    "id": "2026-ii-regular-r17-internacional-bogota-caldas",
    "stage": "regular",
    "round": 17,
-   "date": "2026-10-29",
+   "date": "2026-10-01",
    "home": "internacional-bogota",
    "away": "caldas",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "id": "2026-ii-regular-r17-medellin-alianza",
-   "stage": "regular",
-   "round": 17,
-   "date": "2026-10-30",
-   "home": "medellin",
-   "away": "alianza",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "id": "2026-ii-regular-r17-cali-chico",
-   "stage": "regular",
-   "round": 17,
-   "date": "2026-10-30",
-   "home": "cali",
-   "away": "chico",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "id": "2026-ii-regular-r17-cucuta-santafe",
-   "stage": "regular",
-   "round": 17,
-   "date": "2026-10-31",
-   "home": "cucuta",
-   "away": "santafe",
    "home_goals": null,
    "away_goals": null,
    "status": "scheduled"
@@ -2129,12 +2063,45 @@
    "status": "scheduled"
   },
   {
-   "id": "2026-ii-regular-r17-pasto-jaguares",
+   "id": "2026-ii-regular-r17-medellin-alianza",
    "stage": "regular",
    "round": 17,
-   "date": "2026-10-31",
-   "home": "pasto",
-   "away": "jaguares",
+   "date": "2026-11-01",
+   "home": "medellin",
+   "away": "alianza",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "id": "2026-ii-regular-r17-cali-chico",
+   "stage": "regular",
+   "round": 17,
+   "date": "2026-11-01",
+   "home": "cali",
+   "away": "chico",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "id": "2026-ii-regular-r17-aguilas-fortaleza",
+   "stage": "regular",
+   "round": 17,
+   "date": "2026-11-02",
+   "home": "aguilas",
+   "away": "fortaleza",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "id": "2026-ii-regular-r17-cucuta-santafe",
+   "stage": "regular",
+   "round": 17,
+   "date": "2026-11-02",
+   "home": "cucuta",
+   "away": "santafe",
    "home_goals": null,
    "away_goals": null,
    "status": "scheduled"
@@ -2143,9 +2110,42 @@
    "id": "2026-ii-regular-r17-bucamanga-nacional",
    "stage": "regular",
    "round": 17,
-   "date": "2026-11-01",
+   "date": "2026-11-02",
    "home": "bucamanga",
    "away": "nacional",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "id": "2026-ii-regular-r17-pereira-tolima",
+   "stage": "regular",
+   "round": 17,
+   "date": "2026-11-03",
+   "home": "pereira",
+   "away": "tolima",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "id": "2026-ii-regular-r17-millonarios-america",
+   "stage": "regular",
+   "round": 17,
+   "date": "2026-11-03",
+   "home": "millonarios",
+   "away": "america",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "id": "2026-ii-regular-r17-pasto-jaguares",
+   "stage": "regular",
+   "round": 17,
+   "date": "2026-11-04",
+   "home": "pasto",
+   "away": "jaguares",
    "home_goals": null,
    "away_goals": null,
    "status": "scheduled"
@@ -2154,7 +2154,7 @@
    "id": "2026-ii-regular-r18-fortaleza-medellin",
    "stage": "regular",
    "round": 18,
-   "date": "2026-11-02",
+   "date": "2026-11-06",
    "home": "fortaleza",
    "away": "medellin",
    "home_goals": null,
@@ -2165,7 +2165,7 @@
    "id": "2026-ii-regular-r18-caldas-aguilas",
    "stage": "regular",
    "round": 18,
-   "date": "2026-11-02",
+   "date": "2026-11-07",
    "home": "caldas",
    "away": "aguilas",
    "home_goals": null,
@@ -2176,7 +2176,7 @@
    "id": "2026-ii-regular-r18-tolima-millonarios",
    "stage": "regular",
    "round": 18,
-   "date": "2026-11-02",
+   "date": "2026-11-07",
    "home": "tolima",
    "away": "millonarios",
    "home_goals": null,
@@ -2184,23 +2184,12 @@
    "status": "scheduled"
   },
   {
-   "id": "2026-ii-regular-r18-alianza-llaneros",
+   "id": "2026-ii-regular-r18-nacional-pereira",
    "stage": "regular",
    "round": 18,
-   "date": "2026-11-03",
-   "home": "alianza",
-   "away": "llaneros",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "id": "2026-ii-regular-r18-santafe-pasto",
-   "stage": "regular",
-   "round": 18,
-   "date": "2026-11-03",
-   "home": "santafe",
-   "away": "pasto",
+   "date": "2026-11-07",
+   "home": "nacional",
+   "away": "pereira",
    "home_goals": null,
    "away_goals": null,
    "status": "scheduled"
@@ -2209,7 +2198,7 @@
    "id": "2026-ii-regular-r18-america-cali",
    "stage": "regular",
    "round": 18,
-   "date": "2026-11-03",
+   "date": "2026-11-07",
    "home": "america",
    "away": "cali",
    "home_goals": null,
@@ -2220,7 +2209,7 @@
    "id": "2026-ii-regular-r18-chico-internacional-bogota",
    "stage": "regular",
    "round": 18,
-   "date": "2026-11-04",
+   "date": "2026-11-08",
    "home": "chico",
    "away": "internacional-bogota",
    "home_goals": null,
@@ -2231,7 +2220,7 @@
    "id": "2026-ii-regular-r18-jaguares-bucamanga",
    "stage": "regular",
    "round": 18,
-   "date": "2026-11-04",
+   "date": "2026-11-08",
    "home": "jaguares",
    "away": "bucamanga",
    "home_goals": null,
@@ -2242,7 +2231,7 @@
    "id": "2026-ii-regular-r18-junior-cucuta",
    "stage": "regular",
    "round": 18,
-   "date": "2026-11-04",
+   "date": "2026-11-08",
    "home": "junior",
    "away": "cucuta",
    "home_goals": null,
@@ -2250,12 +2239,23 @@
    "status": "scheduled"
   },
   {
-   "id": "2026-ii-regular-r18-nacional-pereira",
+   "id": "2026-ii-regular-r18-alianza-llaneros",
    "stage": "regular",
    "round": 18,
-   "date": "2026-11-04",
-   "home": "nacional",
-   "away": "pereira",
+   "date": "2026-11-08",
+   "home": "alianza",
+   "away": "llaneros",
+   "home_goals": null,
+   "away_goals": null,
+   "status": "scheduled"
+  },
+  {
+   "id": "2026-ii-regular-r18-santafe-pasto",
+   "stage": "regular",
+   "round": 18,
+   "date": "2026-11-09",
+   "home": "santafe",
+   "away": "pasto",
    "home_goals": null,
    "away_goals": null,
    "status": "scheduled"
@@ -2264,7 +2264,7 @@
    "id": "2026-ii-regular-r19-nacional-caldas",
    "stage": "regular",
    "round": 19,
-   "date": "2026-11-08",
+   "date": "2026-11-12",
    "home": "nacional",
    "away": "caldas",
    "home_goals": null,
@@ -2275,7 +2275,7 @@
    "id": "2026-ii-regular-r19-aguilas-medellin",
    "stage": "regular",
    "round": 19,
-   "date": "2026-11-08",
+   "date": "2026-11-12",
    "home": "aguilas",
    "away": "medellin",
    "home_goals": null,
@@ -2286,7 +2286,7 @@
    "id": "2026-ii-regular-r19-cucuta-jaguares",
    "stage": "regular",
    "round": 19,
-   "date": "2026-11-08",
+   "date": "2026-11-12",
    "home": "cucuta",
    "away": "jaguares",
    "home_goals": null,
@@ -2297,7 +2297,7 @@
    "id": "2026-ii-regular-r19-bucamanga-fortaleza",
    "stage": "regular",
    "round": 19,
-   "date": "2026-11-08",
+   "date": "2026-11-12",
    "home": "bucamanga",
    "away": "fortaleza",
    "home_goals": null,
@@ -2308,7 +2308,7 @@
    "id": "2026-ii-regular-r19-pasto-junior",
    "stage": "regular",
    "round": 19,
-   "date": "2026-11-08",
+   "date": "2026-11-12",
    "home": "pasto",
    "away": "junior",
    "home_goals": null,
@@ -2319,7 +2319,7 @@
    "id": "2026-ii-regular-r19-internacional-bogota-santafe",
    "stage": "regular",
    "round": 19,
-   "date": "2026-11-08",
+   "date": "2026-11-12",
    "home": "internacional-bogota",
    "away": "santafe",
    "home_goals": null,
@@ -2330,7 +2330,7 @@
    "id": "2026-ii-regular-r19-millonarios-alianza",
    "stage": "regular",
    "round": 19,
-   "date": "2026-11-08",
+   "date": "2026-11-12",
    "home": "millonarios",
    "away": "alianza",
    "home_goals": null,
@@ -2341,7 +2341,7 @@
    "id": "2026-ii-regular-r19-llaneros-chico",
    "stage": "regular",
    "round": 19,
-   "date": "2026-11-08",
+   "date": "2026-11-12",
    "home": "llaneros",
    "away": "chico",
    "home_goals": null,
@@ -2352,7 +2352,7 @@
    "id": "2026-ii-regular-r19-cali-tolima",
    "stage": "regular",
    "round": 19,
-   "date": "2026-11-08",
+   "date": "2026-11-12",
    "home": "cali",
    "away": "tolima",
    "home_goals": null,
@@ -2363,7 +2363,7 @@
    "id": "2026-ii-regular-r19-pereira-america",
    "stage": "regular",
    "round": 19,
-   "date": "2026-11-08",
+   "date": "2026-11-12",
    "home": "pereira",
    "away": "america",
    "home_goals": null,
@@ -2375,8 +2375,8 @@
   {
    "player_name": "Yeison Guzmán",
    "team": "america",
-   "goals": 5,
-   "played": 7
+   "goals": 6,
+   "played": 8
   },
   {
    "player_name": "Marlos Moreno",
@@ -2387,8 +2387,8 @@
   {
    "player_name": "John Montaño",
    "team": "medellin",
-   "goals": 3,
-   "played": 5
+   "goals": 4,
+   "played": 6
   },
   {
    "player_name": "Alfredo Morelos",
