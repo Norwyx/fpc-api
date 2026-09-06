@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-09-05T16:34:28Z",
+  "updated": "2026-09-06T16:44:02Z",
   "source": "https://es.wikipedia.org/wiki/Torneo_Finalización_2026_(Colombia)"
  },
  "season": {
@@ -110,8 +110,20 @@
    "points": 11
   },
   {
-   "team": "bucamanga",
+   "team": "santafe",
    "position": 7,
+   "played": 7,
+   "won": 2,
+   "drawn": 4,
+   "lost": 1,
+   "goals_for": 11,
+   "goals_against": 9,
+   "goal_diff": 2,
+   "points": 10
+  },
+  {
+   "team": "bucamanga",
+   "position": 8,
    "played": 6,
    "won": 2,
    "drawn": 4,
@@ -123,25 +135,13 @@
   },
   {
    "team": "caldas",
-   "position": 8,
-   "played": 6,
-   "won": 2,
-   "drawn": 3,
-   "lost": 1,
-   "goals_for": 11,
-   "goals_against": 7,
-   "goal_diff": 4,
-   "points": 9
-  },
-  {
-   "team": "santafe",
    "position": 9,
-   "played": 6,
+   "played": 7,
    "won": 2,
    "drawn": 3,
-   "lost": 1,
-   "goals_for": 9,
-   "goals_against": 7,
+   "lost": 2,
+   "goals_for": 11,
+   "goals_against": 9,
    "goal_diff": 2,
    "points": 9
   },
@@ -158,8 +158,20 @@
    "points": 9
   },
   {
-   "team": "cali",
+   "team": "cucuta",
    "position": 11,
+   "played": 8,
+   "won": 2,
+   "drawn": 3,
+   "lost": 3,
+   "goals_for": 8,
+   "goals_against": 13,
+   "goal_diff": 5,
+   "points": 9
+  },
+  {
+   "team": "cali",
+   "position": 12,
    "played": 6,
    "won": 2,
    "drawn": 2,
@@ -170,20 +182,20 @@
    "points": 8
   },
   {
-   "team": "cucuta",
-   "position": 12,
-   "played": 7,
-   "won": 2,
-   "drawn": 2,
+   "team": "fortaleza",
+   "position": 13,
+   "played": 8,
+   "won": 1,
+   "drawn": 4,
    "lost": 3,
-   "goals_for": 6,
-   "goals_against": 11,
-   "goal_diff": 5,
-   "points": 8
+   "goals_for": 8,
+   "goals_against": 10,
+   "goal_diff": 2,
+   "points": 7
   },
   {
    "team": "internacional-bogota",
-   "position": 13,
+   "position": 14,
    "played": 7,
    "won": 1,
    "drawn": 4,
@@ -194,20 +206,20 @@
    "points": 7
   },
   {
-   "team": "fortaleza",
-   "position": 14,
+   "team": "jaguares",
+   "position": 15,
    "played": 7,
    "won": 1,
    "drawn": 3,
    "lost": 3,
-   "goals_for": 6,
-   "goals_against": 8,
-   "goal_diff": 2,
+   "goals_for": 7,
+   "goals_against": 12,
+   "goal_diff": 5,
    "points": 6
   },
   {
    "team": "pereira",
-   "position": 15,
+   "position": 16,
    "played": 5,
    "won": 1,
    "drawn": 2,
@@ -218,32 +230,44 @@
    "points": 5
   },
   {
-   "team": "jaguares",
-   "position": 16,
+   "team": "chico",
+   "position": 17,
    "played": 6,
    "won": 1,
    "drawn": 2,
    "lost": 3,
    "goals_for": 4,
-   "goals_against": 9,
-   "goal_diff": 5,
+   "goals_against": 12,
+   "goal_diff": 8,
    "points": 5
   },
   {
    "team": "junior",
-   "position": 17,
-   "played": 5,
+   "position": 18,
+   "played": 6,
+   "won": 0,
+   "drawn": 3,
+   "lost": 3,
+   "goals_for": 8,
+   "goals_against": 12,
+   "goal_diff": 4,
+   "points": 3
+  },
+  {
+   "team": "pasto",
+   "position": 19,
+   "played": 8,
    "won": 0,
    "drawn": 2,
-   "lost": 3,
-   "goals_for": 5,
-   "goals_against": 9,
-   "goal_diff": 4,
+   "lost": 6,
+   "goals_for": 7,
+   "goals_against": 15,
+   "goal_diff": 8,
    "points": 2
   },
   {
    "team": "alianza",
-   "position": 18,
+   "position": 20,
    "played": 7,
    "won": 0,
    "drawn": 2,
@@ -252,30 +276,6 @@
    "goals_against": 15,
    "goal_diff": 10,
    "points": 2
-  },
-  {
-   "team": "chico",
-   "position": 19,
-   "played": 5,
-   "won": 0,
-   "drawn": 2,
-   "lost": 3,
-   "goals_for": 2,
-   "goals_against": 12,
-   "goal_diff": 10,
-   "points": 2
-  },
-  {
-   "team": "pasto",
-   "position": 20,
-   "played": 7,
-   "won": 0,
-   "drawn": 1,
-   "lost": 6,
-   "goals_for": 5,
-   "goals_against": 13,
-   "goal_diff": 8,
-   "points": 1
   }
  ],
  "groups": [],
@@ -1178,20 +1178,9 @@
    "date": "2026-09-05",
    "home": "chico",
    "away": "caldas",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
-  },
-  {
-   "id": "2026-ii-regular-r9-santafe-fortaleza",
-   "stage": "regular",
-   "round": 9,
-   "date": "2026-09-05",
-   "home": "santafe",
-   "away": "fortaleza",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
+   "home_goals": 2,
+   "away_goals": 0,
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r9-cucuta-pasto",
@@ -1200,9 +1189,20 @@
    "date": "2026-09-05",
    "home": "cucuta",
    "away": "pasto",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
+   "home_goals": 2,
+   "away_goals": 2,
+   "status": "played"
+  },
+  {
+   "id": "2026-ii-regular-r9-santafe-fortaleza",
+   "stage": "regular",
+   "round": 9,
+   "date": "2026-09-05",
+   "home": "santafe",
+   "away": "fortaleza",
+   "home_goals": 2,
+   "away_goals": 2,
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r9-junior-jaguares",
@@ -1211,9 +1211,9 @@
    "date": "2026-09-05",
    "home": "junior",
    "away": "jaguares",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
+   "home_goals": 3,
+   "away_goals": 3,
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r9-internacional-bogota-aguilas",
@@ -2403,20 +2403,8 @@
    "played": 5
   },
   {
-   "player_name": "Jefry Zapata",
-   "team": "caldas",
-   "goals": 3,
-   "played": 5
-  },
-  {
    "player_name": "Emerson Batalla",
    "team": "bucamanga",
-   "goals": 3,
-   "played": 6
-  },
-  {
-   "player_name": "Dayro Moreno",
-   "team": "caldas",
    "goals": 3,
    "played": 6
   },
@@ -2431,6 +2419,18 @@
    "team": "america",
    "goals": 3,
    "played": 6
+  },
+  {
+   "player_name": "Jefry Zapata",
+   "team": "caldas",
+   "goals": 3,
+   "played": 6
+  },
+  {
+   "player_name": "Franco Fagúndez",
+   "team": "santafe",
+   "goals": 3,
+   "played": 7
   }
  ],
  "assists": []
