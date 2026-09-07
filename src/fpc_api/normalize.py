@@ -12,7 +12,7 @@ ALIASES: dict[str, list[str]] = {
     "america": ["america de cali", "america", "corporacion deportiva america"],
     "cali": ["deportivo cali", "cali"],
     "junior": ["junior", "atletico junior", "junior de barranquilla", "junior fc"],
-    "bucamanga": ["atletico bucaramanga", "bucaramanga"],
+    "bucaramanga": ["atletico bucaramanga", "bucaramanga", "bucamanga"],
     "pasto": ["deportivo pasto"],
     "tolima": ["deportes tolima", "tolima"],
     "caldas": ["once caldas"],

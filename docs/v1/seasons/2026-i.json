@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-09-06T16:44:01Z",
+  "updated": "2026-09-07T00:53:52Z",
   "source": "https://es.wikipedia.org/wiki/Torneo_Apertura_2026_(Colombia)"
  },
  "season": {
@@ -18,7 +18,7 @@
   "aguilas",
   "alianza",
   "america",
-  "bucamanga",
+  "bucaramanga",
   "caldas",
   "cali",
   "chico",
@@ -182,7 +182,7 @@
    "points": 26
   },
   {
-   "team": "bucamanga",
+   "team": "bucaramanga",
    "position": 13,
    "played": 19,
    "won": 5,
@@ -325,11 +325,11 @@
    "status": "played"
   },
   {
-   "id": "2026-i-regular-r1-bucamanga-millonarios",
+   "id": "2026-i-regular-r1-bucaramanga-millonarios",
    "stage": "regular",
    "round": 1,
    "date": "2026-01-17",
-   "home": "bucamanga",
+   "home": "bucaramanga",
    "away": "millonarios",
    "home_goals": 2,
    "away_goals": 1,
@@ -424,12 +424,12 @@
    "status": "played"
   },
   {
-   "id": "2026-i-regular-r2-llaneros-bucamanga",
+   "id": "2026-i-regular-r2-llaneros-bucaramanga",
    "stage": "regular",
    "round": 2,
    "date": "2026-01-24",
    "home": "llaneros",
-   "away": "bucamanga",
+   "away": "bucaramanga",
    "home_goals": 1,
    "away_goals": 1,
    "status": "played"
@@ -501,12 +501,12 @@
    "status": "played"
   },
   {
-   "id": "2026-i-regular-r3-cucuta-bucamanga",
+   "id": "2026-i-regular-r3-cucuta-bucaramanga",
    "stage": "regular",
    "round": 3,
    "date": "2026-01-27",
    "home": "cucuta",
-   "away": "bucamanga",
+   "away": "bucaramanga",
    "home_goals": 2,
    "away_goals": 2,
    "status": "played"
@@ -633,11 +633,11 @@
    "status": "played"
   },
   {
-   "id": "2026-i-regular-r4-bucamanga-alianza",
+   "id": "2026-i-regular-r4-bucaramanga-alianza",
    "stage": "regular",
    "round": 4,
    "date": "2026-02-01",
-   "home": "bucamanga",
+   "home": "bucaramanga",
    "away": "alianza",
    "home_goals": 5,
    "away_goals": 0,
@@ -721,12 +721,12 @@
    "status": "played"
   },
   {
-   "id": "2026-i-regular-r5-pasto-bucamanga",
+   "id": "2026-i-regular-r5-pasto-bucaramanga",
    "stage": "regular",
    "round": 5,
    "date": "2026-02-06",
    "home": "pasto",
-   "away": "bucamanga",
+   "away": "bucaramanga",
    "home_goals": 0,
    "away_goals": 0,
    "status": "played"
@@ -853,11 +853,11 @@
    "status": "played"
   },
   {
-   "id": "2026-i-regular-r6-bucamanga-tolima",
+   "id": "2026-i-regular-r6-bucaramanga-tolima",
    "stage": "regular",
    "round": 6,
    "date": "2026-02-10",
-   "home": "bucamanga",
+   "home": "bucaramanga",
    "away": "tolima",
    "home_goals": 0,
    "away_goals": 0,
@@ -1040,12 +1040,12 @@
    "status": "played"
   },
   {
-   "id": "2026-i-regular-r7-aguilas-bucamanga",
+   "id": "2026-i-regular-r7-aguilas-bucaramanga",
    "stage": "regular",
    "round": 7,
    "date": "2026-04-07",
    "home": "aguilas",
-   "away": "bucamanga",
+   "away": "bucaramanga",
    "home_goals": 2,
    "away_goals": 1,
    "status": "played"
@@ -1084,11 +1084,11 @@
    "status": "played"
   },
   {
-   "id": "2026-i-regular-r8-bucamanga-cali",
+   "id": "2026-i-regular-r8-bucaramanga-cali",
    "stage": "regular",
    "round": 8,
    "date": "2026-02-21",
-   "home": "bucamanga",
+   "home": "bucaramanga",
    "away": "cali",
    "home_goals": 0,
    "away_goals": 0,
@@ -1216,12 +1216,12 @@
    "status": "played"
   },
   {
-   "id": "2026-i-regular-r9-medellin-bucamanga",
+   "id": "2026-i-regular-r9-medellin-bucaramanga",
    "stage": "regular",
    "round": 9,
    "date": "2026-02-28",
    "home": "medellin",
-   "away": "bucamanga",
+   "away": "bucaramanga",
    "home_goals": 1,
    "away_goals": 2,
    "status": "played"
@@ -1348,11 +1348,11 @@
    "status": "played"
   },
   {
-   "id": "2026-i-regular-r10-bucamanga-pereira",
+   "id": "2026-i-regular-r10-bucaramanga-pereira",
    "stage": "regular",
    "round": 10,
    "date": "2026-03-10",
-   "home": "bucamanga",
+   "home": "bucaramanga",
    "away": "pereira",
    "home_goals": 3,
    "away_goals": 0,
@@ -1403,12 +1403,12 @@
    "status": "played"
   },
   {
-   "id": "2026-i-regular-r11-internacional-bogota-bucamanga",
+   "id": "2026-i-regular-r11-internacional-bogota-bucaramanga",
    "stage": "regular",
    "round": 11,
    "date": "2026-03-14",
    "home": "internacional-bogota",
-   "away": "bucamanga",
+   "away": "bucaramanga",
    "home_goals": 0,
    "away_goals": 0,
    "status": "played"
@@ -1535,11 +1535,11 @@
    "status": "played"
   },
   {
-   "id": "2026-i-regular-r12-bucamanga-caldas",
+   "id": "2026-i-regular-r12-bucaramanga-caldas",
    "stage": "regular",
    "round": 12,
    "date": "2026-03-18",
-   "home": "bucamanga",
+   "home": "bucaramanga",
    "away": "caldas",
    "home_goals": 1,
    "away_goals": 1,
@@ -1678,12 +1678,12 @@
    "status": "played"
   },
   {
-   "id": "2026-i-regular-r13-junior-bucamanga",
+   "id": "2026-i-regular-r13-junior-bucaramanga",
    "stage": "regular",
    "round": 13,
    "date": "2026-03-24",
    "home": "junior",
-   "away": "bucamanga",
+   "away": "bucaramanga",
    "home_goals": 2,
    "away_goals": 0,
    "status": "played"
@@ -1722,11 +1722,11 @@
    "status": "played"
   },
   {
-   "id": "2026-i-regular-r14-bucamanga-santafe",
+   "id": "2026-i-regular-r14-bucaramanga-santafe",
    "stage": "regular",
    "round": 14,
    "date": "2026-03-27",
-   "home": "bucamanga",
+   "home": "bucaramanga",
    "away": "santafe",
    "home_goals": 1,
    "away_goals": 2,
@@ -1876,12 +1876,12 @@
    "status": "played"
   },
   {
-   "id": "2026-i-regular-r15-america-bucamanga",
+   "id": "2026-i-regular-r15-america-bucaramanga",
    "stage": "regular",
    "round": 15,
    "date": "2026-04-02",
    "home": "america",
-   "away": "bucamanga",
+   "away": "bucaramanga",
    "home_goals": 2,
    "away_goals": 0,
    "status": "played"
@@ -2019,11 +2019,11 @@
    "status": "played"
   },
   {
-   "id": "2026-i-regular-r16-bucamanga-chico",
+   "id": "2026-i-regular-r16-bucaramanga-chico",
    "stage": "regular",
    "round": 16,
    "date": "2026-04-12",
-   "home": "bucamanga",
+   "home": "bucaramanga",
    "away": "chico",
    "home_goals": 5,
    "away_goals": 0,
@@ -2140,12 +2140,12 @@
    "status": "played"
   },
   {
-   "id": "2026-i-regular-r17-nacional-bucamanga",
+   "id": "2026-i-regular-r17-nacional-bucaramanga",
    "stage": "regular",
    "round": 17,
    "date": "2026-04-20",
    "home": "nacional",
-   "away": "bucamanga",
+   "away": "bucaramanga",
    "home_goals": 2,
    "away_goals": 0,
    "status": "played"
@@ -2184,11 +2184,11 @@
    "status": "played"
   },
   {
-   "id": "2026-i-regular-r18-bucamanga-jaguares",
+   "id": "2026-i-regular-r18-bucaramanga-jaguares",
    "stage": "regular",
    "round": 18,
    "date": "2026-04-25",
-   "home": "bucamanga",
+   "home": "bucaramanga",
    "away": "jaguares",
    "home_goals": 2,
    "away_goals": 2,
@@ -2316,12 +2316,12 @@
    "status": "played"
   },
   {
-   "id": "2026-i-regular-r19-fortaleza-bucamanga",
+   "id": "2026-i-regular-r19-fortaleza-bucaramanga",
    "stage": "regular",
    "round": 19,
    "date": "2026-05-03",
    "home": "fortaleza",
-   "away": "bucamanga",
+   "away": "bucaramanga",
    "home_goals": 2,
    "away_goals": 1,
    "status": "played"

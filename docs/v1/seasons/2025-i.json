@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-09-06T16:43:58Z",
+  "updated": "2026-09-07T00:53:47Z",
   "source": "https://es.wikipedia.org/wiki/Torneo_Apertura_2025_(Colombia)"
  },
  "season": {
@@ -18,7 +18,7 @@
   "aguilas",
   "alianza",
   "america",
-  "bucamanga",
+  "bucaramanga",
   "caldas",
   "cali",
   "chico",
@@ -134,7 +134,7 @@
    "points": 32
   },
   {
-   "team": "bucamanga",
+   "team": "bucaramanga",
    "position": 9,
    "played": 20,
    "won": 8,
@@ -388,12 +388,12 @@
  ],
  "matches": [
   {
-   "id": "2025-i-regular-r1-chico-bucamanga",
+   "id": "2025-i-regular-r1-chico-bucaramanga",
    "stage": "regular",
    "round": 1,
    "date": "2025-01-24",
    "home": "chico",
-   "away": "bucamanga",
+   "away": "bucaramanga",
    "home_goals": 1,
    "away_goals": 0,
    "status": "played"
@@ -575,11 +575,11 @@
    "status": "played"
   },
   {
-   "id": "2025-i-regular-r2-bucamanga-america",
+   "id": "2025-i-regular-r2-bucaramanga-america",
    "stage": "regular",
    "round": 2,
    "date": "2025-02-02",
-   "home": "bucamanga",
+   "home": "bucaramanga",
    "away": "america",
    "home_goals": 0,
    "away_goals": 4,
@@ -685,12 +685,12 @@
    "status": "played"
   },
   {
-   "id": "2025-i-regular-r3-caldas-bucamanga",
+   "id": "2025-i-regular-r3-caldas-bucaramanga",
    "stage": "regular",
    "round": 3,
    "date": "2025-02-09",
    "home": "caldas",
-   "away": "bucamanga",
+   "away": "bucaramanga",
    "home_goals": 2,
    "away_goals": 1,
    "status": "played"
@@ -795,12 +795,12 @@
    "status": "played"
   },
   {
-   "id": "2025-i-regular-r4-cali-bucamanga",
+   "id": "2025-i-regular-r4-cali-bucaramanga",
    "stage": "regular",
    "round": 4,
    "date": "2025-02-14",
    "home": "cali",
-   "away": "bucamanga",
+   "away": "bucaramanga",
    "home_goals": 0,
    "away_goals": 0,
    "status": "played"
@@ -883,11 +883,11 @@
    "status": "played"
   },
   {
-   "id": "2025-i-regular-r5-bucamanga-alianza",
+   "id": "2025-i-regular-r5-bucaramanga-alianza",
    "stage": "regular",
    "round": 5,
    "date": "2025-02-18",
-   "home": "bucamanga",
+   "home": "bucaramanga",
    "away": "alianza",
    "home_goals": 0,
    "away_goals": 0,
@@ -1037,12 +1037,12 @@
    "status": "played"
   },
   {
-   "id": "2025-i-regular-r6-santafe-bucamanga",
+   "id": "2025-i-regular-r6-santafe-bucaramanga",
    "stage": "regular",
    "round": 6,
    "date": "2025-03-19",
    "home": "santafe",
-   "away": "bucamanga",
+   "away": "bucaramanga",
    "home_goals": 1,
    "away_goals": 1,
    "status": "played"
@@ -1070,11 +1070,11 @@
    "status": "played"
   },
   {
-   "id": "2025-i-regular-r7-bucamanga-junior",
+   "id": "2025-i-regular-r7-bucaramanga-junior",
    "stage": "regular",
    "round": 7,
    "date": "2025-03-01",
-   "home": "bucamanga",
+   "home": "bucaramanga",
    "away": "junior",
    "home_goals": 1,
    "away_goals": 1,
@@ -1158,12 +1158,12 @@
    "status": "played"
   },
   {
-   "id": "2025-i-regular-r8-aguilas-bucamanga",
+   "id": "2025-i-regular-r8-aguilas-bucaramanga",
    "stage": "regular",
    "round": 8,
    "date": "2025-03-07",
    "home": "aguilas",
-   "away": "bucamanga",
+   "away": "bucaramanga",
    "home_goals": 0,
    "away_goals": 1,
    "status": "played"
@@ -1268,11 +1268,11 @@
    "status": "played"
   },
   {
-   "id": "2025-i-regular-r9-bucamanga-pereira",
+   "id": "2025-i-regular-r9-bucaramanga-pereira",
    "stage": "regular",
    "round": 9,
    "date": "2025-03-14",
-   "home": "bucamanga",
+   "home": "bucaramanga",
    "away": "pereira",
    "home_goals": 0,
    "away_goals": 1,
@@ -1422,12 +1422,12 @@
    "status": "played"
   },
   {
-   "id": "2025-i-regular-r10-alianza-bucamanga",
+   "id": "2025-i-regular-r10-alianza-bucaramanga",
    "stage": "regular",
    "round": 10,
    "date": "2025-03-23",
    "home": "alianza",
-   "away": "bucamanga",
+   "away": "bucaramanga",
    "home_goals": 1,
    "away_goals": 2,
    "status": "played"
@@ -1488,11 +1488,11 @@
    "status": "played"
   },
   {
-   "id": "2025-i-regular-r11-bucamanga-nacional",
+   "id": "2025-i-regular-r11-bucaramanga-nacional",
    "stage": "regular",
    "round": 11,
    "date": "2025-03-28",
-   "home": "bucamanga",
+   "home": "bucaramanga",
    "away": "nacional",
    "home_goals": 2,
    "away_goals": 0,
@@ -1653,12 +1653,12 @@
    "status": "played"
   },
   {
-   "id": "2025-i-regular-r12-tolima-bucamanga",
+   "id": "2025-i-regular-r12-tolima-bucaramanga",
    "stage": "regular",
    "round": 12,
    "date": "2025-04-05",
    "home": "tolima",
-   "away": "bucamanga",
+   "away": "bucaramanga",
    "home_goals": 2,
    "away_goals": 1,
    "status": "played"
@@ -1796,11 +1796,11 @@
    "status": "played"
   },
   {
-   "id": "2025-i-regular-r13-bucamanga-fortaleza",
+   "id": "2025-i-regular-r13-bucaramanga-fortaleza",
    "stage": "regular",
    "round": 13,
    "date": "2025-04-13",
-   "home": "bucamanga",
+   "home": "bucaramanga",
    "away": "fortaleza",
    "home_goals": 4,
    "away_goals": 0,
@@ -1906,11 +1906,11 @@
    "status": "played"
   },
   {
-   "id": "2025-i-regular-r14-bucamanga-envigado",
+   "id": "2025-i-regular-r14-bucaramanga-envigado",
    "stage": "regular",
    "round": 14,
    "date": "2025-04-17",
-   "home": "bucamanga",
+   "home": "bucaramanga",
    "away": "envigado",
    "home_goals": 1,
    "away_goals": 0,
@@ -1972,12 +1972,12 @@
    "status": "played"
   },
   {
-   "id": "2025-i-regular-r15-magdalena-bucamanga",
+   "id": "2025-i-regular-r15-magdalena-bucaramanga",
    "stage": "regular",
    "round": 15,
    "date": "2025-04-20",
    "home": "magdalena",
-   "away": "bucamanga",
+   "away": "bucaramanga",
    "home_goals": 1,
    "away_goals": 1,
    "status": "played"
@@ -2126,11 +2126,11 @@
    "status": "played"
   },
   {
-   "id": "2025-i-regular-r16-bucamanga-millonarios",
+   "id": "2025-i-regular-r16-bucaramanga-millonarios",
    "stage": "regular",
    "round": 16,
    "date": "2025-04-27",
-   "home": "bucamanga",
+   "home": "bucaramanga",
    "away": "millonarios",
    "home_goals": 0,
    "away_goals": 2,
@@ -2170,12 +2170,12 @@
    "status": "played"
   },
   {
-   "id": "2025-i-regular-r17-llaneros-bucamanga",
+   "id": "2025-i-regular-r17-llaneros-bucaramanga",
    "stage": "regular",
    "round": 17,
    "date": "2025-05-03",
    "home": "llaneros",
-   "away": "bucamanga",
+   "away": "bucaramanga",
    "home_goals": 2,
    "away_goals": 1,
    "status": "played"
@@ -2280,11 +2280,11 @@
    "status": "played"
   },
   {
-   "id": "2025-i-regular-r18-bucamanga-medellin",
+   "id": "2025-i-regular-r18-bucaramanga-medellin",
    "stage": "regular",
    "round": 18,
    "date": "2025-05-09",
-   "home": "bucamanga",
+   "home": "bucaramanga",
    "away": "medellin",
    "home_goals": 2,
    "away_goals": 0,
@@ -2390,12 +2390,12 @@
    "status": "played"
   },
   {
-   "id": "2025-i-regular-r19-equidad-bucamanga",
+   "id": "2025-i-regular-r19-equidad-bucaramanga",
    "stage": "regular",
    "round": 19,
    "date": "2025-05-17",
    "home": "equidad",
-   "away": "bucamanga",
+   "away": "bucaramanga",
    "home_goals": 1,
    "away_goals": 4,
    "status": "played"
@@ -2555,11 +2555,11 @@
    "status": "played"
   },
   {
-   "id": "2025-i-regular-r20-bucamanga-pasto",
+   "id": "2025-i-regular-r20-bucaramanga-pasto",
    "stage": "regular",
    "round": 20,
    "date": "2025-05-25",
-   "home": "bucamanga",
+   "home": "bucaramanga",
    "away": "pasto",
    "home_goals": 2,
    "away_goals": 1,

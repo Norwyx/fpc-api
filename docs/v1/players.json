@@ -1,15 +1,15 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-09-06T16:44:19Z",
+  "updated": "2026-09-07T00:54:16Z",
   "source": "es.wikipedia.org (secciones 'Plantilla' de cada club)",
   "warnings": [
    "homónimos 'javier-mena' en ['aguilas', 'pereira']: ids sufijados con el club",
    "homónimos 'kevin-balanta' en ['fortaleza', 'santafe']: ids sufijados con el club",
-   "homónimos 'kevin-londono' en ['bucamanga', 'cucuta']: ids sufijados con el club",
+   "homónimos 'kevin-londono' en ['bucaramanga', 'cucuta']: ids sufijados con el club",
    "homónimos 'luis-marquinez' en ['nacional', 'pasto']: ids sufijados con el club",
    "homónimos 'luis-palacios' en ['pereira', 'santafe']: ids sufijados con el club",
-   "homónimos 'luis-vasquez' en ['aguilas', 'bucamanga']: ids sufijados con el club"
+   "homónimos 'luis-vasquez' en ['aguilas', 'bucaramanga']: ids sufijados con el club"
   ]
  },
  "players": [
@@ -807,7 +807,7 @@
   },
   {
    "name": "Diego Novoa",
-   "team": "bucamanga",
+   "team": "bucaramanga",
    "position": "GK",
    "shirt_number": 12,
    "age": 36,
@@ -816,7 +816,7 @@
   },
   {
    "name": "Luis Matheus",
-   "team": "bucamanga",
+   "team": "bucaramanga",
    "position": "GK",
    "shirt_number": 16,
    "age": 19,
@@ -825,7 +825,7 @@
   },
   {
    "name": "Cristopher Fiermarin",
-   "team": "bucamanga",
+   "team": "bucaramanga",
    "position": "GK",
    "shirt_number": 25,
    "age": 28,
@@ -834,16 +834,16 @@
   },
   {
    "name": "Luis Vásquez",
-   "team": "bucamanga",
+   "team": "bucaramanga",
    "position": "GK",
    "shirt_number": null,
    "age": 29,
    "source": "https://es.wikipedia.org/wiki/Atlético_Bucaramanga",
-   "id": "luis-vasquez-bucamanga"
+   "id": "luis-vasquez-bucaramanga"
   },
   {
    "name": "Martín Rea",
-   "team": "bucamanga",
+   "team": "bucaramanga",
    "position": "DF",
    "shirt_number": 3,
    "age": 28,
@@ -852,7 +852,7 @@
   },
   {
    "name": "Freddy Hinestroza",
-   "team": "bucamanga",
+   "team": "bucaramanga",
    "position": "DF",
    "shirt_number": 8,
    "age": 35,
@@ -861,7 +861,7 @@
   },
   {
    "name": "Aldair Gutiérrez",
-   "team": "bucamanga",
+   "team": "bucaramanga",
    "position": "DF",
    "shirt_number": 19,
    "age": 27,
@@ -870,7 +870,7 @@
   },
   {
    "name": "Jose Garcia",
-   "team": "bucamanga",
+   "team": "bucaramanga",
    "position": "DF",
    "shirt_number": 4,
    "age": 22,
@@ -879,7 +879,7 @@
   },
   {
    "name": "Jose Ortiz",
-   "team": "bucamanga",
+   "team": "bucaramanga",
    "position": "DF",
    "shirt_number": 24,
    "age": 27,
@@ -888,7 +888,7 @@
   },
   {
    "name": "Carlos Romaña",
-   "team": "bucamanga",
+   "team": "bucaramanga",
    "position": "DF",
    "shirt_number": 23,
    "age": 26,
@@ -897,7 +897,7 @@
   },
   {
    "name": "Nilson Castrillón",
-   "team": "bucamanga",
+   "team": "bucaramanga",
    "position": "DF",
    "shirt_number": 6,
    "age": 29,
@@ -906,16 +906,16 @@
   },
   {
    "name": "Kevin Londoño",
-   "team": "bucamanga",
+   "team": "bucaramanga",
    "position": "MF",
    "shirt_number": 7,
    "age": 32,
    "source": "https://es.wikipedia.org/wiki/Atlético_Bucaramanga",
-   "id": "kevin-londono-bucamanga"
+   "id": "kevin-londono-bucaramanga"
   },
   {
    "name": "Fabián Sambueza",
-   "team": "bucamanga",
+   "team": "bucaramanga",
    "position": "MF",
    "shirt_number": 10,
    "age": 37,
@@ -924,7 +924,7 @@
   },
   {
    "name": "Juan Camilo Mosquera",
-   "team": "bucamanga",
+   "team": "bucaramanga",
    "position": "MF",
    "shirt_number": 14,
    "age": 23,
@@ -933,7 +933,7 @@
   },
   {
    "name": "Aldair Zárate",
-   "team": "bucamanga",
+   "team": "bucaramanga",
    "position": "MF",
    "shirt_number": 20,
    "age": 26,
@@ -942,7 +942,7 @@
   },
   {
    "name": "Félix Charrupí",
-   "team": "bucamanga",
+   "team": "bucaramanga",
    "position": "MF",
    "shirt_number": 21,
    "age": 24,
@@ -951,7 +951,7 @@
   },
   {
    "name": "Fabry Castro",
-   "team": "bucamanga",
+   "team": "bucaramanga",
    "position": "MF",
    "shirt_number": 22,
    "age": 33,
@@ -960,7 +960,7 @@
   },
   {
    "name": "Leonardo Flores",
-   "team": "bucamanga",
+   "team": "bucaramanga",
    "position": "MF",
    "shirt_number": 28,
    "age": 30,
@@ -969,7 +969,7 @@
   },
   {
    "name": "Víctor Cantillo",
-   "team": "bucamanga",
+   "team": "bucaramanga",
    "position": "MF",
    "shirt_number": 30,
    "age": 32,
@@ -978,7 +978,7 @@
   },
   {
    "name": "Ronaldo Ramírez",
-   "team": "bucamanga",
+   "team": "bucaramanga",
    "position": "MF",
    "shirt_number": 16,
    "age": 21,
@@ -987,7 +987,7 @@
   },
   {
    "name": "Brandon Caicedo",
-   "team": "bucamanga",
+   "team": "bucaramanga",
    "position": "FW",
    "shirt_number": 9,
    "age": 24,
@@ -996,7 +996,7 @@
   },
   {
    "name": "Jhon Fredy Salazar",
-   "team": "bucamanga",
+   "team": "bucaramanga",
    "position": "FW",
    "shirt_number": 11,
    "age": 30,
@@ -1005,7 +1005,7 @@
   },
   {
    "name": "Emerson Batalla",
-   "team": "bucamanga",
+   "team": "bucaramanga",
    "position": "FW",
    "shirt_number": 17,
    "age": 24,
@@ -1014,7 +1014,7 @@
   },
   {
    "name": "Luciano Pons",
-   "team": "bucamanga",
+   "team": "bucaramanga",
    "position": "FW",
    "shirt_number": 27,
    "age": 35,
@@ -1023,7 +1023,7 @@
   },
   {
    "name": "Omar Albornoz",
-   "team": "bucamanga",
+   "team": "bucaramanga",
    "position": "FW",
    "shirt_number": 80,
    "age": 30,
@@ -2952,7 +2952,7 @@
    "team": "junior",
    "position": "DF",
    "shirt_number": 16,
-   "age": 18,
+   "age": 19,
    "source": "https://es.wikipedia.org/wiki/Junior_de_Barranquilla",
    "id": "carlos-perez-sub-20"
   },
@@ -4563,7 +4563,7 @@
    "team": "pasto",
    "position": "FW",
    "shirt_number": 16,
-   "age": 22,
+   "age": 23,
    "source": "https://es.wikipedia.org/wiki/Deportivo_Pasto",
    "id": "mayer-gil"
   },

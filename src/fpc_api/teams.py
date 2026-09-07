@@ -18,7 +18,7 @@ COLORS: dict[str, dict[str, str]] = {
     "america": {"primary": "#E30613", "secondary": "#FFFFFF"},
     "cali": {"primary": "#00954C", "secondary": "#FFFFFF"},
     "junior": {"primary": "#C8102E", "secondary": "#FFFFFF"},
-    "bucamanga": {"primary": "#FFC72C", "secondary": "#006F44"},
+    "bucaramanga": {"primary": "#FFC72C", "secondary": "#006F44"},
     "pasto": {"primary": "#E4002B", "secondary": "#FFFFFF"},
     "tolima": {"primary": "#C8102E", "secondary": "#FFFFFF"},
     "caldas": {"primary": "#FFFFFF", "secondary": "#DA291C"},
@@ -42,7 +42,7 @@ COLORS: dict[str, dict[str, str]] = {
 SHORT_NAMES = {
     "nacional": "Nacional", "millonarios": "Millonarios", "santafe": "Santa Fe",
     "medellin": "Medellín", "america": "América", "cali": "Cali", "junior": "Junior",
-    "bucamanga": "Bucaramanga", "pasto": "Pasto", "tolima": "Tolima",
+    "bucaramanga": "Bucaramanga", "pasto": "Pasto", "tolima": "Tolima",
     "caldas": "Once Caldas", "envigado": "Envigado", "equidad": "La Equidad",
     "pereira": "Pereira", "jaguares": "Jaguares", "alianza": "Alianza",
     "fortaleza": "Fortaleza", "llaneros": "Llaneros", "magdalena": "Unión Magdalena",

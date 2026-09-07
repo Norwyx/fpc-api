@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-09-06T16:43:54Z",
+  "updated": "2026-09-07T00:53:43Z",
   "source": "https://es.wikipedia.org/wiki/Torneo_Apertura_2024_(Colombia)"
  },
  "season": {
@@ -13,12 +13,12 @@
   "end_date": "2024-06-15",
   "status": "completed"
  },
- "champion": "bucamanga",
+ "champion": "bucaramanga",
  "teams": [
   "aguilas",
   "alianza",
   "america",
-  "bucamanga",
+  "bucaramanga",
   "caldas",
   "cali",
   "chico",
@@ -38,7 +38,7 @@
  ],
  "standings": [
   {
-   "team": "bucamanga",
+   "team": "bucaramanga",
    "position": 1,
    "played": 19,
    "won": 11,
@@ -283,7 +283,7 @@
    "name": "Grupo A",
    "standings": [
     {
-     "team": "bucamanga",
+     "team": "bucaramanga",
      "position": 1,
      "played": 6,
      "won": 2,
@@ -454,12 +454,12 @@
    "status": "played"
   },
   {
-   "id": "2024-i-regular-r1-junior-bucamanga",
+   "id": "2024-i-regular-r1-junior-bucaramanga",
    "stage": "regular",
    "round": 1,
    "date": "2024-01-21",
    "home": "junior",
-   "away": "bucamanga",
+   "away": "bucaramanga",
    "home_goals": 2,
    "away_goals": 0,
    "status": "played"
@@ -597,11 +597,11 @@
    "status": "played"
   },
   {
-   "id": "2024-i-regular-r2-bucamanga-millonarios",
+   "id": "2024-i-regular-r2-bucaramanga-millonarios",
    "stage": "regular",
    "round": 2,
    "date": "2024-01-28",
-   "home": "bucamanga",
+   "home": "bucaramanga",
    "away": "millonarios",
    "home_goals": 0,
    "away_goals": 0,
@@ -707,12 +707,12 @@
    "status": "played"
   },
   {
-   "id": "2024-i-regular-r3-jaguares-bucamanga",
+   "id": "2024-i-regular-r3-jaguares-bucaramanga",
    "stage": "regular",
    "round": 3,
    "date": "2024-02-02",
    "home": "jaguares",
-   "away": "bucamanga",
+   "away": "bucaramanga",
    "home_goals": 0,
    "away_goals": 1,
    "status": "played"
@@ -817,12 +817,12 @@
    "status": "played"
   },
   {
-   "id": "2024-i-regular-r4-santafe-bucamanga",
+   "id": "2024-i-regular-r4-santafe-bucaramanga",
    "stage": "regular",
    "round": 4,
    "date": "2024-02-06",
    "home": "santafe",
-   "away": "bucamanga",
+   "away": "bucaramanga",
    "home_goals": 0,
    "away_goals": 1,
    "status": "played"
@@ -916,11 +916,11 @@
    "status": "played"
   },
   {
-   "id": "2024-i-regular-r5-bucamanga-caldas",
+   "id": "2024-i-regular-r5-bucaramanga-caldas",
    "stage": "regular",
    "round": 5,
    "date": "2024-02-10",
-   "home": "bucamanga",
+   "home": "bucaramanga",
    "away": "caldas",
    "home_goals": 1,
    "away_goals": 1,
@@ -1037,12 +1037,12 @@
    "status": "played"
   },
   {
-   "id": "2024-i-regular-r6-america-bucamanga",
+   "id": "2024-i-regular-r6-america-bucaramanga",
    "stage": "regular",
    "round": 6,
    "date": "2024-02-15",
    "home": "america",
-   "away": "bucamanga",
+   "away": "bucaramanga",
    "home_goals": 0,
    "away_goals": 0,
    "status": "played"
@@ -1147,11 +1147,11 @@
    "status": "played"
   },
   {
-   "id": "2024-i-regular-r7-bucamanga-pasto",
+   "id": "2024-i-regular-r7-bucaramanga-pasto",
    "stage": "regular",
    "round": 7,
    "date": "2024-02-19",
-   "home": "bucamanga",
+   "home": "bucaramanga",
    "away": "pasto",
    "home_goals": 1,
    "away_goals": 0,
@@ -1169,12 +1169,12 @@
    "status": "played"
   },
   {
-   "id": "2024-i-regular-r8-tolima-bucamanga",
+   "id": "2024-i-regular-r8-tolima-bucaramanga",
    "stage": "regular",
    "round": 8,
    "date": "2024-02-22",
    "home": "tolima",
-   "away": "bucamanga",
+   "away": "bucaramanga",
    "home_goals": 0,
    "away_goals": 0,
    "status": "played"
@@ -1367,11 +1367,11 @@
    "status": "played"
   },
   {
-   "id": "2024-i-regular-r9-bucamanga-aguilas",
+   "id": "2024-i-regular-r9-bucaramanga-aguilas",
    "stage": "regular",
    "round": 9,
    "date": "2024-03-27",
-   "home": "bucamanga",
+   "home": "bucaramanga",
    "away": "aguilas",
    "home_goals": 1,
    "away_goals": 0,
@@ -1444,11 +1444,11 @@
    "status": "played"
   },
   {
-   "id": "2024-i-regular-r10-bucamanga-patriotas",
+   "id": "2024-i-regular-r10-bucaramanga-patriotas",
    "stage": "regular",
    "round": 10,
    "date": "2024-03-03",
-   "home": "bucamanga",
+   "home": "bucaramanga",
    "away": "patriotas",
    "home_goals": 3,
    "away_goals": 0,
@@ -1565,12 +1565,12 @@
    "status": "played"
   },
   {
-   "id": "2024-i-regular-r11-nacional-bucamanga",
+   "id": "2024-i-regular-r11-nacional-bucaramanga",
    "stage": "regular",
    "round": 11,
    "date": "2024-03-10",
    "home": "nacional",
-   "away": "bucamanga",
+   "away": "bucaramanga",
    "home_goals": 0,
    "away_goals": 0,
    "status": "played"
@@ -1631,11 +1631,11 @@
    "status": "played"
   },
   {
-   "id": "2024-i-regular-r12-bucamanga-equidad",
+   "id": "2024-i-regular-r12-bucaramanga-equidad",
    "stage": "regular",
    "round": 12,
    "date": "2024-03-16",
-   "home": "bucamanga",
+   "home": "bucaramanga",
    "away": "equidad",
    "home_goals": 4,
    "away_goals": 0,
@@ -1774,11 +1774,11 @@
    "status": "played"
   },
   {
-   "id": "2024-i-regular-r13-bucamanga-envigado",
+   "id": "2024-i-regular-r13-bucaramanga-envigado",
    "stage": "regular",
    "round": 13,
    "date": "2024-03-24",
-   "home": "bucamanga",
+   "home": "bucaramanga",
    "away": "envigado",
    "home_goals": 3,
    "away_goals": 1,
@@ -1895,12 +1895,12 @@
    "status": "played"
   },
   {
-   "id": "2024-i-regular-r14-pereira-bucamanga",
+   "id": "2024-i-regular-r14-pereira-bucaramanga",
    "stage": "regular",
    "round": 14,
    "date": "2024-03-31",
    "home": "pereira",
-   "away": "bucamanga",
+   "away": "bucaramanga",
    "home_goals": 1,
    "away_goals": 2,
    "status": "played"
@@ -1983,11 +1983,11 @@
    "status": "played"
   },
   {
-   "id": "2024-i-regular-r15-bucamanga-cali",
+   "id": "2024-i-regular-r15-bucaramanga-cali",
    "stage": "regular",
    "round": 15,
    "date": "2024-04-06",
-   "home": "bucamanga",
+   "home": "bucaramanga",
    "away": "cali",
    "home_goals": 2,
    "away_goals": 1,
@@ -2115,12 +2115,12 @@
    "status": "played"
   },
   {
-   "id": "2024-i-regular-r16-medellin-bucamanga",
+   "id": "2024-i-regular-r16-medellin-bucaramanga",
    "stage": "regular",
    "round": 16,
    "date": "2024-04-14",
    "home": "medellin",
-   "away": "bucamanga",
+   "away": "bucaramanga",
    "home_goals": 1,
    "away_goals": 0,
    "status": "played"
@@ -2247,11 +2247,11 @@
    "status": "played"
   },
   {
-   "id": "2024-i-regular-r17-bucamanga-chico",
+   "id": "2024-i-regular-r17-bucaramanga-chico",
    "stage": "regular",
    "round": 17,
    "date": "2024-04-19",
-   "home": "bucamanga",
+   "home": "bucaramanga",
    "away": "chico",
    "home_goals": 2,
    "away_goals": 3,
@@ -2335,12 +2335,12 @@
    "status": "played"
   },
   {
-   "id": "2024-i-regular-r18-fortaleza-bucamanga",
+   "id": "2024-i-regular-r18-fortaleza-bucaramanga",
    "stage": "regular",
    "round": 18,
    "date": "2024-04-22",
    "home": "fortaleza",
-   "away": "bucamanga",
+   "away": "bucaramanga",
    "home_goals": 0,
    "away_goals": 2,
    "status": "played"
@@ -2434,11 +2434,11 @@
    "status": "played"
   },
   {
-   "id": "2024-i-regular-r19-bucamanga-alianza",
+   "id": "2024-i-regular-r19-bucaramanga-alianza",
    "stage": "regular",
    "round": 19,
    "date": "2024-04-28",
-   "home": "bucamanga",
+   "home": "bucaramanga",
    "away": "alianza",
    "home_goals": 1,
    "away_goals": 0,
@@ -2478,12 +2478,12 @@
    "status": "played"
   },
   {
-   "id": "2024-i-cuadrangulares-r1-pereira-bucamanga",
+   "id": "2024-i-cuadrangulares-r1-pereira-bucaramanga",
    "stage": "cuadrangulares",
    "round": 1,
    "date": "2024-05-04",
    "home": "pereira",
-   "away": "bucamanga",
+   "away": "bucaramanga",
    "home_goals": 1,
    "away_goals": 0,
    "status": "played"
@@ -2500,11 +2500,11 @@
    "status": "played"
   },
   {
-   "id": "2024-i-cuadrangulares-r2-bucamanga-junior",
+   "id": "2024-i-cuadrangulares-r2-bucaramanga-junior",
    "stage": "cuadrangulares",
    "round": 2,
    "date": "2024-05-11",
-   "home": "bucamanga",
+   "home": "bucaramanga",
    "away": "junior",
    "home_goals": 0,
    "away_goals": 0,
@@ -2533,22 +2533,22 @@
    "status": "played"
   },
   {
-   "id": "2024-i-cuadrangulares-r3-millonarios-bucamanga",
+   "id": "2024-i-cuadrangulares-r3-millonarios-bucaramanga",
    "stage": "cuadrangulares",
    "round": 3,
    "date": "2024-05-19",
    "home": "millonarios",
-   "away": "bucamanga",
+   "away": "bucaramanga",
    "home_goals": 0,
    "away_goals": 1,
    "status": "played"
   },
   {
-   "id": "2024-i-cuadrangulares-r4-bucamanga-millonarios",
+   "id": "2024-i-cuadrangulares-r4-bucaramanga-millonarios",
    "stage": "cuadrangulares",
    "round": 4,
    "date": "2024-05-22",
-   "home": "bucamanga",
+   "home": "bucaramanga",
    "away": "millonarios",
    "home_goals": 0,
    "away_goals": 0,
@@ -2577,12 +2577,12 @@
    "status": "played"
   },
   {
-   "id": "2024-i-cuadrangulares-r5-junior-bucamanga",
+   "id": "2024-i-cuadrangulares-r5-junior-bucaramanga",
    "stage": "cuadrangulares",
    "round": 5,
    "date": "2024-05-25",
    "home": "junior",
-   "away": "bucamanga",
+   "away": "bucaramanga",
    "home_goals": 1,
    "away_goals": 0,
    "status": "played"
@@ -2599,11 +2599,11 @@
    "status": "played"
   },
   {
-   "id": "2024-i-cuadrangulares-r6-bucamanga-pereira",
+   "id": "2024-i-cuadrangulares-r6-bucaramanga-pereira",
    "stage": "cuadrangulares",
    "round": 6,
    "date": "2024-06-02",
-   "home": "bucamanga",
+   "home": "bucaramanga",
    "away": "pereira",
    "home_goals": 3,
    "away_goals": 1,
@@ -2742,25 +2742,25 @@
    "status": "played"
   },
   {
-   "id": "2024-i-final-bucamanga-santafe-1",
+   "id": "2024-i-final-bucaramanga-santafe-1",
    "stage": "final",
    "round": null,
    "leg": 1,
    "date": "2024-06-08",
-   "home": "bucamanga",
+   "home": "bucaramanga",
    "away": "santafe",
    "home_goals": 1,
    "away_goals": 0,
    "status": "played"
   },
   {
-   "id": "2024-i-final-santafe-bucamanga-2",
+   "id": "2024-i-final-santafe-bucaramanga-2",
    "stage": "final",
    "round": null,
    "leg": 2,
    "date": "2024-06-15",
    "home": "santafe",
-   "away": "bucamanga",
+   "away": "bucaramanga",
    "home_goals": 3,
    "away_goals": 2,
    "status": "played"
