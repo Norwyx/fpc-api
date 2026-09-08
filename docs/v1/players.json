@@ -1,10 +1,9 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-09-07T18:38:03Z",
+  "updated": "2026-09-08T17:47:20Z",
   "source": "es.wikipedia.org (secciones 'Plantilla' de cada club)",
   "warnings": [
-   "homónimos 'javier-mena' en ['aguilas', 'pereira']: ids sufijados con el club",
    "homónimos 'kevin-balanta' en ['fortaleza', 'santafe']: ids sufijados con el club",
    "homónimos 'kevin-londono' en ['bucaramanga', 'cucuta']: ids sufijados con el club",
    "homónimos 'luis-marquinez' en ['nacional', 'pasto']: ids sufijados con el club",
@@ -119,7 +118,7 @@
    "shirt_number": 32,
    "age": 21,
    "source": "https://es.wikipedia.org/wiki/Águilas_Doradas",
-   "id": "javier-mena-aguilas"
+   "id": "javier-mena"
   },
   {
    "name": "Luis Vasquez",
@@ -1593,7 +1592,7 @@
    "team": "cali",
    "position": "FW",
    "shirt_number": 70,
-   "age": 39,
+   "age": 40,
    "source": "https://es.wikipedia.org/wiki/Deportivo_Cali",
    "id": "carlos-bacca"
   },
@@ -2363,6 +2362,15 @@
    "id": "jeronimo-velasquez"
   },
   {
+   "name": "Mariano Vázquez",
+   "team": "fortaleza",
+   "position": "MF",
+   "shirt_number": null,
+   "age": 33,
+   "source": "https://es.wikipedia.org/wiki/Fortaleza_CEIF",
+   "id": "mariano-vazquez"
+  },
+  {
    "name": "Ítalo Montaño",
    "team": "fortaleza",
    "position": "FW",
@@ -2889,7 +2897,7 @@
    "team": "jaguares",
    "position": "FW",
    "shirt_number": 24,
-   "age": 25,
+   "age": 26,
    "source": "https://es.wikipedia.org/wiki/Jaguares_de_Córdoba",
    "id": "santiago-cubides"
   },
@@ -3546,7 +3554,7 @@
    "team": "medellin",
    "position": "DF",
    "shirt_number": 32,
-   "age": 26,
+   "age": 27,
    "source": "https://es.wikipedia.org/wiki/Deportivo_Independiente_Medellín",
    "id": "hayen-palacios"
   },
@@ -4104,7 +4112,7 @@
    "team": "nacional",
    "position": "DF",
    "shirt_number": 15,
-   "age": 26,
+   "age": 27,
    "source": "https://es.wikipedia.org/wiki/Atlético_Nacional",
    "id": "andres-reyes"
   },
@@ -4190,6 +4198,15 @@
    "id": "jorman-campuzano"
   },
   {
+   "name": "Elías Cabrera",
+   "team": "nacional",
+   "position": "MF",
+   "shirt_number": 22,
+   "age": 23,
+   "source": "https://es.wikipedia.org/wiki/Atlético_Nacional",
+   "id": "elias-cabrera"
+  },
+  {
    "name": "Elkin Rivero",
    "team": "nacional",
    "position": "MF",
@@ -4233,15 +4250,6 @@
    "age": 26,
    "source": "https://es.wikipedia.org/wiki/Atlético_Nacional",
    "id": "juan-zapata"
-  },
-  {
-   "name": "Elías Cabrera",
-   "team": "nacional",
-   "position": "MF",
-   "shirt_number": null,
-   "age": 23,
-   "source": "https://es.wikipedia.org/wiki/Atlético_Nacional",
-   "id": "elias-cabrera"
   },
   {
    "name": "Marlos Moreno",
@@ -4782,15 +4790,6 @@
    "age": 19,
    "source": "https://es.wikipedia.org/wiki/Deportivo_Pereira",
    "id": "miguel-aguirre"
-  },
-  {
-   "name": "Javier Mena",
-   "team": "pereira",
-   "position": "MF",
-   "shirt_number": 30,
-   "age": 20,
-   "source": "https://es.wikipedia.org/wiki/Deportivo_Pereira",
-   "id": "javier-mena-pereira"
   },
   {
    "name": "Yúber Quiñones",

@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-09-07T18:37:42Z",
+  "updated": "2026-09-08T17:47:03Z",
   "source": "https://es.wikipedia.org/wiki/Torneo_Finalización_2026_(Colombia)"
  },
  "season": {
@@ -50,8 +50,20 @@
    "points": 20
   },
   {
-   "team": "medellin",
+   "team": "tolima",
    "position": 2,
+   "played": 7,
+   "won": 5,
+   "drawn": 1,
+   "lost": 1,
+   "goals_for": 12,
+   "goals_against": 8,
+   "goal_diff": 4,
+   "points": 16
+  },
+  {
+   "team": "medellin",
+   "position": 3,
    "played": 6,
    "won": 5,
    "drawn": 0,
@@ -60,18 +72,6 @@
    "goals_against": 6,
    "goal_diff": 6,
    "points": 15
-  },
-  {
-   "team": "tolima",
-   "position": 3,
-   "played": 6,
-   "won": 4,
-   "drawn": 1,
-   "lost": 1,
-   "goals_for": 10,
-   "goals_against": 7,
-   "goal_diff": 3,
-   "points": 13
   },
   {
    "team": "nacional",
@@ -100,13 +100,13 @@
   {
    "team": "llaneros",
    "position": 6,
-   "played": 7,
+   "played": 8,
    "won": 3,
    "drawn": 2,
-   "lost": 2,
-   "goals_for": 8,
-   "goals_against": 7,
-   "goal_diff": 1,
+   "lost": 3,
+   "goals_for": 9,
+   "goals_against": 9,
+   "goal_diff": 0,
    "points": 11
   },
   {
@@ -727,9 +727,9 @@
    "date": "2026-09-07",
    "home": "llaneros",
    "away": "tolima",
-   "home_goals": null,
-   "away_goals": null,
-   "status": "scheduled"
+   "home_goals": 1,
+   "away_goals": 2,
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r5-millonarios-cali",
