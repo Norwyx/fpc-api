@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-09-08T17:47:20Z",
+  "updated": "2026-09-09T17:37:56Z",
   "source": "es.wikipedia.org (secciones 'Plantilla' de cada club)",
   "warnings": [
    "homónimos 'kevin-balanta' en ['fortaleza', 'santafe']: ids sufijados con el club",
@@ -656,7 +656,7 @@
    "team": "america",
    "position": "DF",
    "shirt_number": 30,
-   "age": 29,
+   "age": 30,
    "source": "https://es.wikipedia.org/wiki/América_de_Cali",
    "id": "omar-bertel"
   },
