@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-09-10T17:30:59Z",
+  "updated": "2026-09-11T17:35:07Z",
   "source": "es.wikipedia.org (secciones 'Plantilla' de cada club)",
   "warnings": [
    "homónimos 'kevin-balanta' en ['fortaleza', 'santafe']: ids sufijados con el club",
@@ -3928,6 +3928,15 @@
    "id": "leonai-souza"
   },
   {
+   "name": "Juan Guillermo Cuadrado",
+   "team": "millonarios",
+   "position": "MF",
+   "shirt_number": null,
+   "age": 38,
+   "source": "https://es.wikipedia.org/wiki/Millonarios_Fútbol_Club",
+   "id": "juan-guillermo-cuadrado"
+  },
+  {
    "name": "Juan Carlos Pereira",
    "team": "millonarios",
    "position": "MF",
@@ -4250,6 +4259,15 @@
    "age": 26,
    "source": "https://es.wikipedia.org/wiki/Atlético_Nacional",
    "id": "juan-zapata"
+  },
+  {
+   "name": "James Rodríguez",
+   "team": "nacional",
+   "position": "MF",
+   "shirt_number": null,
+   "age": 35,
+   "source": "https://es.wikipedia.org/wiki/Atlético_Nacional",
+   "id": "james-rodriguez"
   },
   {
    "name": "Marlos Moreno",
