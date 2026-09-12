@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-09-11T17:35:07Z",
+  "updated": "2026-09-12T16:47:49Z",
   "source": "es.wikipedia.org (secciones 'Plantilla' de cada club)",
   "warnings": [
    "homónimos 'kevin-balanta' en ['fortaleza', 'santafe']: ids sufijados con el club",
@@ -3676,15 +3676,6 @@
    "id": "juan-jose-cordoba"
   },
   {
-   "name": "Alexis Serna",
-   "team": "medellin",
-   "position": "MF",
-   "shirt_number": 80,
-   "age": 28,
-   "source": "https://es.wikipedia.org/wiki/Deportivo_Independiente_Medellín",
-   "id": "alexis-serna"
-  },
-  {
    "name": "Jeison Medina",
    "team": "medellin",
    "position": "FW",
@@ -3737,6 +3728,15 @@
    "age": 25,
    "source": "https://es.wikipedia.org/wiki/Deportivo_Independiente_Medellín",
    "id": "enzo-larrosa"
+  },
+  {
+   "name": "Jackson Martínez",
+   "team": "medellin",
+   "position": "FW",
+   "shirt_number": null,
+   "age": 39,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Independiente_Medellín",
+   "id": "jackson-martinez"
   },
   {
    "name": "Javier Burrai",
@@ -3931,7 +3931,7 @@
    "name": "Juan Guillermo Cuadrado",
    "team": "millonarios",
    "position": "MF",
-   "shirt_number": null,
+   "shirt_number": 7,
    "age": 38,
    "source": "https://es.wikipedia.org/wiki/Millonarios_Fútbol_Club",
    "id": "juan-guillermo-cuadrado"
