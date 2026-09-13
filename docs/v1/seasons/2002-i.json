@@ -1,0 +1,452 @@
+{
+ "meta": {
+  "version": 1,
+  "updated": "2026-09-13T17:15:58Z",
+  "source": "https://es.wikipedia.org/wiki/Torneo_Apertura_2002_(Colombia)"
+ },
+ "season": {
+  "id": "2002-i",
+  "year": 2002,
+  "tournament": "apertura",
+  "wikipedia": "Torneo Apertura 2002 (Colombia)",
+  "start_date": null,
+  "end_date": null,
+  "status": "completed"
+ },
+ "champion": "america",
+ "teams": [
+  "america",
+  "bucaramanga",
+  "caldas",
+  "cali",
+  "cortulua",
+  "envigado",
+  "huila",
+  "junior",
+  "magdalena",
+  "medellin",
+  "millonarios",
+  "nacional",
+  "pasto",
+  "pereira",
+  "quindio",
+  "real-cartagena",
+  "santafe",
+  "tolima"
+ ],
+ "standings": [
+  {
+   "team": "cali",
+   "position": 1,
+   "played": 22,
+   "won": 11,
+   "drawn": 6,
+   "lost": 5,
+   "goals_for": 44,
+   "goals_against": 24,
+   "goal_diff": 20,
+   "points": 39,
+   "bonus": null
+  },
+  {
+   "team": "santafe",
+   "position": 2,
+   "played": 22,
+   "won": 10,
+   "drawn": 8,
+   "lost": 4,
+   "goals_for": 26,
+   "goals_against": 13,
+   "goal_diff": 13,
+   "points": 38,
+   "bonus": null
+  },
+  {
+   "team": "nacional",
+   "position": 3,
+   "played": 22,
+   "won": 10,
+   "drawn": 8,
+   "lost": 4,
+   "goals_for": 24,
+   "goals_against": 18,
+   "goal_diff": 6,
+   "points": 38,
+   "bonus": null
+  },
+  {
+   "team": "envigado",
+   "position": 4,
+   "played": 22,
+   "won": 10,
+   "drawn": 6,
+   "lost": 6,
+   "goals_for": 21,
+   "goals_against": 18,
+   "goal_diff": 3,
+   "points": 36,
+   "bonus": null
+  },
+  {
+   "team": "pasto",
+   "position": 5,
+   "played": 22,
+   "won": 9,
+   "drawn": 7,
+   "lost": 6,
+   "goals_for": 29,
+   "goals_against": 27,
+   "goal_diff": 2,
+   "points": 34,
+   "bonus": null
+  },
+  {
+   "team": "bucaramanga",
+   "position": 6,
+   "played": 22,
+   "won": 9,
+   "drawn": 6,
+   "lost": 7,
+   "goals_for": 24,
+   "goals_against": 22,
+   "goal_diff": 2,
+   "points": 33,
+   "bonus": null
+  },
+  {
+   "team": "magdalena",
+   "position": 7,
+   "played": 22,
+   "won": 9,
+   "drawn": 6,
+   "lost": 7,
+   "goals_for": 27,
+   "goals_against": 27,
+   "goal_diff": 0,
+   "points": 33,
+   "bonus": null
+  },
+  {
+   "team": "america",
+   "position": 8,
+   "played": 22,
+   "won": 8,
+   "drawn": 9,
+   "lost": 5,
+   "goals_for": 27,
+   "goals_against": 22,
+   "goal_diff": 5,
+   "points": 33,
+   "bonus": null
+  },
+  {
+   "team": "caldas",
+   "position": 9,
+   "played": 22,
+   "won": 9,
+   "drawn": 5,
+   "lost": 8,
+   "goals_for": 36,
+   "goals_against": 29,
+   "goal_diff": 7,
+   "points": 32,
+   "bonus": null
+  },
+  {
+   "team": "pereira",
+   "position": 10,
+   "played": 22,
+   "won": 8,
+   "drawn": 8,
+   "lost": 6,
+   "goals_for": 20,
+   "goals_against": 16,
+   "goal_diff": 4,
+   "points": 32,
+   "bonus": null
+  },
+  {
+   "team": "quindio",
+   "position": 11,
+   "played": 22,
+   "won": 7,
+   "drawn": 9,
+   "lost": 6,
+   "goals_for": 24,
+   "goals_against": 30,
+   "goal_diff": -6,
+   "points": 30,
+   "bonus": null
+  },
+  {
+   "team": "junior",
+   "position": 12,
+   "played": 22,
+   "won": 7,
+   "drawn": 5,
+   "lost": 10,
+   "goals_for": 19,
+   "goals_against": 25,
+   "goal_diff": -6,
+   "points": 26,
+   "bonus": null
+  },
+  {
+   "team": "millonarios",
+   "position": 13,
+   "played": 22,
+   "won": 5,
+   "drawn": 8,
+   "lost": 9,
+   "goals_for": 17,
+   "goals_against": 21,
+   "goal_diff": -4,
+   "points": 23,
+   "bonus": null
+  },
+  {
+   "team": "huila",
+   "position": 14,
+   "played": 22,
+   "won": 5,
+   "drawn": 7,
+   "lost": 10,
+   "goals_for": 21,
+   "goals_against": 32,
+   "goal_diff": -11,
+   "points": 22,
+   "bonus": null
+  },
+  {
+   "team": "cortulua",
+   "position": 15,
+   "played": 22,
+   "won": 5,
+   "drawn": 6,
+   "lost": 11,
+   "goals_for": 16,
+   "goals_against": 25,
+   "goal_diff": -9,
+   "points": 21,
+   "bonus": null
+  },
+  {
+   "team": "medellin",
+   "position": 16,
+   "played": 22,
+   "won": 4,
+   "drawn": 9,
+   "lost": 9,
+   "goals_for": 26,
+   "goals_against": 32,
+   "goal_diff": -6,
+   "points": 21,
+   "bonus": null
+  },
+  {
+   "team": "real-cartagena",
+   "position": 17,
+   "played": 22,
+   "won": 4,
+   "drawn": 8,
+   "lost": 10,
+   "goals_for": 17,
+   "goals_against": 25,
+   "goal_diff": -8,
+   "points": 20,
+   "bonus": null
+  },
+  {
+   "team": "tolima",
+   "position": 18,
+   "played": 22,
+   "won": 3,
+   "drawn": 9,
+   "lost": 10,
+   "goals_for": 18,
+   "goals_against": 30,
+   "goal_diff": -12,
+   "points": 18,
+   "bonus": null
+  }
+ ],
+ "groups": [
+  {
+   "name": "Grupo A",
+   "stage": "cuadrangulares",
+   "standings": [
+    {
+     "team": "nacional",
+     "position": 1,
+     "played": 6,
+     "won": 5,
+     "drawn": 1,
+     "lost": 0,
+     "goals_for": 12,
+     "goals_against": 4,
+     "goal_diff": 8,
+     "points": 16,
+     "bonus": null
+    },
+    {
+     "team": "magdalena",
+     "position": 2,
+     "played": 6,
+     "won": 3,
+     "drawn": 0,
+     "lost": 3,
+     "goals_for": 12,
+     "goals_against": 9,
+     "goal_diff": 3,
+     "points": 9,
+     "bonus": null
+    },
+    {
+     "team": "cali",
+     "position": 3,
+     "played": 6,
+     "won": 2,
+     "drawn": 2,
+     "lost": 2,
+     "goals_for": 11,
+     "goals_against": 13,
+     "goal_diff": -2,
+     "points": 8,
+     "bonus": null
+    },
+    {
+     "team": "pasto",
+     "position": 4,
+     "played": 6,
+     "won": 0,
+     "drawn": 1,
+     "lost": 5,
+     "goals_for": 4,
+     "goals_against": 13,
+     "goal_diff": -9,
+     "points": 1,
+     "bonus": null
+    }
+   ]
+  },
+  {
+   "name": "Grupo B",
+   "stage": "cuadrangulares",
+   "standings": [
+    {
+     "team": "america",
+     "position": 1,
+     "played": 6,
+     "won": 4,
+     "drawn": 0,
+     "lost": 2,
+     "goals_for": 6,
+     "goals_against": 6,
+     "goal_diff": 0,
+     "points": 12,
+     "bonus": null
+    },
+    {
+     "team": "santafe",
+     "position": 2,
+     "played": 6,
+     "won": 3,
+     "drawn": 2,
+     "lost": 1,
+     "goals_for": 10,
+     "goals_against": 6,
+     "goal_diff": 4,
+     "points": 11,
+     "bonus": null
+    },
+    {
+     "team": "envigado",
+     "position": 3,
+     "played": 6,
+     "won": 2,
+     "drawn": 2,
+     "lost": 2,
+     "goals_for": 7,
+     "goals_against": 5,
+     "goal_diff": 2,
+     "points": 8,
+     "bonus": null
+    },
+    {
+     "team": "bucaramanga",
+     "position": 4,
+     "played": 6,
+     "won": 0,
+     "drawn": 2,
+     "lost": 4,
+     "goals_for": 4,
+     "goals_against": 10,
+     "goal_diff": -6,
+     "points": 2,
+     "bonus": null
+    }
+   ]
+  }
+ ],
+ "matches": [
+  {
+   "id": "2002-i-cuadrangulares-america-nacional",
+   "stage": "cuadrangulares",
+   "round": null,
+   "leg": null,
+   "date": "2002-06-16",
+   "home": "america",
+   "away": "nacional",
+   "home_goals": 2,
+   "away_goals": 1,
+   "penalties": null,
+   "status": "played"
+  },
+  {
+   "id": "2002-i-cuadrangulares-nacional-america",
+   "stage": "cuadrangulares",
+   "round": null,
+   "leg": null,
+   "date": "2002-06-19",
+   "home": "nacional",
+   "away": "america",
+   "home_goals": 0,
+   "away_goals": 1,
+   "penalties": null,
+   "status": "played"
+  }
+ ],
+ "scorers": [
+  {
+   "player_name": "Luis Zuleta",
+   "team": "magdalena",
+   "goals": 13,
+   "played": null
+  },
+  {
+   "player_name": "José Herrera",
+   "team": "magdalena",
+   "goals": 12,
+   "played": null
+  },
+  {
+   "player_name": "Carlos Vilarete",
+   "team": "magdalena",
+   "goals": 12,
+   "played": null
+  },
+  {
+   "player_name": "Leonardo Mina",
+   "team": "cali",
+   "goals": 11,
+   "played": null
+  },
+  {
+   "player_name": "Carlos Castillo",
+   "team": "cali",
+   "goals": 11,
+   "played": null
+  }
+ ],
+ "assists": []
+}

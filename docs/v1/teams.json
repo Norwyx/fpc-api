@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-09-12T16:47:22Z",
+  "updated": "2026-09-13T17:14:52Z",
   "source": "https://es.wikipedia.org/wiki/Categoría_Primera_A"
  },
  "teams": [
@@ -339,9 +339,33 @@
    "active": false
   },
   {
-   "id": "barranquilla",
-   "name": "Barranquilla",
-   "short_name": "Barranquilla",
+   "id": "atletico-manizales",
+   "name": "Atlético Manizales",
+   "short_name": "Atlético Manizales",
+   "city": null,
+   "stadium": null,
+   "capacity": null,
+   "founded": null,
+   "colors": null,
+   "wikipedia": null,
+   "active": false
+  },
+  {
+   "id": "barranquilla-fc",
+   "name": "Barranquilla FC",
+   "short_name": "Barranquilla FC",
+   "city": null,
+   "stadium": null,
+   "capacity": null,
+   "founded": null,
+   "colors": null,
+   "wikipedia": null,
+   "active": false
+  },
+  {
+   "id": "boca-cali",
+   "name": "Boca Juniors de Cali",
+   "short_name": "Boca Juniors de Cali",
    "city": null,
    "stadium": null,
    "capacity": null,
@@ -354,6 +378,18 @@
    "id": "bogota",
    "name": "Bogotá",
    "short_name": "Bogotá",
+   "city": null,
+   "stadium": null,
+   "capacity": null,
+   "founded": null,
+   "colors": null,
+   "wikipedia": null,
+   "active": false
+  },
+  {
+   "id": "centauros",
+   "name": "Centauros",
+   "short_name": "Centauros",
    "city": null,
    "stadium": null,
    "capacity": null,
@@ -405,6 +441,30 @@
    "id": "deportivo-antioquia",
    "name": "Deportivo Antioquia",
    "short_name": "Deportivo Antioquia",
+   "city": null,
+   "stadium": null,
+   "capacity": null,
+   "founded": null,
+   "colors": null,
+   "wikipedia": null,
+   "active": false
+  },
+  {
+   "id": "deportivo-barranquilla",
+   "name": "Deportivo Barranquilla",
+   "short_name": "Deportivo Barranquilla",
+   "city": null,
+   "stadium": null,
+   "capacity": null,
+   "founded": null,
+   "colors": null,
+   "wikipedia": null,
+   "active": false
+  },
+  {
+   "id": "deportivo-manizales",
+   "name": "Deportivo Manizales",
+   "short_name": "Deportivo Manizales",
    "city": null,
    "stadium": null,
    "capacity": null,
@@ -495,9 +555,9 @@
    "active": false
   },
   {
-   "id": "internacional",
-   "name": "Palmira",
-   "short_name": "Palmira",
+   "id": "huracan",
+   "name": "Huracán",
+   "short_name": "Huracán",
    "city": null,
    "stadium": null,
    "capacity": null,
@@ -507,9 +567,9 @@
    "active": false
   },
   {
-   "id": "itague",
-   "name": "Itagüí",
-   "short_name": "Itagüí",
+   "id": "internacional",
+   "name": "Palmira",
+   "short_name": "Palmira",
    "city": null,
    "stadium": null,
    "capacity": null,
@@ -542,6 +602,30 @@
     "primary": "#CE1126",
     "secondary": "#FFFFFF"
    },
+   "wikipedia": null,
+   "active": false
+  },
+  {
+   "id": "once-deportivo",
+   "name": "Once Deportivo",
+   "short_name": "Once Deportivo",
+   "city": null,
+   "stadium": null,
+   "capacity": null,
+   "founded": null,
+   "colors": null,
+   "wikipedia": null,
+   "active": false
+  },
+  {
+   "id": "oro-negro",
+   "name": "Oro Negro",
+   "short_name": "Oro Negro",
+   "city": null,
+   "stadium": null,
+   "capacity": null,
+   "founded": null,
+   "colors": null,
    "wikipedia": null,
    "active": false
   },
@@ -624,6 +708,30 @@
    "active": false
   },
   {
+   "id": "samarios",
+   "name": "Deportivo Samarios",
+   "short_name": "Deportivo Samarios",
+   "city": null,
+   "stadium": null,
+   "capacity": null,
+   "founded": null,
+   "colors": null,
+   "wikipedia": null,
+   "active": false
+  },
+  {
+   "id": "sporting",
+   "name": "Sporting",
+   "short_name": "Sporting",
+   "city": null,
+   "stadium": null,
+   "capacity": null,
+   "founded": null,
+   "colors": null,
+   "wikipedia": null,
+   "active": false
+  },
+  {
    "id": "tigres",
    "name": "Tigres",
    "short_name": "Tigres",
@@ -639,6 +747,30 @@
    "id": "uniautonoma",
    "name": "Uniautónoma",
    "short_name": "Uniautónoma",
+   "city": null,
+   "stadium": null,
+   "capacity": null,
+   "founded": null,
+   "colors": null,
+   "wikipedia": null,
+   "active": false
+  },
+  {
+   "id": "unicosta",
+   "name": "Deportivo Unicosta",
+   "short_name": "Deportivo Unicosta",
+   "city": null,
+   "stadium": null,
+   "capacity": null,
+   "founded": null,
+   "colors": null,
+   "wikipedia": null,
+   "active": false
+  },
+  {
+   "id": "universidad",
+   "name": "Universidad Nacional",
+   "short_name": "Universidad Nacional",
    "city": null,
    "stadium": null,
    "capacity": null,

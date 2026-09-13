@@ -101,4 +101,4 @@ id,year,tournament,status,champion,start_date,end_date,n_teams,n_matches,n_playe
 2025-i,2025,apertura,completed,santafe,2025-01-24,2025-06-29,20,226,226,Torneo Apertura 2025 (Colombia)
 2025-ii,2025,finalizacion,completed,junior,2025-07-11,2025-12-16,20,226,226,Torneo Finalización 2025 (Colombia)
 2026-i,2026,apertura,completed,junior,2026-01-16,2026-06-08,20,204,204,Torneo Apertura 2026 (Colombia)
-2026-ii,2026,finalizacion,in_progress,,2026-07-24,2026-12-22,20,190,67,Torneo Finalización 2026 (Colombia)
+2026-ii,2026,finalizacion,in_progress,,2026-07-24,2026-12-22,20,190,75,Torneo Finalización 2026 (Colombia)

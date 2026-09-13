@@ -1,0 +1,286 @@
+{
+ "meta": {
+  "version": 1,
+  "updated": "2026-09-13T17:15:50Z",
+  "source": "https://es.wikipedia.org/wiki/Campeonato_colombiano_1995"
+ },
+ "season": {
+  "id": "1995",
+  "year": 1995,
+  "tournament": "liga",
+  "wikipedia": "Campeonato colombiano 1995",
+  "start_date": "1995-02-26",
+  "end_date": "1995-06-14",
+  "status": "completed"
+ },
+ "champion": "junior",
+ "teams": [
+  "america",
+  "caldas",
+  "cali",
+  "cortulua",
+  "cucuta",
+  "envigado",
+  "huila",
+  "junior",
+  "magdalena",
+  "medellin",
+  "millonarios",
+  "nacional",
+  "pereira",
+  "quindio",
+  "santafe",
+  "tolima"
+ ],
+ "standings": [
+  {
+   "team": "junior",
+   "position": 1,
+   "played": 30,
+   "won": 18,
+   "drawn": 8,
+   "lost": 4,
+   "goals_for": 66,
+   "goals_against": 37,
+   "goal_diff": 29,
+   "points": 62,
+   "bonus": null
+  },
+  {
+   "team": "america",
+   "position": 2,
+   "played": 30,
+   "won": 17,
+   "drawn": 9,
+   "lost": 4,
+   "goals_for": 56,
+   "goals_against": 32,
+   "goal_diff": 24,
+   "points": 60,
+   "bonus": null
+  },
+  {
+   "team": "nacional",
+   "position": 3,
+   "played": 30,
+   "won": 12,
+   "drawn": 12,
+   "lost": 6,
+   "goals_for": 48,
+   "goals_against": 37,
+   "goal_diff": 11,
+   "points": 48,
+   "bonus": null
+  },
+  {
+   "team": "cali",
+   "position": 4,
+   "played": 30,
+   "won": 11,
+   "drawn": 14,
+   "lost": 5,
+   "goals_for": 54,
+   "goals_against": 42,
+   "goal_diff": 12,
+   "points": 47,
+   "bonus": null
+  },
+  {
+   "team": "santafe",
+   "position": 5,
+   "played": 30,
+   "won": 11,
+   "drawn": 12,
+   "lost": 7,
+   "goals_for": 40,
+   "goals_against": 29,
+   "goal_diff": 11,
+   "points": 45,
+   "bonus": null
+  },
+  {
+   "team": "pereira",
+   "position": 6,
+   "played": 30,
+   "won": 13,
+   "drawn": 4,
+   "lost": 13,
+   "goals_for": 52,
+   "goals_against": 46,
+   "goal_diff": 6,
+   "points": 43,
+   "bonus": null
+  },
+  {
+   "team": "medellin",
+   "position": 7,
+   "played": 30,
+   "won": 11,
+   "drawn": 10,
+   "lost": 9,
+   "goals_for": 48,
+   "goals_against": 43,
+   "goal_diff": 5,
+   "points": 43,
+   "bonus": null
+  },
+  {
+   "team": "caldas",
+   "position": 8,
+   "played": 30,
+   "won": 11,
+   "drawn": 9,
+   "lost": 10,
+   "goals_for": 37,
+   "goals_against": 33,
+   "goal_diff": 4,
+   "points": 42,
+   "bonus": null
+  },
+  {
+   "team": "tolima",
+   "position": 9,
+   "played": 30,
+   "won": 10,
+   "drawn": 10,
+   "lost": 10,
+   "goals_for": 41,
+   "goals_against": 44,
+   "goal_diff": -3,
+   "points": 40,
+   "bonus": null
+  },
+  {
+   "team": "quindio",
+   "position": 10,
+   "played": 30,
+   "won": 9,
+   "drawn": 10,
+   "lost": 11,
+   "goals_for": 35,
+   "goals_against": 40,
+   "goal_diff": -5,
+   "points": 37,
+   "bonus": null
+  },
+  {
+   "team": "cortulua",
+   "position": 11,
+   "played": 30,
+   "won": 10,
+   "drawn": 7,
+   "lost": 13,
+   "goals_for": 38,
+   "goals_against": 45,
+   "goal_diff": -7,
+   "points": 35,
+   "bonus": null
+  },
+  {
+   "team": "envigado",
+   "position": 12,
+   "played": 30,
+   "won": 8,
+   "drawn": 8,
+   "lost": 14,
+   "goals_for": 36,
+   "goals_against": 50,
+   "goal_diff": -14,
+   "points": 32,
+   "bonus": null
+  },
+  {
+   "team": "magdalena",
+   "position": 13,
+   "played": 30,
+   "won": 8,
+   "drawn": 7,
+   "lost": 15,
+   "goals_for": 26,
+   "goals_against": 42,
+   "goal_diff": -16,
+   "points": 31,
+   "bonus": null
+  },
+  {
+   "team": "millonarios",
+   "position": 14,
+   "played": 30,
+   "won": 5,
+   "drawn": 13,
+   "lost": 12,
+   "goals_for": 40,
+   "goals_against": 53,
+   "goal_diff": -13,
+   "points": 28,
+   "bonus": null
+  },
+  {
+   "team": "huila",
+   "position": 15,
+   "played": 30,
+   "won": 6,
+   "drawn": 8,
+   "lost": 16,
+   "goals_for": 34,
+   "goals_against": 56,
+   "goal_diff": -22,
+   "points": 26,
+   "bonus": null
+  },
+  {
+   "team": "cucuta",
+   "position": 16,
+   "played": 30,
+   "won": 5,
+   "drawn": 9,
+   "lost": 16,
+   "goals_for": 25,
+   "goals_against": 47,
+   "goal_diff": -22,
+   "points": 24,
+   "bonus": null
+  }
+ ],
+ "groups": [],
+ "matches": [],
+ "scorers": [
+  {
+   "player_name": "Iván René Valenciano",
+   "team": "junior",
+   "goals": 24,
+   "played": null
+  },
+  {
+   "player_name": "Niver Arboleda",
+   "team": "cali",
+   "goals": 19,
+   "played": null
+  },
+  {
+   "player_name": "Cristian Montecinos",
+   "team": "junior",
+   "goals": 16,
+   "played": null
+  },
+  {
+   "player_name": "Carlos Castro",
+   "team": "medellin",
+   "goals": 15,
+   "played": null
+  },
+  {
+   "player_name": "Rubén Darío Hernández",
+   "team": "santafe",
+   "goals": 13,
+   "played": null
+  },
+  {
+   "player_name": "Gustavo Daniel Iturburo",
+   "team": "magdalena",
+   "goals": 12,
+   "played": null
+  }
+ ],
+ "assists": []
+}

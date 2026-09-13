@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-09-12T16:47:22Z",
+  "updated": "2026-09-13T17:14:52Z",
   "source": "https://es.wikipedia.org/wiki/Categoría_Primera_A"
  },
  "champions": [
@@ -44,8 +44,8 @@
    "tournament": null,
    "champion": "millonarios",
    "champion_name": "Millonarios",
-   "runner_up": null,
-   "runner_up_name": null,
+   "runner_up": "boca-cali",
+   "runner_up_name": "Boca Juniors de Cali",
    "score": null,
    "top_scorer": "Alfredo Di Stéfano"
   },
@@ -55,8 +55,8 @@
    "tournament": null,
    "champion": "millonarios",
    "champion_name": "Millonarios",
-   "runner_up": null,
-   "runner_up_name": null,
+   "runner_up": "boca-cali",
+   "runner_up_name": "Boca Juniors de Cali",
    "score": null,
    "top_scorer": "Alfredo Di Stéfano"
   },
@@ -111,7 +111,7 @@
    "champion": "medellin",
    "champion_name": "Independiente Medellín",
    "runner_up": "tolima",
-   "runner_up_name": "Deportes Tolima [ 81 ] ​",
+   "runner_up_name": "Deportes Tolima",
    "score": "Final vs. Cúcuta Deportivo",
    "top_scorer": "José Vicente Grecco"
   },
@@ -266,7 +266,7 @@
    "champion_name": "Santa Fe",
    "runner_up": "nacional",
    "runner_up_name": "Atlético Nacional",
-   "score": "0:0 0:0 3:2 [ 82 ] ​",
+   "score": "0:0 0:0 3:2",
    "top_scorer": "Hugo Horacio Lóndero Apolinar Paniagua"
   },
   {
@@ -985,7 +985,7 @@
    "top_scorer": "Germán Cano Michael Rangel"
   },
   {
-   "season_id": "2020[83]​",
+   "season_id": "2020",
    "year": 2020,
    "tournament": null,
    "champion": "america",
@@ -996,9 +996,9 @@
    "top_scorer": "Miguel Borja"
   },
   {
-   "season_id": "2021-i[83]​",
+   "season_id": "2021-i",
    "year": 2021,
-   "tournament": null,
+   "tournament": "apertura",
    "champion": "tolima",
    "champion_name": "Deportes Tolima",
    "runner_up": "millonarios",

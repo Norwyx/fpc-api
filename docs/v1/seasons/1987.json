@@ -1,0 +1,627 @@
+{
+ "meta": {
+  "version": 1,
+  "updated": "2026-09-13T17:15:41Z",
+  "source": "https://es.wikipedia.org/wiki/Campeonato_colombiano_1987"
+ },
+ "season": {
+  "id": "1987",
+  "year": 1987,
+  "tournament": "liga",
+  "wikipedia": "Campeonato colombiano 1987",
+  "start_date": null,
+  "end_date": null,
+  "status": "completed"
+ },
+ "champion": "millonarios",
+ "teams": [
+  "america",
+  "bucaramanga",
+  "caldas",
+  "cali",
+  "cucuta",
+  "junior",
+  "magdalena",
+  "medellin",
+  "millonarios",
+  "nacional",
+  "pereira",
+  "quindio",
+  "santafe",
+  "tolima"
+ ],
+ "standings": [
+  {
+   "team": "millonarios",
+   "position": 1,
+   "played": 26,
+   "won": 17,
+   "drawn": 6,
+   "lost": 3,
+   "goals_for": 47,
+   "goals_against": 29,
+   "goal_diff": 18,
+   "points": 40,
+   "bonus": null
+  },
+  {
+   "team": "nacional",
+   "position": 2,
+   "played": 26,
+   "won": 15,
+   "drawn": 6,
+   "lost": 5,
+   "goals_for": 37,
+   "goals_against": 22,
+   "goal_diff": 15,
+   "points": 36,
+   "bonus": null
+  },
+  {
+   "team": "america",
+   "position": 3,
+   "played": 26,
+   "won": 11,
+   "drawn": 8,
+   "lost": 7,
+   "goals_for": 32,
+   "goals_against": 17,
+   "goal_diff": 15,
+   "points": 30,
+   "bonus": null
+  },
+  {
+   "team": "santafe",
+   "position": 4,
+   "played": 26,
+   "won": 11,
+   "drawn": 8,
+   "lost": 7,
+   "goals_for": 41,
+   "goals_against": 29,
+   "goal_diff": 12,
+   "points": 30,
+   "bonus": null
+  },
+  {
+   "team": "cali",
+   "position": 5,
+   "played": 26,
+   "won": 10,
+   "drawn": 9,
+   "lost": 7,
+   "goals_for": 44,
+   "goals_against": 31,
+   "goal_diff": 13,
+   "points": 29,
+   "bonus": null
+  },
+  {
+   "team": "pereira",
+   "position": 6,
+   "played": 26,
+   "won": 9,
+   "drawn": 11,
+   "lost": 6,
+   "goals_for": 31,
+   "goals_against": 26,
+   "goal_diff": 5,
+   "points": 29,
+   "bonus": null
+  },
+  {
+   "team": "medellin",
+   "position": 7,
+   "played": 26,
+   "won": 10,
+   "drawn": 8,
+   "lost": 8,
+   "goals_for": 28,
+   "goals_against": 29,
+   "goal_diff": -1,
+   "points": 28,
+   "bonus": null
+  },
+  {
+   "team": "junior",
+   "position": 8,
+   "played": 26,
+   "won": 9,
+   "drawn": 10,
+   "lost": 7,
+   "goals_for": 38,
+   "goals_against": 29,
+   "goal_diff": 9,
+   "points": 28,
+   "bonus": null
+  },
+  {
+   "team": "bucaramanga",
+   "position": 9,
+   "played": 26,
+   "won": 8,
+   "drawn": 10,
+   "lost": 8,
+   "goals_for": 22,
+   "goals_against": 25,
+   "goal_diff": -3,
+   "points": 26,
+   "bonus": null
+  },
+  {
+   "team": "quindio",
+   "position": 10,
+   "played": 26,
+   "won": 8,
+   "drawn": 9,
+   "lost": 9,
+   "goals_for": 33,
+   "goals_against": 37,
+   "goal_diff": -4,
+   "points": 25,
+   "bonus": null
+  },
+  {
+   "team": "cucuta",
+   "position": 11,
+   "played": 26,
+   "won": 6,
+   "drawn": 5,
+   "lost": 15,
+   "goals_for": 25,
+   "goals_against": 38,
+   "goal_diff": -13,
+   "points": 17,
+   "bonus": null
+  },
+  {
+   "team": "magdalena",
+   "position": 12,
+   "played": 26,
+   "won": 6,
+   "drawn": 5,
+   "lost": 15,
+   "goals_for": 18,
+   "goals_against": 36,
+   "goal_diff": -18,
+   "points": 17,
+   "bonus": null
+  },
+  {
+   "team": "tolima",
+   "position": 13,
+   "played": 26,
+   "won": 4,
+   "drawn": 8,
+   "lost": 14,
+   "goals_for": 22,
+   "goals_against": 44,
+   "goal_diff": -22,
+   "points": 16,
+   "bonus": null
+  },
+  {
+   "team": "caldas",
+   "position": 14,
+   "played": 26,
+   "won": 4,
+   "drawn": 5,
+   "lost": 17,
+   "goals_for": 19,
+   "goals_against": 45,
+   "goal_diff": -26,
+   "points": 13,
+   "bonus": null
+  }
+ ],
+ "groups": [
+  {
+   "name": "Grupo A",
+   "stage": "octogonal",
+   "standings": [
+    {
+     "team": "millonarios",
+     "position": 1,
+     "played": 14,
+     "won": 7,
+     "drawn": 6,
+     "lost": 1,
+     "goals_for": 24,
+     "goals_against": 8,
+     "goal_diff": 16,
+     "points": 22,
+     "bonus": null
+    },
+    {
+     "team": "america",
+     "position": 2,
+     "played": 14,
+     "won": 6,
+     "drawn": 7,
+     "lost": 1,
+     "goals_for": 12,
+     "goals_against": 6,
+     "goal_diff": 6,
+     "points": 20.25,
+     "bonus": null
+    },
+    {
+     "team": "santafe",
+     "position": 3,
+     "played": 14,
+     "won": 7,
+     "drawn": 4,
+     "lost": 3,
+     "goals_for": 15,
+     "goals_against": 11,
+     "goal_diff": 4,
+     "points": 18.25,
+     "bonus": null
+    },
+    {
+     "team": "nacional",
+     "position": 4,
+     "played": 14,
+     "won": 6,
+     "drawn": 5,
+     "lost": 3,
+     "goals_for": 26,
+     "goals_against": 9,
+     "goal_diff": 17,
+     "points": 18.25,
+     "bonus": null
+    },
+    {
+     "team": "junior",
+     "position": 5,
+     "played": 14,
+     "won": 5,
+     "drawn": 6,
+     "lost": 3,
+     "goals_for": 13,
+     "goals_against": 10,
+     "goal_diff": 3,
+     "points": 16.25,
+     "bonus": null
+    },
+    {
+     "team": "cali",
+     "position": 6,
+     "played": 14,
+     "won": 3,
+     "drawn": 6,
+     "lost": 5,
+     "goals_for": 12,
+     "goals_against": 16,
+     "goal_diff": -4,
+     "points": 12,
+     "bonus": null
+    },
+    {
+     "team": "pereira",
+     "position": 7,
+     "played": 14,
+     "won": 1,
+     "drawn": 3,
+     "lost": 10,
+     "goals_for": 6,
+     "goals_against": 26,
+     "goal_diff": -20,
+     "points": 5,
+     "bonus": null
+    },
+    {
+     "team": "medellin",
+     "position": 8,
+     "played": 14,
+     "won": 1,
+     "drawn": 3,
+     "lost": 10,
+     "goals_for": 6,
+     "goals_against": 28,
+     "goal_diff": -22,
+     "points": 5,
+     "bonus": null
+    }
+   ]
+  },
+  {
+   "name": "Grupo B",
+   "stage": "cuadrangulares",
+   "standings": [
+    {
+     "team": "millonarios",
+     "position": 1,
+     "played": 14,
+     "won": 6,
+     "drawn": 7,
+     "lost": 1,
+     "goals_for": 27,
+     "goals_against": 17,
+     "goal_diff": 10,
+     "points": 19,
+     "bonus": null
+    },
+    {
+     "team": "nacional",
+     "position": 2,
+     "played": 14,
+     "won": 6,
+     "drawn": 5,
+     "lost": 3,
+     "goals_for": 17,
+     "goals_against": 11,
+     "goal_diff": 6,
+     "points": 17,
+     "bonus": null
+    },
+    {
+     "team": "cali",
+     "position": 3,
+     "played": 14,
+     "won": 5,
+     "drawn": 5,
+     "lost": 4,
+     "goals_for": 21,
+     "goals_against": 16,
+     "goal_diff": 5,
+     "points": 15,
+     "bonus": null
+    },
+    {
+     "team": "tolima",
+     "position": 4,
+     "played": 14,
+     "won": 4,
+     "drawn": 6,
+     "lost": 4,
+     "goals_for": 16,
+     "goals_against": 16,
+     "goal_diff": 0,
+     "points": 14,
+     "bonus": null
+    },
+    {
+     "team": "caldas",
+     "position": 5,
+     "played": 14,
+     "won": 3,
+     "drawn": 6,
+     "lost": 5,
+     "goals_for": 22,
+     "goals_against": 24,
+     "goal_diff": -2,
+     "points": 12,
+     "bonus": null
+    },
+    {
+     "team": "cucuta",
+     "position": 6,
+     "played": 14,
+     "won": 4,
+     "drawn": 2,
+     "lost": 8,
+     "goals_for": 10,
+     "goals_against": 22,
+     "goal_diff": -12,
+     "points": 10,
+     "bonus": null
+    },
+    {
+     "team": "magdalena",
+     "position": 7,
+     "played": 14,
+     "won": 2,
+     "drawn": 6,
+     "lost": 6,
+     "goals_for": 14,
+     "goals_against": 19,
+     "goal_diff": -5,
+     "points": 10,
+     "bonus": null
+    }
+   ]
+  },
+  {
+   "name": "Grupo C",
+   "stage": "cuadrangulares",
+   "standings": [
+    {
+     "team": "america",
+     "position": 1,
+     "played": 14,
+     "won": 7,
+     "drawn": 5,
+     "lost": 2,
+     "goals_for": 29,
+     "goals_against": 14,
+     "goal_diff": 15,
+     "points": 19,
+     "bonus": null
+    },
+    {
+     "team": "junior",
+     "position": 2,
+     "played": 14,
+     "won": 6,
+     "drawn": 6,
+     "lost": 2,
+     "goals_for": 22,
+     "goals_against": 18,
+     "goal_diff": 4,
+     "points": 18,
+     "bonus": null
+    },
+    {
+     "team": "santafe",
+     "position": 3,
+     "played": 14,
+     "won": 5,
+     "drawn": 4,
+     "lost": 5,
+     "goals_for": 27,
+     "goals_against": 18,
+     "goal_diff": 9,
+     "points": 14,
+     "bonus": null
+    },
+    {
+     "team": "pereira",
+     "position": 4,
+     "played": 14,
+     "won": 5,
+     "drawn": 4,
+     "lost": 5,
+     "goals_for": 17,
+     "goals_against": 24,
+     "goal_diff": -7,
+     "points": 14,
+     "bonus": null
+    },
+    {
+     "team": "bucaramanga",
+     "position": 5,
+     "played": 14,
+     "won": 4,
+     "drawn": 4,
+     "lost": 6,
+     "goals_for": 16,
+     "goals_against": 19,
+     "goal_diff": -3,
+     "points": 12,
+     "bonus": null
+    },
+    {
+     "team": "quindio",
+     "position": 6,
+     "played": 14,
+     "won": 2,
+     "drawn": 8,
+     "lost": 4,
+     "goals_for": 15,
+     "goals_against": 20,
+     "goal_diff": -5,
+     "points": 12,
+     "bonus": null
+    },
+    {
+     "team": "medellin",
+     "position": 7,
+     "played": 14,
+     "won": 4,
+     "drawn": 2,
+     "lost": 8,
+     "goals_for": 17,
+     "goals_against": 30,
+     "goal_diff": -13,
+     "points": 10,
+     "bonus": null
+    }
+   ]
+  },
+  {
+   "name": "Grupo D",
+   "stage": "apertura",
+   "standings": [
+    {
+     "team": "millonarios",
+     "position": 1,
+     "played": 2,
+     "won": 1,
+     "drawn": 1,
+     "lost": 0,
+     "goals_for": 3,
+     "goals_against": 1,
+     "goal_diff": 2,
+     "points": 3,
+     "bonus": null
+    },
+    {
+     "team": "america",
+     "position": 2,
+     "played": 2,
+     "won": 0,
+     "drawn": 1,
+     "lost": 1,
+     "goals_for": 1,
+     "goals_against": 3,
+     "goal_diff": -2,
+     "points": 1,
+     "bonus": null
+    }
+   ]
+  },
+  {
+   "name": "Grupo E",
+   "stage": "apertura",
+   "standings": [
+    {
+     "team": "nacional",
+     "position": 1,
+     "played": 2,
+     "won": 1,
+     "drawn": 0,
+     "lost": 1,
+     "goals_for": 4,
+     "goals_against": 2,
+     "goal_diff": 2,
+     "points": 2,
+     "bonus": null
+    },
+    {
+     "team": "junior",
+     "position": 2,
+     "played": 2,
+     "won": 1,
+     "drawn": 0,
+     "lost": 1,
+     "goals_for": 2,
+     "goals_against": 4,
+     "goal_diff": -2,
+     "points": 2,
+     "bonus": null
+    }
+   ]
+  }
+ ],
+ "matches": [],
+ "scorers": [
+  {
+   "player_name": "Jorge Aravena",
+   "team": "cali",
+   "goals": 23,
+   "played": null
+  },
+  {
+   "player_name": "Oscar Eduardo Juárez",
+   "team": "millonarios",
+   "goals": 21,
+   "played": null
+  },
+  {
+   "player_name": "Armando Osma",
+   "team": "cali",
+   "goals": 20,
+   "played": null
+  },
+  {
+   "player_name": "Luis Armando Díaz",
+   "team": "santafe",
+   "goals": 19,
+   "played": null
+  },
+  {
+   "player_name": "Jorge Alberto Taverna",
+   "team": "santafe",
+   "goals": 19,
+   "played": null
+  },
+  {
+   "player_name": "Juan Jairo Galeano",
+   "team": "nacional",
+   "goals": 15,
+   "played": null
+  }
+ ],
+ "assists": []
+}

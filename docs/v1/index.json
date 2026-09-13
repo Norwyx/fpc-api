@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-09-12T16:47:49Z",
+  "updated": "2026-09-13T17:17:25Z",
   "name": "FPC API",
   "description": "API pública de datos del fútbol profesional colombiano (Categoría Primera A)",
   "license": "MIT (código) · CC BY-SA 4.0 (datos, de Wikipedia)"
@@ -29,6 +29,879 @@
   }
  ],
  "seasons": [
+  {
+   "id": "1948",
+   "year": 1948,
+   "tournament": "liga",
+   "status": "completed",
+   "champion": "santafe",
+   "n_matches": 90,
+   "url": "/v1/seasons/1948.json"
+  },
+  {
+   "id": "1949",
+   "year": 1949,
+   "tournament": "liga",
+   "status": "completed",
+   "champion": "millonarios",
+   "n_matches": 182,
+   "url": "/v1/seasons/1949.json"
+  },
+  {
+   "id": "1950",
+   "year": 1950,
+   "tournament": "liga",
+   "status": "completed",
+   "champion": "caldas",
+   "n_matches": 238,
+   "url": "/v1/seasons/1950.json"
+  },
+  {
+   "id": "1951",
+   "year": 1951,
+   "tournament": "liga",
+   "status": "completed",
+   "champion": "millonarios",
+   "n_matches": 306,
+   "url": "/v1/seasons/1951.json"
+  },
+  {
+   "id": "1952",
+   "year": 1952,
+   "tournament": "liga",
+   "status": "completed",
+   "champion": "millonarios",
+   "n_matches": 212,
+   "url": "/v1/seasons/1952.json"
+  },
+  {
+   "id": "1953",
+   "year": 1953,
+   "tournament": "liga",
+   "status": "completed",
+   "champion": "millonarios",
+   "n_matches": 121,
+   "url": "/v1/seasons/1953.json"
+  },
+  {
+   "id": "1954",
+   "year": 1954,
+   "tournament": "liga",
+   "status": "completed",
+   "champion": "nacional",
+   "n_matches": 80,
+   "url": "/v1/seasons/1954.json"
+  },
+  {
+   "id": "1955",
+   "year": 1955,
+   "tournament": "liga",
+   "status": "completed",
+   "champion": "medellin",
+   "n_matches": 90,
+   "url": "/v1/seasons/1955.json"
+  },
+  {
+   "id": "1956",
+   "year": 1956,
+   "tournament": "liga",
+   "status": "completed",
+   "champion": "quindio",
+   "n_matches": 131,
+   "url": "/v1/seasons/1956.json"
+  },
+  {
+   "id": "1957",
+   "year": 1957,
+   "tournament": "liga",
+   "status": "completed",
+   "champion": "medellin",
+   "n_matches": 175,
+   "url": "/v1/seasons/1957.json"
+  },
+  {
+   "id": "1958",
+   "year": 1958,
+   "tournament": "liga",
+   "status": "completed",
+   "champion": "santafe",
+   "n_matches": 90,
+   "url": "/v1/seasons/1958.json"
+  },
+  {
+   "id": "1959",
+   "year": 1959,
+   "tournament": "liga",
+   "status": "completed",
+   "champion": "millonarios",
+   "n_matches": 132,
+   "url": "/v1/seasons/1959.json"
+  },
+  {
+   "id": "1960",
+   "year": 1960,
+   "tournament": "liga",
+   "status": "completed",
+   "champion": "santafe",
+   "n_matches": 132,
+   "url": "/v1/seasons/1960.json"
+  },
+  {
+   "id": "1961",
+   "year": 1961,
+   "tournament": "liga",
+   "status": "completed",
+   "champion": "millonarios",
+   "n_matches": 264,
+   "url": "/v1/seasons/1961.json"
+  },
+  {
+   "id": "1962",
+   "year": 1962,
+   "tournament": "liga",
+   "status": "completed",
+   "champion": "millonarios",
+   "n_matches": 264,
+   "url": "/v1/seasons/1962.json"
+  },
+  {
+   "id": "1963",
+   "year": 1963,
+   "tournament": "liga",
+   "status": "completed",
+   "champion": "millonarios",
+   "n_matches": 144,
+   "url": "/v1/seasons/1963.json"
+  },
+  {
+   "id": "1964",
+   "year": 1964,
+   "tournament": "liga",
+   "status": "completed",
+   "champion": "millonarios",
+   "n_matches": 311,
+   "url": "/v1/seasons/1964.json"
+  },
+  {
+   "id": "1965",
+   "year": 1965,
+   "tournament": "liga",
+   "status": "completed",
+   "champion": "cali",
+   "n_matches": 312,
+   "url": "/v1/seasons/1965.json"
+  },
+  {
+   "id": "1966",
+   "year": 1966,
+   "tournament": "liga",
+   "status": "completed",
+   "champion": "santafe",
+   "n_matches": 350,
+   "url": "/v1/seasons/1966.json"
+  },
+  {
+   "id": "1967",
+   "year": 1967,
+   "tournament": "liga",
+   "status": "completed",
+   "champion": "cali",
+   "n_matches": 336,
+   "url": "/v1/seasons/1967.json"
+  },
+  {
+   "id": "1968",
+   "year": 1968,
+   "tournament": "liga",
+   "status": "completed",
+   "champion": "magdalena",
+   "n_matches": 368,
+   "url": "/v1/seasons/1968.json"
+  },
+  {
+   "id": "1969",
+   "year": 1969,
+   "tournament": "liga",
+   "status": "completed",
+   "champion": "cali",
+   "n_matches": 364,
+   "url": "/v1/seasons/1969.json"
+  },
+  {
+   "id": "1970",
+   "year": 1970,
+   "tournament": "liga",
+   "status": "completed",
+   "champion": "cali",
+   "n_matches": 363,
+   "url": "/v1/seasons/1970.json"
+  },
+  {
+   "id": "1971",
+   "year": 1971,
+   "tournament": "liga",
+   "status": "completed",
+   "champion": "santafe",
+   "n_matches": 365,
+   "url": "/v1/seasons/1971.json"
+  },
+  {
+   "id": "1972",
+   "year": 1972,
+   "tournament": "liga",
+   "status": "completed",
+   "champion": "millonarios",
+   "n_matches": 364,
+   "url": "/v1/seasons/1972.json"
+  },
+  {
+   "id": "1973",
+   "year": 1973,
+   "tournament": "liga",
+   "status": "completed",
+   "champion": "nacional",
+   "n_matches": 338,
+   "url": "/v1/seasons/1973.json"
+  },
+  {
+   "id": "1974",
+   "year": 1974,
+   "tournament": "liga",
+   "status": "completed",
+   "champion": "cali",
+   "n_matches": 352,
+   "url": "/v1/seasons/1974.json"
+  },
+  {
+   "id": "1975",
+   "year": 1975,
+   "tournament": "liga",
+   "status": "completed",
+   "champion": "santafe",
+   "n_matches": 358,
+   "url": "/v1/seasons/1975.json"
+  },
+  {
+   "id": "1976",
+   "year": 1976,
+   "tournament": "liga",
+   "status": "completed",
+   "champion": "nacional",
+   "n_matches": 322,
+   "url": "/v1/seasons/1976.json"
+  },
+  {
+   "id": "1977",
+   "year": 1977,
+   "tournament": "liga",
+   "status": "completed",
+   "champion": "junior",
+   "n_matches": 352,
+   "url": "/v1/seasons/1977.json"
+  },
+  {
+   "id": "1978",
+   "year": 1978,
+   "tournament": "liga",
+   "status": "completed",
+   "champion": "millonarios",
+   "n_matches": 357,
+   "url": "/v1/seasons/1978.json"
+  },
+  {
+   "id": "1979",
+   "year": 1979,
+   "tournament": "liga",
+   "status": "completed",
+   "champion": "america",
+   "n_matches": 371,
+   "url": "/v1/seasons/1979.json"
+  },
+  {
+   "id": "1980",
+   "year": 1980,
+   "tournament": "liga",
+   "status": "completed",
+   "champion": "junior",
+   "n_matches": 332,
+   "url": "/v1/seasons/1980.json"
+  },
+  {
+   "id": "1981",
+   "year": 1981,
+   "tournament": "liga",
+   "status": "completed",
+   "champion": "nacional",
+   "n_matches": 322,
+   "url": "/v1/seasons/1981.json"
+  },
+  {
+   "id": "1982",
+   "year": 1982,
+   "tournament": "liga",
+   "status": "completed",
+   "champion": "america",
+   "n_matches": 443,
+   "url": "/v1/seasons/1982.json"
+  },
+  {
+   "id": "1983",
+   "year": 1983,
+   "tournament": "liga",
+   "status": "completed",
+   "champion": "america",
+   "n_matches": 389,
+   "url": "/v1/seasons/1983.json"
+  },
+  {
+   "id": "1984",
+   "year": 1984,
+   "tournament": "liga",
+   "status": "completed",
+   "champion": "america",
+   "n_matches": 332,
+   "url": "/v1/seasons/1984.json"
+  },
+  {
+   "id": "1985",
+   "year": 1985,
+   "tournament": "liga",
+   "status": "completed",
+   "champion": "america",
+   "n_matches": 332,
+   "url": "/v1/seasons/1985.json"
+  },
+  {
+   "id": "1986",
+   "year": 1986,
+   "tournament": "liga",
+   "status": "completed",
+   "champion": "america",
+   "n_matches": 25,
+   "url": "/v1/seasons/1986.json"
+  },
+  {
+   "id": "1987",
+   "year": 1987,
+   "tournament": "liga",
+   "status": "completed",
+   "champion": "millonarios",
+   "n_matches": 0,
+   "url": "/v1/seasons/1987.json"
+  },
+  {
+   "id": "1988",
+   "year": 1988,
+   "tournament": "liga",
+   "status": "completed",
+   "champion": "millonarios",
+   "n_matches": 219,
+   "url": "/v1/seasons/1988.json"
+  },
+  {
+   "id": "1989",
+   "year": 1989,
+   "tournament": "liga",
+   "status": "cancelled",
+   "champion": null,
+   "n_matches": 93,
+   "url": "/v1/seasons/1989.json"
+  },
+  {
+   "id": "1990",
+   "year": 1990,
+   "tournament": "liga",
+   "status": "completed",
+   "champion": "america",
+   "n_matches": 336,
+   "url": "/v1/seasons/1990.json"
+  },
+  {
+   "id": "1991",
+   "year": 1991,
+   "tournament": "liga",
+   "status": "completed",
+   "champion": "nacional",
+   "n_matches": 0,
+   "url": "/v1/seasons/1991.json"
+  },
+  {
+   "id": "1992",
+   "year": 1992,
+   "tournament": "liga",
+   "status": "completed",
+   "champion": "america",
+   "n_matches": 0,
+   "url": "/v1/seasons/1992.json"
+  },
+  {
+   "id": "1993",
+   "year": 1993,
+   "tournament": "liga",
+   "status": "completed",
+   "champion": "junior",
+   "n_matches": 0,
+   "url": "/v1/seasons/1993.json"
+  },
+  {
+   "id": "1994",
+   "year": 1994,
+   "tournament": "liga",
+   "status": "completed",
+   "champion": "nacional",
+   "n_matches": 12,
+   "url": "/v1/seasons/1994.json"
+  },
+  {
+   "id": "1995-96",
+   "year": 1995,
+   "tournament": "liga",
+   "status": "completed",
+   "champion": "cali",
+   "n_matches": 240,
+   "url": "/v1/seasons/1995-96.json"
+  },
+  {
+   "id": "1995",
+   "year": 1995,
+   "tournament": "liga",
+   "status": "completed",
+   "champion": "junior",
+   "n_matches": 0,
+   "url": "/v1/seasons/1995.json"
+  },
+  {
+   "id": "1996-97",
+   "year": 1996,
+   "tournament": "liga",
+   "status": "completed",
+   "champion": "america",
+   "n_matches": 246,
+   "url": "/v1/seasons/1996-97.json"
+  },
+  {
+   "id": "1998",
+   "year": 1998,
+   "tournament": "liga",
+   "status": "completed",
+   "champion": "cali",
+   "n_matches": 2,
+   "url": "/v1/seasons/1998.json"
+  },
+  {
+   "id": "1999",
+   "year": 1999,
+   "tournament": "liga",
+   "status": "completed",
+   "champion": "nacional",
+   "n_matches": 28,
+   "url": "/v1/seasons/1999.json"
+  },
+  {
+   "id": "2000",
+   "year": 2000,
+   "tournament": "liga",
+   "status": "completed",
+   "champion": "america",
+   "n_matches": 12,
+   "url": "/v1/seasons/2000.json"
+  },
+  {
+   "id": "2001",
+   "year": 2001,
+   "tournament": "liga",
+   "status": "completed",
+   "champion": "america",
+   "n_matches": 26,
+   "url": "/v1/seasons/2001.json"
+  },
+  {
+   "id": "2002-i",
+   "year": 2002,
+   "tournament": "apertura",
+   "status": "completed",
+   "champion": "america",
+   "n_matches": 2,
+   "url": "/v1/seasons/2002-i.json"
+  },
+  {
+   "id": "2002-ii",
+   "year": 2002,
+   "tournament": "finalizacion",
+   "status": "completed",
+   "champion": "medellin",
+   "n_matches": 2,
+   "url": "/v1/seasons/2002-ii.json"
+  },
+  {
+   "id": "2003-i",
+   "year": 2003,
+   "tournament": "apertura",
+   "status": "completed",
+   "champion": "caldas",
+   "n_matches": 188,
+   "url": "/v1/seasons/2003-i.json"
+  },
+  {
+   "id": "2003-ii",
+   "year": 2003,
+   "tournament": "finalizacion",
+   "status": "completed",
+   "champion": "tolima",
+   "n_matches": 44,
+   "url": "/v1/seasons/2003-ii.json"
+  },
+  {
+   "id": "2004-i",
+   "year": 2004,
+   "tournament": "apertura",
+   "status": "completed",
+   "champion": "medellin",
+   "n_matches": 188,
+   "url": "/v1/seasons/2004-i.json"
+  },
+  {
+   "id": "2004-ii",
+   "year": 2004,
+   "tournament": "finalizacion",
+   "status": "completed",
+   "champion": "junior",
+   "n_matches": 188,
+   "url": "/v1/seasons/2004-ii.json"
+  },
+  {
+   "id": "2005-i",
+   "year": 2005,
+   "tournament": "apertura",
+   "status": "completed",
+   "champion": "nacional",
+   "n_matches": 188,
+   "url": "/v1/seasons/2005-i.json"
+  },
+  {
+   "id": "2005-ii",
+   "year": 2005,
+   "tournament": "finalizacion",
+   "status": "completed",
+   "champion": "cali",
+   "n_matches": 188,
+   "url": "/v1/seasons/2005-ii.json"
+  },
+  {
+   "id": "2006-i",
+   "year": 2006,
+   "tournament": "apertura",
+   "status": "completed",
+   "champion": "pasto",
+   "n_matches": 188,
+   "url": "/v1/seasons/2006-i.json"
+  },
+  {
+   "id": "2006-ii",
+   "year": 2006,
+   "tournament": "finalizacion",
+   "status": "completed",
+   "champion": "cucuta",
+   "n_matches": 188,
+   "url": "/v1/seasons/2006-ii.json"
+  },
+  {
+   "id": "2007-i",
+   "year": 2007,
+   "tournament": "apertura",
+   "status": "completed",
+   "champion": "nacional",
+   "n_matches": 188,
+   "url": "/v1/seasons/2007-i.json"
+  },
+  {
+   "id": "2007-ii",
+   "year": 2007,
+   "tournament": "finalizacion",
+   "status": "completed",
+   "champion": "nacional",
+   "n_matches": 188,
+   "url": "/v1/seasons/2007-ii.json"
+  },
+  {
+   "id": "2008-i",
+   "year": 2008,
+   "tournament": "apertura",
+   "status": "completed",
+   "champion": "chico",
+   "n_matches": 188,
+   "url": "/v1/seasons/2008-i.json"
+  },
+  {
+   "id": "2008-ii",
+   "year": 2008,
+   "tournament": "finalizacion",
+   "status": "completed",
+   "champion": "america",
+   "n_matches": 188,
+   "url": "/v1/seasons/2008-ii.json"
+  },
+  {
+   "id": "2009-i",
+   "year": 2009,
+   "tournament": "apertura",
+   "status": "completed",
+   "champion": "caldas",
+   "n_matches": 188,
+   "url": "/v1/seasons/2009-i.json"
+  },
+  {
+   "id": "2009-ii",
+   "year": 2009,
+   "tournament": "finalizacion",
+   "status": "completed",
+   "champion": "medellin",
+   "n_matches": 188,
+   "url": "/v1/seasons/2009-ii.json"
+  },
+  {
+   "id": "2010-i",
+   "year": 2010,
+   "tournament": "apertura",
+   "status": "completed",
+   "champion": "junior",
+   "n_matches": 168,
+   "url": "/v1/seasons/2010-i.json"
+  },
+  {
+   "id": "2010-ii",
+   "year": 2010,
+   "tournament": "finalizacion",
+   "status": "completed",
+   "champion": "caldas",
+   "n_matches": 188,
+   "url": "/v1/seasons/2010-ii.json"
+  },
+  {
+   "id": "2011-i",
+   "year": 2011,
+   "tournament": "apertura",
+   "status": "completed",
+   "champion": "nacional",
+   "n_matches": 176,
+   "url": "/v1/seasons/2011-i.json"
+  },
+  {
+   "id": "2011-ii",
+   "year": 2011,
+   "tournament": "finalizacion",
+   "status": "completed",
+   "champion": "junior",
+   "n_matches": 176,
+   "url": "/v1/seasons/2011-ii.json"
+  },
+  {
+   "id": "2012-i",
+   "year": 2012,
+   "tournament": "apertura",
+   "status": "completed",
+   "champion": "santafe",
+   "n_matches": 188,
+   "url": "/v1/seasons/2012-i.json"
+  },
+  {
+   "id": "2012-ii",
+   "year": 2012,
+   "tournament": "finalizacion",
+   "status": "completed",
+   "champion": "millonarios",
+   "n_matches": 188,
+   "url": "/v1/seasons/2012-ii.json"
+  },
+  {
+   "id": "2013-i",
+   "year": 2013,
+   "tournament": "apertura",
+   "status": "completed",
+   "champion": "nacional",
+   "n_matches": 188,
+   "url": "/v1/seasons/2013-i.json"
+  },
+  {
+   "id": "2013-ii",
+   "year": 2013,
+   "tournament": "finalizacion",
+   "status": "completed",
+   "champion": "nacional",
+   "n_matches": 188,
+   "url": "/v1/seasons/2013-ii.json"
+  },
+  {
+   "id": "2014-i",
+   "year": 2014,
+   "tournament": "apertura",
+   "status": "completed",
+   "champion": "nacional",
+   "n_matches": 176,
+   "url": "/v1/seasons/2014-i.json"
+  },
+  {
+   "id": "2014-ii",
+   "year": 2014,
+   "tournament": "finalizacion",
+   "status": "completed",
+   "champion": "santafe",
+   "n_matches": 188,
+   "url": "/v1/seasons/2014-ii.json"
+  },
+  {
+   "id": "2015-i",
+   "year": 2015,
+   "tournament": "apertura",
+   "status": "completed",
+   "champion": "cali",
+   "n_matches": 214,
+   "url": "/v1/seasons/2015-i.json"
+  },
+  {
+   "id": "2015-ii",
+   "year": 2015,
+   "tournament": "finalizacion",
+   "status": "completed",
+   "champion": "nacional",
+   "n_matches": 214,
+   "url": "/v1/seasons/2015-ii.json"
+  },
+  {
+   "id": "2016-i",
+   "year": 2016,
+   "tournament": "apertura",
+   "status": "completed",
+   "champion": "medellin",
+   "n_matches": 214,
+   "url": "/v1/seasons/2016-i.json"
+  },
+  {
+   "id": "2016-ii",
+   "year": 2016,
+   "tournament": "finalizacion",
+   "status": "completed",
+   "champion": "santafe",
+   "n_matches": 214,
+   "url": "/v1/seasons/2016-ii.json"
+  },
+  {
+   "id": "2017-i",
+   "year": 2017,
+   "tournament": "apertura",
+   "status": "completed",
+   "champion": "nacional",
+   "n_matches": 214,
+   "url": "/v1/seasons/2017-i.json"
+  },
+  {
+   "id": "2017-ii",
+   "year": 2017,
+   "tournament": "finalizacion",
+   "status": "completed",
+   "champion": "millonarios",
+   "n_matches": 214,
+   "url": "/v1/seasons/2017-ii.json"
+  },
+  {
+   "id": "2018-i",
+   "year": 2018,
+   "tournament": "apertura",
+   "status": "completed",
+   "champion": "tolima",
+   "n_matches": 204,
+   "url": "/v1/seasons/2018-i.json"
+  },
+  {
+   "id": "2018-ii",
+   "year": 2018,
+   "tournament": "finalizacion",
+   "status": "completed",
+   "champion": "junior",
+   "n_matches": 204,
+   "url": "/v1/seasons/2018-ii.json"
+  },
+  {
+   "id": "2019-i",
+   "year": 2019,
+   "tournament": "apertura",
+   "status": "completed",
+   "champion": "junior",
+   "n_matches": 226,
+   "url": "/v1/seasons/2019-i.json"
+  },
+  {
+   "id": "2019-ii",
+   "year": 2019,
+   "tournament": "finalizacion",
+   "status": "completed",
+   "champion": "america",
+   "n_matches": 226,
+   "url": "/v1/seasons/2019-ii.json"
+  },
+  {
+   "id": "2020",
+   "year": 2020,
+   "tournament": "liga",
+   "status": "completed",
+   "champion": "america",
+   "n_matches": 233,
+   "url": "/v1/seasons/2020.json"
+  },
+  {
+   "id": "2021-i",
+   "year": 2021,
+   "tournament": "apertura",
+   "status": "completed",
+   "champion": "tolima",
+   "n_matches": 185,
+   "url": "/v1/seasons/2021-i.json"
+  },
+  {
+   "id": "2021-ii",
+   "year": 2021,
+   "tournament": "finalizacion",
+   "status": "completed",
+   "champion": "cali",
+   "n_matches": 226,
+   "url": "/v1/seasons/2021-ii.json"
+  },
+  {
+   "id": "2022-i",
+   "year": 2022,
+   "tournament": "apertura",
+   "status": "completed",
+   "champion": "nacional",
+   "n_matches": 226,
+   "url": "/v1/seasons/2022-i.json"
+  },
+  {
+   "id": "2022-ii",
+   "year": 2022,
+   "tournament": "finalizacion",
+   "status": "completed",
+   "champion": "pereira",
+   "n_matches": 226,
+   "url": "/v1/seasons/2022-ii.json"
+  },
+  {
+   "id": "2023-i",
+   "year": 2023,
+   "tournament": "apertura",
+   "status": "completed",
+   "champion": "millonarios",
+   "n_matches": 226,
+   "url": "/v1/seasons/2023-i.json"
+  },
+  {
+   "id": "2023-ii",
+   "year": 2023,
+   "tournament": "finalizacion",
+   "status": "completed",
+   "champion": "junior",
+   "n_matches": 226,
+   "url": "/v1/seasons/2023-ii.json"
+  },
   {
    "id": "2024-i",
    "year": 2024,
