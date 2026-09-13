@@ -1,0 +1,47 @@
+{
+  "title": "Colombian Professional Football (FPC) \u2014 Matches, Standings, Players",
+  "id": "norwyx/colombian-football-fpc",
+  "licenses": [
+    {
+      "name": "CC-BY-SA-4.0"
+    }
+  ],
+  "resources": [
+    {
+      "path": "teams.csv",
+      "description": "teams"
+    },
+    {
+      "path": "seasons.csv",
+      "description": "seasons"
+    },
+    {
+      "path": "standings.csv",
+      "description": "standings"
+    },
+    {
+      "path": "groups.csv",
+      "description": "groups"
+    },
+    {
+      "path": "matches.csv",
+      "description": "matches"
+    },
+    {
+      "path": "scorers.csv",
+      "description": "scorers"
+    },
+    {
+      "path": "assists.csv",
+      "description": "assists"
+    },
+    {
+      "path": "players.csv",
+      "description": "players"
+    },
+    {
+      "path": "champions.csv",
+      "description": "champions"
+    }
+  ]
+}

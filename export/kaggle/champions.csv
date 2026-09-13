@@ -1,0 +1,102 @@
+season_id,year,tournament,champion,champion_name,runner_up,runner_up_name,score,top_scorer
+1948,1948,,santafe,Santa Fe,junior,Junior,,Alfredo Castillo
+1949,1949,,millonarios,Millonarios,cali,Deportivo Cali,1:0 3:2,Pedro Cabillón
+1950,1950,,caldas,Deportes Caldas,millonarios,Millonarios,,Casimiro Ávalos
+1951,1951,,millonarios,Millonarios,boca-cali,Boca Juniors de Cali,,Alfredo Di Stéfano
+1952,1952,,millonarios,Millonarios,boca-cali,Boca Juniors de Cali,,Alfredo Di Stéfano
+1953,1953,,millonarios,Millonarios,quindio,Deportes Quindío,,Mario Garelli
+1954,1954,,nacional,Atlético Nacional,quindio,Deportes Quindío,,Carlos Alberto Gambina
+1955,1955,,medellin,Independiente Medellín,nacional,Atlético Nacional,,Felipe Marino
+1956,1956,,quindio,Deportes Quindío,millonarios,Millonarios,,Jaime Gutiérrez
+1957,1957,,medellin,Independiente Medellín,tolima,Deportes Tolima,Final vs. Cúcuta Deportivo,José Vicente Grecco
+1958,1958,,santafe,Santa Fe,millonarios,Millonarios,,José Américo Montanini
+1959,1959,,millonarios,Millonarios,medellin,Independiente Medellín,,Felipe Marino
+1960,1960,,santafe,Santa Fe,america,América de Cali,,Wálter Marcolini
+1961,1961,,millonarios,Millonarios,medellin,Independiente Medellín,,Alberto Perazzo
+1962,1962,,millonarios,Millonarios,cali,Deportivo Cali,,José Omar Verdún
+1963,1963,,millonarios,Millonarios,santafe,Santa Fe,,José Omar Verdún Omar Lorenzo Devanni
+1964,1964,,millonarios,Millonarios,cucuta,Cúcuta Deportivo,,Omar Lorenzo Devanni
+1965,1965,,cali,Deportivo Cali,nacional,Atlético Nacional,,Perfecto Rodríguez
+1966,1966,,santafe,Santa Fe,medellin,Independiente Medellín,,Omar Lorenzo Devanni
+1967,1967,,cali,Deportivo Cali,millonarios,Millonarios,,José María Ferrero
+1968,1968,,magdalena,Unión Magdalena,cali,Deportivo Cali,1:0 2:2,José María Ferrero
+1969,1969,,cali,Deportivo Cali,america,América de Cali,Triangular final,Hugo Horacio Lóndero
+1970,1970,,cali,Deportivo Cali,junior,Junior,Cuadrangular final,José María Ferrero Walter Sossa
+1971,1971,,santafe,Santa Fe,nacional,Atlético Nacional,0:0 0:0 3:2,Hugo Horacio Lóndero Apolinar Paniagua
+1972,1972,,millonarios,Millonarios,cali,Deportivo Cali,Triangular final,Hugo Horacio Lóndero
+1973,1973,,nacional,Atlético Nacional,millonarios,Millonarios,Triangular final,Nelson Silva Pacheco
+1974,1974,,cali,Deportivo Cali,nacional,Atlético Nacional,Hexagonal final,Víctor Ephanor
+1975,1975,,santafe,Santa Fe,millonarios,Millonarios,Hexagonal final,Jorge Ramón Cáceres
+1976,1976,,nacional,Atlético Nacional,cali,Deportivo Cali,Hexagonal final,Miguel Ángel Converti
+1977,1977,,junior,Junior,cali,Deportivo Cali,Hexagonal final,Oswaldo Palavecino
+1978,1978,,millonarios,Millonarios,cali,Deportivo Cali,Cuadrangular final,Oswaldo Palavecino
+1979,1979,,america,América de Cali,santafe,Santa Fe,Cuadrangular final,Juan José Irigoyen
+1980,1980,,junior,Junior,cali,Deportivo Cali,Cuadrangular final,Sergio Cierra
+1981,1981,,nacional,Atlético Nacional,tolima,Deportes Tolima,Cuadrangular final,Víctor Hugo del Río
+1982,1982,,america,América de Cali,tolima,Deportes Tolima,Octogonal final,Miguel Oswaldo González
+1983,1983,,america,América de Cali,junior,Junior,Octogonal final,Hugo Gottardi
+1984,1984,,america,América de Cali,millonarios,Millonarios,Octogonal final,Hugo Gottardi
+1985,1985,,america,América de Cali,cali,Deportivo Cali,Octogonal final,Miguel Oswaldo González
+1986,1986,,america,América de Cali,cali,Deportivo Cali,Octogonal final,Héctor Sosa
+1987,1987,,millonarios,Millonarios,america,América de Cali,Octogonal final,Jorge Aravena
+1988,1988,,millonarios,Millonarios,nacional,Atlético Nacional,Octogonal final,Sergio Angulo
+1990,1990,,america,América de Cali,nacional,Atlético Nacional,Cuadrangular final,Antony de Ávila
+1991,1991,,nacional,Atlético Nacional,america,América de Cali,Cuadrangular final,Iván René Valenciano
+1992,1992,,america,América de Cali,nacional,Atlético Nacional,Cuadrangular final,John Jairo Tréllez
+1993,1993,,junior,Junior,medellin,Independiente Medellín,Cuadrangular final,Niche Guerrero
+1994,1994,,nacional,Atlético Nacional,millonarios,Millonarios,Cuadrangular final,Rubén Darío Hernández
+1995,1995,,junior,Junior,america,América de Cali,,Iván René Valenciano
+1995-96,1995,,cali,Deportivo Cali,millonarios,Millonarios,Cuadrangular final,Iván René Valenciano
+1996-97,1996,,america,América de Cali,bucaramanga,Atlético Bucaramanga,1:0 2:0,Hamilton Ricard
+1998,1998,,cali,Deportivo Cali,caldas,Once Caldas,4:0 0:0,Víctor Bonilla
+1999,1999,,nacional,Atlético Nacional,america,América de Cali,1:1 0:0 (4:2 pen. ),Sergio Galván
+2000,2000,,america,América de Cali,junior,Junior,Cuadrangular final,Carlos Castro
+2001,2001,,america,América de Cali,medellin,Independiente Medellín,1:0 2:0,Carlos Castro Jorge Serna
+2002-i,2002,apertura,america,América de Cali,nacional,Atlético Nacional,2:1 1:0,Luis Zuleta
+2002-ii,2002,finalizacion,medellin,Independiente Medellín,pasto,Deportivo Pasto,2:0 1:1,Orlando Ballesteros Milton Rodríguez
+2003-i,2003,apertura,caldas,Once Caldas,junior,Junior,0:0 1:0,Arnulfo Valentierra
+2003-ii,2003,finalizacion,tolima,Deportes Tolima,cali,Deportivo Cali,2:0 1:3 (4:2 pen. ),Léider Preciado
+2004-i,2004,apertura,medellin,Independiente Medellín,nacional,Atlético Nacional,2:1 0:0,Sergio Herrera
+2004-ii,2004,finalizacion,junior,Junior,nacional,Atlético Nacional,3:0 2:5 (5:4 pen. ),Leonardo Moreno Léider Preciado
+2005-i,2005,apertura,nacional,Atlético Nacional,santafe,Santa Fe,0:0 2:0,Víctor Aristizábal
+2005-ii,2005,finalizacion,cali,Deportivo Cali,real-cartagena,Real Cartagena,2:0 1:0,Jámerson Rentería Hugo Rodallega
+2006-i,2006,apertura,pasto,Deportivo Pasto,cali,Deportivo Cali,1:0 1:1,Jorge Díaz
+2006-ii,2006,finalizacion,cucuta,Cúcuta Deportivo,tolima,Deportes Tolima,1:0 1:1,Diego Álvarez John Charria
+2007-i,2007,apertura,nacional,Atlético Nacional,huila,Atlético Huila,1:0 2:1,Freddy Montero Sergio Galván
+2007-ii,2007,finalizacion,nacional,Atlético Nacional,equidad,La Equidad,3:0 0:0,Dayro Moreno
+2008-i,2008,apertura,chico,Boyacá Chicó,america,América de Cali,1:1 1:1 (4:2 pen. ),Miguel Caneo Iván Velásquez
+2008-ii,2008,finalizacion,america,América de Cali,medellin,Independiente Medellín,1:0 3:1,Freddy Montero
+2009-i,2009,apertura,caldas,Once Caldas,junior,Junior,2:1 3:1,Teófilo Gutiérrez
+2009-ii,2009,finalizacion,medellin,Independiente Medellín,huila,Atlético Huila,1:0 2:2,Jackson Martínez
+2010-i,2010,apertura,junior,Junior,equidad,La Equidad,0:1 3:1,Carlos Bacca Carlos Rentería
+2010-ii,2010,finalizacion,caldas,Once Caldas,tolima,Deportes Tolima,1:2 3:1,Wilder Medina Dayro Moreno
+2011-i,2011,apertura,nacional,Atlético Nacional,equidad,La Equidad,1:2 2:1 (3:2 pen. ),Carlos Rentería
+2011-ii,2011,finalizacion,junior,Junior,caldas,Once Caldas,3:2 1:2 (4:2 pen. ),Carlos Bacca
+2012-i,2012,apertura,santafe,Santa Fe,pasto,Deportivo Pasto,1:1 1:0,Robin Ramírez
+2012-ii,2012,finalizacion,millonarios,Millonarios,medellin,Independiente Medellín,0:0 1:1 (5:4 pen. ),Germán Cano Henry Hernández Carmelo Valencia
+2013-i,2013,apertura,nacional,Atlético Nacional,santafe,Santa Fe,0:0 2:0,Wilder Medina
+2013-ii,2013,finalizacion,nacional,Atlético Nacional,cali,Deportivo Cali,0:0 2:0,Dayro Moreno Luis Carlos Ruiz
+2014-i,2014,apertura,nacional,Atlético Nacional,junior,Junior,0:1 2:1 (4:2 pen. ),Dayro Moreno
+2014-ii,2014,finalizacion,santafe,Santa Fe,medellin,Independiente Medellín,2:1 1:1,Germán Cano
+2015-i,2015,apertura,cali,Deportivo Cali,medellin,Independiente Medellín,1:0 1:1,Fernando Uribe
+2015-ii,2015,finalizacion,nacional,Atlético Nacional,junior,Junior,1:2 1:0 (3:2 pen. ),Jefferson Duque
+2016-i,2016,apertura,medellin,Independiente Medellín,junior,Junior,1:1 2:0,Miguel Borja
+2016-ii,2016,finalizacion,santafe,Santa Fe,tolima,Deportes Tolima,0:0 1:0,Ayron del Valle
+2017-i,2017,apertura,nacional,Atlético Nacional,cali,Deportivo Cali,0:2 5:1,Dayro Moreno
+2017-ii,2017,finalizacion,millonarios,Millonarios,santafe,Santa Fe,1:0 2:2,Ayron del Valle Yimmi Chará Dayro Moreno Carmelo Valencia
+2018-i,2018,apertura,tolima,Deportes Tolima,nacional,Atlético Nacional,0:1 2:1 (4:2 pen. ),Germán Cano
+2018-ii,2018,finalizacion,junior,Junior,medellin,Independiente Medellín,4:1 1:3,Germán Cano
+2019-i,2019,apertura,junior,Junior,pasto,Deportivo Pasto,1:0 0:1 (5:4 pen. ),Germán Cano
+2019-ii,2019,finalizacion,america,América de Cali,junior,Junior,0:0 2:0,Germán Cano Michael Rangel
+2020,2020,,america,América de Cali,santafe,Santa Fe,3:0 0:2,Miguel Borja
+2021-i,2021,apertura,tolima,Deportes Tolima,millonarios,Millonarios,1:1 2:1,Jefferson Duque Fernando Uribe Diego Herazo
+2021-ii,2021,finalizacion,cali,Deportivo Cali,tolima,Deportes Tolima,1:1 2:1,Harold Preciado
+2022-i,2022,apertura,nacional,Atlético Nacional,tolima,Deportes Tolima,3:1 1:2,Dayro Moreno
+2022-ii,2022,finalizacion,pereira,Deportivo Pereira,medellin,Independiente Medellín,1:1 0:0 (4:3 pen. ),Leonardo Castro
+2023-i,2023,apertura,millonarios,Millonarios,nacional,Atlético Nacional,0:0 1:1 (3:2 pen. ),Marco Pérez
+2023-ii,2023,finalizacion,junior,Junior,medellin,Independiente Medellín,3:2 1:2 (5:3 pen. ),Carlos Bacca
+2024-i,2024,apertura,bucaramanga,Atlético Bucaramanga,santafe,Santa Fe,1:0 2:3 (6:5 pen. ),Carlos Bacca Hugo Rodallega
+2024-ii,2024,finalizacion,nacional,Atlético Nacional,tolima,Deportes Tolima,1:1 2:0,Daniel Moreno
+2025-i,2025,apertura,santafe,Santa Fe,medellin,Independiente Medellín,0:0 2:1,Hugo Rodallega
+2025-ii,2025,finalizacion,junior,Junior,tolima,Deportes Tolima,3:0 1:0,Francisco Fydriszewski Luciano Pons
+2026-i,2026,apertura,junior,Junior,nacional,Atlético Nacional,3:0 0:1,Andrey Estupiñán Luis Muriel

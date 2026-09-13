@@ -1,0 +1,61 @@
+id,name,short_name,city,stadium,capacity,founded,primary_color,secondary_color,wikipedia,active
+aguilas,Águilas Doradas,Águilas,Medellín,Cincuentenario,4000,2008,#EAAA00,#000000,https://es.wikipedia.org/wiki//wiki/%C3%81guilas_Doradas,true
+alianza,Alianza Valledupar,Alianza,Valledupar,Armando Maestre Pavajeau,11500,2024,#FFC72C,#000000,https://es.wikipedia.org/wiki//wiki/Alianza_Valledupar,true
+america,América de Cali,América,Cali,Olímpico Pascual Guerrero,37899,1927,#E30613,#FFFFFF,https://es.wikipedia.org/wiki//wiki/Am%C3%A9rica_de_Cali,true
+bucaramanga,Atlético Bucaramanga,Bucaramanga,Bucaramanga,Américo Montanini,25000,1949,#FFC72C,#006F44,https://es.wikipedia.org/wiki//wiki/Atl%C3%A9tico_Bucaramanga,true
+caldas,Once Caldas,Once Caldas,Manizales,Palogrande,28678,1947,#FFFFFF,#DA291C,https://es.wikipedia.org/wiki//wiki/Once_Caldas,true
+cali,Deportivo Cali,Cali,Cali,Deportivo Cali,44000,1912,#00954C,#FFFFFF,https://es.wikipedia.org/wiki//wiki/Deportivo_Cali,true
+chico,Boyacá Chicó,Chicó,Tunja,La Independencia,20630,2002,#0B5ED7,#FFFFFF,https://es.wikipedia.org/wiki//wiki/Boyac%C3%A1_Chic%C3%B3,true
+cucuta,Cúcuta Deportivo,Cúcuta,Cúcuta,General Santander,42000,1924,#D6001C,#000000,https://es.wikipedia.org/wiki//wiki/C%C3%BAcuta_Deportivo,true
+fortaleza,Fortaleza CEIF,Fortaleza,Bogotá,Metropolitano de Techo,10000,2010,#0B4EA2,#FFFFFF,https://es.wikipedia.org/wiki//wiki/Fortaleza_CEIF,true
+internacional-bogota,Internacional de Bogotá,Internacional,Bogotá,Metropolitano de Techo,10000,2025,,,https://es.wikipedia.org/wiki//wiki/Internacional_de_Bogot%C3%A1,true
+jaguares,Jaguares de Córdoba,Jaguares,Montería,Jaraguay,12000,2012,#C8102E,#000000,https://es.wikipedia.org/wiki//wiki/Jaguares_de_C%C3%B3rdoba,true
+junior,Junior,Junior,Barranquilla,Metropolitano Roberto Meléndez Municipal Romelio Martínez,466908600,1924,#C8102E,#FFFFFF,https://es.wikipedia.org/wiki//wiki/Junior_de_Barranquilla,true
+llaneros,Llaneros,Llaneros,Villavicencio,Bello Horizonte - Rey Pelé,18000,2012,#00843D,#FFFFFF,https://es.wikipedia.org/wiki//wiki/Club_Llaneros,true
+medellin,Independiente Medellín,Medellín,Medellín,Atanasio Girardot,46000,1913,#E4032E,#0B4EA2,https://es.wikipedia.org/wiki//wiki/Deportivo_Independiente_Medell%C3%ADn,true
+millonarios,Millonarios,Millonarios,Bogotá,Nemesio Camacho El Campín,36340,1946,#0B4EA2,#FFFFFF,https://es.wikipedia.org/wiki//wiki/Millonarios_F%C3%BAtbol_Club,true
+nacional,Atlético Nacional,Nacional,Medellín,Atanasio Girardot,46000,1947,#00A859,#FFFFFF,https://es.wikipedia.org/wiki//wiki/Atl%C3%A9tico_Nacional,true
+pasto,Deportivo Pasto,Pasto,Pasto,Departamental Libertad,20000,1949,#E4002B,#FFFFFF,https://es.wikipedia.org/wiki//wiki/Deportivo_Pasto,true
+pereira,Deportivo Pereira,Pereira,Pereira,Hernán Ramírez Villegas,30290,1944,#FFD200,#000000,https://es.wikipedia.org/wiki//wiki/Deportivo_Pereira,true
+santafe,Santa Fe,Santa Fe,Bogotá,Nemesio Camacho El Campín,36340,1941,#E31B23,#FFFFFF,https://es.wikipedia.org/wiki//wiki/Club_Independiente_Santa_Fe,true
+tolima,Deportes Tolima,Tolima,Ibagué,Manuel Murillo Toro,28100,1954,#C8102E,#FFFFFF,https://es.wikipedia.org/wiki//wiki/Deportes_Tolima,true
+academia,Academia,Academia,,,,,,,,false
+atletico,Atlético,Atlético,,,,,,,,false
+atletico-de-la-sabana,De La Sabana,De La Sabana,,,,,,,,false
+atletico-manizales,Atlético Manizales,Atlético Manizales,,,,,,,,false
+barranquilla-fc,Barranquilla FC,Barranquilla FC,,,,,,,,false
+boca-cali,Boca Juniors de Cali,Boca Juniors de Cali,,,,,,,,false
+bogota,Bogotá,Bogotá,,,,,,,,false
+centauros,Centauros,Centauros,,,,,,,,false
+centro-juvenil,Centro Juvenil,Centro Juvenil,,,,,,,,false
+cortulua,Cortuluá,Cortuluá,,,,,#F26522,#00843D,,false
+deportes-savio,Savio,Savio,,,,,,,,false
+deportivo-antioquia,Deportivo Antioquia,Deportivo Antioquia,,,,,,,,false
+deportivo-barranquilla,Deportivo Barranquilla,Deportivo Barranquilla,,,,,,,,false
+deportivo-manizales,Deportivo Manizales,Deportivo Manizales,,,,,,,,false
+deportivo-rionegro,Deportivo Rionegro,Deportivo Rionegro,,,,,,,,false
+envigado,Envigado,Envigado,,,,,#F58220,#FFFFFF,,false
+equidad,La Equidad,La Equidad,,,,,#00843D,#FFFFFF,,false
+expreso-rojo,Expreso Rojo,Expreso Rojo,,,,,,,,false
+fortaleza-fc,Fortaleza,Fortaleza,,,,,,,,false
+huila,Atlético Huila,Huila,,,,,#00843D,#FFFFFF,,false
+huracan,Huracán,Huracán,,,,,,,,false
+internacional,Palmira,Palmira,,,,,,,,false
+leones,Leones,Leones,,,,,,,,false
+magdalena,Unión Magdalena,Unión Magdalena,,,,,#CE1126,#FFFFFF,,false
+once-deportivo,Once Deportivo,Once Deportivo,,,,,,,,false
+oro-negro,Oro Negro,Oro Negro,,,,,,,,false
+oromana,Oromana,Oromana,,,,,,,,false
+patriotas,Patriotas,Patriotas,,,,,#FFD100,#00843D,,false
+quindio,Deportes Quindío,Quindío,,,,,#C8102E,#0B4EA2,,false
+real-cartagena,Real Cartagena,Real Cartagena,,,,,,,,false
+real-santander,Real Santander,Real Santander,,,,,,,,false
+real-soacha,Real Soacha,Real Soacha,,,,,,,,false
+samarios,Deportivo Samarios,Deportivo Samarios,,,,,,,,false
+sporting,Sporting,Sporting,,,,,,,,false
+tigres,Tigres,Tigres,,,,,,,,false
+uniautonoma,Uniautónoma,Uniautónoma,,,,,,,,false
+unicosta,Deportivo Unicosta,Deportivo Unicosta,,,,,,,,false
+universidad,Universidad Nacional,Universidad Nacional,,,,,,,,false
+universitario,Universitario,Universitario,,,,,,,,false
+valledupar,Valledupar,Valledupar,,,,,,,,false

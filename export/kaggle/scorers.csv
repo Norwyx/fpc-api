@@ -1,0 +1,669 @@
+season,player_name,team,goals,played
+1948,Alfredo Castillo,millonarios,31,
+1948,Jesús María Lires López,santafe,20,
+1948,Hermenegildo Germán Antón,santafe,18,
+1948,Pedro Cabillón,millonarios,14,
+1948,Jaime Cardona,caldas,14,
+1949,Pedro Cabillón,millonarios,42,
+1949,Hermenegildo Germán Antón,santafe,30,
+1949,Valeriano López,cali,24,
+1949,Carlos Arango,caldas,19,
+1949,Guillermo Barbadillo,cali,19,
+1950,Casimiro Ávalos,pereira,27,
+1950,Julio Ávila,caldas,24,
+1950,Alfredo Di Stéfano,millonarios,23,
+1950,Alejandrino Genes,boca-cali,21,
+1950,Fernando Walter,cali,21,
+1950,Ramón Alberto Villaverde,cucuta,20,
+1951,Alfredo Di Stéfano,millonarios,32,
+1951,Julio Ávila,caldas,30,
+1951,Antonio Báez,millonarios,28,
+1951,Alejandrino Genes,boca-cali,26,
+1951,Ángel Berni,boca-cali,23,
+1951,Bibiano Zapirain,cucuta,22,
+1951,Elger Alarcón,quindio,22,
+1952,Alfredo Di Stéfano,millonarios,19,
+1952,Carlos Gambina,junior,18,
+1952,Raúl Dimarco,junior,17,
+1952,Mario Garelli,quindio,17,
+1952,Francisco Solano Patiño,boca-cali,16,
+1952,Hermenegildo Antón,santafe,16,
+1952,Jaime Gutiérrez,quindio,16,
+1952,Ramón Alberto Villaverde,cucuta,16,
+1953,Mario Garelli,quindio,20,
+1953,Rubén Padín,santafe,19,
+1953,Felipe Marino,sporting,17,
+1953,Abraham González,cucuta,16,
+1953,Rubí Cerioni,cali,16,
+1953,Francisco Solano Patiño,boca-cali,14,
+1953,Juan Carlos Toja Pintos,cucuta,14,
+1953,Elger Alarcón,quindio,14,
+1954,Carlos Gambina,nacional,21,
+1954,Antonio Sacco,medellin,19,
+1954,Mario Garelli,quindio,14,
+1954,Alfredo Mosquera,nacional,11,
+1954,Alberto Cazaubón,quindio,11,
+1954,Ruben Padín,atletico-manizales,11,
+1955,Felipe Marino,medellin,22,
+1955,Jorge Roa,millonarios,21,
+1955,Fernando Rengifo,boca-cali,20,
+1955,Alfredo Castillo,millonarios,17,
+1955,Humberto Álvarez,nacional,16,
+1955,Orlando Larraz,medellin,14,
+1956,Jaime Gutiérrez,quindio,21,
+1956,José Vicente Grecco,medellin,20,
+1956,Casimiro Ávalos,pereira,17,
+1956,Felipe Marino,nacional,17,
+1956,Alfredo Castillo,millonarios,16,
+1956,Carlos Arango,cucuta,15,
+1956,Alfredo Mosquera,tolima,15,
+1956,Bibiano Zapirain,cucuta,15,
+1957,José Vicente Grecco,medellin,30,
+1957,Jaime Gutiérrez,medellin,23,
+1957,Roberto Oscar Rolando,boca-cali,23,
+1957,Wálter Marcolini,quindio,23,
+1958,José Américo Montanini,bucaramanga,36,
+1958,Wálter Marcolini,quindio,35,
+1958,Norberto Sotelo,atletico-manizales,29,
+1959,Felipe Marino,medellin,35,
+1959,Oswaldo Panzutto,santafe,26,
+1959,Eusebio Escobar,pereira,25,
+1960,Walter Marcolini,cali,30,
+1960,Américo Castromán,cali,25,
+1960,Oswaldo Panzutto,santafe,25,
+1961,Alberto Perazzo,santafe,32,
+1961,Juan Vairo,medellin,30,
+1961,Roberto Mirabelli,caldas,23,
+1962,José Omar Verdún,cucuta,36,
+1962,Oscar Luis Mottura,medellin,21,
+1962,José Vicente Grecco,medellin,19,
+1963,Omar Lorenzo Devanni,bucaramanga,36,
+1963,José Omar Verdún,cucuta,35,
+1963,Oswaldo Galarza,caldas,29,
+1964,Omar Lorenzo Devanni,magdalena,28,
+1964,José Marín,santafe,27,
+1964,Edgardo López,tolima,24,
+1964,José Verdún,cucuta,24,
+1965,Perfecto Rodríguez,medellin,38,
+1965,Jorge Ramírez Gallego,cali,32,
+1965,Efraín Padilla,pereira,29,
+1966,Omar Lorenzo Devanni,santafe,31,
+1966,Oswaldo Pérez,caldas,29,
+1966,Walter Sossa,cucuta,28,
+1967,José María Ferrero,millonarios,38,
+1967,Julio San Lorenzo,america,24,
+1967,Ramón Rodríguez,pereira,23,
+1968,José María Ferrero,millonarios,32,
+1968,Alfonso Cañón,santafe,25,
+1968,Jorge Ramírez Gallego,cali,25,
+1968,Walter Sossa,bucaramanga,24,
+1968,Benecio Ferreyra,cali,23,
+1969,Hugo Horacio Lóndero,america,24,
+1969,Walter Sossa,santafe,23,
+1969,Pedro Prospitti,santafe,23,
+1969,Juan Carlos Lallana,cali,21,
+1969,Eduardo Curia,america,20,
+1970,José María Ferrero,cucuta,27,
+1970,Walter Sossa,santafe,27,
+1970,Armando Miranda,junior,24,
+1971,Hugo Horacio Lóndero,cucuta,30,
+1971,Apolinar Paniagua,pereira,30,
+1971,Néstor Gilberto Subiat,millonarios,27,
+1972,Hugo Horacio Lóndero,cucuta,27,
+1972,Jorge Héctor Olmedo,cali,24,
+1972,Nelson Silva Pacheco,quindio,21,
+1973,Nelson Silva Pacheco,cucuta,36,
+1973,Apolinar Paniagua,millonarios,31,
+1973,Hugo Horacio Lóndero,nacional,29,
+1974,Víctor Ephanor,junior,33,
+1974,Arístides del Puerto,cali,32,
+1974,Hugo Horacio Lóndero,nacional,27,
+1975,Jorge Ramón Cáceres,pereira,35,
+1975,Víctor Ephanor,junior,28,
+1975,Miguel Ángel Converti,millonarios,27,
+1975,Carlos Alberto Pandolfi,santafe,23,
+1975,Eduardo Guillio,bucaramanga,23,
+1976,Miguel Ángel Converti,millonarios,33,
+1976,Oswaldo Marcial Palavecino,caldas,31,
+1976,Alberto de Jesús Benítez,cali,28,
+1977,Oswaldo Marcial Palavecino,nacional,30,
+1977,Miguel Ángel Converti,millonarios,25,
+1977,Néstor Scotta,cali,24,
+1978,Oswaldo Marcial Palavecino,nacional,36,
+1978,Juan José Irigoyen,millonarios,34,
+1978,Jorge Ramón Cáceres,america,32,
+1979,Juan Jose Irigoyen,millonarios,36,
+1979,Alberto de Jesús Benítez,cali,34,
+1979,Néstor Leonel Scotta,cali,32,
+1979,Oswaldo Marcial Palavecino,nacional,31,
+1980,Sergio Antonio Cierra,pereira,26,
+1980,Eduardo Emilio Vilarete,nacional,24,
+1980,Mario de Queiroz,millonarios,21,
+1980,Willington Ortiz,cali,18,
+1980,Guillermo La Rosa,nacional,17,
+1980,Alberto Santelli,santafe,17,
+1981,Víctor Hugo del Río,tolima,29,
+1981,Oswaldo Marcial Palavecino,santafe,21,
+1981,Sergio Antonio Cierra,pereira,19,
+1981,César Cueto,nacional,17,
+1981,Adalberto Perroud,junior,15,
+1981,Abel Lobatón,quindio,15,
+1982,Miguel González,bucaramanga,27,
+1982,Humberto Sierra,america,22,
+1982,Willington Ortiz,cali,21,
+1983,Hugo Gottardi,santafe,29,
+1983,Willington Ortiz,america,22,
+1983,Carlos Amaro Nadal,cali,21,
+1984,Hugo Ernesto Gottardi,santafe,23,
+1984,Miguel González,bucaramanga,19,
+1984,Alex Didi Valderrama,junior,19,
+1985,Miguel González,bucaramanga,34,
+1985,Juan Gilberto Funes,millonarios,33,
+1985,Omar Rodolfo Porté,tolima,20,
+1986,Héctor Ramón Sosa,medellin,23,
+1986,Ricardo Gareca,america,21,
+1986,Jorge Alberto Taverna,quindio,18,
+1986,Juan Jairo Galeano,nacional,17,
+1986,Julio César Uribe,junior,16,
+1986,Sergio Angulo,cali,16,
+1986,José Ricardo Pérez,caldas,16,
+1987,Jorge Aravena,cali,23,
+1987,Oscar Eduardo Juárez,millonarios,21,
+1987,Armando Osma,cali,20,
+1987,Luis Armando Díaz,santafe,19,
+1987,Jorge Alberto Taverna,santafe,19,
+1987,Juan Jairo Galeano,nacional,15,
+1988,Sergio Angulo,santafe,29,
+1988,Carlos Enrique Estrada,millonarios,28,
+1988,John Jairo Tréllez,nacional,20,
+1989,Héctor Méndez,,17,
+1989,"Sergio ""Checho"" Angulo",,16,
+1989,"Carlos ""Panelo"" Valencia",,15,
+1989,"Ramón ""Rambo"" Sosa",,15,
+1989,"Oscar ""Pájaro"" Juárez",,14,
+1990,Antony de Ávila,america,25,
+1990,Pedro Manuel Olalla,bucaramanga,20,
+1990,Sergio Angulo,america,20,
+1990,Luis Armando Díaz,santafe,16,
+1990,Jesús Barrios,bucaramanga,14,
+1991,Iván René Valenciano,junior,30,
+1991,Jorge da Silva,america,20,
+1991,José Manuel Rodríguez,cali,18,
+1991,Orlando Maturana,america,17,
+1991,Adolfo Valencia,santafe,17,
+1991,Faustino Asprilla,nacional,16,
+1992,John Jairo Tréllez,nacional,25,
+1992,Alex Comas,junior,24,
+1992,Rubén Darío Hernández,envigado,20,
+1992,Jorge da Silva,america,19,
+1992,Adolfo Valencia,santafe,19,
+1992,Víctor Hugo Aristizábal,nacional,18,
+1992,Armando Osma,tolima,17,
+1993,Miguel Guerrero,junior,34,
+1993,Miguel Asprilla,caldas,27,
+1993,John Jairo Tréllez,nacional,25,
+1993,Rubén Darío Hernández,medellin,21,
+1993,Albeiro Usuriaga,america,21,
+1993,Víctor Hugo Aristizábal,nacional,20,
+1994,Rubén Darío Hernández,medellin,32,
+1994,Alex Comas,quindio,31,
+1994,Carlos Rendón,millonarios,25,
+1994,Jorge Ramoa,bucaramanga,20,
+1994,Arnoldo Iguarán,millonarios,20,
+1994,Antony de Ávila,america,18,
+1995-96,Iván René Valenciano,junior,36,
+1995-96,Víctor Hugo Aristizábal,nacional,33,
+1995-96,Edison Mafla,cali,33,
+1995-96,Adolfo Valencia,santafe,25,
+1995-96,Hugo Arrieta,pereira,24,
+1995-96,Manuel Acisclo Córdoba,huila,22,
+1995,Iván René Valenciano,junior,24,
+1995,Niver Arboleda,cali,19,
+1995,Cristian Montecinos,junior,16,
+1995,Carlos Castro,medellin,15,
+1995,Rubén Darío Hernández,santafe,13,
+1995,Gustavo Daniel Iturburo,magdalena,12,
+1996-97,Hamilton Ricard,cali,36,
+1996-97,Arnulfo Valentierra,caldas,33,
+1996-97,Jorge Ramírez Quesada,tolima,27,
+1996-97,Carlos Rodas,pereira,26,
+1996-97,Edison Mafla,cali,25,
+1996-97,Sergio Galván,caldas,23,
+1998,Víctor Bonilla,cali,37,
+1998,Sergio Galván,caldas,29,
+1998,Héctor Mario Núñez,medellin,26,
+1998,Adolfo Valencia,medellin,26,
+1998,Alex Comas,nacional,25,
+1998,Carlos Rodas,quindio,21,
+1999,Sergio Galván,,26,
+1999,Márcio Cruz,,22,
+1999,Marquinho,,20,
+1999,Carlos Rendón,,19,
+1999,Julián Téllez,,19,
+1999,Iván René Valenciano,,18,
+2000,Carlos Castro,millonarios,24,
+2000,Julián Vásquez,envigado,21,
+2000,Sergio Galván,caldas,20,
+2000,Iván René Valenciano,medellin,20,
+2000,Víctor Mafla,america,19,
+2000,Marquinho,junior,17,
+2001,Carlos Castro,millonarios,29,
+2001,Jorge Horacio Serna,medellin,29,
+2001,Julián Vásquez,america,24,
+2001,Sergio Galván,caldas,23,
+2001,Iván Velásquez,tolima,20,
+2002-i,Luis Zuleta,magdalena,13,
+2002-i,José Herrera,magdalena,12,
+2002-i,Carlos Vilarete,magdalena,12,
+2002-i,Leonardo Mina,cali,11,
+2002-i,Carlos Castillo,cali,11,
+2002-ii,Orlando Ballesteros,bucaramanga,13,
+2002-ii,Milton Rodríguez,pereira,13,
+2002-ii,Léider Preciado,cali,11,
+2002-ii,Pablo Jaramillo,pasto,11,
+2002-ii,Jairo Patiño,pasto,10,
+2003-i,Arnulfo Valentierra,caldas,13,
+2003-i,Julián Vásquez,america,11,
+2003-i,Martín Arzuaga,junior,11,
+2003-i,Leonardo Fabio Moreno,america,10,
+2003-i,Léider Preciado,cali,10,
+2003-ii,Léider Preciado,cali,17,
+2003-ii,Rogeiro Pereira,tolima,12,
+2003-ii,Carlos Castillo,cali,10,
+2003-ii,Carlos Vilarete,magdalena,10,
+2003-ii,Julián Téllez,millonarios,10,
+2004-i,Sergio Herrera,america,13,
+2004-i,Milton Rodríguez,pereira,12,
+2004-i,Edixon Perea,nacional,11,
+2004-i,John Felipe Rivas,bucaramanga,10,
+2004-i,Luis Yanes,chico,10,
+2004-ii,Leonardo Fabio Moreno,america,15,
+2004-ii,Léider Preciado,santafe,15,
+2004-ii,Milton Rodríguez,cali,13,
+2004-ii,Iván Velásquez,tolima,12,
+2004-ii,Hugo Rodallega,quindio,11,
+2005-i,Víctor Hugo Aristizábal,nacional,16,
+2005-i,Edixon Perea,nacional,15,
+2005-i,Milton Rodríguez,cali,14,
+2005-i,Orlando Ballesteros,envigado,14,
+2005-i,Víctor Bonilla,tolima,14,
+2005-ii,Hugo Rodallega,cali,12,
+2005-ii,Jámerson Rentería,real-cartagena,12,
+2005-ii,Blas Pérez,cali,9,
+2005-ii,Jorge Díaz,huila,9,
+2005-ii,Víctor Hugo Aristizábal,nacional,9,
+2006-i,Jorge Díaz,cucuta,15,
+2006-i,Dayro Moreno,caldas,14,
+2006-i,Carlos Villagra,pasto,13,
+2006-i,Sergio Galván,nacional,12,
+2006-i,Carlos Darwin Quintero,tolima,12,
+2006-ii,Diego Álvarez,medellin,11,
+2006-ii,John Charria,tolima,11,
+2006-ii,Orlando Ballesteros,millonarios,10,
+2006-ii,Blas Pérez,cucuta,9,
+2006-ii,Jersson González,chico,8,
+2007-i,Freddy Montero,huila,13,
+2007-i,Sergio Galván,nacional,13,
+2007-i,Carlos Villagra,millonarios,10,
+2007-i,Léider Preciado,santafe,10,
+2007-i,César Valoyes,medellin,9,
+2007-ii,Dayro Moreno,caldas,16,
+2007-ii,Diego Cabrera,cucuta,15,
+2007-ii,Carlos Daniel Hidalgo,pasto,13,
+2007-ii,Carmelo Valencia,nacional,9,
+2007-ii,Édison Toloza,quindio,9,
+2008-i,Miguel Caneo,chico,13,
+2008-i,Iván Velásquez,quindio,13,
+2008-i,Luis Tejada,america,12,
+2008-i,Léider Preciado,santafe,10,
+2008-i,Carlos Rentería,huila,10,
+2008-ii,Freddy Montero,cali,16,
+2008-ii,Carlos Darwin Quintero,pereira,13,
+2008-ii,Adrián Ramos,america,12,
+2008-ii,Teófilo Gutiérrez,junior,11,
+2008-ii,Milton Rodríguez,millonarios,11,
+2009-i,Teófilo Gutiérrez,junior,16,
+2009-i,Johan Fano,caldas,13,
+2009-i,Pablo Batalla,cali,10,
+2009-i,Roberto Gamarra,cucuta,10,
+2009-i,Wilson Carpintero,equidad,9,
+2009-ii,Jackson Martínez,medellin,18,
+2009-ii,Teófilo Gutiérrez,junior,14,
+2009-ii,Giovanni Moreno,nacional,13,
+2009-ii,Iván Velásquez,huila,11,
+2009-ii,Sergio Herrera,cali,10,
+2009-ii,Omar Pérez,santafe,10,
+2009-ii,Carlos Bacca,junior,9,
+2009-ii,José Nájera,real-cartagena,9,
+2009-ii,Johan Fano,caldas,9,
+2009-ii,Néstor Salazar,real-cartagena,8,
+2010-i,Carlos Bacca,junior,12,
+2010-i,Carlos Rentería,equidad,12,
+2010-i,Fernando Uribe,caldas,11,
+2010-i,Giovanni Moreno,nacional,11,
+2010-i,Franco Arizala,tolima,11,
+2010-i,Luis Muriel,cali,9,
+2010-i,Yovanny Arrechea,millonarios,8,
+2010-i,Edison Giménez,medellin,8,
+2010-i,Víctor Cortés,junior,8,
+2010-i,Julián Barahona,pereira,7,
+2010-ii,Wilder Medina,tolima,16,
+2010-ii,Dayro Moreno,caldas,16,
+2010-ii,Wilson Carpintero,cucuta,14,
+2010-ii,Fernando Uribe,caldas,13,
+2010-ii,Martín Morel,cali,11,
+2010-ii,Carlos Rodas,quindio,10,
+2010-ii,Jorge Perlaza,tolima,10,
+2010-ii,Yovanny Arrechea,millonarios,10,
+2010-ii,Luis Carlos Arias,medellin,9,
+2010-ii,Léider Preciado,quindio,8,
+2011-i,Carlos Rentería,nacional,12,
+2011-i,Edison Toloza,millonarios,11,
+2011-i,Wason Rentería,caldas,10,
+2011-i,Dorlan Pabón,nacional,10,
+2011-i,Wilder Medina,tolima,9,
+2011-i,Diego Álvarez,cali,8,
+2011-i,Néider Morantes,envigado,8,
+2011-i,Carlos Bacca,junior,8,
+2011-i,Emanuel Molina,real-cartagena,6,
+2011-i,Luis Fernando Mosquera,medellin,6,
+2011-ii,Carlos Bacca,junior,12,
+2011-ii,Germán Cano,pereira,10,
+2011-ii,Lionard Pajoy,aguilas,10,
+2011-ii,Jhon Pajoy,caldas,10,
+2011-ii,Édison Toloza,millonarios,9,
+2011-ii,Luis Fernando Mosquera,medellin,8,
+2011-ii,Hamilton Ricard,quindio,8,
+2011-ii,Jairo Castillo,america,7,
+2011-ii,Jaime Castrillón,medellin,7,
+2011-ii,Víctor Cortés,junior,7,
+2012-i,Robin Ramírez,tolima,13,
+2012-i,Humberto Osorio,millonarios,11,
+2012-i,Giovanni Hernández,junior,11,
+2012-i,Efraín Viáfara,aguilas,10,
+2012-i,Diego Cabrera,santafe,9,
+2012-i,Edwards Jiménez,pasto,9,
+2012-i,Omar Pérez,santafe,9,
+2012-i,Milton Rodríguez,huila,9,
+2012-i,James Castro,chico,8,
+2012-i,Dorlan Pabón,nacional,8,
+2012-ii,Germán Cano,medellin,9,
+2012-ii,Carmelo Valencia,equidad,9,
+2012-ii,Henry Hernández,cucuta,9,
+2012-ii,Wilberto Cosme,millonarios,8,
+2012-ii,Robin Ramírez,tolima,7,
+2012-ii,Luis Fernando Mosquera,nacional,7,
+2012-ii,Juan Fernando Caicedo,quindio,7,
+2012-ii,Edwin Móvil,chico,6,
+2012-ii,Christian Marrugo,tolima,6,
+2012-ii,Marco Lazaga,patriotas,6,
+2013-i,Wilder Medina,,12,
+2013-i,Édison Toloza,,10,
+2013-i,Víctor Cortés,,9,
+2013-i,Freddy Montero,,8,
+2013-i,Edwards Jiménez,,8,
+2013-i,Charles Monsalvo,,8,
+2013-i,Vladimir Marín,,7,
+2013-i,Mauricio Mina,,7,
+2013-i,Germán Cano,,7,
+2013-i,Sergio Romero,,7,
+2013-ii,Luis Carlos Ruiz,,16,
+2013-ii,Dayro Moreno,,16,
+2013-ii,Wilson Morelo,,11,
+2013-ii,Sergio Herrera,,10,
+2013-ii,Luis Páez,,9,
+2013-ii,Julián Lalinde,,8,
+2013-ii,Germán Cano,,8,
+2013-ii,Yessy Mena,,8,
+2013-ii,Wason Rentería,,7,
+2013-ii,Sergio Romero,,7,
+2014-i,Dayro Moreno,,13,
+2014-i,Germán Cano,,11,
+2014-i,Carlos Rentería,,10,
+2014-i,Óscar Rodas,,10,
+2014-i,Ayron del Valle,,9,
+2014-i,Wilder Medina,,8,
+2014-i,Yessy Mena,,8,
+2014-i,José Izquierdo,,7,
+2014-i,César Augusto Arias,,7,
+2014-i,José Moreno,,7,
+2014-ii,Germán Cano,,16,24
+2014-ii,Juan Fernando Caicedo,,14,21
+2014-ii,Fernando Uribe,,10,14
+2014-ii,Wilson Morelo,,10,23
+2014-ii,Hernán Hechalar,,9,21
+2014-ii,Johan Arango,,9,21
+2014-ii,Jorge Aguirre,,8,18
+2014-ii,Yimmi Chará,,8,20
+2014-ii,Carlos Rivas,,8,19
+2014-ii,Édinson Palomino,,8,22
+2015-i,Fernando Uribe,,15,23
+2015-i,Harold Preciado,,13,26
+2015-i,Marco Pérez,,9,17
+2015-i,Jonathan Copete,,9,17
+2015-i,Carlos Ibargüen,,9,18
+2015-i,Rafael Santos Borré,,8,12
+2015-i,Juan Fernando Caicedo,,8,19
+2015-i,Robin Ramírez,,7,13
+2015-i,Roberto Ovelar,,7,15
+2015-i,Miguel Murillo,,7,16
+2015-ii,Jefferson Duque,,15,24
+2015-ii,Harold Preciado,,13,20
+2015-ii,Juan Fernando Caicedo,,9,19
+2015-ii,Roberto Ovelar,,9,21
+2015-ii,Vladimir Hernández,,8,22
+2015-ii,Jonathan Gómez,,8,19
+2015-ii,Johan Arango,,7,20
+2015-ii,Andrés Ibargüen,,7,23
+2015-ii,Wilson Morelo,,6,10
+2015-ii,Carlos Henao,,6,18
+2016-i,Miguel Borja,,19,21
+2016-i,Vladimir Hernández,,13,25
+2016-i,Luis Páez,,12,20
+2016-i,Sergio Romero,,12,20
+2016-i,Leonardo Castro,,10,22
+2016-i,Harold Preciado,,8,13
+2016-i,Oscar Estupiñan,,8,15
+2016-i,Edis Ibargüen,,8,19
+2016-i,Orlando Berrío,,8,20
+2016-i,Michael Rangel,,7,14
+2016-ii,Ayron del Valle,,12,20
+2016-ii,Diego Álvarez,,11,21
+2016-ii,Darío Rodríguez,,10,22
+2016-ii,Luis Páez,,9,16
+2016-ii,Angelo Rodríguez,,9,19
+2016-ii,Michael Rangel,,8,17
+2016-ii,Carlos Peralta,,7,17
+2016-ii,Christian Marrugo,,7,19
+2016-ii,Omar Duarte,,7,19
+2016-ii,Jown Cardona,,7,20
+2017-i,Dayro Moreno,,14,19
+2017-i,Feiver Mercado,,11,19
+2017-i,Jefferson Duque,,10,18
+2017-i,Santiago Tréllez,,9,15
+2017-i,Cristian Martínez Borja,,9,18
+2017-i,César Augusto Arias,,9,19
+2017-i,Sergio Almirón,,8,13
+2017-i,Juan Fernando Quintero,,8,15
+2017-i,Yamilson Rivera,,8,15
+2017-i,Roberto Ovelar,,7,14
+2017-ii,Yimmi Chará,,11,17
+2017-ii,Dayro Moreno,,11,19
+2017-ii,Ayron del Valle,,11,21
+2017-ii,Carmelo Valencia,,11,22
+2017-ii,Ángelo Rodríguez,,9,14
+2017-ii,Wilson Morelo,,8,13
+2017-ii,Agustín Vuletich,,8,13
+2017-ii,Marco Pérez,,8,20
+2017-ii,Teófilo Gutiérrez,,7,14
+2017-ii,Pablo Rojas,,7,19
+2018-i,Germán Cano,,12,22
+2018-i,Dayro Moreno,,9,18
+2018-i,Iván Rivas,,9,21
+2018-i,Omar Duarte,,8,18
+2018-i,Humberto Osorio,,8,18
+2018-i,Edder Farías,,8,19
+2018-i,Cristian Martínez Borja,,8,19
+2018-i,Carlos Peralta,,7,11
+2018-i,José Sand,,7,15
+2018-i,Yairo Moreno,,7,16
+2018-ii,Germán Cano,,20,25
+2018-ii,Marco Pérez,,17,22
+2018-ii,Michael Rangel,,11,21
+2018-ii,Dayro Moreno,,10,12
+2018-ii,Carlos Peralta,,10,16
+2018-ii,Diego Valdés,,10,17
+2018-ii,Luis Díaz,,10,18
+2018-ii,David Lemos,,8,13
+2018-ii,César Arias,,8,16
+2018-ii,Wilson Morelo,,7,16
+2019-i,Germán Cano,,21,20
+2019-i,Juan Dinenno,,15,25
+2019-i,Fernando Aristeguieta,,14,22
+2019-i,Carlos Peralta,,10,17
+2019-i,Marco Pérez,,10,20
+2019-i,Jonathan Agudelo,,9,19
+2019-i,Ricardo Márquez,,9,22
+2019-i,Hernán Barcos,,7,20
+2019-i,Fabián González,,6,20
+2019-i,Alexis Zapata,,6,20
+2019-ii,Germán Cano,,13,17
+2019-ii,Michael Rangel,,13,23
+2019-ii,Juan Dinenno,,12,23
+2019-ii,Carmelo Valencia,,10,25
+2019-ii,Jhon Vásquez,,9,24
+2019-ii,José Guillermo Ortiz,,7,12
+2019-ii,Daniel Muñoz,,7,20
+2019-ii,Maicol Balanta,,7,22
+2019-ii,John Freddy Pérez,,6,18
+2019-ii,Jefferson Duque,,6,23
+2020,Miguel Borja,,14,23
+2020,Jáder Obrian,,13,22
+2020,Agustín Palavecino,,10,19
+2020,Matías Mier,,10,19
+2020,Cristian Arango,,10,21
+2020,Jefferson Duque,,9,15
+2020,Adrián Ramos,,9,18
+2020,Diego Herazo,,9,22
+2020,Jorge Luis Ramos,,7,19
+2020,Ayron del Valle,,7,20
+2021-i,Jefferson Duque,,11,17
+2021-i,Fernando Uribe,,11,19
+2021-i,Diego Herazo,,11,21
+2021-i,Cristian Arango,,9,22
+2021-i,Miguel Borja,,8,14
+2021-i,Agustín Vuletich,,7,11
+2021-i,Brayan Moreno,,6,16
+2021-i,David Lemos,,6,15
+2021-i,Jarlan Barrera,,6,18
+2021-i,Kelvin Osorio,,6,18
+2021-ii,Harold Preciado,,13,23
+2021-ii,Fernando Uribe,,12,23
+2021-ii,Jefferson Duque,,10,24
+2021-ii,Bayron Garcés,,9,26
+2021-ii,Luis González,,7,24
+2021-ii,Adrián Ramos,,7,25
+2021-ii,Juan Fernando Caicedo,,7,25
+2021-ii,Andrés Rentería,,6,15
+2021-ii,Larry Angulo,,6,15
+2021-ii,Juan David Pérez,,6,19
+2022-i,Dayro Moreno,bucaramanga,13,21
+2022-i,Luis Carlos Ruiz,cortulua,11,18
+2022-i,Miguel Borja,junior,10,17
+2022-i,Wilson Morelo,santafe,10,18
+2022-i,Luciano Pons,medellin,10,22
+2022-i,Leonardo Castro,pereira,9,16
+2022-i,Dúvier Riascos,pasto,8,16
+2022-i,Jefferson Duque,nacional,8,24
+2022-i,Pablo Sabbag,equidad,7,24
+2022-i,Andrés Rentería,jaguares,6,13
+2022-ii,Leonardo Castro,,15,26
+2022-ii,Marco Pérez,,12,26
+2022-ii,Jefferson Duque,,11,19
+2022-ii,Díber Cambindo,,11,26
+2022-ii,Ricardo Márquez,,9,16
+2022-ii,Carlos Bacca,,9,20
+2022-ii,Dayro Moreno,,9,20
+2022-ii,Wilson Morelo,,9,26
+2022-ii,Ayron del Valle,,8,18
+2022-ii,Jesús Hernández,,8,20
+2023-i,Marco Pérez,,13,23
+2023-i,Gonzalo Lencina,,9,19
+2023-i,Dayro Moreno,,9,20
+2023-i,Edwar López,,9,25
+2023-i,Díber Cambindo,,8,17
+2023-i,Jefferson Duque,,8,21
+2023-i,Facundo Suárez,,8,25
+2023-i,Isaac Camargo,,7,19
+2023-i,Leonardo Castro,,6,16
+2023-i,Hugo Rodallega,,6,18
+2023-ii,Carlos Bacca,,18,28
+2023-ii,Marco Pérez,,15,24
+2023-ii,Edwuin Cetré,,15,28
+2023-ii,Dayro Moreno,,11,20
+2023-ii,Luis Sandoval,,9,21
+2023-ii,Diego Herazo,,9,24
+2023-ii,Marcus Vinicius,,8,19
+2023-ii,Eric Ramírez,,8,20
+2023-ii,Adrián Ramos,,8,21
+2023-ii,Gustavo Torres,,7,18
+2024-i,Carlos Bacca,,12,22
+2024-i,Hugo Rodallega,,12,26
+2024-i,Dayro Moreno,,11,25
+2024-i,Leonardo Castro,,10,14
+2024-i,Yeison Guzmán,,10,16
+2024-i,Darwin Quintero,,10,22
+2024-i,Kevin Viveros,,8,21
+2024-i,Daniel Mosquera,,7,26
+2024-i,Wilson Morelo,,6,15
+2024-i,Rodrigo Holgado,,6,16
+2024-ii,Daniel Moreno,,17,24
+2024-ii,Dayro Moreno,,10,24
+2024-ii,Brayan Gil,,8,18
+2024-ii,Leonardo Castro,,8,21
+2024-ii,Duván Vergara,,8,22
+2024-ii,Carlos Bacca,,8,23
+2024-ii,Yeison Guzmán,,8,26
+2024-ii,Andrés Román,,7,17
+2024-ii,Alfredo Morelos,,7,22
+2024-ii,Jeison Quiñónes,,6,16
+2025-i,Hugo Rodallega,santafe,16,26
+2025-i,Dayro Moreno,caldas,11,26
+2025-i,Gonzalo Lencina,tolima,10,24
+2025-i,Edwin Cardona,nacional,9,16
+2025-i,Alfredo Morelos,nacional,8,23
+2025-i,Jairo Molina,chico,7,18
+2025-i,Rodrigo Holgado,america,7,19
+2025-i,Duván Vergara,america,7,22
+2025-i,Leonardo Castro,millonarios,6,10
+2025-i,Radamel Falcao,millonarios,6,12
+2025-ii,Francisco Fydriszewski,medellin,12,21
+2025-ii,Luciano Pons,bucaramanga,12,23
+2025-ii,Carlos Lucumí,alianza,10,15
+2025-ii,Brayan León,medellin,10,19
+2025-ii,Yoshan Valois,pasto,10,19
+2025-ii,Alfredo Morelos,nacional,8,23
+2025-ii,José Enamorado,junior,8,25
+2025-ii,Hugo Rodallega,santafe,7,17
+2025-ii,Jefry Zapata,caldas,7,17
+2025-ii,Jairo Molina,chico,7,19
+2026-i,Andrey Estupiñán,pasto,13,19
+2026-i,Luis Muriel,junior,13,23
+2026-i,Hugo Rodallega,santafe,12,23
+2026-i,Jorge Rivaldo,aguilas,11,19
+2026-i,Alfredo Morelos,nacional,11,21
+2026-i,Yeison Guzmán,america,10,18
+2026-i,Dayro Moreno,caldas,10,21
+2026-i,Andrés Arroyo,fortaleza,9,19
+2026-i,Rodrigo Contreras,millonarios,8,15
+2026-i,Leonardo Castro,millonarios,7,16
+2026-ii,Yeison Guzmán,america,6,8
+2026-ii,Marlos Moreno,nacional,4,5
+2026-ii,John Montaño,medellin,4,6
+2026-ii,Alfredo Morelos,nacional,3,5
+2026-ii,Andrés Sarmiento,nacional,3,5
+2026-ii,Emerson Batalla,bucaramanga,3,6
+2026-ii,Jaime Peralta,cucuta,3,6
+2026-ii,Dany Rosero,america,3,6
+2026-ii,Jefry Zapata,caldas,3,6
+2026-ii,Franco Fagúndez,santafe,3,7
