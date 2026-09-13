@@ -5,38 +5,60 @@ import unicodedata
 # slug canónico -> todas las variantes que pueden aparecer en cualquier fuente.
 # Un nombre desconocido hace fallar el build a propósito (datos sucios no entran).
 ALIASES: dict[str, list[str]] = {
-    "nacional": ["atletico nacional", "atletico nacional sa", "nacional"],
-    "millonarios": ["millonarios", "millonarios fc"],
+    # NOTA: incluye typos reales de Wikipedia ("milonarios", "bucarramanga") para no perder partidos
+    "nacional": ["atletico nacional", "atletico nacional sa", "nacional",
+                 "atletico municipal", "atletico municipal de medellin"],
+    "millonarios": ["millonarios", "millonarios fc", "milonarios"],
     "santafe": ["independiente santa fe", "independiente santafe", "santa fe", "santafe"],
     "medellin": ["independiente medellin", "medellin", "deportivo independiente medellin"],
     "america": ["america de cali", "america", "corporacion deportiva america"],
     "cali": ["deportivo cali", "cali"],
     "junior": ["junior", "atletico junior", "junior de barranquilla", "junior fc"],
-    "bucaramanga": ["atletico bucaramanga", "bucaramanga", "bucamanga"],
+    "bucaramanga": ["atletico bucaramanga", "bucaramanga", "bucamanga", "bucarramanga"],
     "pasto": ["deportivo pasto"],
-    "tolima": ["deportes tolima", "tolima"],
-    "caldas": ["once caldas"],
+    "tolima": ["deportes tolima", "tolima", "ibague"],
+    "caldas": ["once caldas", "caldas", "manizales", "deportes caldas"],
+    "barranquilla-fc": ["barranquilla fc"],
+    # era El Dorado (1948-1953): clubes efímeros + "Barranquilla" solo = Deportivo Barranquilla
+    # (el Barranquilla FC moderno siempre aparece con "FC"; verificado 2010+)
+    "deportivo-barranquilla": ["deportivo barranquilla", "barranquilla"],
+    "huracan": ["huracan", "huracan de medellin"],
+    "samarios": ["samarios", "deportivo samarios"],
+    "atletico-manizales": ["atletico manizales"],
+    "oro-negro": ["oro negro", "club deportivo oro negro"],
+    "deportivo-manizales": ["deportivo manizales"],
+    "unicosta": ["unicosta", "deportivo unicosta", "unicosta de barranquilla"],
+    "huila": ["atletico huila", "huila", "neiva"],
+    "chico": ["boyaca chico", "boyaca chico fc", "chico", "bogota chico", "chico fc"],
+    "centauros": ["centauros villavicencio", "centauros"],
     "envigado": ["envigado", "envigado fc", "envigado futbol club"],
-    "equidad": ["la equidad", "la equidad seguros", "club la equidad seguros"],
+    "equidad": ["la equidad", "la equidad seguros", "club la equidad seguros", "equidad"],
     "pereira": ["deportivo pereira", "pereira"],
     "jaguares": ["jaguares de cordoba", "jaguares"],
     "alianza": ["alianza fc", "alianza petrolera", "alianza valledupar", "alianza"],
     "fortaleza": ["fortaleza cif", "fortaleza ceif", "fortaleza", "fortaleza futbol club"],
     "llaneros": ["llaneros", "llaneros fc"],
-    "magdalena": ["union magdalena"],
-    "chico": ["boyaca chico", "boyaca chico fc", "chico"],
+    "magdalena": ["union magdalena", "magdalena"],
     "patriotas": ["patriotas boyaca", "patriotas"],
-    "aguilas": ["rionegro aguilas", "aguilas doradas", "rionegro aguilas doradas", "aguilas"],
-    "cortulua": ["cortulua", "corporacion deportiva cortulua"],
-    "huila": ["atletico huila", "huila"],
-    "quindio": ["deportes quindio", "quindio"],
-    "cucuta": ["cucuta deportivo", "cucuta"],
-    "leones": ["leones fc", "leones"],
+    "aguilas": ["rionegro aguilas", "aguilas doradas", "rionegro aguilas doradas", "aguilas",
+                # misma franquicia reubicada: Itagüí (2011-2013) -> Águilas Pereira (2014)
+                # ("Itagüí" lleva diéresis: slugifica a "itagui")
+                "itagui", "itagui ditaires", "corporacion deportiva itagui ditaires",
+                "aguilas pereira"],
+    "cortulua": ["cortulua", "corporacion deportiva cortulua", "tulua"],
+    "quindio": ["deportes quindio", "quindio", "atletico quindio"],
+    "cucuta": ["cucuta deportivo", "cucuta", "deportivo cucuta"],
+    "leones": ["leones fc", "leones", "itague leones", "itagui leones"],
     "tigres": ["tigres fc", "tigres"],
-    "real-cartagena": ["real cartagena", "real cartagena fc"],
+    "real-cartagena": ["real cartagena", "real cartagena fc", "cartagena"],
+    "sporting": ["sporting", "sporting club", "sporting de barranquilla", "sporting barranquilla"],
+    # era amateur/profesional temprana
+    "universidad": ["universidad nacional", "universidad", "club universidad nacional",
+                    "club universidad nacional de colombia"],
+    "once-deportivo": ["once deportivo", "once deportivo de manizales"],
+    "boca-cali": ["boca juniors de cali", "boca juniors", "boca de cali", "boca cali"],
     "valledupar": ["valledupar fc", "valledupar"],
     "real-soacha": ["real soacha cundinamarca", "real soacha", "soacha"],
-    "barranquilla": ["barranquilla fc", "barranquilla"],
     "bogota": ["bogota fc", "bogota"],
     "internacional": ["internacional de palmira", "internacional fc de palmira"],
     "internacional-bogota": ["internacional de bogota", "internacional fc de bogota",
@@ -49,16 +71,15 @@ ALIASES: dict[str, list[str]] = {
     "expreso-rojo": ["expreso rojo", "expreso rojo fc"],
     "real-santander": ["real santander", "real santander fc"],
     "deportivo-rionegro": ["deportivo rionegro", "rionegro"],
-    "itague": ["itague ditaires", "itague", "itague ditaires deportivo"],
     "deportes-savio": ["deportes savio", "savio"],
     "centro-juvenil": ["centro juvenil padre luna", "centro juvenil"],
     "deportivo-antioquia": ["deportivo antioquia"],
     "atletico-de-la-sabana": ["atletico de la sabana", "de la sabana"],
 }
 
-# abreviaturas comunes antes de slugify
+# abreviaturas comunes antes de slugify ("At. Nacional", "Dep. Cali", "Ind. Medellín")
 _ABBREV = [
-    (r"\batl\.?\b", "atletico"),
+    (r"\batl?\.?\b", "atletico"),
     (r"\bdep\.?\b", "deportivo"),
     (r"\bind\.?\b", "independiente"),
     (r"\bclub\b", ""),
@@ -94,13 +115,11 @@ def match_team(name: str) -> str:
     """Nombre del club (cualquier fuente) -> slug canónico. Falla si es desconocido."""
     s = slugify(name)
     idx = _index()
-    hit = idx.get(s)
-    if hit:
-        return hit
-    # "Club X F.C." y "Club X" son el mismo club en Colombia: prueba sin sufijo -fc
-    hit = idx.get(s.removesuffix("-fc"))
-    if hit:
-        return hit
+    # "Club X F.C." / "Club X Fútbol Club" son el mismo club que "Club X" en Colombia
+    for cand in (s, s.removesuffix("-fc"), s.removesuffix("-futbol")):
+        hit = idx.get(cand)
+        if hit:
+            return hit
     raise ValueError(
         f"Club desconocido: {name!r} (slug={s!r}) — agrega el alias en normalize.py ALIASES"
     )
@@ -138,12 +157,15 @@ _SCORE = re.compile(r"(\d+)\s*[–—:\-]\s*(\d+)")
 
 
 def parse_score(text: str) -> tuple[int, int] | None:
-    m = _SCORE.search(text or "")
+    # quita penales y agregados ("1(1)-1(3)", "3:0 (3:0) (Global 4:2)") -> marcador del partido
+    clean = re.sub(r"\([^)]*\)", "", text or "")
+    m = _SCORE.search(clean)
     return (int(m.group(1)), int(m.group(2))) if m else None
 
 
 def clean_name(raw: str) -> str:
-    """Nombres de jugador: quita marcadores de capitán, notas y espacios dobles."""
+    """Nombres de jugador: quita marcadores de capitán, notas, goles pegados y espacios."""
     t = re.sub(r"\((c)\)|\[.*?\]|\u2020", "", raw or "")
+    t = re.sub(r"\s*\(\d+\)\s*$", "", t)  # "Felipe Marino (22)" -> nombre
     t = re.sub(r"\s+", " ", t).strip(" .")
     return t

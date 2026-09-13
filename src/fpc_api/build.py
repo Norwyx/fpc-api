@@ -8,10 +8,17 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[2]
 OUT = ROOT / "docs" / "v1"
 
-# Alcance inicial de temporadas (backfill progresivo: añadir años aquí)
-SEASON_RANGE = [(2024, "apertura"), (2024, "finalizacion"),
-                (2025, "apertura"), (2025, "finalizacion"),
-                (2026, "apertura"), (2026, "finalizacion")]
+# Alcance de temporadas (backfill progresivo: añadir años aquí).
+# - 2020 solo tuvo un torneo (año COVID): no existe Finalización 2020.
+# - Pre-2002 son "Campeonato colombiano YYYY" (un torneo por año); 1995-96 y
+#   1996-97 van en el slot "finalizacion" de 1995/1996; no existe torneo "1997"
+#   ("Campeonato colombiano 1997" redirige a 1996-97) ni "1996" propio.
+SEASON_RANGE = (
+    [(y, "apertura") for y in range(1948, 2002) if y not in (1996, 1997)]
+    + [(1995, "finalizacion"), (1996, "finalizacion")]
+    + [(y, t) for y in range(2002, 2027) for t in ("apertura", "finalizacion")
+       if (y, t) != (2020, "finalizacion")]
+)
 
 
 def _write(rel: str, data: dict):
@@ -115,7 +122,7 @@ def build_index(seasons_data=None):
 
 def main(argv=None):
     parser = argparse.ArgumentParser(prog="fpc-api build")
-    parser.add_argument("target", choices=["all", "teams", "champions", "seasons", "players", "index"])
+    parser.add_argument("target", choices=["all", "teams", "champions", "seasons", "players", "index", "kaggle"])
     parser.add_argument("--years", type=int, nargs="*", default=None,
                         help="años a construir (con 'seasons')")
     parser.add_argument("--max-age-days", type=float, default=None,
@@ -146,6 +153,11 @@ def main(argv=None):
         build_players(teams_data)
     if args.target in ("all", "index"):
         build_index()
+    if args.target in ("all", "kaggle"):
+        from . import export_kaggle
+
+        print("Export Kaggle…")
+        export_kaggle.main([])
     print("Listo.")
 
 

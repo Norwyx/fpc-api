@@ -9,6 +9,8 @@ from fpc_api.validate import Warnings, validate_season
 def test_slugify():
     assert slugify("Atlético Nacional") == "atletico-nacional"
     assert slugify("Atl. Nacional") == "atletico-nacional"
+    assert slugify("At. Nacional") == "atletico-nacional"
+    assert slugify("At. Huila") == "atletico-huila"
     assert slugify("Cúcuta Deportivo") == "cucuta-deportivo"
     assert slugify("Envigado F. C.") == "envigado-fc"
 
@@ -30,6 +32,7 @@ def test_parse_score():
     assert parse_score("2–1") == (2, 1)
     assert parse_score("0 : 0") == (0, 0)
     assert parse_score("3:0 (3:0) (Global 4:2)") == (3, 0)
+    assert parse_score("1(1)-1(3)") == (1, 1)  # definición por penales
     assert parse_score("vs.") is None
     assert parse_score("") is None
 
@@ -75,7 +78,7 @@ HTML_FIXTURE = """
 
 def test_parse_matches_truncated_row():
     grid = rows(soup(HTML_FIXTURE).find("table"))
-    ms = parse_matches(grid, "2026-i", "regular", 2026, 1)
+    ms = parse_matches(grid, "2026-i", "regular", 2026)
     assert len(ms) == 2
     played = [m for m in ms if m["status"] == "played"][0]
     assert played["home"] == "nacional" and played["away"] == "millonarios"

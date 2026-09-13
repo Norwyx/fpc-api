@@ -21,7 +21,18 @@ def cell_of(td: Tag) -> Cell:
         if a["href"].startswith("/wiki/") and not a["href"].startswith("/wiki/Archivo:"):
             href = a["href"]
             break
-    return {"t": td.get_text(" ", strip=True), "href": href}
+    # limpia notas al pie ("2020[83]" -> "2020") y espacios cero-width
+    text = re.sub(r"\[\s*\d+\s*\]", "", td.get_text(" ", strip=True))
+    text = " ".join(text.replace("\u200b", "").split())
+    return {"t": text, "href": href}
+
+
+def _span(td: Tag, attr: str) -> int:
+    """rowspan/colspan tolerante a HTML roto (ej. colspan="1 align=center")."""
+    try:
+        return max(int(str(td.get(attr, 1) or 1).split()[0]), 1)
+    except (ValueError, TypeError):
+        return 1
 
 
 def rows(table: Tag) -> list[list[Cell]]:
@@ -48,12 +59,12 @@ def rows(table: Tag) -> list[list[Cell]]:
             td = cells[ci]
             ci += 1
             cell = cell_of(td)
-            colspan = int(td.get("colspan", 1) or 1)
+            colspan = _span(td, "colspan")
             row.append(cell)
             for _ in range(colspan - 1):
                 row.append({"t": "", "href": None})
                 col += 1
-            rowspan = int(td.get("rowspan", 1) or 1)
+            rowspan = _span(td, "rowspan")
             if rowspan > 1:
                 pending[col] = (cell, rowspan - 1)
             col += 1
@@ -69,15 +80,30 @@ def row_text(row: list[Cell]) -> str:
     return " ".join(c["t"].lower() for c in row)
 
 
+def team_from_href(href: str | None) -> str | None:
+    """Slug desde un href de Wikipedia (prueba sin paréntesis: 'Boca_Juniors_de_Cali_(1937)')."""
+    if not href or not href.startswith("/wiki/"):
+        return None
+    from urllib.parse import unquote
+
+    from .normalize import match_team
+
+    title = unquote(href.split("/wiki/")[-1].replace("_", " "))
+    for cand in (title, re.sub(r"\s*\(.*?\)\s*", "", title).strip()):
+        try:
+            return match_team(cand)
+        except ValueError:
+            continue
+    return None
+
+
 def team_from_cell(cell: Cell) -> str | None:
     """Slug canónico del club en una celda (href de Wikipedia primero)."""
-    from .normalize import match_team, slugify
+    from .normalize import match_team
 
-    if cell.get("href"):
-        try:
-            return match_team(unquote(cell["href"].split("/wiki/")[-1].replace("_", " ")))
-        except ValueError:
-            pass
+    hit = team_from_href(cell.get("href"))
+    if hit:
+        return hit
     t = cell["t"]
     for candidate in [t.split(" (")[0], t]:
         try:
@@ -93,6 +119,17 @@ def as_int(text: str) -> int | None:
     return int(m.group()) if m else None
 
 
+def as_number(text: str) -> int | float | None:
+    """Entero o decimal ('14.5', '1,5') para puntos bonus de la era 1995-1998."""
+    clean = re.sub(r"[\s\u00a0\u200b]", "", (text or ""))
+    if "," in clean and "." not in clean:
+        clean = clean.replace(",", ".")
+    m = re.search(r"-?\d+(?:\.\d+)?", clean)
+    if not m:
+        return None
+    return float(m.group()) if "." in m.group() else int(m.group())
+
+
 def find_standings_tables(doc: BeautifulSoup) -> list[Tag]:
     """Tablas de clasificación: encabezado con pos/equipo/pj/pts."""
     out = []
@@ -106,19 +143,102 @@ def find_standings_tables(doc: BeautifulSoup) -> list[Tag]:
     return out
 
 
-def find_fixture_tables(doc: BeautifulSoup) -> list[Tag]:
-    """Tablas de partidos: encabezado local/resultado/visitante/estadio/fecha."""
+def fixture_colmap(texts_lower: list[str]) -> dict:
+    """Rol de cada columna por palabras clave (ES/EN: 'Equipo local', 'Home'...)."""
+    colmap: dict[str, int] = {}
+    for j, t in enumerate(texts_lower):
+        if "visitante" in t or "away" in t:
+            colmap.setdefault("visitante", j)
+        elif "local" in t or "home" in t:
+            colmap.setdefault("local", j)
+        elif "resultado" in t or "score" in t or "marcador" in t:
+            colmap.setdefault("resultado", j)
+        elif "jornada" in t:
+            colmap.setdefault("jornada", j)
+        elif "fecha" in t or t.strip() == "date":
+            colmap.setdefault("fecha", j)
+    return colmap
+
+
+def is_caption_row(row: list[Cell]) -> bool:
+    """Fila de caption ('Fecha 5 ...', 'Jornada 3 ...', 'PRIMERA FECHA ...'):
+    primera celda con fecha/jornada y resto vacío o captions."""
+    import re
+
+    if not row or not re.search(r"fecha|jornada", row[0]["t"].lower()):
+        return False
+    return all(not c["t"] or re.search(r"fecha|jornada", c["t"].lower()) for c in row[1:])
+
+
+def _looks_match_row(row: list[Cell]) -> bool:
+    """Fila con pinta de partido: [equipo, marcador, equipo] (tablas sin encabezado)."""
+    from .normalize import parse_score
+
+    return (len(row) >= 3 and team_from_cell(row[0]) is not None
+            and team_from_cell(row[2]) is not None
+            and parse_score(row[1]["t"]) is not None)
+
+
+def is_fixture_header(texts_lower: list[str]) -> bool:
+    h = " ".join(texts_lower)
+    return (("local" in h or "home" in h) and ("visitante" in h or "away" in h)
+            and ("resultado" in h or "score" in h or "marcador" in h)
+            and "jugador" not in h)
+
+
+def find_matrix_tables(doc: BeautifulSoup) -> list[Tag]:
+    """Matrices de resultados (era pre-2002): tabla cuadrada con códigos de equipo
+    en el header y celdas de marcador/vacías."""
+    import re
+
+    from .normalize import parse_score
+
     out = []
     for t in all_tables(doc):
         grid = rows(t)
-        if len(grid) < 3:
+        n = len(grid)
+        if n < 8 or any(len(r) < 8 for r in grid[:8]):
             continue
-        for row in grid[:2]:
-            h = row_text(row)
-            if ("local" in h and "resultado" in h and "visitante" in h
-                    and "estadio" in h and "fecha" in h):
+        if abs(n - len(grid[0])) > 3:
+            continue
+        header = grid[0][1:]
+        short = sum(1 for c in header if len(c["t"]) <= 5 or c.get("href"))
+        if short < 0.6 * len(header):
+            continue
+        scored = empty = 0
+        for r in grid[1:6]:
+            for c in r[1:]:
+                if not c["t"]:
+                    empty += 1
+                elif parse_score(c["t"]):
+                    scored += 1
+        total = scored + empty
+        if total > 0 and scored / total >= 0.4:
+            out.append(t)
+    return out
+
+
+def find_fixture_tables(doc: BeautifulSoup) -> list[Tag]:
+    """Tablas de partidos: encabezado con local/visitante + resultado/marcador
+    (sin columna jugador, para excluir la tabla de tripletas)."""
+    out = []
+    for t in all_tables(doc):
+        grid = rows(t)
+        if len(grid) < 2:
+            continue
+        found = False
+        for row in grid[:3]:
+            if is_fixture_header([c["t"].lower() for c in row]):
                 out.append(t)
+                found = True
                 break
+        if found:
+            continue
+        # tablas sin encabezado: [local, resultado, visitante] posicional
+        start = 1 if is_caption_row(grid[0]) else 0
+        probe = [r for r in grid[start:start + 2] if _looks_match_row(r)]
+        if len(probe) >= 2:
+            out.append(t)
     return out
 
 
