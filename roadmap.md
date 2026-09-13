@@ -278,10 +278,23 @@ fpc-api/
 
 ### Pendiente del dueño (Fase 10)
 
-1. Crear el repo en GitHub y hacer push.
-2. Settings → Pages → Source: **GitHub Actions**.
-3. Verificar `https://<user>.github.io/fpc-api/v1/index.json`.
-4. (Opcional) Proteger `main` con el check de CI.
+1. Crear el repo en GitHub y hacer push. ✅ HECHO (`Norwyx/fpc-api`, Pages activo)
+2. Settings → Pages → Source: **GitHub Actions**. ✅ HECHO
+3. Verificar `https://<user>.github.io/fpc-api/v1/index.json`. ✅ HECHO
+
+### Fase 11 — Backfill + Kaggle (COMPLETADO Sep 2026)
+
+- [x] Backfill 1948–2026: **103 temporadas, ~20.900 partidos**, 60 clubes, 101 campeones.
+- [x] Soporte por eras: 2 pts/victoria pre-1995, bonus 1995-1998, liguilla 2020,
+      pentagonales/triangulares/octogonal/hexagonal, matrices de resultados con
+      orientación auto-verificada, typos de fuente como alias.
+- [x] `KNOWN_*_ISSUES`: inconsistencias verificadas de Wikipedia se publican
+      documentadas en vez de bloquear.
+- [x] Exportador `build kaggle` → `export/kaggle/`: 9 CSVs (~25.000 filas) +
+      `dataset-metadata.json` + tarjeta en inglés. Tests del exportador en verde.
+- [x] Cobertura parcial pre-2002 documentada por temporada (`seasons.csv`).
+- [ ] Subida manual a Kaggle (`kaggle datasets create -p export/kaggle`) — del dueño.
+- [ ] (Después) workflow de auto-versiones en Kaggle con secrets.
 
 ### Lecciones del build real (documentadas para el futuro)
 

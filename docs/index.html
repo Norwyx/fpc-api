@@ -104,7 +104,7 @@ const data = await fetch('https://Norwyx.github.io/fpc-api/v1/teams.json').then(
     document.getElementById("endpoints").innerHTML = idx.endpoints.map(e =>
       `<div class="card"><div class="path">${e.path}</div><div class="desc">${e.description}</div></div>`).join("");
     const rows = idx.seasons.map(s => {
-      const t = s.tournament === "apertura" ? "Apertura" : "Finalización";
+      const t = {apertura: "Apertura", finalizacion: "Finalización", liga: "Liga"}[s.tournament] ?? s.tournament;
       return `<tr>
         <td><strong>${s.id}</strong></td><td>${t}</td>
         <td><span class="status ${s.status}"></span>${s.status === "completed" ? "finalizado" : "en curso"}</td>

@@ -66,9 +66,42 @@ Reglas del modelo:
   reporta en `meta.warnings`. En v2 se migrará a IDs numéricos de API-Football como clave
   canónica para el historial de fantasy.
 - `null` explícito cuando la fuente no da un dato (ej. `date` de partidos aplazados). Nunca se inventa.
-- Las temporadas colombianas son dos torneos por año: `{year}-i` (Apertura) y `{year}-ii` (Finalización).
-- Etapas de partido: `regular`, `cuadrangulares`, `octavos`, `cuartos`, `semifinales`, `final` (según el formato del torneo).
+- Las temporadas 2002+ son dos torneos por año: `{year}-i` (Apertura) y `{year}-ii`
+  (Finalización). Años de torneo único (pre-2002, 1995-96, 1996-97, 2020) usan `{year}`
+  con `tournament: liga`.
+- Etapas de partido (el formato cambió por décadas): `regular`, `cuadrangulares`,
+  `liguilla`, `octogonal`, `hexagonal`, `pentagonales`, `triangulares`, `octavos`,
+  `cuartos`, `semifinales`, `final`, `playoffs`, más `apertura`/`finalizacion` como
+  fases internas de un año pre-2002.
+- `status` de temporada: `completed` | `in_progress` | `cancelled` (1989, torneo suspendido).
 - `status` de partido: `played` | `scheduled` (incluye aplazados).
+- **Puntos**: 2 por victoria hasta 1994, 3 desde 1995; la era 1995-1998 trae bonus
+  (columna `bonus`). Ver `validate.py` → `KNOWN_*_ISSUES` para las inconsistencias
+  verificadas de la fuente (se publican tal cual, documentadas).
+
+## Dataset Kaggle
+
+`export/kaggle/` contiene el dataset plano listo para subir: 9 CSVs (~25.000 filas) +
+`dataset-metadata.json` + `README.md` (tarjeta en inglés). Se regenera con:
+
+```bash
+PYTHONPATH=src python -m fpc_api.build kaggle   # o `build all` (lo incluye)
+```
+
+Cobertura actual: **103 temporadas (1948–2026), ~20.900 partidos, 60 clubes,
+600 jugadores (plantillas vigentes), 101 ediciones de campeón**. La cobertura a
+nivel partido antes de 2002 es parcial según lo documentado en Wikipedia —
+`seasons.csv` (`n_matches`, `n_played`) dice exactamente qué trae cada temporada.
+
+Subida manual (así se acordó: automatizar después):
+
+```bash
+pip install kaggle
+# configura ~/.kaggle/kaggle.json con tu API token (kaggle.com → Settings → API)
+kaggle datasets create -p export/kaggle
+# nuevas versiones:
+kaggle datasets version -p export/kaggle -m "update YYYY-MM-DD"
+```
 
 ## Cómo se actualiza
 
@@ -97,10 +130,11 @@ PYTHONPATH=src python -m fpc_api.debug "Torneo Apertura 2026 (Colombia)" tables 
 
 ## Backfill histórico
 
-`SEASON_RANGE` en `src/fpc_api/build.py` define qué temporadas se construyen. Hoy: 2024–2026.
-Para ampliar hacia atrás, añade años a la lista (el pipeline resuelve las páginas
-`Torneo Apertura/Finalización {año} (Colombia)` automáticamente). Los campeones ya cubren
-1948–hoy completos.
+`SEASON_RANGE` en `src/fpc_api/build.py` define qué temporadas se construyen:
+**1948–2026 completo** (103 temporadas). Los campeones cubren 1948–hoy. Casos
+especiales documentados en el código: 2020 (un solo torneo), 1995-96/1996-97
+(calendario europeo), 1989 (suspendido), era bonus 1995-1998, 2 puntos por
+victoria hasta 1994.
 
 ## Roadmap
 
