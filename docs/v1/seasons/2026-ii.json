@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-09-13T17:22:41Z",
+  "updated": "2026-09-14T19:07:59Z",
   "source": "https://es.wikipedia.org/wiki/Torneo_Finalización_2026_(Colombia)"
  },
  "season": {
@@ -51,8 +51,21 @@
    "bonus": null
   },
   {
-   "team": "tolima",
+   "team": "millonarios",
    "position": 2,
+   "played": 10,
+   "won": 4,
+   "drawn": 4,
+   "lost": 2,
+   "goals_for": 12,
+   "goals_against": 8,
+   "goal_diff": 4,
+   "points": 16,
+   "bonus": null
+  },
+  {
+   "team": "tolima",
+   "position": 3,
    "played": 8,
    "won": 5,
    "drawn": 1,
@@ -64,8 +77,21 @@
    "bonus": null
   },
   {
+   "team": "nacional",
+   "position": 4,
+   "played": 6,
+   "won": 5,
+   "drawn": 0,
+   "lost": 1,
+   "goals_for": 14,
+   "goals_against": 4,
+   "goal_diff": 10,
+   "points": 15,
+   "bonus": null
+  },
+  {
    "team": "medellin",
-   "position": 3,
+   "position": 5,
    "played": 7,
    "won": 5,
    "drawn": 0,
@@ -77,8 +103,21 @@
    "bonus": null
   },
   {
+   "team": "bucaramanga",
+   "position": 6,
+   "played": 7,
+   "won": 3,
+   "drawn": 4,
+   "lost": 0,
+   "goals_for": 10,
+   "goals_against": 6,
+   "goal_diff": 4,
+   "points": 13,
+   "bonus": null
+  },
+  {
    "team": "santafe",
-   "position": 4,
+   "position": 7,
    "played": 8,
    "won": 3,
    "drawn": 4,
@@ -90,34 +129,21 @@
    "bonus": null
   },
   {
-   "team": "millonarios",
-   "position": 5,
-   "played": 9,
+   "team": "cali",
+   "position": 8,
+   "played": 8,
    "won": 3,
-   "drawn": 4,
+   "drawn": 3,
    "lost": 2,
-   "goals_for": 10,
-   "goals_against": 7,
+   "goals_for": 11,
+   "goals_against": 8,
    "goal_diff": 3,
-   "points": 13,
-   "bonus": null
-  },
-  {
-   "team": "nacional",
-   "position": 6,
-   "played": 5,
-   "won": 4,
-   "drawn": 0,
-   "lost": 1,
-   "goals_for": 12,
-   "goals_against": 4,
-   "goal_diff": 8,
    "points": 12,
    "bonus": null
   },
   {
    "team": "llaneros",
-   "position": 7,
+   "position": 9,
    "played": 9,
    "won": 3,
    "drawn": 2,
@@ -130,7 +156,7 @@
   },
   {
    "team": "internacional-bogota",
-   "position": 8,
+   "position": 10,
    "played": 9,
    "won": 2,
    "drawn": 5,
@@ -143,66 +169,40 @@
   },
   {
    "team": "aguilas",
-   "position": 9,
-   "played": 6,
+   "position": 11,
+   "played": 7,
    "won": 2,
    "drawn": 4,
-   "lost": 0,
+   "lost": 1,
    "goals_for": 10,
-   "goals_against": 8,
-   "goal_diff": 2,
-   "points": 10,
-   "bonus": null
-  },
-  {
-   "team": "bucaramanga",
-   "position": 10,
-   "played": 6,
-   "won": 2,
-   "drawn": 4,
-   "lost": 0,
-   "goals_for": 7,
-   "goals_against": 5,
-   "goal_diff": 2,
+   "goals_against": 10,
+   "goal_diff": 0,
    "points": 10,
    "bonus": null
   },
   {
    "team": "caldas",
-   "position": 11,
-   "played": 7,
-   "won": 2,
-   "drawn": 3,
-   "lost": 2,
-   "goals_for": 11,
-   "goals_against": 9,
-   "goal_diff": 2,
-   "points": 9,
-   "bonus": null
-  },
-  {
-   "team": "cali",
    "position": 12,
-   "played": 7,
+   "played": 8,
    "won": 2,
    "drawn": 3,
-   "lost": 2,
-   "goals_for": 9,
-   "goals_against": 7,
-   "goal_diff": 2,
+   "lost": 3,
+   "goals_for": 12,
+   "goals_against": 11,
+   "goal_diff": 1,
    "points": 9,
    "bonus": null
   },
   {
    "team": "cucuta",
    "position": 13,
-   "played": 8,
+   "played": 9,
    "won": 2,
    "drawn": 3,
-   "lost": 3,
-   "goals_for": 8,
-   "goals_against": 13,
-   "goal_diff": -5,
+   "lost": 4,
+   "goals_for": 9,
+   "goals_against": 15,
+   "goal_diff": -6,
    "points": 9,
    "bonus": null
   },
@@ -248,13 +248,13 @@
   {
    "team": "pereira",
    "position": 17,
-   "played": 6,
+   "played": 7,
    "won": 1,
    "drawn": 3,
-   "lost": 2,
-   "goals_for": 3,
-   "goals_against": 6,
-   "goal_diff": -3,
+   "lost": 3,
+   "goals_for": 4,
+   "goals_against": 9,
+   "goal_diff": -5,
    "points": 6,
    "bonus": null
   },
@@ -1189,7 +1189,7 @@
    "stage": "regular",
    "round": 7,
    "leg": null,
-   "date": "2026-09-17",
+   "date": "2026-10-13",
    "home": "bucaramanga",
    "away": "aguilas",
    "home_goals": null,
@@ -1543,10 +1543,10 @@
    "date": "2026-09-13",
    "home": "pereira",
    "away": "bucaramanga",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 1,
+   "away_goals": 3,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r10-nacional-aguilas",
@@ -1556,10 +1556,10 @@
    "date": "2026-09-13",
    "home": "nacional",
    "away": "aguilas",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 2,
+   "away_goals": 0,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r10-caldas-cali",
@@ -1569,10 +1569,10 @@
    "date": "2026-09-13",
    "home": "caldas",
    "away": "cali",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 1,
+   "away_goals": 2,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r10-cucuta-millonarios",
@@ -1582,10 +1582,10 @@
    "date": "2026-09-13",
    "home": "cucuta",
    "away": "millonarios",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 1,
+   "away_goals": 2,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r10-america-pasto",
@@ -1601,13 +1601,13 @@
    "status": "scheduled"
   },
   {
-   "id": "2026-ii-regular-r11-medellin-jaguares",
+   "id": "2026-ii-regular-r11-aguilas-pereira",
    "stage": "regular",
    "round": 11,
    "leg": null,
    "date": "2026-09-18",
-   "home": "medellin",
-   "away": "jaguares",
+   "home": "aguilas",
+   "away": "pereira",
    "home_goals": null,
    "away_goals": null,
    "penalties": null,
@@ -1718,13 +1718,13 @@
    "status": "scheduled"
   },
   {
-   "id": "2026-ii-regular-r11-aguilas-pereira",
+   "id": "2026-ii-regular-r11-medellin-jaguares",
    "stage": "regular",
    "round": 11,
    "leg": null,
-   "date": "2026-10-08",
-   "home": "aguilas",
-   "away": "pereira",
+   "date": "2026-09-22",
+   "home": "medellin",
+   "away": "jaguares",
    "home_goals": null,
    "away_goals": null,
    "penalties": null,
@@ -2004,6 +2004,19 @@
    "status": "scheduled"
   },
   {
+   "id": "2026-ii-regular-r14-alianza-aguilas",
+   "stage": "regular",
+   "round": 14,
+   "leg": null,
+   "date": "2026-10-09",
+   "home": "alianza",
+   "away": "aguilas",
+   "home_goals": null,
+   "away_goals": null,
+   "penalties": null,
+   "status": "scheduled"
+  },
+  {
    "id": "2026-ii-regular-r14-caldas-llaneros",
    "stage": "regular",
    "round": 14,
@@ -2076,19 +2089,6 @@
    "date": "2026-10-11",
    "home": "america",
    "away": "medellin",
-   "home_goals": null,
-   "away_goals": null,
-   "penalties": null,
-   "status": "scheduled"
-  },
-  {
-   "id": "2026-ii-regular-r14-alianza-aguilas",
-   "stage": "regular",
-   "round": 14,
-   "leg": null,
-   "date": "2026-10-12",
-   "home": "alianza",
-   "away": "aguilas",
    "home_goals": null,
    "away_goals": null,
    "penalties": null,
@@ -2791,6 +2791,12 @@
    "played": 7
   },
   {
+   "player_name": "Jefry Zapata",
+   "team": "caldas",
+   "goals": 4,
+   "played": 7
+  },
+  {
    "player_name": "Néider Ospina",
    "team": "llaneros",
    "goals": 4,
@@ -2823,12 +2829,6 @@
   {
    "player_name": "Jaime Peralta",
    "team": "cucuta",
-   "goals": 3,
-   "played": 6
-  },
-  {
-   "player_name": "Dany Rosero",
-   "team": "america",
    "goals": 3,
    "played": 6
   }
