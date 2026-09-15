@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-09-14T19:08:17Z",
+  "updated": "2026-09-15T18:02:53Z",
   "source": "es.wikipedia.org (secciones 'Plantilla' de cada club)",
   "warnings": [
    "homónimos 'kevin-balanta' en ['fortaleza', 'santafe']: ids sufijados con el club",
@@ -1763,7 +1763,7 @@
    "team": "chico",
    "position": "MF",
    "shirt_number": 10,
-   "age": 35,
+   "age": 36,
    "source": "https://es.wikipedia.org/wiki/Boyacá_Chicó",
    "id": "yesus-cabrera"
   },
@@ -3572,7 +3572,7 @@
    "team": "medellin",
    "position": "MF",
    "shirt_number": 6,
-   "age": 34,
+   "age": 35,
    "source": "https://es.wikipedia.org/wiki/Deportivo_Independiente_Medellín",
    "id": "didier-moreno"
   },
@@ -3694,6 +3694,15 @@
    "id": "yony-gonzalez"
   },
   {
+   "name": "Jackson Martínez",
+   "team": "medellin",
+   "position": "FW",
+   "shirt_number": 15,
+   "age": 39,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Independiente_Medellín",
+   "id": "jackson-martinez"
+  },
+  {
    "name": "John Montaño",
    "team": "medellin",
    "position": "FW",
@@ -3728,15 +3737,6 @@
    "age": 25,
    "source": "https://es.wikipedia.org/wiki/Deportivo_Independiente_Medellín",
    "id": "enzo-larrosa"
-  },
-  {
-   "name": "Jackson Martínez",
-   "team": "medellin",
-   "position": "FW",
-   "shirt_number": null,
-   "age": 39,
-   "source": "https://es.wikipedia.org/wiki/Deportivo_Independiente_Medellín",
-   "id": "jackson-martinez"
   },
   {
    "name": "Javier Burrai",
