@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-09-15T18:02:53Z",
+  "updated": "2026-09-16T18:04:29Z",
   "source": "es.wikipedia.org (secciones 'Plantilla' de cada club)",
   "warnings": [
    "homónimos 'kevin-balanta' en ['fortaleza', 'santafe']: ids sufijados con el club",
@@ -1259,7 +1259,7 @@
    "team": "caldas",
    "position": "FW",
    "shirt_number": 17,
-   "age": 40,
+   "age": 41,
    "source": "https://es.wikipedia.org/wiki/Once_Caldas",
    "id": "dayro-moreno"
   },
@@ -3856,6 +3856,15 @@
    "id": "darwin-cortes"
   },
   {
+   "name": "Juan Guillermo Cuadrado",
+   "team": "millonarios",
+   "position": "MF",
+   "shirt_number": 7,
+   "age": 38,
+   "source": "https://es.wikipedia.org/wiki/Millonarios_Fútbol_Club",
+   "id": "juan-guillermo-cuadrado"
+  },
+  {
    "name": "Daniel Ruiz",
    "team": "millonarios",
    "position": "MF",
@@ -3926,15 +3935,6 @@
    "age": 31,
    "source": "https://es.wikipedia.org/wiki/Millonarios_Fútbol_Club",
    "id": "leonai-souza"
-  },
-  {
-   "name": "Juan Guillermo Cuadrado",
-   "team": "millonarios",
-   "position": "MF",
-   "shirt_number": 7,
-   "age": 38,
-   "source": "https://es.wikipedia.org/wiki/Millonarios_Fútbol_Club",
-   "id": "juan-guillermo-cuadrado"
   },
   {
    "name": "Juan Carlos Pereira",
@@ -4544,7 +4544,7 @@
    "team": "pasto",
    "position": "MF",
    "shirt_number": 30,
-   "age": 29,
+   "age": 30,
    "source": "https://es.wikipedia.org/wiki/Deportivo_Pasto",
    "id": "david-guerrero"
   },
