@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-09-16T18:04:09Z",
+  "updated": "2026-09-17T18:02:37Z",
   "source": "https://es.wikipedia.org/wiki/Torneo_Finalización_2026_(Colombia)"
  },
  "season": {
@@ -51,8 +51,21 @@
    "bonus": null
   },
   {
-   "team": "millonarios",
+   "team": "nacional",
    "position": 2,
+   "played": 7,
+   "won": 6,
+   "drawn": 0,
+   "lost": 1,
+   "goals_for": 17,
+   "goals_against": 6,
+   "goal_diff": 11,
+   "points": 18,
+   "bonus": null
+  },
+  {
+   "team": "millonarios",
+   "position": 3,
    "played": 10,
    "won": 4,
    "drawn": 4,
@@ -65,28 +78,15 @@
   },
   {
    "team": "tolima",
-   "position": 3,
-   "played": 8,
+   "position": 4,
+   "played": 9,
    "won": 5,
    "drawn": 1,
-   "lost": 2,
+   "lost": 3,
    "goals_for": 12,
-   "goals_against": 9,
-   "goal_diff": 3,
+   "goals_against": 10,
+   "goal_diff": 2,
    "points": 16,
-   "bonus": null
-  },
-  {
-   "team": "nacional",
-   "position": 4,
-   "played": 6,
-   "won": 5,
-   "drawn": 0,
-   "lost": 1,
-   "goals_for": 14,
-   "goals_against": 4,
-   "goal_diff": 10,
-   "points": 15,
    "bonus": null
   },
   {
@@ -142,8 +142,21 @@
    "bonus": null
   },
   {
-   "team": "llaneros",
+   "team": "caldas",
    "position": 9,
+   "played": 9,
+   "won": 3,
+   "drawn": 3,
+   "lost": 3,
+   "goals_for": 13,
+   "goals_against": 11,
+   "goal_diff": 2,
+   "points": 12,
+   "bonus": null
+  },
+  {
+   "team": "llaneros",
+   "position": 10,
    "played": 9,
    "won": 3,
    "drawn": 2,
@@ -156,20 +169,20 @@
   },
   {
    "team": "internacional-bogota",
-   "position": 10,
-   "played": 9,
+   "position": 11,
+   "played": 10,
    "won": 2,
    "drawn": 5,
-   "lost": 2,
-   "goals_for": 11,
-   "goals_against": 12,
-   "goal_diff": -1,
+   "lost": 3,
+   "goals_for": 13,
+   "goals_against": 15,
+   "goal_diff": -2,
    "points": 11,
    "bonus": null
   },
   {
    "team": "aguilas",
-   "position": 11,
+   "position": 12,
    "played": 7,
    "won": 2,
    "drawn": 4,
@@ -178,19 +191,6 @@
    "goals_against": 10,
    "goal_diff": 0,
    "points": 10,
-   "bonus": null
-  },
-  {
-   "team": "caldas",
-   "position": 12,
-   "played": 8,
-   "won": 2,
-   "drawn": 3,
-   "lost": 3,
-   "goals_for": 12,
-   "goals_against": 11,
-   "goal_diff": 1,
-   "points": 9,
    "bonus": null
   },
   {
@@ -1179,10 +1179,10 @@
    "date": "2026-09-16",
    "home": "caldas",
    "away": "tolima",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 1,
+   "away_goals": 0,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r7-bucaramanga-aguilas",
@@ -1868,10 +1868,10 @@
    "date": "2026-09-16",
    "home": "internacional-bogota",
    "away": "nacional",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 2,
+   "away_goals": 3,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r13-cali-alianza",
@@ -2779,12 +2779,6 @@
    "played": 9
   },
   {
-   "player_name": "Marlos Moreno",
-   "team": "nacional",
-   "goals": 4,
-   "played": 6
-  },
-  {
    "player_name": "Emerson Batalla",
    "team": "bucaramanga",
    "goals": 4,
@@ -2797,10 +2791,16 @@
    "played": 7
   },
   {
-   "player_name": "Jefry Zapata",
-   "team": "caldas",
+   "player_name": "Marlos Moreno",
+   "team": "nacional",
    "goals": 4,
    "played": 7
+  },
+  {
+   "player_name": "Dayro Moreno",
+   "team": "caldas",
+   "goals": 4,
+   "played": 8
   },
   {
    "player_name": "Néider Ospina",
@@ -2809,10 +2809,10 @@
    "played": 8
   },
   {
-   "player_name": "Alfredo Morelos",
-   "team": "nacional",
-   "goals": 3,
-   "played": 6
+   "player_name": "Jefry Zapata",
+   "team": "caldas",
+   "goals": 4,
+   "played": 8
   },
   {
    "player_name": "Jaime Peralta",
@@ -2821,14 +2821,14 @@
    "played": 6
   },
   {
-   "player_name": "Andrés Sarmiento",
-   "team": "nacional",
-   "goals": 3,
-   "played": 6
-  },
-  {
    "player_name": "Ricardo Márquez",
    "team": "aguilas",
+   "goals": 3,
+   "played": 7
+  },
+  {
+   "player_name": "Alfredo Morelos",
+   "team": "nacional",
    "goals": 3,
    "played": 7
   }

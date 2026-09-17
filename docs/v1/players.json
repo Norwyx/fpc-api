@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-09-16T18:04:29Z",
+  "updated": "2026-09-17T18:03:00Z",
   "source": "es.wikipedia.org (secciones 'Plantilla' de cada club)",
   "warnings": [
    "homónimos 'kevin-balanta' en ['fortaleza', 'santafe']: ids sufijados con el club",
@@ -440,7 +440,7 @@
    "team": "alianza",
    "position": "MF",
    "shirt_number": 21,
-   "age": 28,
+   "age": 29,
    "source": "https://es.wikipedia.org/wiki/Alianza_Valledupar",
    "id": "fabian-cantillo"
   },
@@ -3437,7 +3437,7 @@
    "team": "llaneros",
    "position": "FW",
    "shirt_number": 9,
-   "age": 24,
+   "age": 25,
    "source": "https://es.wikipedia.org/wiki/Club_Llaneros",
    "id": "manuel-barreiro"
   },
