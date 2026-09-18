@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-09-17T18:03:00Z",
+  "updated": "2026-09-18T17:36:12Z",
   "source": "es.wikipedia.org (secciones 'Plantilla' de cada club)",
   "warnings": [
    "homónimos 'kevin-balanta' en ['fortaleza', 'santafe']: ids sufijados con el club",
@@ -665,7 +665,7 @@
    "team": "america",
    "position": "DF",
    "shirt_number": 44,
-   "age": 26,
+   "age": 27,
    "source": "https://es.wikipedia.org/wiki/América_de_Cali",
    "id": "brayan-cordoba"
   },
@@ -4832,7 +4832,7 @@
    "team": "pereira",
    "position": "FW",
    "shirt_number": 18,
-   "age": 35,
+   "age": 36,
    "source": "https://es.wikipedia.org/wiki/Deportivo_Pereira",
    "id": "marco-perez"
   },
@@ -5264,7 +5264,7 @@
    "team": "tolima",
    "position": "DF",
    "shirt_number": 33,
-   "age": 26,
+   "age": 27,
    "source": "https://es.wikipedia.org/wiki/Deportes_Tolima",
    "id": "jherson-mosquera"
   },
@@ -5291,7 +5291,7 @@
    "team": "tolima",
    "position": "MF",
    "shirt_number": 10,
-   "age": 25,
+   "age": 26,
    "source": "https://es.wikipedia.org/wiki/Deportes_Tolima",
    "id": "luis-sanchez"
   },

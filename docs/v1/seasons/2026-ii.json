@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-09-17T18:02:37Z",
+  "updated": "2026-09-18T17:35:55Z",
   "source": "https://es.wikipedia.org/wiki/Torneo_Finalización_2026_(Colombia)"
  },
  "season": {
@@ -64,8 +64,21 @@
    "bonus": null
   },
   {
-   "team": "millonarios",
+   "team": "medellin",
    "position": 3,
+   "played": 8,
+   "won": 5,
+   "drawn": 1,
+   "lost": 2,
+   "goals_for": 15,
+   "goals_against": 10,
+   "goal_diff": 5,
+   "points": 16,
+   "bonus": null
+  },
+  {
+   "team": "millonarios",
+   "position": 4,
    "played": 10,
    "won": 4,
    "drawn": 4,
@@ -78,7 +91,7 @@
   },
   {
    "team": "tolima",
-   "position": 4,
+   "position": 5,
    "played": 9,
    "won": 5,
    "drawn": 1,
@@ -90,29 +103,16 @@
    "bonus": null
   },
   {
-   "team": "medellin",
-   "position": 5,
-   "played": 7,
-   "won": 5,
-   "drawn": 0,
-   "lost": 2,
-   "goals_for": 13,
-   "goals_against": 8,
-   "goal_diff": 5,
-   "points": 15,
-   "bonus": null
-  },
-  {
    "team": "bucaramanga",
    "position": 6,
-   "played": 7,
+   "played": 8,
    "won": 3,
-   "drawn": 4,
+   "drawn": 5,
    "lost": 0,
-   "goals_for": 10,
-   "goals_against": 6,
+   "goals_for": 12,
+   "goals_against": 8,
    "goal_diff": 4,
-   "points": 13,
+   "points": 14,
    "bonus": null
   },
   {
@@ -1439,10 +1439,10 @@
    "date": "2026-09-17",
    "home": "bucaramanga",
    "away": "medellin",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 2,
+   "away_goals": 2,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r9-nacional-tolima",
@@ -2785,16 +2785,16 @@
    "played": 7
   },
   {
-   "player_name": "John Montaño",
-   "team": "medellin",
-   "goals": 4,
-   "played": 7
-  },
-  {
    "player_name": "Marlos Moreno",
    "team": "nacional",
    "goals": 4,
    "played": 7
+  },
+  {
+   "player_name": "John Montaño",
+   "team": "medellin",
+   "goals": 4,
+   "played": 8
   },
   {
    "player_name": "Dayro Moreno",
