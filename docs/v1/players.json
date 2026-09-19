@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-09-18T17:36:12Z",
+  "updated": "2026-09-19T17:06:24Z",
   "source": "es.wikipedia.org (secciones 'Plantilla' de cada club)",
   "warnings": [
    "homónimos 'kevin-balanta' en ['fortaleza', 'santafe']: ids sufijados con el club",
@@ -2537,7 +2537,7 @@
    "team": "internacional-bogota",
    "position": "MF",
    "shirt_number": 5,
-   "age": 33,
+   "age": 34,
    "source": "https://es.wikipedia.org/wiki/Internacional_de_Bogotá",
    "id": "larry-vasquez"
   },
@@ -3905,7 +3905,7 @@
    "team": "millonarios",
    "position": "MF",
    "shirt_number": 25,
-   "age": 38,
+   "age": 39,
    "source": "https://es.wikipedia.org/wiki/Millonarios_Fútbol_Club",
    "id": "darwin-quintero"
   },

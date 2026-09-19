@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-09-18T17:35:55Z",
+  "updated": "2026-09-19T17:06:06Z",
   "source": "https://es.wikipedia.org/wiki/Torneo_Finalización_2026_(Colombia)"
  },
  "season": {
@@ -155,8 +155,21 @@
    "bonus": null
   },
   {
-   "team": "llaneros",
+   "team": "aguilas",
    "position": 10,
+   "played": 8,
+   "won": 2,
+   "drawn": 5,
+   "lost": 1,
+   "goals_for": 12,
+   "goals_against": 12,
+   "goal_diff": 0,
+   "points": 11,
+   "bonus": null
+  },
+  {
+   "team": "llaneros",
+   "position": 11,
    "played": 9,
    "won": 3,
    "drawn": 2,
@@ -169,7 +182,7 @@
   },
   {
    "team": "internacional-bogota",
-   "position": 11,
+   "position": 12,
    "played": 10,
    "won": 2,
    "drawn": 5,
@@ -178,19 +191,6 @@
    "goals_against": 15,
    "goal_diff": -2,
    "points": 11,
-   "bonus": null
-  },
-  {
-   "team": "aguilas",
-   "position": 12,
-   "played": 7,
-   "won": 2,
-   "drawn": 4,
-   "lost": 1,
-   "goals_for": 10,
-   "goals_against": 10,
-   "goal_diff": 0,
-   "points": 10,
    "bonus": null
   },
   {
@@ -261,14 +261,14 @@
   {
    "team": "pereira",
    "position": 18,
-   "played": 7,
+   "played": 8,
    "won": 1,
-   "drawn": 3,
+   "drawn": 4,
    "lost": 3,
-   "goals_for": 4,
-   "goals_against": 9,
+   "goals_for": 6,
+   "goals_against": 11,
    "goal_diff": -5,
-   "points": 6,
+   "points": 7,
    "bonus": null
   },
   {
@@ -1608,10 +1608,10 @@
    "date": "2026-09-18",
    "home": "aguilas",
    "away": "pereira",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 2,
+   "away_goals": 2,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r11-millonarios-chico",
@@ -2779,16 +2779,16 @@
    "played": 9
   },
   {
-   "player_name": "Emerson Batalla",
-   "team": "bucaramanga",
-   "goals": 4,
-   "played": 7
-  },
-  {
    "player_name": "Marlos Moreno",
    "team": "nacional",
    "goals": 4,
    "played": 7
+  },
+  {
+   "player_name": "Emerson Batalla",
+   "team": "bucaramanga",
+   "goals": 4,
+   "played": 8
   },
   {
    "player_name": "John Montaño",
@@ -2821,10 +2821,10 @@
    "played": 6
   },
   {
-   "player_name": "Ricardo Márquez",
+   "player_name": "Andrés Sarmiento",
    "team": "aguilas",
    "goals": 3,
-   "played": 7
+   "played": 6
   },
   {
    "player_name": "Alfredo Morelos",
