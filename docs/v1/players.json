@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-09-20T17:23:17Z",
+  "updated": "2026-09-21T19:10:27Z",
   "source": "es.wikipedia.org (secciones 'Plantilla' de cada club)",
   "warnings": [
    "homónimos 'kevin-balanta' en ['fortaleza', 'santafe']: ids sufijados con el club",
@@ -683,7 +683,7 @@
    "team": "america",
    "position": "MF",
    "shirt_number": 6,
-   "age": 20,
+   "age": 21,
    "source": "https://es.wikipedia.org/wiki/América_de_Cali",
    "id": "jose-cavadia"
   },
@@ -3329,7 +3329,7 @@
    "team": "llaneros",
    "position": "MF",
    "shirt_number": 6,
-   "age": 31,
+   "age": 32,
    "source": "https://es.wikipedia.org/wiki/Club_Llaneros",
    "id": "marlon-ricardo-sierra"
   },
