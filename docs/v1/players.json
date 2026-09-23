@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-09-22T18:03:22Z",
+  "updated": "2026-09-23T18:21:36Z",
   "source": "es.wikipedia.org (secciones 'Plantilla' de cada club)",
   "warnings": [
    "homónimos 'kevin-balanta' en ['fortaleza', 'santafe']: ids sufijados con el club",
@@ -2330,7 +2330,7 @@
    "team": "fortaleza",
    "position": "MF",
    "shirt_number": 26,
-   "age": 20,
+   "age": 21,
    "source": "https://es.wikipedia.org/wiki/Fortaleza_CEIF",
    "id": "richardson-rivas"
   },
@@ -2393,7 +2393,7 @@
    "team": "fortaleza",
    "position": "FW",
    "shirt_number": 19,
-   "age": 26,
+   "age": 27,
    "source": "https://es.wikipedia.org/wiki/Fortaleza_CEIF",
    "id": "franco-pulicastro"
   },
@@ -3023,7 +3023,7 @@
    "team": "junior",
    "position": "MF",
    "shirt_number": 6,
-   "age": 17,
+   "age": 18,
    "source": "https://es.wikipedia.org/wiki/Junior_de_Barranquilla",
    "id": "dilan-villarreal-sub-20"
   },

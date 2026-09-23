@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-09-22T18:03:01Z",
+  "updated": "2026-09-23T18:21:19Z",
   "source": "https://es.wikipedia.org/wiki/Torneo_Finalización_2026_(Colombia)"
  },
  "season": {
@@ -64,8 +64,21 @@
    "bonus": null
   },
   {
-   "team": "nacional",
+   "team": "medellin",
    "position": 3,
+   "played": 9,
+   "won": 6,
+   "drawn": 1,
+   "lost": 2,
+   "goals_for": 17,
+   "goals_against": 11,
+   "goal_diff": 6,
+   "points": 19,
+   "bonus": null
+  },
+  {
+   "team": "nacional",
+   "position": 4,
    "played": 8,
    "won": 6,
    "drawn": 0,
@@ -77,8 +90,21 @@
    "bonus": null
   },
   {
+   "team": "cali",
+   "position": 5,
+   "played": 10,
+   "won": 5,
+   "drawn": 3,
+   "lost": 2,
+   "goals_for": 15,
+   "goals_against": 8,
+   "goal_diff": 7,
+   "points": 18,
+   "bonus": null
+  },
+  {
    "team": "bucaramanga",
-   "position": 4,
+   "position": 6,
    "played": 9,
    "won": 4,
    "drawn": 5,
@@ -91,7 +117,7 @@
   },
   {
    "team": "tolima",
-   "position": 5,
+   "position": 7,
    "played": 10,
    "won": 5,
    "drawn": 2,
@@ -104,41 +130,15 @@
   },
   {
    "team": "santafe",
-   "position": 6,
-   "played": 9,
+   "position": 8,
+   "played": 10,
    "won": 4,
    "drawn": 4,
-   "lost": 1,
-   "goals_for": 16,
-   "goals_against": 10,
-   "goal_diff": 6,
-   "points": 16,
-   "bonus": null
-  },
-  {
-   "team": "medellin",
-   "position": 7,
-   "played": 8,
-   "won": 5,
-   "drawn": 1,
    "lost": 2,
-   "goals_for": 15,
-   "goals_against": 10,
+   "goals_for": 16,
+   "goals_against": 11,
    "goal_diff": 5,
    "points": 16,
-   "bonus": null
-  },
-  {
-   "team": "cali",
-   "position": 8,
-   "played": 9,
-   "won": 4,
-   "drawn": 3,
-   "lost": 2,
-   "goals_for": 14,
-   "goals_against": 8,
-   "goal_diff": 6,
-   "points": 15,
    "bonus": null
   },
   {
@@ -259,21 +259,8 @@
    "bonus": null
   },
   {
-   "team": "jaguares",
-   "position": 18,
-   "played": 8,
-   "won": 1,
-   "drawn": 4,
-   "lost": 3,
-   "goals_for": 9,
-   "goals_against": 14,
-   "goal_diff": -5,
-   "points": 7,
-   "bonus": null
-  },
-  {
    "team": "pereira",
-   "position": 19,
+   "position": 18,
    "played": 8,
    "won": 1,
    "drawn": 4,
@@ -281,6 +268,19 @@
    "goals_for": 6,
    "goals_against": 11,
    "goal_diff": -5,
+   "points": 7,
+   "bonus": null
+  },
+  {
+   "team": "jaguares",
+   "position": 19,
+   "played": 9,
+   "won": 1,
+   "drawn": 4,
+   "lost": 4,
+   "goals_for": 10,
+   "goals_against": 16,
+   "goal_diff": -6,
    "points": 7,
    "bonus": null
   },
@@ -1725,10 +1725,10 @@
    "date": "2026-09-22",
    "home": "medellin",
    "away": "jaguares",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 2,
+   "away_goals": 1,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r12-santafe-cali",
@@ -1738,10 +1738,10 @@
    "date": "2026-09-22",
    "home": "santafe",
    "away": "cali",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 0,
+   "away_goals": 1,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r12-america-aguilas",
@@ -2787,6 +2787,12 @@
   {
    "player_name": "John Montaño",
    "team": "medellin",
+   "goals": 5,
+   "played": 9
+  },
+  {
+   "player_name": "Eduard Bello",
+   "team": "cali",
    "goals": 4,
    "played": 8
   },
@@ -2795,12 +2801,6 @@
    "team": "nacional",
    "goals": 4,
    "played": 8
-  },
-  {
-   "player_name": "Nahuel Bustos",
-   "team": "santafe",
-   "goals": 4,
-   "played": 9
   },
   {
    "player_name": "Dayro Moreno",
@@ -2827,8 +2827,8 @@
    "played": 9
   },
   {
-   "player_name": "Andrey Estupiñán",
-   "team": "millonarios",
+   "player_name": "Nahuel Bustos",
+   "team": "santafe",
    "goals": 4,
    "played": 10
   }
