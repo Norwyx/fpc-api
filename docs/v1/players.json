@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-09-23T18:21:36Z",
+  "updated": "2026-09-24T18:20:50Z",
   "source": "es.wikipedia.org (secciones 'Plantilla' de cada club)",
   "warnings": [
    "homónimos 'kevin-balanta' en ['fortaleza', 'santafe']: ids sufijados con el club",
@@ -1426,15 +1426,6 @@
    "id": "nicolas-benedetti"
   },
   {
-   "name": "Santiago Mondragón",
-   "team": "cali",
-   "position": "GK",
-   "shirt_number": 22,
-   "age": 18,
-   "source": "https://es.wikipedia.org/wiki/Deportivo_Cali",
-   "id": "santiago-mondragon"
-  },
-  {
    "name": "Steven Rodríguez",
    "team": "cali",
    "position": "FW",
@@ -1498,13 +1489,13 @@
    "id": "joan-gomez"
   },
   {
-   "name": "Alejandro Rojo",
+   "name": "Santiago Mondragón",
    "team": "cali",
    "position": "GK",
    "shirt_number": 32,
-   "age": 20,
+   "age": 18,
    "source": "https://es.wikipedia.org/wiki/Deportivo_Cali",
-   "id": "alejandro-rojo"
+   "id": "santiago-mondragon"
   },
   {
    "name": "Juan Gómez Miranda",
@@ -1604,6 +1595,15 @@
    "age": 19,
    "source": "https://es.wikipedia.org/wiki/Deportivo_Cali",
    "id": "santiago-colonia"
+  },
+  {
+   "name": "Alejandro Rojo",
+   "team": "cali",
+   "position": "GK",
+   "shirt_number": null,
+   "age": 20,
+   "source": "https://es.wikipedia.org/wiki/Deportivo_Cali",
+   "id": "alejandro-rojo"
   },
   {
    "name": "David Agudelo",
@@ -1790,7 +1790,7 @@
    "team": "chico",
    "position": "MF",
    "shirt_number": 17,
-   "age": 25,
+   "age": 26,
    "source": "https://es.wikipedia.org/wiki/Boyacá_Chicó",
    "id": "estiven-sarria"
   },
@@ -4490,7 +4490,7 @@
    "team": "pasto",
    "position": "MF",
    "shirt_number": 10,
-   "age": 28,
+   "age": 29,
    "source": "https://es.wikipedia.org/wiki/Deportivo_Pasto",
    "id": "diego-chavez"
   },
