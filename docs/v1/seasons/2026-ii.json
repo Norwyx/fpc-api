@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-09-24T18:20:28Z",
+  "updated": "2026-09-25T18:19:13Z",
   "source": "https://es.wikipedia.org/wiki/Torneo_Finalización_2026_(Colombia)"
  },
  "season": {
@@ -53,19 +53,32 @@
   {
    "team": "millonarios",
    "position": 2,
-   "played": 11,
+   "played": 12,
    "won": 5,
-   "drawn": 4,
+   "drawn": 5,
    "lost": 2,
-   "goals_for": 15,
-   "goals_against": 8,
+   "goals_for": 16,
+   "goals_against": 9,
    "goal_diff": 7,
+   "points": 20,
+   "bonus": null
+  },
+  {
+   "team": "nacional",
+   "position": 3,
+   "played": 9,
+   "won": 6,
+   "drawn": 1,
+   "lost": 2,
+   "goals_for": 18,
+   "goals_against": 9,
+   "goal_diff": 9,
    "points": 19,
    "bonus": null
   },
   {
    "team": "medellin",
-   "position": 3,
+   "position": 4,
    "played": 9,
    "won": 6,
    "drawn": 1,
@@ -74,19 +87,6 @@
    "goals_against": 11,
    "goal_diff": 6,
    "points": 19,
-   "bonus": null
-  },
-  {
-   "team": "nacional",
-   "position": 4,
-   "played": 8,
-   "won": 6,
-   "drawn": 0,
-   "lost": 2,
-   "goals_for": 17,
-   "goals_against": 8,
-   "goal_diff": 9,
-   "points": 18,
    "bonus": null
   },
   {
@@ -1764,10 +1764,10 @@
    "date": "2026-09-24",
    "home": "nacional",
    "away": "millonarios",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 1,
+   "away_goals": 1,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r12-chico-pasto",
@@ -2797,14 +2797,14 @@
    "played": 8
   },
   {
-   "player_name": "Marlos Moreno",
-   "team": "nacional",
-   "goals": 4,
-   "played": 8
-  },
-  {
    "player_name": "Dayro Moreno",
    "team": "caldas",
+   "goals": 4,
+   "played": 9
+  },
+  {
+   "player_name": "Marlos Moreno",
+   "team": "nacional",
    "goals": 4,
    "played": 9
   },
