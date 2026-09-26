@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-09-25T18:19:13Z",
+  "updated": "2026-09-26T17:42:24Z",
   "source": "https://es.wikipedia.org/wiki/Torneo_Finalización_2026_(Colombia)"
  },
  "season": {
@@ -51,8 +51,21 @@
    "bonus": null
   },
   {
-   "team": "millonarios",
+   "team": "bucaramanga",
    "position": 2,
+   "played": 10,
+   "won": 5,
+   "drawn": 5,
+   "lost": 0,
+   "goals_for": 17,
+   "goals_against": 9,
+   "goal_diff": 8,
+   "points": 20,
+   "bonus": null
+  },
+  {
+   "team": "millonarios",
+   "position": 3,
    "played": 12,
    "won": 5,
    "drawn": 5,
@@ -65,7 +78,7 @@
   },
   {
    "team": "nacional",
-   "position": 3,
+   "position": 4,
    "played": 9,
    "won": 6,
    "drawn": 1,
@@ -78,7 +91,7 @@
   },
   {
    "team": "medellin",
-   "position": 4,
+   "position": 5,
    "played": 9,
    "won": 6,
    "drawn": 1,
@@ -91,7 +104,7 @@
   },
   {
    "team": "cali",
-   "position": 5,
+   "position": 6,
    "played": 10,
    "won": 5,
    "drawn": 3,
@@ -100,19 +113,6 @@
    "goals_against": 8,
    "goal_diff": 7,
    "points": 18,
-   "bonus": null
-  },
-  {
-   "team": "bucaramanga",
-   "position": 6,
-   "played": 9,
-   "won": 4,
-   "drawn": 5,
-   "lost": 0,
-   "goals_for": 14,
-   "goals_against": 8,
-   "goal_diff": 6,
-   "points": 17,
    "bonus": null
   },
   {
@@ -157,13 +157,13 @@
   {
    "team": "caldas",
    "position": 10,
-   "played": 10,
+   "played": 11,
    "won": 3,
    "drawn": 3,
-   "lost": 4,
-   "goals_for": 13,
-   "goals_against": 12,
-   "goal_diff": 1,
+   "lost": 5,
+   "goals_for": 14,
+   "goals_against": 15,
+   "goal_diff": -1,
    "points": 12,
    "bonus": null
   },
@@ -194,8 +194,21 @@
    "bonus": null
   },
   {
-   "team": "cucuta",
+   "team": "chico",
    "position": 13,
+   "played": 10,
+   "won": 3,
+   "drawn": 2,
+   "lost": 5,
+   "goals_for": 10,
+   "goals_against": 18,
+   "goal_diff": -8,
+   "points": 11,
+   "bonus": null
+  },
+  {
+   "team": "cucuta",
+   "position": 14,
    "played": 10,
    "won": 2,
    "drawn": 3,
@@ -208,7 +221,7 @@
   },
   {
    "team": "fortaleza",
-   "position": 14,
+   "position": 15,
    "played": 10,
    "won": 1,
    "drawn": 5,
@@ -221,39 +234,26 @@
   },
   {
    "team": "pasto",
-   "position": 15,
-   "played": 10,
+   "position": 16,
+   "played": 11,
    "won": 2,
    "drawn": 2,
-   "lost": 6,
+   "lost": 7,
    "goals_for": 9,
-   "goals_against": 15,
-   "goal_diff": -6,
+   "goals_against": 18,
+   "goal_diff": -9,
    "points": 8,
    "bonus": null
   },
   {
    "team": "alianza",
-   "position": 16,
+   "position": 17,
    "played": 10,
    "won": 2,
    "drawn": 2,
    "lost": 6,
    "goals_for": 9,
    "goals_against": 20,
-   "goal_diff": -11,
-   "points": 8,
-   "bonus": null
-  },
-  {
-   "team": "chico",
-   "position": 17,
-   "played": 9,
-   "won": 2,
-   "drawn": 2,
-   "lost": 5,
-   "goals_for": 7,
-   "goals_against": 18,
    "goal_diff": -11,
    "points": 8,
    "bonus": null
@@ -1777,10 +1777,10 @@
    "date": "2026-09-25",
    "home": "chico",
    "away": "pasto",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 3,
+   "away_goals": 0,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r12-caldas-bucaramanga",
@@ -1790,10 +1790,10 @@
    "date": "2026-09-25",
    "home": "caldas",
    "away": "bucaramanga",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 1,
+   "away_goals": 3,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r12-pereira-internacional-bogota",
@@ -2781,8 +2781,8 @@
   {
    "player_name": "Emerson Batalla",
    "team": "bucaramanga",
-   "goals": 5,
-   "played": 9
+   "goals": 6,
+   "played": 10
   },
   {
    "player_name": "John Montaño",
@@ -2791,16 +2791,16 @@
    "played": 9
   },
   {
+   "player_name": "Dayro Moreno",
+   "team": "caldas",
+   "goals": 5,
+   "played": 10
+  },
+  {
    "player_name": "Eduard Bello",
    "team": "cali",
    "goals": 4,
    "played": 8
-  },
-  {
-   "player_name": "Dayro Moreno",
-   "team": "caldas",
-   "goals": 4,
-   "played": 9
   },
   {
    "player_name": "Marlos Moreno",
@@ -2815,20 +2815,20 @@
    "played": 9
   },
   {
+   "player_name": "Nahuel Bustos",
+   "team": "santafe",
+   "goals": 4,
+   "played": 10
+  },
+  {
    "player_name": "Luciano Pons",
    "team": "bucaramanga",
    "goals": 4,
-   "played": 9
+   "played": 10
   },
   {
    "player_name": "Jefry Zapata",
    "team": "caldas",
-   "goals": 4,
-   "played": 9
-  },
-  {
-   "player_name": "Nahuel Bustos",
-   "team": "santafe",
    "goals": 4,
    "played": 10
   }
