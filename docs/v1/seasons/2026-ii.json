@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-09-27T18:09:37Z",
+  "updated": "2026-09-28T20:28:17Z",
   "source": "https://es.wikipedia.org/wiki/Torneo_Finalización_2026_(Colombia)"
  },
  "season": {
@@ -51,8 +51,21 @@
    "bonus": null
   },
   {
-   "team": "bucaramanga",
+   "team": "cali",
    "position": 2,
+   "played": 11,
+   "won": 6,
+   "drawn": 3,
+   "lost": 2,
+   "goals_for": 17,
+   "goals_against": 8,
+   "goal_diff": 9,
+   "points": 21,
+   "bonus": null
+  },
+  {
+   "team": "bucaramanga",
+   "position": 3,
    "played": 10,
    "won": 5,
    "drawn": 5,
@@ -65,7 +78,7 @@
   },
   {
    "team": "millonarios",
-   "position": 3,
+   "position": 4,
    "played": 12,
    "won": 5,
    "drawn": 5,
@@ -78,7 +91,7 @@
   },
   {
    "team": "nacional",
-   "position": 4,
+   "position": 5,
    "played": 9,
    "won": 6,
    "drawn": 1,
@@ -91,7 +104,7 @@
   },
   {
    "team": "medellin",
-   "position": 5,
+   "position": 6,
    "played": 10,
    "won": 6,
    "drawn": 1,
@@ -103,29 +116,16 @@
    "bonus": null
   },
   {
-   "team": "cali",
-   "position": 6,
-   "played": 10,
-   "won": 5,
-   "drawn": 3,
-   "lost": 2,
-   "goals_for": 15,
-   "goals_against": 8,
-   "goal_diff": 7,
-   "points": 18,
-   "bonus": null
-  },
-  {
    "team": "tolima",
    "position": 7,
-   "played": 10,
+   "played": 11,
    "won": 5,
-   "drawn": 2,
+   "drawn": 3,
    "lost": 3,
-   "goals_for": 13,
-   "goals_against": 11,
+   "goals_for": 15,
+   "goals_against": 13,
    "goal_diff": 2,
-   "points": 17,
+   "points": 18,
    "bonus": null
   },
   {
@@ -196,13 +196,13 @@
   {
    "team": "aguilas",
    "position": 13,
-   "played": 9,
+   "played": 10,
    "won": 2,
    "drawn": 5,
-   "lost": 2,
+   "lost": 3,
    "goals_for": 12,
-   "goals_against": 13,
-   "goal_diff": -1,
+   "goals_against": 15,
+   "goal_diff": -3,
    "points": 11,
    "bonus": null
   },
@@ -220,8 +220,21 @@
    "bonus": null
   },
   {
-   "team": "junior",
+   "team": "alianza",
    "position": 15,
+   "played": 11,
+   "won": 3,
+   "drawn": 2,
+   "lost": 6,
+   "goals_for": 11,
+   "goals_against": 21,
+   "goal_diff": -10,
+   "points": 11,
+   "bonus": null
+  },
+  {
+   "team": "junior",
+   "position": 16,
    "played": 9,
    "won": 2,
    "drawn": 3,
@@ -234,20 +247,20 @@
   },
   {
    "team": "fortaleza",
-   "position": 16,
-   "played": 10,
+   "position": 17,
+   "played": 11,
    "won": 1,
-   "drawn": 5,
+   "drawn": 6,
    "lost": 4,
-   "goals_for": 11,
-   "goals_against": 16,
+   "goals_for": 13,
+   "goals_against": 18,
    "goal_diff": -5,
-   "points": 8,
+   "points": 9,
    "bonus": null
   },
   {
    "team": "pereira",
-   "position": 17,
+   "position": 18,
    "played": 9,
    "won": 1,
    "drawn": 5,
@@ -260,7 +273,7 @@
   },
   {
    "team": "pasto",
-   "position": 18,
+   "position": 19,
    "played": 11,
    "won": 2,
    "drawn": 2,
@@ -272,28 +285,15 @@
    "bonus": null
   },
   {
-   "team": "alianza",
-   "position": 19,
-   "played": 10,
-   "won": 2,
-   "drawn": 2,
-   "lost": 6,
-   "goals_for": 9,
-   "goals_against": 20,
-   "goal_diff": -11,
-   "points": 8,
-   "bonus": null
-  },
-  {
    "team": "jaguares",
    "position": 20,
-   "played": 9,
+   "played": 10,
    "won": 1,
    "drawn": 4,
-   "lost": 4,
-   "goals_for": 10,
-   "goals_against": 16,
-   "goal_diff": -6,
+   "lost": 5,
+   "goals_for": 11,
+   "goals_against": 18,
+   "goal_diff": -7,
    "points": 7,
    "bonus": null
   }
@@ -659,10 +659,10 @@
    "date": "2026-09-27",
    "home": "cali",
    "away": "aguilas",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 2,
+   "away_goals": 0,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r3-pereira-santafe",
@@ -1842,10 +1842,10 @@
    "date": "2026-09-27",
    "home": "jaguares",
    "away": "alianza",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 1,
+   "away_goals": 2,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r12-fortaleza-tolima",
@@ -1855,10 +1855,10 @@
    "date": "2026-09-27",
    "home": "fortaleza",
    "away": "tolima",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 2,
+   "away_goals": 2,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r13-internacional-bogota-nacional",
@@ -2779,9 +2779,21 @@
    "played": 11
   },
   {
+   "player_name": "Eduard Bello",
+   "team": "cali",
+   "goals": 6,
+   "played": 9
+  },
+  {
    "player_name": "Emerson Batalla",
    "team": "bucaramanga",
    "goals": 6,
+   "played": 10
+  },
+  {
+   "player_name": "Nahuel Bustos",
+   "team": "santafe",
+   "goals": 5,
    "played": 10
   },
   {
@@ -2797,10 +2809,10 @@
    "played": 10
   },
   {
-   "player_name": "Eduard Bello",
-   "team": "cali",
+   "player_name": "Andrés Rentería",
+   "team": "jaguares",
    "goals": 4,
-   "played": 8
+   "played": 7
   },
   {
    "player_name": "Jaime Peralta",
@@ -2819,18 +2831,6 @@
    "team": "llaneros",
    "goals": 4,
    "played": 9
-  },
-  {
-   "player_name": "Nahuel Bustos",
-   "team": "santafe",
-   "goals": 4,
-   "played": 10
-  },
-  {
-   "player_name": "Luciano Pons",
-   "team": "bucaramanga",
-   "goals": 4,
-   "played": 10
   }
  ],
  "assists": []

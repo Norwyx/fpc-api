@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-09-27T18:10:01Z",
+  "updated": "2026-09-28T20:28:34Z",
   "source": "es.wikipedia.org (secciones 'Plantilla' de cada club)",
   "warnings": [
    "homónimos 'kevin-balanta' en ['fortaleza', 'santafe']: ids sufijados con el club",
@@ -1051,7 +1051,7 @@
    "team": "bucaramanga",
    "position": "FW",
    "shirt_number": 80,
-   "age": 30,
+   "age": 31,
    "source": "https://es.wikipedia.org/wiki/Atlético_Bucaramanga",
    "id": "omar-albornoz"
   },
@@ -2824,7 +2824,7 @@
    "team": "jaguares",
    "position": "MF",
    "shirt_number": 10,
-   "age": 33,
+   "age": 34,
    "source": "https://es.wikipedia.org/wiki/Jaguares_de_Córdoba",
    "id": "cristian-alvarez"
   },
