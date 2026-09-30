@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-09-29T19:12:37Z",
+  "updated": "2026-09-30T18:56:35Z",
   "source": "es.wikipedia.org (secciones 'Plantilla' de cada club)",
   "warnings": [
    "homónimos 'kevin-balanta' en ['fortaleza', 'santafe']: ids sufijados con el club",
@@ -196,7 +196,7 @@
    "team": "aguilas",
    "position": "MF",
    "shirt_number": 24,
-   "age": 24,
+   "age": 25,
    "source": "https://es.wikipedia.org/wiki/Águilas_Doradas",
    "id": "juan-esteban-avalo"
   },
@@ -448,7 +448,7 @@
    "team": "alianza",
    "position": "MF",
    "shirt_number": 25,
-   "age": 26,
+   "age": 27,
    "source": "https://es.wikipedia.org/wiki/Alianza_Valledupar",
    "id": "josy-perez"
   },
@@ -1780,7 +1780,7 @@
    "team": "chico",
    "position": "MF",
    "shirt_number": 8,
-   "age": 30,
+   "age": 31,
    "source": "https://es.wikipedia.org/wiki/Boyacá_Chicó",
    "id": "sebastian-salazar"
   },
