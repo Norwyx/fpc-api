@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-09-30T18:56:13Z",
+  "updated": "2026-10-01T19:23:05Z",
   "source": "https://es.wikipedia.org/wiki/Torneo_Finalización_2026_(Colombia)"
  },
  "season": {
@@ -51,8 +51,21 @@
    "bonus": null
   },
   {
-   "team": "cali",
+   "team": "nacional",
    "position": 2,
+   "played": 10,
+   "won": 7,
+   "drawn": 1,
+   "lost": 2,
+   "goals_for": 21,
+   "goals_against": 10,
+   "goal_diff": 11,
+   "points": 22,
+   "bonus": null
+  },
+  {
+   "team": "cali",
+   "position": 3,
    "played": 11,
    "won": 6,
    "drawn": 3,
@@ -65,7 +78,7 @@
   },
   {
    "team": "millonarios",
-   "position": 3,
+   "position": 4,
    "played": 13,
    "won": 5,
    "drawn": 6,
@@ -78,7 +91,7 @@
   },
   {
    "team": "bucaramanga",
-   "position": 4,
+   "position": 5,
    "played": 10,
    "won": 5,
    "drawn": 5,
@@ -91,7 +104,7 @@
   },
   {
    "team": "medellin",
-   "position": 5,
+   "position": 6,
    "played": 11,
    "won": 6,
    "drawn": 2,
@@ -100,19 +113,6 @@
    "goals_against": 15,
    "goal_diff": 4,
    "points": 20,
-   "bonus": null
-  },
-  {
-   "team": "nacional",
-   "position": 6,
-   "played": 9,
-   "won": 6,
-   "drawn": 1,
-   "lost": 2,
-   "goals_for": 18,
-   "goals_against": 9,
-   "goal_diff": 9,
-   "points": 19,
    "bonus": null
   },
   {
@@ -235,13 +235,13 @@
   {
    "team": "junior",
    "position": 16,
-   "played": 9,
+   "played": 10,
    "won": 2,
    "drawn": 3,
-   "lost": 4,
-   "goals_for": 14,
-   "goals_against": 14,
-   "goal_diff": 0,
+   "lost": 5,
+   "goals_for": 15,
+   "goals_against": 17,
+   "goal_diff": -2,
    "points": 9,
    "bonus": null
   },
@@ -685,10 +685,10 @@
    "date": "2026-09-30",
    "home": "nacional",
    "away": "junior",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 3,
+   "away_goals": 1,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r4-santafe-chico",
@@ -2827,10 +2827,10 @@
    "played": 8
   },
   {
-   "player_name": "Néider Ospina",
-   "team": "llaneros",
+   "player_name": "Andrés Sarmiento",
+   "team": "nacional",
    "goals": 4,
-   "played": 10
+   "played": 9
   }
  ],
  "assists": []

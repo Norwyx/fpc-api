@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-09-30T18:53:16Z",
+  "updated": "2026-10-01T19:20:08Z",
   "source": "https://es.wikipedia.org/wiki/Campeonato_colombiano_1983"
  },
  "season": {
@@ -1120,15 +1120,15 @@
    "status": "played"
   },
   {
-   "id": "1983-regular-r7-quindio-pereira",
+   "id": "1983-regular-r7-pereira-quindio",
    "stage": "regular",
    "round": 7,
    "leg": null,
    "date": null,
-   "home": "quindio",
-   "away": "pereira",
-   "home_goals": 1,
-   "away_goals": 0,
+   "home": "pereira",
+   "away": "quindio",
+   "home_goals": 2,
+   "away_goals": 2,
    "penalties": null,
    "status": "played"
   },
@@ -1770,14 +1770,14 @@
    "status": "played"
   },
   {
-   "id": "1983-regular-r14-pereira-quindio",
+   "id": "1983-regular-r14-quindio-pereira",
    "stage": "regular",
    "round": 14,
    "leg": null,
    "date": null,
-   "home": "pereira",
-   "away": "quindio",
-   "home_goals": 2,
+   "home": "quindio",
+   "away": "pereira",
+   "home_goals": 0,
    "away_goals": 2,
    "penalties": null,
    "status": "played"
