@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-10-01T19:23:27Z",
+  "updated": "2026-10-02T19:06:06Z",
   "source": "es.wikipedia.org (secciones 'Plantilla' de cada club)",
   "warnings": [
    "homónimos 'kevin-balanta' en ['fortaleza', 'santafe']: ids sufijados con el club",
@@ -2680,7 +2680,7 @@
    "team": "internacional-bogota",
    "position": "FW",
    "shirt_number": 27,
-   "age": 19,
+   "age": 20,
    "source": "https://es.wikipedia.org/wiki/Internacional_de_Bogotá",
    "id": "emilio-gutierrez"
   },
@@ -2878,7 +2878,7 @@
    "team": "jaguares",
    "position": "MF",
    "shirt_number": 21,
-   "age": 26,
+   "age": 27,
    "source": "https://es.wikipedia.org/wiki/Jaguares_de_Córdoba",
    "id": "rafael-bustamante"
   },
