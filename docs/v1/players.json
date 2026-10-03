@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-10-02T19:06:06Z",
+  "updated": "2026-10-03T17:53:53Z",
   "source": "es.wikipedia.org (secciones 'Plantilla' de cada club)",
   "warnings": [
    "homónimos 'kevin-balanta' en ['fortaleza', 'santafe']: ids sufijados con el club",
@@ -142,7 +142,7 @@
    "team": "aguilas",
    "position": "MF",
    "shirt_number": 8,
-   "age": 34,
+   "age": 35,
    "source": "https://es.wikipedia.org/wiki/Águilas_Doradas",
    "id": "andres-ricaurte"
   },
@@ -2275,7 +2275,7 @@
    "team": "fortaleza",
    "position": "DF",
    "shirt_number": 23,
-   "age": 23,
+   "age": 24,
    "source": "https://es.wikipedia.org/wiki/Fortaleza_CEIF",
    "id": "juan-castillo"
   },
@@ -2752,7 +2752,7 @@
    "team": "jaguares",
    "position": "DF",
    "shirt_number": 18,
-   "age": 28,
+   "age": 29,
    "source": "https://es.wikipedia.org/wiki/Jaguares_de_Córdoba",
    "id": "luis-jimenez"
   },
@@ -3724,7 +3724,7 @@
    "team": "medellin",
    "position": "FW",
    "shirt_number": 15,
-   "age": 39,
+   "age": 40,
    "source": "https://es.wikipedia.org/wiki/Deportivo_Independiente_Medellín",
    "id": "jackson-martinez"
   },
@@ -3759,7 +3759,7 @@
    "name": "Enzo Larrosa",
    "team": "medellin",
    "position": "FW",
-   "shirt_number": 33,
+   "shirt_number": 90,
    "age": 25,
    "source": "https://es.wikipedia.org/wiki/Deportivo_Independiente_Medellín",
    "id": "enzo-larrosa"
@@ -3801,13 +3801,13 @@
    "id": "samuel-martin"
   },
   {
-   "name": "Stiven Barreiro",
+   "name": "Stiven Barreiro 6.º",
    "team": "millonarios",
    "position": "DF",
    "shirt_number": 4,
    "age": 32,
    "source": "https://es.wikipedia.org/wiki/Millonarios_Fútbol_Club",
-   "id": "stiven-barreiro"
+   "id": "stiven-barreiro-6"
   },
   {
    "name": "Sergio Mosquera",
@@ -3936,13 +3936,13 @@
    "id": "darwin-quintero"
   },
   {
-   "name": "Stiven Vega 5.º",
+   "name": "Stiven Vega 7.º",
    "team": "millonarios",
    "position": "MF",
    "shirt_number": 28,
    "age": 28,
    "source": "https://es.wikipedia.org/wiki/Millonarios_Fútbol_Club",
-   "id": "stiven-vega-5"
+   "id": "stiven-vega-7"
   },
   {
    "name": "Sebastián del Castillo",
@@ -3990,13 +3990,13 @@
    "id": "francisco-chaverra"
   },
   {
-   "name": "Leonardo Castro",
+   "name": "Leonardo Castro 5.º",
    "team": "millonarios",
    "position": "FW",
    "shirt_number": 23,
    "age": 34,
    "source": "https://es.wikipedia.org/wiki/Millonarios_Fútbol_Club",
-   "id": "leonardo-castro"
+   "id": "leonardo-castro-5"
   },
   {
    "name": "Julián Angulo",
