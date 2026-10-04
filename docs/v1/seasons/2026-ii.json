@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-10-03T17:53:36Z",
+  "updated": "2026-10-04T18:04:03Z",
   "source": "https://es.wikipedia.org/wiki/Torneo_Finalización_2026_(Colombia)"
  },
  "season": {
@@ -131,14 +131,14 @@
   {
    "team": "tolima",
    "position": 8,
-   "played": 11,
+   "played": 12,
    "won": 5,
-   "drawn": 3,
+   "drawn": 4,
    "lost": 3,
    "goals_for": 15,
    "goals_against": 13,
    "goal_diff": 2,
-   "points": 18,
+   "points": 19,
    "bonus": null
   },
   {
@@ -155,8 +155,21 @@
    "bonus": null
   },
   {
-   "team": "caldas",
+   "team": "aguilas",
    "position": 10,
+   "played": 11,
+   "won": 3,
+   "drawn": 5,
+   "lost": 3,
+   "goals_for": 14,
+   "goals_against": 15,
+   "goal_diff": -1,
+   "points": 14,
+   "bonus": null
+  },
+  {
+   "team": "caldas",
+   "position": 11,
    "played": 11,
    "won": 3,
    "drawn": 3,
@@ -169,7 +182,7 @@
   },
   {
    "team": "internacional-bogota",
-   "position": 11,
+   "position": 12,
    "played": 12,
    "won": 2,
    "drawn": 6,
@@ -182,7 +195,7 @@
   },
   {
    "team": "cucuta",
-   "position": 12,
+   "position": 13,
    "played": 11,
    "won": 3,
    "drawn": 3,
@@ -194,29 +207,16 @@
    "bonus": null
   },
   {
-   "team": "aguilas",
-   "position": 13,
-   "played": 10,
-   "won": 2,
-   "drawn": 5,
-   "lost": 3,
-   "goals_for": 12,
-   "goals_against": 15,
-   "goal_diff": -3,
-   "points": 11,
-   "bonus": null
-  },
-  {
    "team": "chico",
    "position": 14,
-   "played": 10,
+   "played": 11,
    "won": 3,
-   "drawn": 2,
+   "drawn": 3,
    "lost": 5,
    "goals_for": 10,
    "goals_against": 18,
    "goal_diff": -8,
-   "points": 11,
+   "points": 12,
    "bonus": null
   },
   {
@@ -287,13 +287,13 @@
   {
    "team": "jaguares",
    "position": 20,
-   "played": 10,
+   "played": 11,
    "won": 1,
    "drawn": 4,
-   "lost": 5,
+   "lost": 6,
    "goals_for": 11,
-   "goals_against": 18,
-   "goal_diff": -7,
+   "goals_against": 20,
+   "goal_diff": -9,
    "points": 7,
    "bonus": null
   }
@@ -1449,7 +1449,7 @@
    "stage": "regular",
    "round": 9,
    "leg": null,
-   "date": "2026-10-07",
+   "date": "2026-10-08",
    "home": "nacional",
    "away": "tolima",
    "home_goals": null,
@@ -1894,10 +1894,10 @@
    "date": "2026-10-03",
    "home": "aguilas",
    "away": "jaguares",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 2,
+   "away_goals": 0,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r13-tolima-chico",
@@ -1907,10 +1907,10 @@
    "date": "2026-10-03",
    "home": "tolima",
    "away": "chico",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 0,
+   "away_goals": 0,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r13-pasto-fortaleza",
@@ -2021,9 +2021,22 @@
    "stage": "regular",
    "round": 14,
    "leg": null,
-   "date": "2026-10-10",
+   "date": "2026-10-09",
    "home": "caldas",
    "away": "llaneros",
+   "home_goals": null,
+   "away_goals": null,
+   "penalties": null,
+   "status": "scheduled"
+  },
+  {
+   "id": "2026-ii-regular-r14-pereira-cali",
+   "stage": "regular",
+   "round": 14,
+   "leg": null,
+   "date": "2026-10-10",
+   "home": "pereira",
+   "away": "cali",
    "home_goals": null,
    "away_goals": null,
    "penalties": null,
@@ -2050,19 +2063,6 @@
    "date": "2026-10-10",
    "home": "nacional",
    "away": "pasto",
-   "home_goals": null,
-   "away_goals": null,
-   "penalties": null,
-   "status": "scheduled"
-  },
-  {
-   "id": "2026-ii-regular-r14-pereira-cali",
-   "stage": "regular",
-   "round": 14,
-   "leg": null,
-   "date": "2026-10-11",
-   "home": "pereira",
-   "away": "cali",
    "home_goals": null,
    "away_goals": null,
    "penalties": null,

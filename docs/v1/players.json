@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-10-03T17:53:53Z",
+  "updated": "2026-10-04T18:04:19Z",
   "source": "es.wikipedia.org (secciones 'Plantilla' de cada club)",
   "warnings": [
    "homónimos 'kevin-balanta' en ['fortaleza', 'santafe']: ids sufijados con el club",
@@ -2320,7 +2320,7 @@
    "team": "fortaleza",
    "position": "MF",
    "shirt_number": 14,
-   "age": 34,
+   "age": 35,
    "source": "https://es.wikipedia.org/wiki/Fortaleza_CEIF",
    "id": "leonardo-pico"
   },
@@ -3733,7 +3733,7 @@
    "team": "medellin",
    "position": "FW",
    "shirt_number": 20,
-   "age": 19,
+   "age": 20,
    "source": "https://es.wikipedia.org/wiki/Deportivo_Independiente_Medellín",
    "id": "john-montano"
   },
@@ -5353,7 +5353,7 @@
    "team": "tolima",
    "position": "MF",
    "shirt_number": 29,
-   "age": 18,
+   "age": 19,
    "source": "https://es.wikipedia.org/wiki/Deportes_Tolima",
    "id": "neifer-sanchez"
   },
