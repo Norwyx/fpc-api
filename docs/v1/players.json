@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-10-04T18:04:19Z",
+  "updated": "2026-10-05T21:32:38Z",
   "source": "es.wikipedia.org (secciones 'Plantilla' de cada club)",
   "warnings": [
    "homónimos 'kevin-balanta' en ['fortaleza', 'santafe']: ids sufijados con el club",
@@ -4138,7 +4138,7 @@
    "team": "nacional",
    "position": "DF",
    "shirt_number": 6,
-   "age": 30,
+   "age": 31,
    "source": "https://es.wikipedia.org/wiki/Atlético_Nacional",
    "id": "andres-felipe-roman"
   },

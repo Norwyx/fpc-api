@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-10-04T18:04:03Z",
+  "updated": "2026-10-05T21:32:20Z",
   "source": "https://es.wikipedia.org/wiki/Torneo_Finalización_2026_(Colombia)"
  },
  "season": {
@@ -40,14 +40,14 @@
   {
    "team": "america",
    "position": 1,
-   "played": 11,
-   "won": 7,
+   "played": 12,
+   "won": 8,
    "drawn": 3,
    "lost": 1,
-   "goals_for": 22,
-   "goals_against": 6,
-   "goal_diff": 16,
-   "points": 24,
+   "goals_for": 24,
+   "goals_against": 7,
+   "goal_diff": 17,
+   "points": 27,
    "bonus": null
   },
   {
@@ -64,8 +64,21 @@
    "bonus": null
   },
   {
-   "team": "nacional",
+   "team": "bucaramanga",
    "position": 3,
+   "played": 11,
+   "won": 6,
+   "drawn": 5,
+   "lost": 0,
+   "goals_for": 20,
+   "goals_against": 10,
+   "goal_diff": 10,
+   "points": 23,
+   "bonus": null
+  },
+  {
+   "team": "nacional",
+   "position": 4,
    "played": 10,
    "won": 7,
    "drawn": 1,
@@ -78,7 +91,7 @@
   },
   {
    "team": "millonarios",
-   "position": 4,
+   "position": 5,
    "played": 13,
    "won": 5,
    "drawn": 6,
@@ -87,19 +100,6 @@
    "goals_against": 11,
    "goal_diff": 7,
    "points": 21,
-   "bonus": null
-  },
-  {
-   "team": "bucaramanga",
-   "position": 5,
-   "played": 10,
-   "won": 5,
-   "drawn": 5,
-   "lost": 0,
-   "goals_for": 17,
-   "goals_against": 9,
-   "goal_diff": 8,
-   "points": 20,
    "bonus": null
   },
   {
@@ -142,21 +142,34 @@
    "bonus": null
   },
   {
-   "team": "llaneros",
+   "team": "cucuta",
    "position": 9,
-   "played": 11,
+   "played": 12,
+   "won": 4,
+   "drawn": 3,
+   "lost": 5,
+   "goals_for": 15,
+   "goals_against": 19,
+   "goal_diff": -4,
+   "points": 15,
+   "bonus": null
+  },
+  {
+   "team": "llaneros",
+   "position": 10,
+   "played": 12,
    "won": 4,
    "drawn": 2,
-   "lost": 5,
-   "goals_for": 14,
-   "goals_against": 14,
-   "goal_diff": 0,
+   "lost": 6,
+   "goals_for": 15,
+   "goals_against": 16,
+   "goal_diff": -1,
    "points": 14,
    "bonus": null
   },
   {
    "team": "aguilas",
-   "position": 10,
+   "position": 11,
    "played": 11,
    "won": 3,
    "drawn": 5,
@@ -169,41 +182,28 @@
   },
   {
    "team": "caldas",
-   "position": 11,
-   "played": 11,
+   "position": 12,
+   "played": 12,
    "won": 3,
-   "drawn": 3,
+   "drawn": 4,
    "lost": 5,
-   "goals_for": 14,
-   "goals_against": 15,
+   "goals_for": 15,
+   "goals_against": 16,
    "goal_diff": -1,
-   "points": 12,
+   "points": 13,
    "bonus": null
   },
   {
    "team": "internacional-bogota",
-   "position": 12,
-   "played": 12,
-   "won": 2,
-   "drawn": 6,
-   "lost": 4,
-   "goals_for": 13,
-   "goals_against": 17,
-   "goal_diff": -4,
-   "points": 12,
-   "bonus": null
-  },
-  {
-   "team": "cucuta",
    "position": 13,
-   "played": 11,
-   "won": 3,
-   "drawn": 3,
-   "lost": 5,
-   "goals_for": 11,
-   "goals_against": 19,
-   "goal_diff": -8,
-   "points": 12,
+   "played": 13,
+   "won": 2,
+   "drawn": 7,
+   "lost": 4,
+   "goals_for": 14,
+   "goals_against": 18,
+   "goal_diff": -4,
+   "points": 13,
    "bonus": null
   },
   {
@@ -233,54 +233,54 @@
    "bonus": null
   },
   {
-   "team": "junior",
-   "position": 16,
-   "played": 10,
-   "won": 2,
-   "drawn": 3,
-   "lost": 5,
-   "goals_for": 15,
-   "goals_against": 17,
-   "goal_diff": -2,
-   "points": 9,
-   "bonus": null
-  },
-  {
    "team": "fortaleza",
-   "position": 17,
-   "played": 11,
+   "position": 16,
+   "played": 12,
    "won": 1,
-   "drawn": 6,
+   "drawn": 7,
    "lost": 4,
    "goals_for": 13,
    "goals_against": 18,
    "goal_diff": -5,
+   "points": 10,
+   "bonus": null
+  },
+  {
+   "team": "junior",
+   "position": 17,
+   "played": 11,
+   "won": 2,
+   "drawn": 3,
+   "lost": 6,
+   "goals_for": 16,
+   "goals_against": 20,
+   "goal_diff": -4,
+   "points": 9,
+   "bonus": null
+  },
+  {
+   "team": "pasto",
+   "position": 18,
+   "played": 12,
+   "won": 2,
+   "drawn": 3,
+   "lost": 7,
+   "goals_for": 9,
+   "goals_against": 18,
+   "goal_diff": -9,
    "points": 9,
    "bonus": null
   },
   {
    "team": "pereira",
-   "position": 18,
-   "played": 10,
-   "won": 1,
-   "drawn": 5,
-   "lost": 4,
-   "goals_for": 7,
-   "goals_against": 13,
-   "goal_diff": -6,
-   "points": 8,
-   "bonus": null
-  },
-  {
-   "team": "pasto",
    "position": 19,
    "played": 11,
-   "won": 2,
-   "drawn": 2,
-   "lost": 7,
-   "goals_for": 9,
-   "goals_against": 18,
-   "goal_diff": -9,
+   "won": 1,
+   "drawn": 5,
+   "lost": 5,
+   "goals_for": 7,
+   "goals_against": 17,
+   "goal_diff": -10,
    "points": 8,
    "bonus": null
   },
@@ -1920,10 +1920,10 @@
    "date": "2026-10-04",
    "home": "pasto",
    "away": "fortaleza",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 0,
+   "away_goals": 0,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r13-cucuta-pereira",
@@ -1933,10 +1933,10 @@
    "date": "2026-10-04",
    "home": "cucuta",
    "away": "pereira",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 4,
+   "away_goals": 0,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r13-bucaramanga-junior",
@@ -1946,10 +1946,10 @@
    "date": "2026-10-04",
    "home": "bucaramanga",
    "away": "junior",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 3,
+   "away_goals": 1,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r13-llaneros-america",
@@ -1959,10 +1959,10 @@
    "date": "2026-10-04",
    "home": "llaneros",
    "away": "america",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 1,
+   "away_goals": 2,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r13-medellin-santafe",
@@ -2121,19 +2121,6 @@
    "status": "scheduled"
   },
   {
-   "id": "2026-ii-regular-r15-aguilas-tolima",
-   "stage": "regular",
-   "round": 15,
-   "leg": null,
-   "date": "2026-10-17",
-   "home": "aguilas",
-   "away": "tolima",
-   "home_goals": null,
-   "away_goals": null,
-   "penalties": null,
-   "status": "scheduled"
-  },
-  {
    "id": "2026-ii-regular-r15-millonarios-jaguares",
    "stage": "regular",
    "round": 15,
@@ -2154,6 +2141,19 @@
    "date": "2026-10-17",
    "home": "medellin",
    "away": "caldas",
+   "home_goals": null,
+   "away_goals": null,
+   "penalties": null,
+   "status": "scheduled"
+  },
+  {
+   "id": "2026-ii-regular-r15-aguilas-tolima",
+   "stage": "regular",
+   "round": 15,
+   "leg": null,
+   "date": "2026-10-18",
+   "home": "aguilas",
+   "away": "tolima",
    "home_goals": null,
    "away_goals": null,
    "penalties": null,
@@ -2225,6 +2225,19 @@
    "status": "scheduled"
   },
   {
+   "id": "2026-ii-regular-r15-internacional-bogota-fortaleza",
+   "stage": "regular",
+   "round": 15,
+   "leg": null,
+   "date": "2026-10-20",
+   "home": "internacional-bogota",
+   "away": "fortaleza",
+   "home_goals": null,
+   "away_goals": null,
+   "penalties": null,
+   "status": "scheduled"
+  },
+  {
    "id": "2026-ii-regular-r15-cucuta-nacional",
    "stage": "regular",
    "round": 15,
@@ -2232,19 +2245,6 @@
    "date": "2026-10-20",
    "home": "cucuta",
    "away": "nacional",
-   "home_goals": null,
-   "away_goals": null,
-   "penalties": null,
-   "status": "scheduled"
-  },
-  {
-   "id": "2026-ii-regular-r15-internacional-bogota-fortaleza",
-   "stage": "regular",
-   "round": 15,
-   "leg": null,
-   "date": "2026-10-21",
-   "home": "internacional-bogota",
-   "away": "fortaleza",
    "home_goals": null,
    "away_goals": null,
    "penalties": null,
@@ -2290,6 +2290,19 @@
    "status": "scheduled"
   },
   {
+   "id": "2026-ii-regular-r16-alianza-internacional-bogota",
+   "stage": "regular",
+   "round": 16,
+   "leg": null,
+   "date": "2026-10-24",
+   "home": "alianza",
+   "away": "internacional-bogota",
+   "home_goals": null,
+   "away_goals": null,
+   "penalties": null,
+   "status": "scheduled"
+  },
+  {
    "id": "2026-ii-regular-r16-america-cucuta",
    "stage": "regular",
    "round": 16,
@@ -2323,19 +2336,6 @@
    "date": "2026-10-25",
    "home": "fortaleza",
    "away": "cali",
-   "home_goals": null,
-   "away_goals": null,
-   "penalties": null,
-   "status": "scheduled"
-  },
-  {
-   "id": "2026-ii-regular-r16-alianza-internacional-bogota",
-   "stage": "regular",
-   "round": 16,
-   "leg": null,
-   "date": "2026-10-25",
-   "home": "alianza",
-   "away": "internacional-bogota",
    "home_goals": null,
    "away_goals": null,
    "penalties": null,
@@ -2388,10 +2388,10 @@
    "date": "2026-10-04",
    "home": "internacional-bogota",
    "away": "caldas",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 1,
+   "away_goals": 1,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r17-llaneros-junior",
@@ -2776,6 +2776,12 @@
    "player_name": "Yeison Guzmán",
    "team": "america",
    "goals": 8,
+   "played": 12
+  },
+  {
+   "player_name": "Emerson Batalla",
+   "team": "bucaramanga",
+   "goals": 7,
    "played": 11
   },
   {
@@ -2785,26 +2791,32 @@
    "played": 11
   },
   {
-   "player_name": "Emerson Batalla",
-   "team": "bucaramanga",
-   "goals": 6,
-   "played": 10
-  },
-  {
    "player_name": "Eduard Bello",
    "team": "cali",
    "goals": 6,
    "played": 10
   },
   {
-   "player_name": "Dayro Moreno",
-   "team": "caldas",
+   "player_name": "Jaime Peralta",
+   "team": "cucuta",
    "goals": 5,
    "played": 9
   },
   {
+   "player_name": "Dayro Moreno",
+   "team": "caldas",
+   "goals": 5,
+   "played": 10
+  },
+  {
    "player_name": "John Montaño",
    "team": "medellin",
+   "goals": 5,
+   "played": 11
+  },
+  {
+   "player_name": "Jefry Zapata",
+   "team": "caldas",
    "goals": 5,
    "played": 11
   },
@@ -2819,18 +2831,6 @@
    "team": "nacional",
    "goals": 4,
    "played": 8
-  },
-  {
-   "player_name": "Jaime Peralta",
-   "team": "cucuta",
-   "goals": 4,
-   "played": 8
-  },
-  {
-   "player_name": "Andrés Sarmiento",
-   "team": "nacional",
-   "goals": 4,
-   "played": 9
   }
  ],
  "assists": []
