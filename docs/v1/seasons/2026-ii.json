@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-10-05T21:32:20Z",
+  "updated": "2026-10-06T19:23:53Z",
   "source": "https://es.wikipedia.org/wiki/Torneo_Finalización_2026_(Colombia)"
  },
  "season": {
@@ -90,8 +90,21 @@
    "bonus": null
   },
   {
-   "team": "millonarios",
+   "team": "santafe",
    "position": 5,
+   "played": 12,
+   "won": 6,
+   "drawn": 4,
+   "lost": 2,
+   "goals_for": 19,
+   "goals_against": 12,
+   "goal_diff": 7,
+   "points": 22,
+   "bonus": null
+  },
+  {
+   "team": "millonarios",
+   "position": 6,
    "played": 13,
    "won": 5,
    "drawn": 6,
@@ -104,28 +117,15 @@
   },
   {
    "team": "medellin",
-   "position": 6,
-   "played": 11,
+   "position": 7,
+   "played": 12,
    "won": 6,
    "drawn": 2,
-   "lost": 3,
+   "lost": 4,
    "goals_for": 19,
-   "goals_against": 15,
-   "goal_diff": 4,
+   "goals_against": 16,
+   "goal_diff": 3,
    "points": 20,
-   "bonus": null
-  },
-  {
-   "team": "santafe",
-   "position": 7,
-   "played": 11,
-   "won": 5,
-   "drawn": 4,
-   "lost": 2,
-   "goals_for": 18,
-   "goals_against": 12,
-   "goal_diff": 6,
-   "points": 19,
    "bonus": null
   },
   {
@@ -1972,10 +1972,10 @@
    "date": "2026-10-05",
    "home": "medellin",
    "away": "santafe",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 0,
+   "away_goals": 1,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r13-millonarios-caldas",
@@ -2788,7 +2788,7 @@
    "player_name": "Nahuel Bustos",
    "team": "santafe",
    "goals": 7,
-   "played": 11
+   "played": 12
   },
   {
    "player_name": "Eduard Bello",
@@ -2809,16 +2809,16 @@
    "played": 10
   },
   {
-   "player_name": "John Montaño",
-   "team": "medellin",
-   "goals": 5,
-   "played": 11
-  },
-  {
    "player_name": "Jefry Zapata",
    "team": "caldas",
    "goals": 5,
    "played": 11
+  },
+  {
+   "player_name": "John Montaño",
+   "team": "medellin",
+   "goals": 5,
+   "played": 12
   },
   {
    "player_name": "Andrés Rentería",

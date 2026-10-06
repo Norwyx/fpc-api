@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-10-05T21:32:38Z",
+  "updated": "2026-10-06T19:24:11Z",
   "source": "es.wikipedia.org (secciones 'Plantilla' de cada club)",
   "warnings": [
    "homónimos 'kevin-balanta' en ['fortaleza', 'santafe']: ids sufijados con el club",
@@ -592,7 +592,7 @@
    "team": "america",
    "position": "DF",
    "shirt_number": 3,
-   "age": 32,
+   "age": 33,
    "source": "https://es.wikipedia.org/wiki/América_de_Cali",
    "id": "dany-rosero"
   },
@@ -5164,7 +5164,7 @@
    "team": "santafe",
    "position": "FW",
    "shirt_number": 39,
-   "age": 18,
+   "age": 19,
    "source": "https://es.wikipedia.org/wiki/Club_Independiente_Santa_Fe",
    "id": "cristhian-portocarrero"
   },
@@ -5326,7 +5326,7 @@
    "team": "tolima",
    "position": "MF",
    "shirt_number": 14,
-   "age": 28,
+   "age": 29,
    "source": "https://es.wikipedia.org/wiki/Deportes_Tolima",
    "id": "homer-martinez"
   },
