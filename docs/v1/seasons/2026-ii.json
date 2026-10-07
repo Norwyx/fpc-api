@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-10-06T19:23:53Z",
+  "updated": "2026-10-07T19:50:45Z",
   "source": "https://es.wikipedia.org/wiki/Torneo_Finalización_2026_(Colombia)"
  },
  "season": {
@@ -2056,19 +2056,6 @@
    "status": "scheduled"
   },
   {
-   "id": "2026-ii-regular-r14-nacional-pasto",
-   "stage": "regular",
-   "round": 14,
-   "leg": null,
-   "date": "2026-10-10",
-   "home": "nacional",
-   "away": "pasto",
-   "home_goals": null,
-   "away_goals": null,
-   "penalties": null,
-   "status": "scheduled"
-  },
-  {
    "id": "2026-ii-regular-r14-jaguares-tolima",
    "stage": "regular",
    "round": 14,
@@ -2076,6 +2063,19 @@
    "date": "2026-10-11",
    "home": "jaguares",
    "away": "tolima",
+   "home_goals": null,
+   "away_goals": null,
+   "penalties": null,
+   "status": "scheduled"
+  },
+  {
+   "id": "2026-ii-regular-r14-chico-cucuta",
+   "stage": "regular",
+   "round": 14,
+   "leg": null,
+   "date": "2026-10-11",
+   "home": "chico",
+   "away": "cucuta",
    "home_goals": null,
    "away_goals": null,
    "penalties": null,
@@ -2095,13 +2095,13 @@
    "status": "scheduled"
   },
   {
-   "id": "2026-ii-regular-r14-chico-cucuta",
+   "id": "2026-ii-regular-r14-nacional-pasto",
    "stage": "regular",
    "round": 14,
    "leg": null,
-   "date": "2026-10-12",
-   "home": "chico",
-   "away": "cucuta",
+   "date": "2026-10-22",
+   "home": "nacional",
+   "away": "pasto",
    "home_goals": null,
    "away_goals": null,
    "penalties": null,
@@ -2199,6 +2199,19 @@
    "status": "scheduled"
   },
   {
+   "id": "2026-ii-regular-r15-cucuta-nacional",
+   "stage": "regular",
+   "round": 15,
+   "leg": null,
+   "date": "2026-10-19",
+   "home": "cucuta",
+   "away": "nacional",
+   "home_goals": null,
+   "away_goals": null,
+   "penalties": null,
+   "status": "scheduled"
+  },
+  {
    "id": "2026-ii-regular-r15-pasto-alianza",
    "stage": "regular",
    "round": 15,
@@ -2232,19 +2245,6 @@
    "date": "2026-10-20",
    "home": "internacional-bogota",
    "away": "fortaleza",
-   "home_goals": null,
-   "away_goals": null,
-   "penalties": null,
-   "status": "scheduled"
-  },
-  {
-   "id": "2026-ii-regular-r15-cucuta-nacional",
-   "stage": "regular",
-   "round": 15,
-   "leg": null,
-   "date": "2026-10-20",
-   "home": "cucuta",
-   "away": "nacional",
    "home_goals": null,
    "away_goals": null,
    "penalties": null,
