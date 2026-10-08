@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-10-07T19:51:06Z",
+  "updated": "2026-10-08T19:46:58Z",
   "source": "es.wikipedia.org (secciones 'Plantilla' de cada club)",
   "warnings": [
    "homónimos 'kevin-balanta' en ['fortaleza', 'santafe']: ids sufijados con el club",
@@ -2437,7 +2437,7 @@
    "team": "fortaleza",
    "position": "FW",
    "shirt_number": 24,
-   "age": 22,
+   "age": 23,
    "source": "https://es.wikipedia.org/wiki/Fortaleza_CEIF",
    "id": "jhoiner-salas"
   },
@@ -4840,7 +4840,7 @@
    "team": "pereira",
    "position": "MF",
    "shirt_number": 88,
-   "age": 23,
+   "age": 24,
    "source": "https://es.wikipedia.org/wiki/Deportivo_Pereira",
    "id": "yuber-quinones"
   },
