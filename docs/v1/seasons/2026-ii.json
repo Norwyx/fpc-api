@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-10-08T19:46:35Z",
+  "updated": "2026-10-09T19:22:52Z",
   "source": "https://es.wikipedia.org/wiki/Torneo_Finalización_2026_(Colombia)"
  },
  "season": {
@@ -64,8 +64,21 @@
    "bonus": null
   },
   {
-   "team": "bucaramanga",
+   "team": "nacional",
    "position": 3,
+   "played": 11,
+   "won": 7,
+   "drawn": 2,
+   "lost": 2,
+   "goals_for": 21,
+   "goals_against": 10,
+   "goal_diff": 11,
+   "points": 23,
+   "bonus": null
+  },
+  {
+   "team": "bucaramanga",
+   "position": 4,
    "played": 11,
    "won": 6,
    "drawn": 5,
@@ -77,24 +90,11 @@
    "bonus": null
   },
   {
-   "team": "nacional",
-   "position": 4,
-   "played": 10,
-   "won": 7,
-   "drawn": 1,
-   "lost": 2,
-   "goals_for": 21,
-   "goals_against": 10,
-   "goal_diff": 11,
-   "points": 22,
-   "bonus": null
-  },
-  {
-   "team": "santafe",
+   "team": "millonarios",
    "position": 5,
-   "played": 12,
-   "won": 6,
-   "drawn": 4,
+   "played": 14,
+   "won": 5,
+   "drawn": 7,
    "lost": 2,
    "goals_for": 19,
    "goals_against": 12,
@@ -103,16 +103,16 @@
    "bonus": null
   },
   {
-   "team": "millonarios",
+   "team": "santafe",
    "position": 6,
-   "played": 13,
-   "won": 5,
-   "drawn": 6,
+   "played": 12,
+   "won": 6,
+   "drawn": 4,
    "lost": 2,
-   "goals_for": 18,
-   "goals_against": 11,
+   "goals_for": 19,
+   "goals_against": 12,
    "goal_diff": 7,
-   "points": 21,
+   "points": 22,
    "bonus": null
   },
   {
@@ -131,14 +131,14 @@
   {
    "team": "tolima",
    "position": 8,
-   "played": 12,
+   "played": 13,
    "won": 5,
-   "drawn": 4,
+   "drawn": 5,
    "lost": 3,
    "goals_for": 15,
    "goals_against": 13,
    "goal_diff": 2,
-   "points": 19,
+   "points": 20,
    "bonus": null
   },
   {
@@ -220,8 +220,21 @@
    "bonus": null
   },
   {
-   "team": "alianza",
+   "team": "fortaleza",
    "position": 15,
+   "played": 13,
+   "won": 1,
+   "drawn": 8,
+   "lost": 4,
+   "goals_for": 14,
+   "goals_against": 19,
+   "goal_diff": -5,
+   "points": 11,
+   "bonus": null
+  },
+  {
+   "team": "alianza",
+   "position": 16,
    "played": 12,
    "won": 3,
    "drawn": 2,
@@ -230,19 +243,6 @@
    "goals_against": 24,
    "goal_diff": -12,
    "points": 11,
-   "bonus": null
-  },
-  {
-   "team": "fortaleza",
-   "position": 16,
-   "played": 12,
-   "won": 1,
-   "drawn": 7,
-   "lost": 4,
-   "goals_for": 13,
-   "goals_against": 18,
-   "goal_diff": -5,
-   "points": 10,
    "bonus": null
   },
   {
@@ -1452,10 +1452,10 @@
    "date": "2026-10-08",
    "home": "nacional",
    "away": "tolima",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 0,
+   "away_goals": 0,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r9-llaneros-cali",
@@ -1998,10 +1998,10 @@
    "date": "2026-10-08",
    "home": "fortaleza",
    "away": "millonarios",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 1,
+   "away_goals": 1,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r14-alianza-aguilas",
@@ -2824,13 +2824,13 @@
    "player_name": "Andrés Rentería",
    "team": "jaguares",
    "goals": 4,
-   "played": 7
+   "played": 8
   },
   {
    "player_name": "Marlos Moreno",
    "team": "nacional",
    "goals": 4,
-   "played": 8
+   "played": 9
   }
  ],
  "assists": []

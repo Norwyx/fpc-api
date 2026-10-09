@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-10-08T19:46:58Z",
+  "updated": "2026-10-09T19:23:15Z",
   "source": "es.wikipedia.org (secciones 'Plantilla' de cada club)",
   "warnings": [
    "homónimos 'kevin-balanta' en ['fortaleza', 'santafe']: ids sufijados con el club",
@@ -3769,7 +3769,7 @@
    "team": "millonarios",
    "position": "GK",
    "shirt_number": 1,
-   "age": 35,
+   "age": 36,
    "source": "https://es.wikipedia.org/wiki/Millonarios_Fútbol_Club",
    "id": "javier-burrai"
   },
