@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-10-09T19:22:52Z",
+  "updated": "2026-10-10T18:18:00Z",
   "source": "https://es.wikipedia.org/wiki/Torneo_Finalización_2026_(Colombia)"
  },
  "season": {
@@ -142,8 +142,34 @@
    "bonus": null
   },
   {
-   "team": "cucuta",
+   "team": "caldas",
    "position": 9,
+   "played": 13,
+   "won": 4,
+   "drawn": 4,
+   "lost": 5,
+   "goals_for": 16,
+   "goals_against": 16,
+   "goal_diff": 0,
+   "points": 16,
+   "bonus": null
+  },
+  {
+   "team": "aguilas",
+   "position": 10,
+   "played": 12,
+   "won": 3,
+   "drawn": 6,
+   "lost": 3,
+   "goals_for": 16,
+   "goals_against": 17,
+   "goal_diff": -1,
+   "points": 15,
+   "bonus": null
+  },
+  {
+   "team": "cucuta",
+   "position": 11,
    "played": 12,
    "won": 4,
    "drawn": 3,
@@ -156,41 +182,15 @@
   },
   {
    "team": "llaneros",
-   "position": 10,
-   "played": 12,
+   "position": 12,
+   "played": 13,
    "won": 4,
    "drawn": 2,
-   "lost": 6,
+   "lost": 7,
    "goals_for": 15,
-   "goals_against": 16,
-   "goal_diff": -1,
+   "goals_against": 17,
+   "goal_diff": -2,
    "points": 14,
-   "bonus": null
-  },
-  {
-   "team": "aguilas",
-   "position": 11,
-   "played": 11,
-   "won": 3,
-   "drawn": 5,
-   "lost": 3,
-   "goals_for": 14,
-   "goals_against": 15,
-   "goal_diff": -1,
-   "points": 14,
-   "bonus": null
-  },
-  {
-   "team": "caldas",
-   "position": 12,
-   "played": 12,
-   "won": 3,
-   "drawn": 4,
-   "lost": 5,
-   "goals_for": 15,
-   "goals_against": 16,
-   "goal_diff": -1,
-   "points": 13,
    "bonus": null
   },
   {
@@ -220,8 +220,21 @@
    "bonus": null
   },
   {
-   "team": "fortaleza",
+   "team": "alianza",
    "position": 15,
+   "played": 13,
+   "won": 3,
+   "drawn": 3,
+   "lost": 7,
+   "goals_for": 14,
+   "goals_against": 26,
+   "goal_diff": -12,
+   "points": 12,
+   "bonus": null
+  },
+  {
+   "team": "fortaleza",
+   "position": 16,
    "played": 13,
    "won": 1,
    "drawn": 8,
@@ -229,19 +242,6 @@
    "goals_for": 14,
    "goals_against": 19,
    "goal_diff": -5,
-   "points": 11,
-   "bonus": null
-  },
-  {
-   "team": "alianza",
-   "position": 16,
-   "played": 12,
-   "won": 3,
-   "drawn": 2,
-   "lost": 7,
-   "goals_for": 12,
-   "goals_against": 24,
-   "goal_diff": -12,
    "points": 11,
    "bonus": null
   },
@@ -2011,10 +2011,10 @@
    "date": "2026-10-09",
    "home": "alianza",
    "away": "aguilas",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 2,
+   "away_goals": 2,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r14-caldas-llaneros",
@@ -2024,10 +2024,10 @@
    "date": "2026-10-09",
    "home": "caldas",
    "away": "llaneros",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 1,
+   "away_goals": 0,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r14-pereira-cali",
@@ -2809,14 +2809,14 @@
    "played": 10
   },
   {
-   "player_name": "Jefry Zapata",
-   "team": "caldas",
-   "goals": 5,
-   "played": 11
-  },
-  {
    "player_name": "John Montaño",
    "team": "medellin",
+   "goals": 5,
+   "played": 12
+  },
+  {
+   "player_name": "Jefry Zapata",
+   "team": "caldas",
    "goals": 5,
    "played": 12
   },
