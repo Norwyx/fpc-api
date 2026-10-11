@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-10-10T18:18:00Z",
+  "updated": "2026-10-11T18:43:12Z",
   "source": "https://es.wikipedia.org/wiki/Torneo_Finalización_2026_(Colombia)"
  },
  "season": {
@@ -53,14 +53,14 @@
   {
    "team": "cali",
    "position": 2,
-   "played": 12,
+   "played": 13,
    "won": 7,
-   "drawn": 3,
+   "drawn": 4,
    "lost": 2,
    "goals_for": 20,
    "goals_against": 9,
    "goal_diff": 11,
-   "points": 24,
+   "points": 25,
    "bonus": null
   },
   {
@@ -196,14 +196,14 @@
   {
    "team": "internacional-bogota",
    "position": 13,
-   "played": 13,
+   "played": 14,
    "won": 2,
-   "drawn": 7,
+   "drawn": 8,
    "lost": 4,
-   "goals_for": 14,
-   "goals_against": 18,
+   "goals_for": 16,
+   "goals_against": 20,
    "goal_diff": -4,
-   "points": 13,
+   "points": 14,
    "bonus": null
   },
   {
@@ -248,14 +248,14 @@
   {
    "team": "junior",
    "position": 17,
-   "played": 11,
+   "played": 12,
    "won": 2,
-   "drawn": 3,
+   "drawn": 4,
    "lost": 6,
-   "goals_for": 16,
-   "goals_against": 20,
+   "goals_for": 18,
+   "goals_against": 22,
    "goal_diff": -4,
-   "points": 9,
+   "points": 10,
    "bonus": null
   },
   {
@@ -274,14 +274,14 @@
   {
    "team": "pereira",
    "position": 19,
-   "played": 11,
+   "played": 12,
    "won": 1,
-   "drawn": 5,
+   "drawn": 6,
    "lost": 5,
    "goals_for": 7,
    "goals_against": 17,
    "goal_diff": -10,
-   "points": 8,
+   "points": 9,
    "bonus": null
   },
   {
@@ -2037,10 +2037,10 @@
    "date": "2026-10-10",
    "home": "pereira",
    "away": "cali",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 0,
+   "away_goals": 0,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r14-junior-internacional-bogota",
@@ -2050,10 +2050,10 @@
    "date": "2026-10-10",
    "home": "junior",
    "away": "internacional-bogota",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 2,
+   "away_goals": 2,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r14-jaguares-tolima",
@@ -2794,7 +2794,7 @@
    "player_name": "Eduard Bello",
    "team": "cali",
    "goals": 6,
-   "played": 10
+   "played": 11
   },
   {
    "player_name": "Jaime Peralta",
