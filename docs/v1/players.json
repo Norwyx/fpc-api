@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-10-13T20:10:41Z",
+  "updated": "2026-10-14T18:26:04Z",
   "source": "es.wikipedia.org (secciones 'Plantilla' de cada club)",
   "warnings": [
    "homónimos 'kevin-balanta' en ['fortaleza', 'santafe']: ids sufijados con el club",
@@ -1339,7 +1339,7 @@
    "team": "cali",
    "position": "MF",
    "shirt_number": 5,
-   "age": 33,
+   "age": 34,
    "source": "https://es.wikipedia.org/wiki/Deportivo_Cali",
    "id": "gustavo-cuellar"
   },

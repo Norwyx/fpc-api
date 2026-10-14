@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-10-13T20:10:23Z",
+  "updated": "2026-10-14T18:25:43Z",
   "source": "https://es.wikipedia.org/wiki/Torneo_Finalización_2026_(Colombia)"
  },
  "season": {
@@ -64,8 +64,21 @@
    "bonus": null
   },
   {
-   "team": "nacional",
+   "team": "bucaramanga",
    "position": 3,
+   "played": 12,
+   "won": 6,
+   "drawn": 6,
+   "lost": 0,
+   "goals_for": 21,
+   "goals_against": 11,
+   "goal_diff": 10,
+   "points": 24,
+   "bonus": null
+  },
+  {
+   "team": "nacional",
+   "position": 4,
    "played": 11,
    "won": 7,
    "drawn": 2,
@@ -73,19 +86,6 @@
    "goals_for": 21,
    "goals_against": 10,
    "goal_diff": 11,
-   "points": 23,
-   "bonus": null
-  },
-  {
-   "team": "bucaramanga",
-   "position": 4,
-   "played": 11,
-   "won": 6,
-   "drawn": 5,
-   "lost": 0,
-   "goals_for": 20,
-   "goals_against": 10,
-   "goal_diff": 10,
    "points": 23,
    "bonus": null
   },
@@ -170,14 +170,14 @@
   {
    "team": "aguilas",
    "position": 11,
-   "played": 12,
+   "played": 13,
    "won": 3,
-   "drawn": 6,
+   "drawn": 7,
    "lost": 3,
-   "goals_for": 16,
-   "goals_against": 17,
+   "goals_for": 17,
+   "goals_against": 18,
    "goal_diff": -1,
-   "points": 15,
+   "points": 16,
    "bonus": null
   },
   {
@@ -1192,17 +1192,17 @@
    "date": "2026-10-13",
    "home": "bucaramanga",
    "away": "aguilas",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 1,
+   "away_goals": 1,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r7-santafe-jaguares",
    "stage": "regular",
    "round": 7,
    "leg": null,
-   "date": "2026-10-14",
+   "date": "2026-10-15",
    "home": "santafe",
    "away": "jaguares",
    "home_goals": null,
@@ -1982,7 +1982,7 @@
    "stage": "regular",
    "round": 13,
    "leg": null,
-   "date": "2026-10-13",
+   "date": null,
    "home": "millonarios",
    "away": "caldas",
    "home_goals": null,
@@ -2782,7 +2782,7 @@
    "player_name": "Emerson Batalla",
    "team": "bucaramanga",
    "goals": 7,
-   "played": 11
+   "played": 12
   },
   {
    "player_name": "Nahuel Bustos",
