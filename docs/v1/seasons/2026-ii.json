@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-10-14T18:25:43Z",
+  "updated": "2026-10-15T18:06:39Z",
   "source": "https://es.wikipedia.org/wiki/Torneo_Finalización_2026_(Colombia)"
  },
  "season": {
@@ -233,8 +233,21 @@
    "bonus": null
   },
   {
-   "team": "fortaleza",
+   "team": "junior",
    "position": 16,
+   "played": 13,
+   "won": 2,
+   "drawn": 5,
+   "lost": 6,
+   "goals_for": 19,
+   "goals_against": 23,
+   "goal_diff": -4,
+   "points": 11,
+   "bonus": null
+  },
+  {
+   "team": "fortaleza",
+   "position": 17,
    "played": 13,
    "won": 1,
    "drawn": 8,
@@ -243,19 +256,6 @@
    "goals_against": 19,
    "goal_diff": -5,
    "points": 11,
-   "bonus": null
-  },
-  {
-   "team": "junior",
-   "position": 17,
-   "played": 12,
-   "won": 2,
-   "drawn": 4,
-   "lost": 6,
-   "goals_for": 18,
-   "goals_against": 22,
-   "goal_diff": -4,
-   "points": 10,
    "bonus": null
   },
   {
@@ -272,8 +272,21 @@
    "bonus": null
   },
   {
-   "team": "pasto",
+   "team": "pereira",
    "position": 19,
+   "played": 13,
+   "won": 1,
+   "drawn": 7,
+   "lost": 5,
+   "goals_for": 8,
+   "goals_against": 18,
+   "goal_diff": -10,
+   "points": 10,
+   "bonus": null
+  },
+  {
+   "team": "pasto",
+   "position": 20,
    "played": 12,
    "won": 2,
    "drawn": 3,
@@ -281,19 +294,6 @@
    "goals_for": 9,
    "goals_against": 18,
    "goal_diff": -9,
-   "points": 9,
-   "bonus": null
-  },
-  {
-   "team": "pereira",
-   "position": 20,
-   "played": 12,
-   "won": 1,
-   "drawn": 6,
-   "lost": 5,
-   "goals_for": 7,
-   "goals_against": 17,
-   "goal_diff": -10,
    "points": 9,
    "bonus": null
   }
@@ -815,10 +815,10 @@
    "date": "2026-10-14",
    "home": "junior",
    "away": "pereira",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 1,
+   "away_goals": 1,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r5-llaneros-tolima",
@@ -1202,7 +1202,7 @@
    "stage": "regular",
    "round": 7,
    "leg": null,
-   "date": "2026-10-15",
+   "date": "2026-10-21",
    "home": "santafe",
    "away": "jaguares",
    "home_goals": null,
@@ -1982,7 +1982,7 @@
    "stage": "regular",
    "round": 13,
    "leg": null,
-   "date": null,
+   "date": "2026-10-20",
    "home": "millonarios",
    "away": "caldas",
    "home_goals": null,
@@ -2121,6 +2121,19 @@
    "status": "scheduled"
   },
   {
+   "id": "2026-ii-regular-r15-millonarios-jaguares",
+   "stage": "regular",
+   "round": 15,
+   "leg": null,
+   "date": "2026-10-17",
+   "home": "millonarios",
+   "away": "jaguares",
+   "home_goals": null,
+   "away_goals": null,
+   "penalties": null,
+   "status": "scheduled"
+  },
+  {
    "id": "2026-ii-regular-r15-medellin-caldas",
    "stage": "regular",
    "round": 15,
@@ -2180,19 +2193,6 @@
    "date": "2026-10-18",
    "home": "cali",
    "away": "junior",
-   "home_goals": null,
-   "away_goals": null,
-   "penalties": null,
-   "status": "scheduled"
-  },
-  {
-   "id": "2026-ii-regular-r15-millonarios-jaguares",
-   "stage": "regular",
-   "round": 15,
-   "leg": null,
-   "date": "2026-10-19",
-   "home": "millonarios",
-   "away": "jaguares",
    "home_goals": null,
    "away_goals": null,
    "penalties": null,

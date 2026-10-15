@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-10-14T18:26:04Z",
+  "updated": "2026-10-15T18:06:56Z",
   "source": "es.wikipedia.org (secciones 'Plantilla' de cada club)",
   "warnings": [
    "homónimos 'kevin-balanta' en ['fortaleza', 'santafe']: ids sufijados con el club",
@@ -565,7 +565,7 @@
    "team": "america",
    "position": "GK",
    "shirt_number": 12,
-   "age": 27,
+   "age": 28,
    "source": "https://es.wikipedia.org/wiki/América_de_Cali",
    "id": "juan-pablo-montoya"
   },
@@ -970,7 +970,7 @@
    "team": "bucaramanga",
    "position": "MF",
    "shirt_number": 30,
-   "age": 32,
+   "age": 33,
    "source": "https://es.wikipedia.org/wiki/Atlético_Bucaramanga",
    "id": "victor-cantillo"
   },
