@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-10-17T16:57:03Z",
+  "updated": "2026-10-18T17:11:25Z",
   "source": "es.wikipedia.org (secciones 'Plantilla' de cada club)",
   "warnings": [
    "homónimos 'kevin-balanta' en ['fortaleza', 'santafe']: ids sufijados con el club",
@@ -2428,7 +2428,7 @@
    "team": "fortaleza",
    "position": "FW",
    "shirt_number": 20,
-   "age": 25,
+   "age": 26,
    "source": "https://es.wikipedia.org/wiki/Fortaleza_CEIF",
    "id": "jhonier-blanco"
   },
@@ -2851,7 +2851,7 @@
    "team": "jaguares",
    "position": "MF",
    "shirt_number": 16,
-   "age": 26,
+   "age": 27,
    "source": "https://es.wikipedia.org/wiki/Jaguares_de_Córdoba",
    "id": "esteban-beltran"
   },
@@ -3094,7 +3094,7 @@
    "team": "junior",
    "position": "MF",
    "shirt_number": 20,
-   "age": 26,
+   "age": 27,
    "source": "https://es.wikipedia.org/wiki/Junior_de_Barranquilla",
    "id": "jannenson-sarmiento"
   },
@@ -4561,7 +4561,7 @@
    "team": "pasto",
    "position": "MF",
    "shirt_number": 25,
-   "age": 32,
+   "age": 33,
    "source": "https://es.wikipedia.org/wiki/Deportivo_Pasto",
    "id": "franco-leys"
   },
