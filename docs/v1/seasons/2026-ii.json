@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-10-18T17:11:03Z",
+  "updated": "2026-10-19T19:44:42Z",
   "source": "https://es.wikipedia.org/wiki/Torneo_Finalización_2026_(Colombia)"
  },
  "season": {
@@ -40,14 +40,14 @@
   {
    "team": "america",
    "position": 1,
-   "played": 13,
+   "played": 14,
    "won": 8,
-   "drawn": 3,
+   "drawn": 4,
    "lost": 2,
-   "goals_for": 25,
-   "goals_against": 9,
+   "goals_for": 26,
+   "goals_against": 10,
    "goal_diff": 16,
-   "points": 27,
+   "points": 28,
    "bonus": null
   },
   {
@@ -66,14 +66,14 @@
   {
    "team": "cali",
    "position": 3,
-   "played": 13,
+   "played": 14,
    "won": 7,
-   "drawn": 4,
+   "drawn": 5,
    "lost": 2,
    "goals_for": 20,
    "goals_against": 9,
    "goal_diff": 11,
-   "points": 25,
+   "points": 26,
    "bonus": null
   },
   {
@@ -92,14 +92,14 @@
   {
    "team": "bucaramanga",
    "position": 5,
-   "played": 12,
+   "played": 13,
    "won": 6,
-   "drawn": 6,
+   "drawn": 7,
    "lost": 0,
-   "goals_for": 21,
-   "goals_against": 11,
+   "goals_for": 22,
+   "goals_against": 12,
    "goal_diff": 10,
-   "points": 24,
+   "points": 25,
    "bonus": null
   },
   {
@@ -118,26 +118,26 @@
   {
    "team": "santafe",
    "position": 7,
-   "played": 12,
+   "played": 13,
    "won": 6,
    "drawn": 4,
-   "lost": 2,
+   "lost": 3,
    "goals_for": 19,
-   "goals_against": 12,
-   "goal_diff": 7,
+   "goals_against": 13,
+   "goal_diff": 6,
    "points": 22,
    "bonus": null
   },
   {
    "team": "tolima",
    "position": 8,
-   "played": 14,
+   "played": 15,
    "won": 5,
    "drawn": 5,
-   "lost": 4,
-   "goals_for": 17,
-   "goals_against": 16,
-   "goal_diff": 1,
+   "lost": 5,
+   "goals_for": 18,
+   "goals_against": 18,
+   "goal_diff": 0,
    "points": 20,
    "bonus": null
   },
@@ -155,8 +155,21 @@
    "bonus": null
   },
   {
-   "team": "cucuta",
+   "team": "aguilas",
    "position": 10,
+   "played": 14,
+   "won": 4,
+   "drawn": 7,
+   "lost": 3,
+   "goals_for": 19,
+   "goals_against": 19,
+   "goal_diff": 0,
+   "points": 19,
+   "bonus": null
+  },
+  {
+   "team": "cucuta",
+   "position": 11,
    "played": 13,
    "won": 5,
    "drawn": 3,
@@ -168,29 +181,16 @@
    "bonus": null
   },
   {
-   "team": "aguilas",
-   "position": 11,
-   "played": 13,
-   "won": 3,
-   "drawn": 7,
-   "lost": 3,
-   "goals_for": 17,
-   "goals_against": 18,
-   "goal_diff": -1,
-   "points": 16,
-   "bonus": null
-  },
-  {
    "team": "llaneros",
    "position": 12,
-   "played": 13,
-   "won": 4,
+   "played": 14,
+   "won": 5,
    "drawn": 2,
    "lost": 7,
-   "goals_for": 15,
+   "goals_for": 16,
    "goals_against": 17,
-   "goal_diff": -2,
-   "points": 14,
+   "goal_diff": -1,
+   "points": 17,
    "bonus": null
   },
   {
@@ -207,8 +207,21 @@
    "bonus": null
   },
   {
-   "team": "alianza",
+   "team": "junior",
    "position": 14,
+   "played": 14,
+   "won": 2,
+   "drawn": 6,
+   "lost": 6,
+   "goals_for": 19,
+   "goals_against": 23,
+   "goal_diff": -4,
+   "points": 12,
+   "bonus": null
+  },
+  {
+   "team": "alianza",
+   "position": 15,
    "played": 13,
    "won": 3,
    "drawn": 3,
@@ -221,7 +234,7 @@
   },
   {
    "team": "chico",
-   "position": 15,
+   "position": 16,
    "played": 13,
    "won": 3,
    "drawn": 3,
@@ -230,19 +243,6 @@
    "goals_against": 23,
    "goal_diff": -12,
    "points": 12,
-   "bonus": null
-  },
-  {
-   "team": "junior",
-   "position": 16,
-   "played": 13,
-   "won": 2,
-   "drawn": 5,
-   "lost": 6,
-   "goals_for": 19,
-   "goals_against": 23,
-   "goal_diff": -4,
-   "points": 11,
    "bonus": null
   },
   {
@@ -2154,10 +2154,10 @@
    "date": "2026-10-18",
    "home": "aguilas",
    "away": "tolima",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 2,
+   "away_goals": 1,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r15-bucaramanga-america",
@@ -2167,10 +2167,10 @@
    "date": "2026-10-18",
    "home": "bucaramanga",
    "away": "america",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 1,
+   "away_goals": 1,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r15-llaneros-santafe",
@@ -2180,10 +2180,10 @@
    "date": "2026-10-18",
    "home": "llaneros",
    "away": "santafe",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 1,
+   "away_goals": 0,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r15-cali-junior",
@@ -2193,10 +2193,10 @@
    "date": "2026-10-18",
    "home": "cali",
    "away": "junior",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 0,
+   "away_goals": 0,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r15-pasto-alianza",
@@ -2776,7 +2776,7 @@
    "player_name": "Yeison Guzmán",
    "team": "america",
    "goals": 8,
-   "played": 13
+   "played": 14
   },
   {
    "player_name": "Emerson Batalla",
@@ -2800,7 +2800,7 @@
    "player_name": "Eduard Bello",
    "team": "cali",
    "goals": 6,
-   "played": 11
+   "played": 12
   },
   {
    "player_name": "Jefry Zapata",
@@ -2827,10 +2827,10 @@
    "played": 11
   },
   {
-   "player_name": "Leonardo Castro",
-   "team": "millonarios",
+   "player_name": "Luciano Pons",
+   "team": "bucaramanga",
    "goals": 5,
-   "played": 14
+   "played": 13
   }
  ],
  "assists": []

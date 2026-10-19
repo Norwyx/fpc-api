@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-10-18T17:11:25Z",
+  "updated": "2026-10-19T19:44:59Z",
   "source": "es.wikipedia.org (secciones 'Plantilla' de cada club)",
   "warnings": [
    "homónimos 'kevin-balanta' en ['fortaleza', 'santafe']: ids sufijados con el club",
@@ -2332,15 +2332,6 @@
    "age": 22,
    "source": "https://es.wikipedia.org/wiki/Fortaleza_CEIF",
    "id": "kevin-balanta-fortaleza"
-  },
-  {
-   "name": "Jhon Sebastián Palacios",
-   "team": "fortaleza",
-   "position": "FW",
-   "shirt_number": 22,
-   "age": 21,
-   "source": "https://es.wikipedia.org/wiki/Fortaleza_CEIF",
-   "id": "jhon-sebastian-palacios"
   },
   {
    "name": "Jerónimo Barrera",
