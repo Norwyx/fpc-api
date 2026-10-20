@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-10-19T19:44:42Z",
+  "updated": "2026-10-20T18:26:22Z",
   "source": "https://es.wikipedia.org/wiki/Torneo_Finalización_2026_(Colombia)"
  },
  "season": {
@@ -194,8 +194,21 @@
    "bonus": null
   },
   {
-   "team": "internacional-bogota",
+   "team": "alianza",
    "position": 13,
+   "played": 14,
+   "won": 4,
+   "drawn": 3,
+   "lost": 7,
+   "goals_for": 15,
+   "goals_against": 26,
+   "goal_diff": -11,
+   "points": 15,
+   "bonus": null
+  },
+  {
+   "team": "internacional-bogota",
+   "position": 14,
    "played": 14,
    "won": 2,
    "drawn": 8,
@@ -208,7 +221,7 @@
   },
   {
    "team": "junior",
-   "position": 14,
+   "position": 15,
    "played": 14,
    "won": 2,
    "drawn": 6,
@@ -216,19 +229,6 @@
    "goals_for": 19,
    "goals_against": 23,
    "goal_diff": -4,
-   "points": 12,
-   "bonus": null
-  },
-  {
-   "team": "alianza",
-   "position": 15,
-   "played": 13,
-   "won": 3,
-   "drawn": 3,
-   "lost": 7,
-   "goals_for": 14,
-   "goals_against": 26,
-   "goal_diff": -12,
    "points": 12,
    "bonus": null
   },
@@ -287,13 +287,13 @@
   {
    "team": "pasto",
    "position": 20,
-   "played": 12,
+   "played": 13,
    "won": 2,
    "drawn": 3,
-   "lost": 7,
+   "lost": 8,
    "goals_for": 9,
-   "goals_against": 18,
-   "goal_diff": -9,
+   "goals_against": 19,
+   "goal_diff": -10,
    "points": 9,
    "bonus": null
   }
@@ -2206,10 +2206,10 @@
    "date": "2026-10-19",
    "home": "pasto",
    "away": "alianza",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 0,
+   "away_goals": 1,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r15-pereira-chico",
