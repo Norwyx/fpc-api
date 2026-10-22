@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-10-21T18:30:06Z",
+  "updated": "2026-10-22T18:24:55Z",
   "source": "es.wikipedia.org (secciones 'Plantilla' de cada club)",
   "warnings": [
    "homónimos 'kevin-balanta' en ['fortaleza', 'santafe']: ids sufijados con el club",
@@ -1326,13 +1326,13 @@
    "id": "jose-moya"
   },
   {
-   "name": "Fercho Álvarez",
+   "name": "Fernando Álvarez",
    "team": "cali",
    "position": "DF",
    "shirt_number": 4,
    "age": 23,
    "source": "https://es.wikipedia.org/wiki/Deportivo_Cali",
-   "id": "fercho-alvarez"
+   "id": "fernando-alvarez"
   },
   {
    "name": "Gustavo Cuéllar",

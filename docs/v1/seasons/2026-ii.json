@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-10-21T18:29:49Z",
+  "updated": "2026-10-22T18:24:38Z",
   "source": "https://es.wikipedia.org/wiki/Torneo_Finalización_2026_(Colombia)"
  },
  "season": {
@@ -38,8 +38,21 @@
  ],
  "standings": [
   {
-   "team": "america",
+   "team": "cali",
    "position": 1,
+   "played": 15,
+   "won": 8,
+   "drawn": 5,
+   "lost": 2,
+   "goals_for": 23,
+   "goals_against": 9,
+   "goal_diff": 14,
+   "points": 29,
+   "bonus": null
+  },
+  {
+   "team": "america",
+   "position": 2,
    "played": 14,
    "won": 8,
    "drawn": 4,
@@ -52,7 +65,7 @@
   },
   {
    "team": "nacional",
-   "position": 2,
+   "position": 3,
    "played": 13,
    "won": 8,
    "drawn": 2,
@@ -60,19 +73,6 @@
    "goals_for": 25,
    "goals_against": 12,
    "goal_diff": 13,
-   "points": 26,
-   "bonus": null
-  },
-  {
-   "team": "cali",
-   "position": 3,
-   "played": 14,
-   "won": 7,
-   "drawn": 5,
-   "lost": 2,
-   "goals_for": 20,
-   "goals_against": 9,
-   "goal_diff": 11,
    "points": 26,
    "bonus": null
   },
@@ -103,8 +103,21 @@
    "bonus": null
   },
   {
-   "team": "medellin",
+   "team": "santafe",
    "position": 6,
+   "played": 14,
+   "won": 7,
+   "drawn": 4,
+   "lost": 3,
+   "goals_for": 21,
+   "goals_against": 14,
+   "goal_diff": 7,
+   "points": 25,
+   "bonus": null
+  },
+  {
+   "team": "medellin",
+   "position": 7,
    "played": 14,
    "won": 7,
    "drawn": 2,
@@ -113,19 +126,6 @@
    "goals_against": 19,
    "goal_diff": 2,
    "points": 23,
-   "bonus": null
-  },
-  {
-   "team": "santafe",
-   "position": 7,
-   "played": 13,
-   "won": 6,
-   "drawn": 4,
-   "lost": 3,
-   "goals_for": 19,
-   "goals_against": 13,
-   "goal_diff": 6,
-   "points": 22,
    "bonus": null
   },
   {
@@ -181,21 +181,8 @@
    "bonus": null
   },
   {
-   "team": "llaneros",
-   "position": 12,
-   "played": 14,
-   "won": 5,
-   "drawn": 2,
-   "lost": 7,
-   "goals_for": 16,
-   "goals_against": 17,
-   "goal_diff": -1,
-   "points": 17,
-   "bonus": null
-  },
-  {
    "team": "internacional-bogota",
-   "position": 13,
+   "position": 12,
    "played": 15,
    "won": 3,
    "drawn": 8,
@@ -203,6 +190,19 @@
    "goals_for": 18,
    "goals_against": 21,
    "goal_diff": -3,
+   "points": 17,
+   "bonus": null
+  },
+  {
+   "team": "llaneros",
+   "position": 13,
+   "played": 15,
+   "won": 5,
+   "drawn": 2,
+   "lost": 8,
+   "goals_for": 16,
+   "goals_against": 20,
+   "goal_diff": -4,
    "points": 17,
    "bonus": null
   },
@@ -274,13 +274,13 @@
   {
    "team": "jaguares",
    "position": 19,
-   "played": 13,
+   "played": 14,
    "won": 2,
    "drawn": 4,
-   "lost": 7,
-   "goals_for": 15,
-   "goals_against": 26,
-   "goal_diff": -11,
+   "lost": 8,
+   "goals_for": 16,
+   "goals_against": 28,
+   "goal_diff": -12,
    "points": 10,
    "bonus": null
   },
@@ -1205,10 +1205,10 @@
    "date": "2026-10-21",
    "home": "santafe",
    "away": "jaguares",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 2,
+   "away_goals": 1,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r8-jaguares-america",
@@ -1465,10 +1465,10 @@
    "date": "2026-10-21",
    "home": "llaneros",
    "away": "cali",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 0,
+   "away_goals": 3,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r10-jaguares-fortaleza",
@@ -2290,19 +2290,6 @@
    "status": "scheduled"
   },
   {
-   "id": "2026-ii-regular-r16-alianza-internacional-bogota",
-   "stage": "regular",
-   "round": 16,
-   "leg": null,
-   "date": "2026-10-24",
-   "home": "alianza",
-   "away": "internacional-bogota",
-   "home_goals": null,
-   "away_goals": null,
-   "penalties": null,
-   "status": "scheduled"
-  },
-  {
    "id": "2026-ii-regular-r16-america-cucuta",
    "stage": "regular",
    "round": 16,
@@ -2336,6 +2323,19 @@
    "date": "2026-10-25",
    "home": "fortaleza",
    "away": "cali",
+   "home_goals": null,
+   "away_goals": null,
+   "penalties": null,
+   "status": "scheduled"
+  },
+  {
+   "id": "2026-ii-regular-r16-alianza-internacional-bogota",
+   "stage": "regular",
+   "round": 16,
+   "leg": null,
+   "date": "2026-10-25",
+   "home": "alianza",
+   "away": "internacional-bogota",
    "home_goals": null,
    "away_goals": null,
    "penalties": null,
@@ -2827,10 +2827,10 @@
    "played": 10
   },
   {
-   "player_name": "Luciano Pons",
-   "team": "bucaramanga",
+   "player_name": "Andrés Rentería",
+   "team": "jaguares",
    "goals": 5,
-   "played": 13
+   "played": 11
   }
  ],
  "assists": []
