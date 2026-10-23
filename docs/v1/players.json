@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-10-22T18:24:55Z",
+  "updated": "2026-10-23T18:10:51Z",
   "source": "es.wikipedia.org (secciones 'Plantilla' de cada club)",
   "warnings": [
    "homónimos 'kevin-balanta' en ['fortaleza', 'santafe']: ids sufijados con el club",
@@ -4948,7 +4948,7 @@
    "team": "santafe",
    "position": "DF",
    "shirt_number": 3,
-   "age": 31,
+   "age": 32,
    "source": "https://es.wikipedia.org/wiki/Club_Independiente_Santa_Fe",
    "id": "victor-moreno"
   },
