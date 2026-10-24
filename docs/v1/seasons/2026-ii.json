@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-10-23T18:10:35Z",
+  "updated": "2026-10-24T17:17:51Z",
   "source": "https://es.wikipedia.org/wiki/Torneo_Finalización_2026_(Colombia)"
  },
  "season": {
@@ -92,13 +92,13 @@
   {
    "team": "bucaramanga",
    "position": 5,
-   "played": 13,
+   "played": 14,
    "won": 6,
    "drawn": 7,
-   "lost": 0,
+   "lost": 1,
    "goals_for": 22,
-   "goals_against": 12,
-   "goal_diff": 10,
+   "goals_against": 13,
+   "goal_diff": 9,
    "points": 25,
    "bonus": null
   },
@@ -170,13 +170,13 @@
   {
    "team": "aguilas",
    "position": 11,
-   "played": 14,
+   "played": 15,
    "won": 4,
    "drawn": 7,
-   "lost": 3,
+   "lost": 4,
    "goals_for": 19,
-   "goals_against": 19,
-   "goal_diff": 0,
+   "goals_against": 20,
+   "goal_diff": -1,
    "points": 19,
    "bonus": null
   },
@@ -207,8 +207,21 @@
    "bonus": null
   },
   {
-   "team": "alianza",
+   "team": "junior",
    "position": 14,
+   "played": 15,
+   "won": 3,
+   "drawn": 6,
+   "lost": 6,
+   "goals_for": 20,
+   "goals_against": 23,
+   "goal_diff": -3,
+   "points": 15,
+   "bonus": null
+  },
+  {
+   "team": "alianza",
+   "position": 15,
    "played": 14,
    "won": 4,
    "drawn": 3,
@@ -220,8 +233,21 @@
    "bonus": null
   },
   {
+   "team": "chico",
+   "position": 16,
+   "played": 15,
+   "won": 4,
+   "drawn": 3,
+   "lost": 8,
+   "goals_for": 12,
+   "goals_against": 25,
+   "goal_diff": -13,
+   "points": 15,
+   "bonus": null
+  },
+  {
    "team": "pereira",
-   "position": 15,
+   "position": 17,
    "played": 14,
    "won": 2,
    "drawn": 7,
@@ -230,32 +256,6 @@
    "goals_against": 18,
    "goal_diff": -8,
    "points": 13,
-   "bonus": null
-  },
-  {
-   "team": "junior",
-   "position": 16,
-   "played": 14,
-   "won": 2,
-   "drawn": 6,
-   "lost": 6,
-   "goals_for": 19,
-   "goals_against": 23,
-   "goal_diff": -4,
-   "points": 12,
-   "bonus": null
-  },
-  {
-   "team": "chico",
-   "position": 17,
-   "played": 14,
-   "won": 3,
-   "drawn": 3,
-   "lost": 8,
-   "goals_for": 11,
-   "goals_against": 25,
-   "goal_diff": -14,
-   "points": 12,
    "bonus": null
   },
   {
@@ -2271,10 +2271,10 @@
    "date": "2026-10-23",
    "home": "chico",
    "away": "bucaramanga",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 1,
+   "away_goals": 0,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r16-junior-aguilas",
@@ -2284,10 +2284,10 @@
    "date": "2026-10-23",
    "home": "junior",
    "away": "aguilas",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 1,
+   "away_goals": 0,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r16-america-cucuta",
@@ -2788,7 +2788,7 @@
    "player_name": "Emerson Batalla",
    "team": "bucaramanga",
    "goals": 7,
-   "played": 13
+   "played": 14
   },
   {
    "player_name": "Andrés Sarmiento",

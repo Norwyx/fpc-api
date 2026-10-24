@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-10-23T18:10:51Z",
+  "updated": "2026-10-24T17:18:07Z",
   "source": "es.wikipedia.org (secciones 'Plantilla' de cada club)",
   "warnings": [
    "homónimos 'kevin-balanta' en ['fortaleza', 'santafe']: ids sufijados con el club",
@@ -4453,7 +4453,7 @@
    "team": "pasto",
    "position": "DF",
    "shirt_number": 33,
-   "age": 25,
+   "age": 26,
    "source": "https://es.wikipedia.org/wiki/Deportivo_Pasto",
    "id": "mateo-garavito"
   },
