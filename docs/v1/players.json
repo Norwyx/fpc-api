@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-10-24T17:18:07Z",
+  "updated": "2026-10-25T17:30:54Z",
   "source": "es.wikipedia.org (secciones 'Plantilla' de cada club)",
   "warnings": [
    "homónimos 'kevin-balanta' en ['fortaleza', 'santafe']: ids sufijados con el club",
@@ -1861,7 +1861,7 @@
    "team": "chico",
    "position": "MF",
    "shirt_number": null,
-   "age": 20,
+   "age": 21,
    "source": "https://es.wikipedia.org/wiki/Boyacá_Chicó",
    "id": "jhon-romana"
   },
