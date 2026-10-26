@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-10-25T17:30:37Z",
+  "updated": "2026-10-26T19:49:27Z",
   "source": "https://es.wikipedia.org/wiki/Torneo_Finalización_2026_(Colombia)"
  },
  "season": {
@@ -38,8 +38,21 @@
  ],
  "standings": [
   {
-   "team": "america",
+   "team": "nacional",
    "position": 1,
+   "played": 15,
+   "won": 10,
+   "drawn": 2,
+   "lost": 3,
+   "goals_for": 30,
+   "goals_against": 13,
+   "goal_diff": 17,
+   "points": 32,
+   "bonus": null
+  },
+  {
+   "team": "america",
+   "position": 2,
    "played": 15,
    "won": 9,
    "drawn": 4,
@@ -51,29 +64,16 @@
    "bonus": null
   },
   {
-   "team": "nacional",
-   "position": 2,
-   "played": 14,
-   "won": 9,
-   "drawn": 2,
-   "lost": 3,
-   "goals_for": 28,
-   "goals_against": 12,
-   "goal_diff": 16,
-   "points": 29,
-   "bonus": null
-  },
-  {
    "team": "cali",
    "position": 3,
-   "played": 15,
+   "played": 16,
    "won": 8,
-   "drawn": 5,
+   "drawn": 6,
    "lost": 2,
-   "goals_for": 23,
-   "goals_against": 9,
+   "goals_for": 24,
+   "goals_against": 10,
    "goal_diff": 14,
-   "points": 29,
+   "points": 30,
    "bonus": null
   },
   {
@@ -118,13 +118,13 @@
   {
    "team": "medellin",
    "position": 7,
-   "played": 14,
+   "played": 15,
    "won": 7,
    "drawn": 2,
-   "lost": 5,
-   "goals_for": 21,
-   "goals_against": 19,
-   "goal_diff": 2,
+   "lost": 6,
+   "goals_for": 22,
+   "goals_against": 21,
+   "goal_diff": 1,
    "points": 23,
    "bonus": null
   },
@@ -157,13 +157,13 @@
   {
    "team": "tolima",
    "position": 10,
-   "played": 15,
+   "played": 16,
    "won": 5,
    "drawn": 5,
-   "lost": 5,
+   "lost": 6,
    "goals_for": 18,
-   "goals_against": 18,
-   "goal_diff": 0,
+   "goals_against": 19,
+   "goal_diff": -1,
    "points": 20,
    "bonus": null
   },
@@ -181,21 +181,34 @@
    "bonus": null
   },
   {
-   "team": "internacional-bogota",
+   "team": "alianza",
    "position": 12,
    "played": 15,
+   "won": 5,
+   "drawn": 3,
+   "lost": 7,
+   "goals_for": 16,
+   "goals_against": 26,
+   "goal_diff": -10,
+   "points": 18,
+   "bonus": null
+  },
+  {
+   "team": "internacional-bogota",
+   "position": 13,
+   "played": 16,
    "won": 3,
    "drawn": 8,
-   "lost": 4,
+   "lost": 5,
    "goals_for": 18,
-   "goals_against": 21,
-   "goal_diff": -3,
+   "goals_against": 22,
+   "goal_diff": -4,
    "points": 17,
    "bonus": null
   },
   {
    "team": "llaneros",
-   "position": 13,
+   "position": 14,
    "played": 15,
    "won": 5,
    "drawn": 2,
@@ -208,7 +221,7 @@
   },
   {
    "team": "junior",
-   "position": 14,
+   "position": 15,
    "played": 15,
    "won": 3,
    "drawn": 6,
@@ -216,19 +229,6 @@
    "goals_for": 20,
    "goals_against": 23,
    "goal_diff": -3,
-   "points": 15,
-   "bonus": null
-  },
-  {
-   "team": "alianza",
-   "position": 15,
-   "played": 14,
-   "won": 4,
-   "drawn": 3,
-   "lost": 7,
-   "goals_for": 15,
-   "goals_against": 26,
-   "goal_diff": -11,
    "points": 15,
    "bonus": null
   },
@@ -261,19 +261,32 @@
   {
    "team": "fortaleza",
    "position": 18,
-   "played": 14,
+   "played": 15,
    "won": 1,
-   "drawn": 8,
+   "drawn": 9,
    "lost": 5,
-   "goals_for": 15,
-   "goals_against": 21,
+   "goals_for": 16,
+   "goals_against": 22,
    "goal_diff": -6,
-   "points": 11,
+   "points": 12,
+   "bonus": null
+  },
+  {
+   "team": "pasto",
+   "position": 19,
+   "played": 15,
+   "won": 3,
+   "drawn": 3,
+   "lost": 9,
+   "goals_for": 10,
+   "goals_against": 22,
+   "goal_diff": -12,
+   "points": 12,
    "bonus": null
   },
   {
    "team": "jaguares",
-   "position": 19,
+   "position": 20,
    "played": 14,
    "won": 2,
    "drawn": 4,
@@ -282,19 +295,6 @@
    "goals_against": 28,
    "goal_diff": -12,
    "points": 10,
-   "bonus": null
-  },
-  {
-   "team": "pasto",
-   "position": 20,
-   "played": 14,
-   "won": 2,
-   "drawn": 3,
-   "lost": 9,
-   "goals_for": 9,
-   "goals_against": 22,
-   "goal_diff": -13,
-   "points": 9,
    "bonus": null
   }
  ],
@@ -2323,10 +2323,10 @@
    "date": "2026-10-25",
    "home": "fortaleza",
    "away": "cali",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 1,
+   "away_goals": 1,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r16-alianza-internacional-bogota",
@@ -2336,10 +2336,10 @@
    "date": "2026-10-25",
    "home": "alianza",
    "away": "internacional-bogota",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 1,
+   "away_goals": 0,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r16-nacional-medellin",
@@ -2349,10 +2349,10 @@
    "date": "2026-10-25",
    "home": "nacional",
    "away": "medellin",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 2,
+   "away_goals": 1,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r16-tolima-pasto",
@@ -2362,10 +2362,10 @@
    "date": "2026-10-25",
    "home": "tolima",
    "away": "pasto",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 0,
+   "away_goals": 1,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r16-jaguares-llaneros",
@@ -2779,6 +2779,12 @@
    "played": 15
   },
   {
+   "player_name": "Andrés Sarmiento",
+   "team": "nacional",
+   "goals": 7,
+   "played": 11
+  },
+  {
    "player_name": "Nahuel Bustos",
    "team": "santafe",
    "goals": 7,
@@ -2791,16 +2797,10 @@
    "played": 14
   },
   {
-   "player_name": "Andrés Sarmiento",
-   "team": "nacional",
-   "goals": 6,
-   "played": 10
-  },
-  {
    "player_name": "Eduard Bello",
    "team": "cali",
    "goals": 6,
-   "played": 12
+   "played": 13
   },
   {
    "player_name": "Dayro Moreno",
@@ -2821,14 +2821,14 @@
    "played": 15
   },
   {
-   "player_name": "Jaime Peralta",
-   "team": "cucuta",
+   "player_name": "Edwin Cardona",
+   "team": "nacional",
    "goals": 5,
    "played": 11
   },
   {
-   "player_name": "Andrés Rentería",
-   "team": "jaguares",
+   "player_name": "Jaime Peralta",
+   "team": "cucuta",
    "goals": 5,
    "played": 11
   }

@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-10-25T17:30:54Z",
+  "updated": "2026-10-26T19:49:41Z",
   "source": "es.wikipedia.org (secciones 'Plantilla' de cada club)",
   "warnings": [
    "homónimos 'kevin-balanta' en ['fortaleza', 'santafe']: ids sufijados con el club",
@@ -556,7 +556,7 @@
    "team": "america",
    "position": "GK",
    "shirt_number": 1,
-   "age": 30,
+   "age": 31,
    "source": "https://es.wikipedia.org/wiki/América_de_Cali",
    "id": "jean-fernandes"
   },
@@ -1060,7 +1060,7 @@
    "team": "caldas",
    "position": "GK",
    "shirt_number": 25,
-   "age": 21,
+   "age": 22,
    "source": "https://es.wikipedia.org/wiki/Once_Caldas",
    "id": "juan-gallego"
   },
