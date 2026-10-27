@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-10-26T19:49:41Z",
+  "updated": "2026-10-27T19:18:20Z",
   "source": "es.wikipedia.org (secciones 'Plantilla' de cada club)",
   "warnings": [
    "homónimos 'kevin-balanta' en ['fortaleza', 'santafe']: ids sufijados con el club",
@@ -3823,7 +3823,7 @@
    "team": "millonarios",
    "position": "DF",
    "shirt_number": 20,
-   "age": 36,
+   "age": 37,
    "source": "https://es.wikipedia.org/wiki/Millonarios_Fútbol_Club",
    "id": "danovis-banguero"
   },
@@ -5443,7 +5443,7 @@
    "team": "tolima",
    "position": "FW",
    "shirt_number": 31,
-   "age": 18,
+   "age": 19,
    "source": "https://es.wikipedia.org/wiki/Deportes_Tolima",
    "id": "yoimar-moreno"
   }
