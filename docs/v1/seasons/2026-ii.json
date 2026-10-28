@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-10-27T19:18:05Z",
+  "updated": "2026-10-28T19:25:50Z",
   "source": "https://es.wikipedia.org/wiki/Torneo_Finalización_2026_(Colombia)"
  },
  "season": {
@@ -129,8 +129,21 @@
    "bonus": null
   },
   {
-   "team": "caldas",
+   "team": "aguilas",
    "position": 8,
+   "played": 16,
+   "won": 5,
+   "drawn": 7,
+   "lost": 4,
+   "goals_for": 21,
+   "goals_against": 20,
+   "goal_diff": 1,
+   "points": 22,
+   "bonus": null
+  },
+  {
+   "team": "caldas",
+   "position": 9,
    "played": 16,
    "won": 5,
    "drawn": 6,
@@ -143,20 +156,20 @@
   },
   {
    "team": "cucuta",
-   "position": 9,
-   "played": 15,
+   "position": 10,
+   "played": 16,
    "won": 6,
    "drawn": 3,
-   "lost": 6,
+   "lost": 7,
    "goals_for": 18,
-   "goals_against": 22,
-   "goal_diff": -4,
+   "goals_against": 24,
+   "goal_diff": -6,
    "points": 21,
    "bonus": null
   },
   {
    "team": "tolima",
-   "position": 10,
+   "position": 11,
    "played": 16,
    "won": 5,
    "drawn": 5,
@@ -165,19 +178,6 @@
    "goals_against": 19,
    "goal_diff": -1,
    "points": 20,
-   "bonus": null
-  },
-  {
-   "team": "aguilas",
-   "position": 11,
-   "played": 15,
-   "won": 4,
-   "drawn": 7,
-   "lost": 4,
-   "goals_for": 19,
-   "goals_against": 20,
-   "goal_diff": -1,
-   "points": 19,
    "bonus": null
   },
   {
@@ -222,27 +222,27 @@
   {
    "team": "junior",
    "position": 15,
-   "played": 15,
+   "played": 16,
    "won": 3,
-   "drawn": 6,
+   "drawn": 7,
    "lost": 6,
-   "goals_for": 20,
-   "goals_against": 23,
+   "goals_for": 21,
+   "goals_against": 24,
    "goal_diff": -3,
-   "points": 15,
+   "points": 16,
    "bonus": null
   },
   {
    "team": "chico",
    "position": 16,
-   "played": 15,
+   "played": 16,
    "won": 4,
-   "drawn": 3,
+   "drawn": 4,
    "lost": 8,
-   "goals_for": 12,
-   "goals_against": 25,
+   "goals_for": 13,
+   "goals_against": 26,
    "goal_diff": -13,
-   "points": 15,
+   "points": 16,
    "bonus": null
   },
   {
@@ -854,10 +854,10 @@
    "date": "2026-10-27",
    "home": "cucuta",
    "away": "aguilas",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 0,
+   "away_goals": 2,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r5-chico-junior",
@@ -867,10 +867,10 @@
    "date": "2026-10-27",
    "home": "chico",
    "away": "junior",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 1,
+   "away_goals": 1,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r5-caldas-alianza",

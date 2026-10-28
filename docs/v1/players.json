@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-10-27T19:18:20Z",
+  "updated": "2026-10-28T19:26:08Z",
   "source": "es.wikipedia.org (secciones 'Plantilla' de cada club)",
   "warnings": [
    "homónimos 'kevin-balanta' en ['fortaleza', 'santafe']: ids sufijados con el club",
@@ -4876,7 +4876,7 @@
    "team": "pereira",
    "position": "FW",
    "shirt_number": 31,
-   "age": 17,
+   "age": 18,
    "source": "https://es.wikipedia.org/wiki/Deportivo_Pereira",
    "id": "andres-calderon"
   },
