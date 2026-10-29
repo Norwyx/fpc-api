@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-10-28T19:26:08Z",
+  "updated": "2026-10-29T19:31:21Z",
   "source": "es.wikipedia.org (secciones 'Plantilla' de cada club)",
   "warnings": [
    "homónimos 'kevin-balanta' en ['fortaleza', 'santafe']: ids sufijados con el club",
@@ -3409,7 +3409,7 @@
    "team": "llaneros",
    "position": "MF",
    "shirt_number": 33,
-   "age": 32,
+   "age": 33,
    "source": "https://es.wikipedia.org/wiki/Club_Llaneros",
    "id": "kelvin-osorio"
   },
