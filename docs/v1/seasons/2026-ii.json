@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-10-29T19:31:00Z",
+  "updated": "2026-10-30T19:04:51Z",
   "source": "https://es.wikipedia.org/wiki/Torneo_Finalización_2026_(Colombia)"
  },
  "season": {
@@ -40,27 +40,27 @@
   {
    "team": "nacional",
    "position": 1,
-   "played": 15,
-   "won": 10,
+   "played": 16,
+   "won": 11,
    "drawn": 2,
    "lost": 3,
-   "goals_for": 30,
+   "goals_for": 32,
    "goals_against": 13,
-   "goal_diff": 17,
-   "points": 32,
+   "goal_diff": 19,
+   "points": 35,
    "bonus": null
   },
   {
    "team": "america",
    "position": 2,
-   "played": 15,
-   "won": 9,
+   "played": 16,
+   "won": 10,
    "drawn": 4,
    "lost": 2,
-   "goals_for": 29,
-   "goals_against": 11,
-   "goal_diff": 18,
-   "points": 31,
+   "goals_for": 31,
+   "goals_against": 12,
+   "goal_diff": 19,
+   "points": 34,
    "bonus": null
   },
   {
@@ -79,13 +79,13 @@
   {
    "team": "santafe",
    "position": 4,
-   "played": 15,
+   "played": 16,
    "won": 8,
    "drawn": 4,
-   "lost": 3,
+   "lost": 4,
    "goals_for": 23,
-   "goals_against": 15,
-   "goal_diff": 8,
+   "goals_against": 17,
+   "goal_diff": 6,
    "points": 28,
    "bonus": null
   },
@@ -274,13 +274,13 @@
   {
    "team": "fortaleza",
    "position": 19,
-   "played": 15,
+   "played": 16,
    "won": 1,
    "drawn": 9,
-   "lost": 5,
-   "goals_for": 16,
-   "goals_against": 22,
-   "goal_diff": -6,
+   "lost": 6,
+   "goals_for": 17,
+   "goals_against": 24,
+   "goal_diff": -7,
    "points": 12,
    "bonus": null
   },
@@ -906,10 +906,10 @@
    "date": "2026-10-29",
    "home": "america",
    "away": "fortaleza",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 2,
+   "away_goals": 1,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r5-nacional-santafe",
@@ -919,10 +919,10 @@
    "date": "2026-10-29",
    "home": "nacional",
    "away": "santafe",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 2,
+   "away_goals": 0,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r5-pereira-jaguares",
@@ -2775,18 +2775,18 @@
   {
    "player_name": "Yeison Guzmán",
    "team": "america",
-   "goals": 9,
-   "played": 15
-  },
-  {
-   "player_name": "Andrés Sarmiento",
-   "team": "nacional",
-   "goals": 7,
-   "played": 11
+   "goals": 10,
+   "played": 16
   },
   {
    "player_name": "Nahuel Bustos",
    "team": "santafe",
+   "goals": 7,
+   "played": 12
+  },
+  {
+   "player_name": "Andrés Sarmiento",
+   "team": "nacional",
    "goals": 7,
    "played": 12
   },
@@ -2821,16 +2821,16 @@
    "played": 15
   },
   {
-   "player_name": "Franco Fagúndez",
-   "team": "santafe",
-   "goals": 6,
-   "played": 15
-  },
-  {
    "player_name": "Luciano Pons",
    "team": "bucaramanga",
    "goals": 6,
    "played": 15
+  },
+  {
+   "player_name": "Franco Fagúndez",
+   "team": "santafe",
+   "goals": 6,
+   "played": 16
   }
  ],
  "assists": []
