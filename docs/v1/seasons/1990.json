@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-10-31T18:16:27Z",
+  "updated": "2026-11-01T18:47:50Z",
   "source": "https://es.wikipedia.org/wiki/Campeonato_colombiano_1990"
  },
  "season": {
@@ -580,12 +580,12 @@
      "position": 2,
      "played": 6,
      "won": 3,
-     "drawn": 1,
-     "lost": 2,
+     "drawn": 2,
+     "lost": 1,
      "goals_for": 7,
      "goals_against": 4,
      "goal_diff": 3,
-     "points": 7.5,
+     "points": 8.5,
      "bonus": 0.5
     },
     {

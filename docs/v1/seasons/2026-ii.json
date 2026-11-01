@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-10-31T18:18:45Z",
+  "updated": "2026-11-01T18:49:52Z",
   "source": "https://es.wikipedia.org/wiki/Torneo_Finalización_2026_(Colombia)"
  },
  "season": {
@@ -194,8 +194,21 @@
    "bonus": null
   },
   {
-   "team": "alianza",
+   "team": "llaneros",
    "position": 13,
+   "played": 17,
+   "won": 6,
+   "drawn": 2,
+   "lost": 9,
+   "goals_for": 19,
+   "goals_against": 23,
+   "goal_diff": -4,
+   "points": 20,
+   "bonus": null
+  },
+  {
+   "team": "alianza",
+   "position": 14,
    "played": 16,
    "won": 5,
    "drawn": 3,
@@ -204,19 +217,6 @@
    "goals_against": 27,
    "goal_diff": -11,
    "points": 18,
-   "bonus": null
-  },
-  {
-   "team": "llaneros",
-   "position": 14,
-   "played": 16,
-   "won": 5,
-   "drawn": 2,
-   "lost": 9,
-   "goals_for": 16,
-   "goals_against": 21,
-   "goal_diff": -5,
-   "points": 17,
    "bonus": null
   },
   {
@@ -235,13 +235,13 @@
   {
    "team": "junior",
    "position": 16,
-   "played": 16,
+   "played": 17,
    "won": 3,
    "drawn": 7,
-   "lost": 6,
-   "goals_for": 21,
-   "goals_against": 24,
-   "goal_diff": -3,
+   "lost": 7,
+   "goals_for": 23,
+   "goals_against": 27,
+   "goal_diff": -4,
    "points": 16,
    "bonus": null
   },
@@ -2401,10 +2401,10 @@
    "date": "2026-10-31",
    "home": "llaneros",
    "away": "junior",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 3,
+   "away_goals": 2,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r17-cali-chico",
@@ -2511,6 +2511,19 @@
    "status": "scheduled"
   },
   {
+   "id": "2026-ii-regular-r18-chico-internacional-bogota",
+   "stage": "regular",
+   "round": 18,
+   "leg": null,
+   "date": "2026-11-06",
+   "home": "chico",
+   "away": "internacional-bogota",
+   "home_goals": null,
+   "away_goals": null,
+   "penalties": null,
+   "status": "scheduled"
+  },
+  {
    "id": "2026-ii-regular-r18-fortaleza-medellin",
    "stage": "regular",
    "round": 18,
@@ -2531,19 +2544,6 @@
    "date": "2026-11-07",
    "home": "caldas",
    "away": "aguilas",
-   "home_goals": null,
-   "away_goals": null,
-   "penalties": null,
-   "status": "scheduled"
-  },
-  {
-   "id": "2026-ii-regular-r18-tolima-millonarios",
-   "stage": "regular",
-   "round": 18,
-   "leg": null,
-   "date": "2026-11-07",
-   "home": "tolima",
-   "away": "millonarios",
    "home_goals": null,
    "away_goals": null,
    "penalties": null,
@@ -2576,13 +2576,13 @@
    "status": "scheduled"
   },
   {
-   "id": "2026-ii-regular-r18-chico-internacional-bogota",
+   "id": "2026-ii-regular-r18-santafe-pasto",
    "stage": "regular",
    "round": 18,
    "leg": null,
    "date": "2026-11-08",
-   "home": "chico",
-   "away": "internacional-bogota",
+   "home": "santafe",
+   "away": "pasto",
    "home_goals": null,
    "away_goals": null,
    "penalties": null,
@@ -2602,13 +2602,13 @@
    "status": "scheduled"
   },
   {
-   "id": "2026-ii-regular-r18-junior-cucuta",
+   "id": "2026-ii-regular-r18-tolima-millonarios",
    "stage": "regular",
    "round": 18,
    "leg": null,
    "date": "2026-11-08",
-   "home": "junior",
-   "away": "cucuta",
+   "home": "tolima",
+   "away": "millonarios",
    "home_goals": null,
    "away_goals": null,
    "penalties": null,
@@ -2628,13 +2628,13 @@
    "status": "scheduled"
   },
   {
-   "id": "2026-ii-regular-r18-santafe-pasto",
+   "id": "2026-ii-regular-r18-junior-cucuta",
    "stage": "regular",
    "round": 18,
    "leg": null,
    "date": "2026-11-09",
-   "home": "santafe",
-   "away": "pasto",
+   "home": "junior",
+   "away": "cucuta",
    "home_goals": null,
    "away_goals": null,
    "penalties": null,
