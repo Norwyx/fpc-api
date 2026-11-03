@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-11-02T22:41:31Z",
+  "updated": "2026-11-03T20:31:17Z",
   "source": "https://es.wikipedia.org/wiki/Torneo_Finalización_2026_(Colombia)"
  },
  "season": {
@@ -40,14 +40,14 @@
   {
    "team": "nacional",
    "position": 1,
-   "played": 16,
+   "played": 17,
    "won": 11,
-   "drawn": 2,
+   "drawn": 3,
    "lost": 3,
-   "goals_for": 32,
-   "goals_against": 13,
+   "goals_for": 33,
+   "goals_against": 14,
    "goal_diff": 19,
-   "points": 35,
+   "points": 36,
    "bonus": null
   },
   {
@@ -79,14 +79,14 @@
   {
    "team": "bucaramanga",
    "position": 4,
-   "played": 16,
+   "played": 17,
    "won": 7,
-   "drawn": 7,
+   "drawn": 8,
    "lost": 2,
-   "goals_for": 25,
-   "goals_against": 16,
+   "goals_for": 26,
+   "goals_against": 17,
    "goal_diff": 9,
-   "points": 28,
+   "points": 29,
    "bonus": null
   },
   {
@@ -129,8 +129,21 @@
    "bonus": null
   },
   {
-   "team": "caldas",
+   "team": "aguilas",
    "position": 8,
+   "played": 17,
+   "won": 6,
+   "drawn": 7,
+   "lost": 4,
+   "goals_for": 22,
+   "goals_against": 20,
+   "goal_diff": 2,
+   "points": 25,
+   "bonus": null
+  },
+  {
+   "team": "caldas",
+   "position": 9,
    "played": 17,
    "won": 6,
    "drawn": 6,
@@ -139,19 +152,6 @@
    "goals_against": 18,
    "goal_diff": 3,
    "points": 24,
-   "bonus": null
-  },
-  {
-   "team": "aguilas",
-   "position": 9,
-   "played": 16,
-   "won": 5,
-   "drawn": 7,
-   "lost": 4,
-   "goals_for": 21,
-   "goals_against": 20,
-   "goal_diff": 1,
-   "points": 22,
    "bonus": null
   },
   {
@@ -274,13 +274,13 @@
   {
    "team": "fortaleza",
    "position": 19,
-   "played": 16,
+   "played": 17,
    "won": 1,
    "drawn": 9,
-   "lost": 6,
+   "lost": 7,
    "goals_for": 17,
-   "goals_against": 24,
-   "goal_diff": -7,
+   "goals_against": 25,
+   "goal_diff": -8,
    "points": 12,
    "bonus": null
   },
@@ -2440,10 +2440,10 @@
    "date": "2026-11-02",
    "home": "aguilas",
    "away": "fortaleza",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 1,
+   "away_goals": 0,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r17-bucaramanga-nacional",
@@ -2453,10 +2453,10 @@
    "date": "2026-11-02",
    "home": "bucaramanga",
    "away": "nacional",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 1,
+   "away_goals": 1,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r17-pereira-tolima",
@@ -2782,7 +2782,13 @@
    "player_name": "Emerson Batalla",
    "team": "bucaramanga",
    "goals": 8,
-   "played": 16
+   "played": 17
+  },
+  {
+   "player_name": "Luciano Pons",
+   "team": "bucaramanga",
+   "goals": 8,
+   "played": 17
   },
   {
    "player_name": "Nahuel Bustos",
@@ -2794,13 +2800,13 @@
    "player_name": "Andrés Sarmiento",
    "team": "nacional",
    "goals": 7,
-   "played": 12
+   "played": 13
   },
   {
-   "player_name": "Luciano Pons",
-   "team": "bucaramanga",
-   "goals": 7,
-   "played": 16
+   "player_name": "Edwin Cardona",
+   "team": "nacional",
+   "goals": 6,
+   "played": 12
   },
   {
    "player_name": "Andrés Rentería",
@@ -2825,12 +2831,6 @@
    "team": "millonarios",
    "goals": 6,
    "played": 15
-  },
-  {
-   "player_name": "Franco Fagúndez",
-   "team": "santafe",
-   "goals": 6,
-   "played": 16
   }
  ],
  "assists": []

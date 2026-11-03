@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-11-02T22:41:49Z",
+  "updated": "2026-11-03T20:31:40Z",
   "source": "es.wikipedia.org (secciones 'Plantilla' de cada club)",
   "warnings": [
    "homónimos 'kevin-balanta' en ['fortaleza', 'santafe']: ids sufijados con el club",
@@ -3562,7 +3562,7 @@
    "team": "medellin",
    "position": "DF",
    "shirt_number": 26,
-   "age": 28,
+   "age": 29,
    "source": "https://es.wikipedia.org/wiki/Deportivo_Independiente_Medellín",
    "id": "esneyder-mena"
   },
