@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-11-04T20:44:34Z",
+  "updated": "2026-11-05T21:01:53Z",
   "source": "https://es.wikipedia.org/wiki/Torneo_Finalización_2026_(Colombia)"
  },
  "season": {
@@ -53,14 +53,14 @@
   {
    "team": "america",
    "position": 2,
-   "played": 16,
+   "played": 17,
    "won": 10,
-   "drawn": 4,
+   "drawn": 5,
    "lost": 2,
    "goals_for": 31,
    "goals_against": 12,
    "goal_diff": 19,
-   "points": 34,
+   "points": 35,
    "bonus": null
   },
   {
@@ -92,27 +92,27 @@
   {
    "team": "santafe",
    "position": 5,
-   "played": 16,
+   "played": 17,
    "won": 8,
    "drawn": 4,
-   "lost": 4,
+   "lost": 5,
    "goals_for": 23,
-   "goals_against": 17,
-   "goal_diff": 6,
+   "goals_against": 18,
+   "goal_diff": 5,
    "points": 28,
    "bonus": null
   },
   {
    "team": "millonarios",
    "position": 6,
-   "played": 16,
+   "played": 17,
    "won": 6,
-   "drawn": 8,
+   "drawn": 9,
    "lost": 2,
    "goals_for": 24,
    "goals_against": 14,
    "goal_diff": 10,
-   "points": 26,
+   "points": 27,
    "bonus": null
   },
   {
@@ -155,8 +155,21 @@
    "bonus": null
   },
   {
-   "team": "tolima",
+   "team": "cucuta",
    "position": 10,
+   "played": 17,
+   "won": 7,
+   "drawn": 3,
+   "lost": 7,
+   "goals_for": 19,
+   "goals_against": 24,
+   "goal_diff": -5,
+   "points": 24,
+   "bonus": null
+  },
+  {
+   "team": "tolima",
+   "position": 11,
    "played": 17,
    "won": 6,
    "drawn": 5,
@@ -165,19 +178,6 @@
    "goals_against": 20,
    "goal_diff": 1,
    "points": 23,
-   "bonus": null
-  },
-  {
-   "team": "cucuta",
-   "position": 11,
-   "played": 16,
-   "won": 6,
-   "drawn": 3,
-   "lost": 7,
-   "goals_for": 18,
-   "goals_against": 24,
-   "goal_diff": -6,
-   "points": 21,
    "bonus": null
   },
   {
@@ -2492,10 +2492,10 @@
    "date": "2026-11-04",
    "home": "cucuta",
    "away": "santafe",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 1,
+   "away_goals": 0,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r17-millonarios-america",
@@ -2505,10 +2505,10 @@
    "date": "2026-11-04",
    "home": "millonarios",
    "away": "america",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 0,
+   "away_goals": 0,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r18-chico-internacional-bogota",
@@ -2776,7 +2776,7 @@
    "player_name": "Yeison Guzmán",
    "team": "america",
    "goals": 10,
-   "played": 16
+   "played": 17
   },
   {
    "player_name": "Emerson Batalla",
@@ -2830,7 +2830,7 @@
    "player_name": "Andrey Estupiñán",
    "team": "millonarios",
    "goals": 6,
-   "played": 15
+   "played": 16
   }
  ],
  "assists": []
