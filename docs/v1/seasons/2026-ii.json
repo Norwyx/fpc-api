@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-11-06T20:21:15Z",
+  "updated": "2026-11-07T18:34:18Z",
   "source": "https://es.wikipedia.org/wiki/Torneo_Finalización_2026_(Colombia)"
  },
  "season": {
@@ -90,8 +90,21 @@
    "bonus": null
   },
   {
-   "team": "santafe",
+   "team": "medellin",
    "position": 5,
+   "played": 18,
+   "won": 9,
+   "drawn": 2,
+   "lost": 7,
+   "goals_for": 28,
+   "goals_against": 25,
+   "goal_diff": 3,
+   "points": 29,
+   "bonus": null
+  },
+  {
+   "team": "santafe",
+   "position": 6,
    "played": 17,
    "won": 8,
    "drawn": 4,
@@ -104,7 +117,7 @@
   },
   {
    "team": "millonarios",
-   "position": 6,
+   "position": 7,
    "played": 17,
    "won": 6,
    "drawn": 9,
@@ -113,19 +126,6 @@
    "goals_against": 14,
    "goal_diff": 10,
    "points": 27,
-   "bonus": null
-  },
-  {
-   "team": "medellin",
-   "position": 7,
-   "played": 17,
-   "won": 8,
-   "drawn": 2,
-   "lost": 7,
-   "goals_for": 25,
-   "goals_against": 25,
-   "goal_diff": 0,
-   "points": 26,
    "bonus": null
   },
   {
@@ -183,13 +183,13 @@
   {
    "team": "internacional-bogota",
    "position": 12,
-   "played": 17,
+   "played": 18,
    "won": 4,
    "drawn": 8,
-   "lost": 5,
-   "goals_for": 21,
-   "goals_against": 23,
-   "goal_diff": -2,
+   "lost": 6,
+   "goals_for": 22,
+   "goals_against": 25,
+   "goal_diff": -3,
    "points": 20,
    "bonus": null
   },
@@ -207,8 +207,21 @@
    "bonus": null
   },
   {
-   "team": "alianza",
+   "team": "chico",
    "position": 14,
+   "played": 18,
+   "won": 5,
+   "drawn": 4,
+   "lost": 9,
+   "goals_for": 15,
+   "goals_against": 29,
+   "goal_diff": -14,
+   "points": 19,
+   "bonus": null
+  },
+  {
+   "team": "alianza",
+   "position": 15,
    "played": 17,
    "won": 5,
    "drawn": 3,
@@ -221,7 +234,7 @@
   },
   {
    "team": "pereira",
-   "position": 15,
+   "position": 16,
    "played": 17,
    "won": 3,
    "drawn": 8,
@@ -234,7 +247,7 @@
   },
   {
    "team": "junior",
-   "position": 16,
+   "position": 17,
    "played": 17,
    "won": 3,
    "drawn": 7,
@@ -242,19 +255,6 @@
    "goals_for": 23,
    "goals_against": 27,
    "goal_diff": -4,
-   "points": 16,
-   "bonus": null
-  },
-  {
-   "team": "chico",
-   "position": 17,
-   "played": 17,
-   "won": 4,
-   "drawn": 4,
-   "lost": 9,
-   "goals_for": 13,
-   "goals_against": 28,
-   "goal_diff": -15,
    "points": 16,
    "bonus": null
   },
@@ -287,13 +287,13 @@
   {
    "team": "fortaleza",
    "position": 20,
-   "played": 17,
+   "played": 18,
    "won": 1,
    "drawn": 9,
-   "lost": 7,
+   "lost": 8,
    "goals_for": 17,
-   "goals_against": 25,
-   "goal_diff": -8,
+   "goals_against": 28,
+   "goal_diff": -11,
    "points": 12,
    "bonus": null
   }
@@ -2518,10 +2518,10 @@
    "date": "2026-11-06",
    "home": "chico",
    "away": "internacional-bogota",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 2,
+   "away_goals": 1,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r18-fortaleza-medellin",
@@ -2531,10 +2531,10 @@
    "date": "2026-11-06",
    "home": "fortaleza",
    "away": "medellin",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 0,
+   "away_goals": 3,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r18-caldas-aguilas",
