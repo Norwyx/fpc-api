@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-11-07T18:34:39Z",
+  "updated": "2026-11-08T18:45:17Z",
   "source": "es.wikipedia.org (secciones 'Plantilla' de cada club)",
   "warnings": [
    "homónimos 'kevin-balanta' en ['fortaleza', 'santafe']: ids sufijados con el club",
@@ -4840,7 +4840,7 @@
    "team": "pereira",
    "position": "FW",
    "shirt_number": 7,
-   "age": 35,
+   "age": 36,
    "source": "https://es.wikipedia.org/wiki/Deportivo_Pereira",
    "id": "anderson-plata"
   },

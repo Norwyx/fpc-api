@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-11-07T18:34:18Z",
+  "updated": "2026-11-08T18:44:59Z",
   "source": "https://es.wikipedia.org/wiki/Torneo_Finalización_2026_(Colombia)"
  },
  "season": {
@@ -40,40 +40,40 @@
   {
    "team": "nacional",
    "position": 1,
-   "played": 17,
-   "won": 11,
+   "played": 18,
+   "won": 12,
    "drawn": 3,
    "lost": 3,
-   "goals_for": 33,
-   "goals_against": 14,
-   "goal_diff": 19,
-   "points": 36,
+   "goals_for": 37,
+   "goals_against": 17,
+   "goal_diff": 20,
+   "points": 39,
    "bonus": null
   },
   {
    "team": "america",
    "position": 2,
-   "played": 17,
+   "played": 18,
    "won": 10,
-   "drawn": 5,
+   "drawn": 6,
    "lost": 2,
    "goals_for": 31,
    "goals_against": 12,
    "goal_diff": 19,
-   "points": 35,
+   "points": 36,
    "bonus": null
   },
   {
    "team": "cali",
    "position": 3,
-   "played": 17,
+   "played": 18,
    "won": 9,
-   "drawn": 6,
+   "drawn": 7,
    "lost": 2,
    "goals_for": 26,
    "goals_against": 10,
    "goal_diff": 16,
-   "points": 33,
+   "points": 34,
    "bonus": null
   },
   {
@@ -129,29 +129,29 @@
    "bonus": null
   },
   {
-   "team": "aguilas",
+   "team": "caldas",
    "position": 8,
-   "played": 17,
-   "won": 6,
-   "drawn": 7,
-   "lost": 4,
+   "played": 18,
+   "won": 7,
+   "drawn": 6,
+   "lost": 5,
    "goals_for": 22,
-   "goals_against": 20,
-   "goal_diff": 2,
-   "points": 25,
+   "goals_against": 18,
+   "goal_diff": 4,
+   "points": 27,
    "bonus": null
   },
   {
-   "team": "caldas",
+   "team": "aguilas",
    "position": 9,
-   "played": 17,
+   "played": 18,
    "won": 6,
-   "drawn": 6,
+   "drawn": 7,
    "lost": 5,
-   "goals_for": 21,
-   "goals_against": 18,
-   "goal_diff": 3,
-   "points": 24,
+   "goals_for": 22,
+   "goals_against": 21,
+   "goal_diff": 1,
+   "points": 25,
    "bonus": null
   },
   {
@@ -235,13 +235,13 @@
   {
    "team": "pereira",
    "position": 16,
-   "played": 17,
+   "played": 18,
    "won": 3,
    "drawn": 8,
-   "lost": 6,
-   "goals_for": 13,
-   "goals_against": 22,
-   "goal_diff": -9,
+   "lost": 7,
+   "goals_for": 16,
+   "goals_against": 26,
+   "goal_diff": -10,
    "points": 17,
    "bonus": null
   },
@@ -2544,10 +2544,10 @@
    "date": "2026-11-07",
    "home": "caldas",
    "away": "aguilas",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 1,
+   "away_goals": 0,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r18-nacional-pereira",
@@ -2557,10 +2557,10 @@
    "date": "2026-11-07",
    "home": "nacional",
    "away": "pereira",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 4,
+   "away_goals": 3,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r18-america-cali",
@@ -2570,10 +2570,10 @@
    "date": "2026-11-07",
    "home": "america",
    "away": "cali",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 0,
+   "away_goals": 0,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r18-santafe-pasto",
@@ -2776,7 +2776,7 @@
    "player_name": "Yeison Guzmán",
    "team": "america",
    "goals": 10,
-   "played": 17
+   "played": 18
   },
   {
    "player_name": "Emerson Batalla",
@@ -2800,7 +2800,13 @@
    "player_name": "Andrés Sarmiento",
    "team": "nacional",
    "goals": 7,
-   "played": 13
+   "played": 14
+  },
+  {
+   "player_name": "Dayro Moreno",
+   "team": "caldas",
+   "goals": 7,
+   "played": 15
   },
   {
    "player_name": "Edwin Cardona",
@@ -2817,12 +2823,6 @@
   {
    "player_name": "Eduard Bello",
    "team": "cali",
-   "goals": 6,
-   "played": 14
-  },
-  {
-   "player_name": "Dayro Moreno",
-   "team": "caldas",
    "goals": 6,
    "played": 14
   },
