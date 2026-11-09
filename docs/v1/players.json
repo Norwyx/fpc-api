@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-11-08T18:45:17Z",
+  "updated": "2026-11-09T23:21:53Z",
   "source": "es.wikipedia.org (secciones 'Plantilla' de cada club)",
   "warnings": [
    "homónimos 'kevin-balanta' en ['fortaleza', 'santafe']: ids sufijados con el club",
@@ -259,7 +259,7 @@
    "team": "aguilas",
    "position": "FW",
    "shirt_number": 21,
-   "age": 28,
+   "age": 29,
    "source": "https://es.wikipedia.org/wiki/Águilas_Doradas",
    "id": "ricardo-marquez"
   },
