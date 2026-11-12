@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-11-11T21:10:08Z",
+  "updated": "2026-11-12T21:24:45Z",
   "source": "https://es.wikipedia.org/wiki/Torneo_Finalización_2026_(Colombia)"
  },
  "season": {
@@ -51,21 +51,8 @@
    "bonus": null
   },
   {
-   "team": "america",
-   "position": 2,
-   "played": 18,
-   "won": 10,
-   "drawn": 6,
-   "lost": 2,
-   "goals_for": 31,
-   "goals_against": 12,
-   "goal_diff": 19,
-   "points": 36,
-   "bonus": null
-  },
-  {
    "team": "cali",
-   "position": 3,
+   "position": 2,
    "played": 18,
    "won": 9,
    "drawn": 7,
@@ -74,6 +61,19 @@
    "goals_against": 10,
    "goal_diff": 16,
    "points": 34,
+   "bonus": null
+  },
+  {
+   "team": "america",
+   "position": 3,
+   "played": 18,
+   "won": 9,
+   "drawn": 6,
+   "lost": 3,
+   "goals_for": 29,
+   "goals_against": 15,
+   "goal_diff": 14,
+   "points": 33,
    "bonus": null
   },
   {
@@ -181,8 +181,21 @@
    "bonus": null
   },
   {
-   "team": "llaneros",
+   "team": "internacional-bogota",
    "position": 12,
+   "played": 18,
+   "won": 5,
+   "drawn": 8,
+   "lost": 5,
+   "goals_for": 25,
+   "goals_against": 23,
+   "goal_diff": 2,
+   "points": 23,
+   "bonus": null
+  },
+  {
+   "team": "llaneros",
+   "position": 13,
    "played": 18,
    "won": 7,
    "drawn": 2,
@@ -191,19 +204,6 @@
    "goals_against": 24,
    "goal_diff": -3,
    "points": 23,
-   "bonus": null
-  },
-  {
-   "team": "internacional-bogota",
-   "position": 13,
-   "played": 18,
-   "won": 4,
-   "drawn": 8,
-   "lost": 6,
-   "goals_for": 22,
-   "goals_against": 25,
-   "goal_diff": -3,
-   "points": 20,
    "bonus": null
   },
   {
@@ -373,8 +373,8 @@
    "date": "2026-07-26",
    "home": "internacional-bogota",
    "away": "america",
-   "home_goals": 0,
-   "away_goals": 2,
+   "home_goals": 3,
+   "away_goals": 0,
    "penalties": null,
    "status": "played"
   },
@@ -2824,13 +2824,13 @@
    "player_name": "Andrés Rentería",
    "team": "jaguares",
    "goals": 6,
-   "played": 12
+   "played": 13
   },
   {
    "player_name": "Eduard Bello",
    "team": "cali",
    "goals": 6,
-   "played": 14
+   "played": 15
   }
  ],
  "assists": []
