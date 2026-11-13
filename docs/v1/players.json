@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-11-12T21:25:07Z",
+  "updated": "2026-11-13T20:51:55Z",
   "source": "es.wikipedia.org (secciones 'Plantilla' de cada club)",
   "warnings": [
    "homónimos 'kevin-balanta' en ['fortaleza', 'santafe']: ids sufijados con el club",
@@ -835,7 +835,7 @@
    "team": "bucaramanga",
    "position": "DF",
    "shirt_number": 3,
-   "age": 28,
+   "age": 29,
    "source": "https://es.wikipedia.org/wiki/Atlético_Bucaramanga",
    "id": "martin-rea"
   },
@@ -3814,7 +3814,7 @@
    "team": "millonarios",
    "position": "DF",
    "shirt_number": 17,
-   "age": 33,
+   "age": 34,
    "source": "https://es.wikipedia.org/wiki/Millonarios_Fútbol_Club",
    "id": "jorge-arias-4"
   },

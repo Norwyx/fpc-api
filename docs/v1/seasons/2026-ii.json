@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-11-12T21:24:45Z",
+  "updated": "2026-11-13T20:51:35Z",
   "source": "https://es.wikipedia.org/wiki/Torneo_Finalización_2026_(Colombia)"
  },
  "season": {
@@ -168,8 +168,21 @@
    "bonus": null
   },
   {
-   "team": "cucuta",
+   "team": "llaneros",
    "position": 11,
+   "played": 19,
+   "won": 7,
+   "drawn": 3,
+   "lost": 9,
+   "goals_for": 21,
+   "goals_against": 24,
+   "goal_diff": -3,
+   "points": 24,
+   "bonus": null
+  },
+  {
+   "team": "cucuta",
+   "position": 12,
    "played": 18,
    "won": 7,
    "drawn": 3,
@@ -182,7 +195,7 @@
   },
   {
    "team": "internacional-bogota",
-   "position": 12,
+   "position": 13,
    "played": 18,
    "won": 5,
    "drawn": 8,
@@ -194,42 +207,29 @@
    "bonus": null
   },
   {
-   "team": "llaneros",
-   "position": 13,
-   "played": 18,
-   "won": 7,
-   "drawn": 2,
-   "lost": 9,
-   "goals_for": 21,
-   "goals_against": 24,
-   "goal_diff": -3,
-   "points": 23,
-   "bonus": null
-  },
-  {
    "team": "junior",
    "position": 14,
-   "played": 18,
-   "won": 4,
+   "played": 19,
+   "won": 5,
    "drawn": 7,
    "lost": 7,
-   "goals_for": 25,
+   "goals_for": 26,
    "goals_against": 27,
-   "goal_diff": -2,
-   "points": 19,
+   "goal_diff": -1,
+   "points": 22,
    "bonus": null
   },
   {
    "team": "chico",
    "position": 15,
-   "played": 18,
+   "played": 19,
    "won": 5,
-   "drawn": 4,
+   "drawn": 5,
    "lost": 9,
    "goals_for": 15,
    "goals_against": 29,
    "goal_diff": -14,
-   "points": 19,
+   "points": 20,
    "bonus": null
   },
   {
@@ -261,13 +261,13 @@
   {
    "team": "pasto",
    "position": 18,
-   "played": 18,
+   "played": 19,
    "won": 4,
    "drawn": 3,
-   "lost": 11,
+   "lost": 12,
    "goals_for": 13,
-   "goals_against": 29,
-   "goal_diff": -16,
+   "goals_against": 30,
+   "goal_diff": -17,
    "points": 15,
    "bonus": null
   },
@@ -2648,10 +2648,10 @@
    "date": "2026-11-12",
    "home": "pasto",
    "away": "junior",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 0,
+   "away_goals": 1,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r19-llaneros-chico",
@@ -2661,10 +2661,10 @@
    "date": "2026-11-12",
    "home": "llaneros",
    "away": "chico",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 0,
+   "away_goals": 0,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r19-internacional-bogota-santafe",
