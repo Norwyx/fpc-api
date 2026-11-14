@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-11-13T20:51:55Z",
+  "updated": "2026-11-14T19:02:54Z",
   "source": "es.wikipedia.org (secciones 'Plantilla' de cada club)",
   "warnings": [
    "homónimos 'kevin-balanta' en ['fortaleza', 'santafe']: ids sufijados con el club",
@@ -205,7 +205,7 @@
    "team": "aguilas",
    "position": "MF",
    "shirt_number": 25,
-   "age": 31,
+   "age": 32,
    "source": "https://es.wikipedia.org/wiki/Águilas_Doradas",
    "id": "juan-camilo-roa"
   },

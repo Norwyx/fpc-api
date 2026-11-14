@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-11-13T20:51:35Z",
+  "updated": "2026-11-14T19:02:34Z",
   "source": "https://es.wikipedia.org/wiki/Torneo_Finalización_2026_(Colombia)"
  },
  "season": {
@@ -64,8 +64,21 @@
    "bonus": null
   },
   {
-   "team": "america",
+   "team": "santafe",
    "position": 3,
+   "played": 19,
+   "won": 10,
+   "drawn": 4,
+   "lost": 5,
+   "goals_for": 30,
+   "goals_against": 18,
+   "goal_diff": 12,
+   "points": 34,
+   "bonus": null
+  },
+  {
+   "team": "america",
+   "position": 4,
    "played": 18,
    "won": 9,
    "drawn": 6,
@@ -78,7 +91,7 @@
   },
   {
    "team": "bucaramanga",
-   "position": 4,
+   "position": 5,
    "played": 18,
    "won": 8,
    "drawn": 8,
@@ -87,19 +100,6 @@
    "goals_against": 17,
    "goal_diff": 13,
    "points": 32,
-   "bonus": null
-  },
-  {
-   "team": "santafe",
-   "position": 5,
-   "played": 18,
-   "won": 9,
-   "drawn": 4,
-   "lost": 5,
-   "goals_for": 28,
-   "goals_against": 18,
-   "goal_diff": 10,
-   "points": 31,
    "bonus": null
   },
   {
@@ -196,13 +196,13 @@
   {
    "team": "internacional-bogota",
    "position": 13,
-   "played": 18,
+   "played": 19,
    "won": 5,
    "drawn": 8,
-   "lost": 5,
+   "lost": 6,
    "goals_for": 25,
-   "goals_against": 23,
-   "goal_diff": 2,
+   "goals_against": 25,
+   "goal_diff": 0,
    "points": 23,
    "bonus": null
   },
@@ -2674,10 +2674,10 @@
    "date": "2026-11-13",
    "home": "internacional-bogota",
    "away": "santafe",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 0,
+   "away_goals": 2,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-regular-r19-millonarios-alianza",
@@ -2812,7 +2812,7 @@
    "player_name": "Franco Fagúndez",
    "team": "santafe",
    "goals": 7,
-   "played": 17
+   "played": 18
   },
   {
    "player_name": "Edwin Cardona",
