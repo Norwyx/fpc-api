@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-11-14T19:02:54Z",
+  "updated": "2026-11-15T19:38:25Z",
   "name": "FPC API",
   "description": "API pública de datos del fútbol profesional colombiano (Categoría Primera A)",
   "license": "MIT (código) · CC BY-SA 4.0 (datos, de Wikipedia)"
@@ -521,7 +521,7 @@
    "tournament": "apertura",
    "status": "completed",
    "champion": "america",
-   "n_matches": 2,
+   "n_matches": 224,
    "url": "/v1/seasons/2002-i.json"
   },
   {
@@ -530,7 +530,7 @@
    "tournament": "finalizacion",
    "status": "completed",
    "champion": "medellin",
-   "n_matches": 2,
+   "n_matches": 220,
    "url": "/v1/seasons/2002-ii.json"
   },
   {
@@ -953,7 +953,7 @@
    "tournament": "finalizacion",
    "status": "in_progress",
    "champion": null,
-   "n_matches": 190,
+   "n_matches": 214,
    "url": "/v1/seasons/2026-ii.json"
   }
  ]
