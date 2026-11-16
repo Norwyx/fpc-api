@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-11-15T19:38:25Z",
+  "updated": "2026-11-16T23:19:21Z",
   "source": "es.wikipedia.org (secciones 'Plantilla' de cada club)",
   "warnings": [
    "homónimos 'kevin-balanta' en ['fortaleza', 'santafe']: ids sufijados con el club",
@@ -907,7 +907,7 @@
    "team": "bucaramanga",
    "position": "DF",
    "shirt_number": 24,
-   "age": 27,
+   "age": 28,
    "source": "https://es.wikipedia.org/wiki/Atlético_Bucaramanga",
    "id": "jose-ortiz"
   },
@@ -1366,7 +1366,7 @@
    "team": "cali",
    "position": "MF",
    "shirt_number": 10,
-   "age": 30,
+   "age": 31,
    "source": "https://es.wikipedia.org/wiki/Deportivo_Cali",
    "id": "emanuel-reynoso"
   },
@@ -1672,7 +1672,7 @@
    "team": "chico",
    "position": "DF",
    "shirt_number": 2,
-   "age": 27,
+   "age": 28,
    "source": "https://es.wikipedia.org/wiki/Boyacá_Chicó",
    "id": "daniel-polanco"
   },
@@ -2545,7 +2545,7 @@
    "team": "internacional-bogota",
    "position": "DF",
    "shirt_number": 26,
-   "age": 26,
+   "age": 27,
    "source": "https://es.wikipedia.org/wiki/Internacional_de_Bogotá",
    "id": "agustin-irazoque"
   },
@@ -2572,7 +2572,7 @@
    "team": "internacional-bogota",
    "position": "MF",
    "shirt_number": 10,
-   "age": 30,
+   "age": 31,
    "source": "https://es.wikipedia.org/wiki/Internacional_de_Bogotá",
    "id": "facundo-bone"
   },
