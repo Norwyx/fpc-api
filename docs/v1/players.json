@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-11-17T22:07:19Z",
+  "updated": "2026-11-18T21:47:05Z",
   "source": "es.wikipedia.org (secciones 'Plantilla' de cada club)",
   "warnings": [
    "homónimos 'kevin-balanta' en ['fortaleza', 'santafe']: ids sufijados con el club",
@@ -4368,15 +4368,6 @@
    "id": "ederson-cabezas"
   },
   {
-   "name": "Geovanni Banguera",
-   "team": "pasto",
-   "position": "GK",
-   "shirt_number": 12,
-   "age": 30,
-   "source": "https://es.wikipedia.org/wiki/Deportivo_Pasto",
-   "id": "geovanni-banguera"
-  },
-  {
    "name": "Luis Marquinez",
    "team": "pasto",
    "position": "GK",
@@ -4384,51 +4375,6 @@
    "age": 18,
    "source": "https://es.wikipedia.org/wiki/Deportivo_Pasto",
    "id": "luis-marquinez-pasto"
-  },
-  {
-   "name": "Fainer Torijano",
-   "team": "pasto",
-   "position": "DF",
-   "shirt_number": 2,
-   "age": 38,
-   "source": "https://es.wikipedia.org/wiki/Deportivo_Pasto",
-   "id": "fainer-torijano"
-  },
-  {
-   "name": "Joyce Ossa",
-   "team": "pasto",
-   "position": "DF",
-   "shirt_number": 3,
-   "age": 28,
-   "source": "https://es.wikipedia.org/wiki/Deportivo_Pasto",
-   "id": "joyce-ossa"
-  },
-  {
-   "name": "Derik Osede",
-   "team": "pasto",
-   "position": "DF",
-   "shirt_number": 4,
-   "age": 33,
-   "source": "https://es.wikipedia.org/wiki/Deportivo_Pasto",
-   "id": "derik-osede"
-  },
-  {
-   "name": "Nicolás Gil",
-   "team": "pasto",
-   "position": "DF",
-   "shirt_number": 5,
-   "age": 29,
-   "source": "https://es.wikipedia.org/wiki/Deportivo_Pasto",
-   "id": "nicolas-gil"
-  },
-  {
-   "name": "Santiago Jiménez",
-   "team": "pasto",
-   "position": "DF",
-   "shirt_number": 6,
-   "age": 28,
-   "source": "https://es.wikipedia.org/wiki/Deportivo_Pasto",
-   "id": "santiago-jimenez"
   },
   {
    "name": "Heiler Moreno",
@@ -4449,15 +4395,6 @@
    "id": "hervin-goyes"
   },
   {
-   "name": "Mateo Garavito",
-   "team": "pasto",
-   "position": "DF",
-   "shirt_number": 33,
-   "age": 26,
-   "source": "https://es.wikipedia.org/wiki/Deportivo_Pasto",
-   "id": "mateo-garavito"
-  },
-  {
    "name": "Frank Martínez",
    "team": "pasto",
    "position": "DF",
@@ -4465,15 +4402,6 @@
    "age": 19,
    "source": "https://es.wikipedia.org/wiki/Deportivo_Pasto",
    "id": "frank-martinez"
-  },
-  {
-   "name": "Julián Quiñones",
-   "team": "pasto",
-   "position": "DF",
-   "shirt_number": 36,
-   "age": 37,
-   "source": "https://es.wikipedia.org/wiki/Deportivo_Pasto",
-   "id": "julian-quinones"
   },
   {
    "name": "Ramiro Morales",
@@ -4494,132 +4422,6 @@
    "id": "jonathan-perlaza"
   },
   {
-   "name": "Enrique Serje",
-   "team": "pasto",
-   "position": "MF",
-   "shirt_number": 8,
-   "age": 30,
-   "source": "https://es.wikipedia.org/wiki/Deportivo_Pasto",
-   "id": "enrique-serje"
-  },
-  {
-   "name": "Diego Chávez",
-   "team": "pasto",
-   "position": "MF",
-   "shirt_number": 10,
-   "age": 29,
-   "source": "https://es.wikipedia.org/wiki/Deportivo_Pasto",
-   "id": "diego-chavez"
-  },
-  {
-   "name": "Harrinson Mancilla",
-   "team": "pasto",
-   "position": "MF",
-   "shirt_number": 15,
-   "age": 34,
-   "source": "https://es.wikipedia.org/wiki/Deportivo_Pasto",
-   "id": "harrinson-mancilla"
-  },
-  {
-   "name": "John Méndez",
-   "team": "pasto",
-   "position": "MF",
-   "shirt_number": 17,
-   "age": 22,
-   "source": "https://es.wikipedia.org/wiki/Deportivo_Pasto",
-   "id": "john-mendez"
-  },
-  {
-   "name": "Yeison Tolosa",
-   "team": "pasto",
-   "position": "MF",
-   "shirt_number": 22,
-   "age": 27,
-   "source": "https://es.wikipedia.org/wiki/Deportivo_Pasto",
-   "id": "yeison-tolosa"
-  },
-  {
-   "name": "Yéiler Góez",
-   "team": "pasto",
-   "position": "MF",
-   "shirt_number": 23,
-   "age": 27,
-   "source": "https://es.wikipedia.org/wiki/Deportivo_Pasto",
-   "id": "yeiler-goez"
-  },
-  {
-   "name": "Franco Leys",
-   "team": "pasto",
-   "position": "MF",
-   "shirt_number": 25,
-   "age": 33,
-   "source": "https://es.wikipedia.org/wiki/Deportivo_Pasto",
-   "id": "franco-leys"
-  },
-  {
-   "name": "David Guerrero",
-   "team": "pasto",
-   "position": "MF",
-   "shirt_number": 30,
-   "age": 30,
-   "source": "https://es.wikipedia.org/wiki/Deportivo_Pasto",
-   "id": "david-guerrero"
-  },
-  {
-   "name": "Matías Pisano",
-   "team": "pasto",
-   "position": "MF",
-   "shirt_number": 32,
-   "age": 34,
-   "source": "https://es.wikipedia.org/wiki/Deportivo_Pasto",
-   "id": "matias-pisano"
-  },
-  {
-   "name": "Gian Cabezas",
-   "team": "pasto",
-   "position": "MF",
-   "shirt_number": null,
-   "age": 21,
-   "source": "https://es.wikipedia.org/wiki/Deportivo_Pasto",
-   "id": "gian-cabezas"
-  },
-  {
-   "name": "Jorge Obregón",
-   "team": "pasto",
-   "position": "FW",
-   "shirt_number": 9,
-   "age": 29,
-   "source": "https://es.wikipedia.org/wiki/Deportivo_Pasto",
-   "id": "jorge-obregon"
-  },
-  {
-   "name": "Andrés Ibargüen",
-   "team": "pasto",
-   "position": "FW",
-   "shirt_number": 11,
-   "age": 34,
-   "source": "https://es.wikipedia.org/wiki/Deportivo_Pasto",
-   "id": "andres-ibarguen"
-  },
-  {
-   "name": "Mayer Gil",
-   "team": "pasto",
-   "position": "FW",
-   "shirt_number": 16,
-   "age": 23,
-   "source": "https://es.wikipedia.org/wiki/Deportivo_Pasto",
-   "id": "mayer-gil"
-  },
-  {
-   "name": "Joider Micolta",
-   "team": "pasto",
-   "position": "FW",
-   "shirt_number": 18,
-   "age": 24,
-   "source": "https://es.wikipedia.org/wiki/Deportivo_Pasto",
-   "id": "joider-micolta"
-  },
-  {
    "name": "Patrick Preciado",
    "team": "pasto",
    "position": "FW",
@@ -4627,15 +4429,6 @@
    "age": 21,
    "source": "https://es.wikipedia.org/wiki/Deportivo_Pasto",
    "id": "patrick-preciado"
-  },
-  {
-   "name": "Santiago Córdoba",
-   "team": "pasto",
-   "position": "FW",
-   "shirt_number": 29,
-   "age": 29,
-   "source": "https://es.wikipedia.org/wiki/Deportivo_Pasto",
-   "id": "santiago-cordoba"
   },
   {
    "name": "Luther Rueda",
