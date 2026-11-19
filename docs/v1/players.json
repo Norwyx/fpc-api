@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-11-18T21:47:05Z",
+  "updated": "2026-11-19T22:04:04Z",
   "source": "es.wikipedia.org (secciones 'Plantilla' de cada club)",
   "warnings": [
    "homónimos 'kevin-balanta' en ['fortaleza', 'santafe']: ids sufijados con el club",
@@ -3234,15 +3234,6 @@
    "id": "roameth-romana"
   },
   {
-   "name": "Howell Mena",
-   "team": "llaneros",
-   "position": "DF",
-   "shirt_number": 2,
-   "age": 25,
-   "source": "https://es.wikipedia.org/wiki/Club_Llaneros",
-   "id": "howell-mena"
-  },
-  {
    "name": "Victor Vidal",
    "team": "llaneros",
    "position": "DF",
@@ -3279,33 +3270,6 @@
    "id": "francisco-meza"
   },
   {
-   "name": "Alejandro Moralez",
-   "team": "llaneros",
-   "position": "DF",
-   "shirt_number": 23,
-   "age": 25,
-   "source": "https://es.wikipedia.org/wiki/Club_Llaneros",
-   "id": "alejandro-moralez"
-  },
-  {
-   "name": "Dennis Quintero",
-   "team": "llaneros",
-   "position": "DF",
-   "shirt_number": 26,
-   "age": 29,
-   "source": "https://es.wikipedia.org/wiki/Club_Llaneros",
-   "id": "dennis-quintero"
-  },
-  {
-   "name": "Leider Riascos",
-   "team": "llaneros",
-   "position": "DF",
-   "shirt_number": 29,
-   "age": 26,
-   "source": "https://es.wikipedia.org/wiki/Club_Llaneros",
-   "id": "leider-riascos"
-  },
-  {
    "name": "Emilio Pardo",
    "team": "llaneros",
    "position": "DF",
@@ -3313,15 +3277,6 @@
    "age": null,
    "source": "https://es.wikipedia.org/wiki/Club_Llaneros",
    "id": "emilio-pardo"
-  },
-  {
-   "name": "Jimmy Medranda",
-   "team": "llaneros",
-   "position": "DF",
-   "shirt_number": 94,
-   "age": 32,
-   "source": "https://es.wikipedia.org/wiki/Club_Llaneros",
-   "id": "jimmy-medranda"
   },
   {
    "name": "Daniel Quiñones",
@@ -3432,15 +3387,6 @@
    "id": "jhon-vasquez"
   },
   {
-   "name": "Brandon Chury",
-   "team": "llaneros",
-   "position": "MF",
-   "shirt_number": null,
-   "age": 21,
-   "source": "https://es.wikipedia.org/wiki/Club_Llaneros",
-   "id": "brandon-chury"
-  },
-  {
    "name": "Luis Miranda",
    "team": "llaneros",
    "position": "FW",
@@ -3448,15 +3394,6 @@
    "age": 29,
    "source": "https://es.wikipedia.org/wiki/Club_Llaneros",
    "id": "luis-miranda"
-  },
-  {
-   "name": "Manuel Barreiro",
-   "team": "llaneros",
-   "position": "FW",
-   "shirt_number": 9,
-   "age": 25,
-   "source": "https://es.wikipedia.org/wiki/Club_Llaneros",
-   "id": "manuel-barreiro"
   },
   {
    "name": "Luis Marimón",
