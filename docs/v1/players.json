@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-11-19T22:04:04Z",
+  "updated": "2026-11-20T21:46:04Z",
   "source": "es.wikipedia.org (secciones 'Plantilla' de cada club)",
   "warnings": [
    "homónimos 'kevin-balanta' en ['fortaleza', 'santafe']: ids sufijados con el club",
@@ -4210,7 +4210,7 @@
    "team": "nacional",
    "position": "MF",
    "shirt_number": 37,
-   "age": 20,
+   "age": 21,
    "source": "https://es.wikipedia.org/wiki/Atlético_Nacional",
    "id": "luis-landazuri"
   },
