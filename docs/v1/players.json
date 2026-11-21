@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-11-20T21:46:04Z",
+  "updated": "2026-11-21T20:28:38Z",
   "source": "es.wikipedia.org (secciones 'Plantilla' de cada club)",
   "warnings": [
    "homónimos 'kevin-balanta' en ['fortaleza', 'santafe']: ids sufijados con el club",
@@ -691,7 +691,7 @@
    "team": "america",
    "position": "MF",
    "shirt_number": 7,
-   "age": 30,
+   "age": 31,
    "source": "https://es.wikipedia.org/wiki/América_de_Cali",
    "id": "jhon-murillo"
   },
@@ -1132,7 +1132,7 @@
    "team": "caldas",
    "position": "DF",
    "shirt_number": 22,
-   "age": 28,
+   "age": 29,
    "source": "https://es.wikipedia.org/wiki/Once_Caldas",
    "id": "juan-david-cuesta"
   },
@@ -2284,7 +2284,7 @@
    "team": "fortaleza",
    "position": "DF",
    "shirt_number": null,
-   "age": 30,
+   "age": 31,
    "source": "https://es.wikipedia.org/wiki/Fortaleza_CEIF",
    "id": "jonathan-marulanda"
   },
