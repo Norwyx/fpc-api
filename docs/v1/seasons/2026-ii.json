@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-11-21T20:28:17Z",
+  "updated": "2026-11-22T20:40:41Z",
   "source": "https://es.wikipedia.org/wiki/Torneo_Finalización_2026_(Colombia)"
  },
  "season": {
@@ -319,27 +319,27 @@
     {
      "team": "nacional",
      "position": 2,
-     "played": 0,
+     "played": 1,
      "won": 0,
-     "drawn": 0,
+     "drawn": 1,
      "lost": 0,
      "goals_for": 0,
      "goals_against": 0,
      "goal_diff": 0,
-     "points": 0,
+     "points": 1,
      "bonus": null
     },
     {
      "team": "caldas",
      "position": 3,
-     "played": 0,
+     "played": 1,
      "won": 0,
-     "drawn": 0,
+     "drawn": 1,
      "lost": 0,
      "goals_for": 0,
      "goals_against": 0,
      "goal_diff": 0,
-     "points": 0,
+     "points": 1,
      "bonus": null
     },
     {
@@ -2908,10 +2908,10 @@
    "date": "2026-11-21",
    "home": "caldas",
    "away": "nacional",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 0,
+   "away_goals": 0,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-cuadrangulares-r2-santafe-caldas",
@@ -3229,13 +3229,13 @@
    "player_name": "Andrés Sarmiento",
    "team": "nacional",
    "goals": 7,
-   "played": 14
+   "played": 15
   },
   {
    "player_name": "Dayro Moreno",
    "team": "caldas",
    "goals": 7,
-   "played": 16
+   "played": 17
   },
   {
    "player_name": "Franco Fagúndez",
@@ -3244,16 +3244,16 @@
    "played": 18
   },
   {
-   "player_name": "Edwin Cardona",
-   "team": "nacional",
-   "goals": 6,
-   "played": 13
-  },
-  {
    "player_name": "Andrés Rentería",
    "team": "jaguares",
    "goals": 6,
    "played": 13
+  },
+  {
+   "player_name": "Edwin Cardona",
+   "team": "nacional",
+   "goals": 6,
+   "played": 14
   },
   {
    "player_name": "Eduard Bello",
