@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-11-24T23:29:42Z",
+  "updated": "2026-11-25T23:03:11Z",
   "source": "https://es.wikipedia.org/wiki/Torneo_Finalización_2026_(Colombia)"
  },
  "season": {
@@ -364,52 +364,52 @@
     {
      "team": "america",
      "position": 1,
-     "played": 1,
-     "won": 0,
+     "played": 2,
+     "won": 1,
      "drawn": 1,
      "lost": 0,
-     "goals_for": 2,
-     "goals_against": 2,
-     "goal_diff": 0,
-     "points": 1,
+     "goals_for": 4,
+     "goals_against": 3,
+     "goal_diff": 1,
+     "points": 4,
      "bonus": null
     },
     {
-     "team": "bucaramanga",
+     "team": "millonarios",
      "position": 2,
-     "played": 1,
-     "won": 0,
+     "played": 2,
+     "won": 1,
      "drawn": 1,
      "lost": 0,
-     "goals_for": 2,
-     "goals_against": 2,
-     "goal_diff": 0,
-     "points": 1,
+     "goals_for": 4,
+     "goals_against": 1,
+     "goal_diff": 3,
+     "points": 4,
      "bonus": null
     },
     {
      "team": "cali",
      "position": 3,
-     "played": 1,
+     "played": 2,
      "won": 0,
      "drawn": 1,
-     "lost": 0,
-     "goals_for": 0,
-     "goals_against": 0,
-     "goal_diff": 0,
+     "lost": 1,
+     "goals_for": 1,
+     "goals_against": 2,
+     "goal_diff": -1,
      "points": 1,
      "bonus": null
     },
     {
-     "team": "millonarios",
+     "team": "bucaramanga",
      "position": 4,
-     "played": 1,
+     "played": 2,
      "won": 0,
      "drawn": 1,
-     "lost": 0,
-     "goals_for": 0,
-     "goals_against": 0,
-     "goal_diff": 0,
+     "lost": 1,
+     "goals_for": 3,
+     "goals_against": 6,
+     "goal_diff": -3,
      "points": 1,
      "bonus": null
     }
@@ -3077,10 +3077,10 @@
    "date": "2026-11-24",
    "home": "millonarios",
    "away": "bucaramanga",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 4,
+   "away_goals": 1,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-cuadrangulares-r2-america-cali",
@@ -3090,10 +3090,10 @@
    "date": "2026-11-24",
    "home": "america",
    "away": "cali",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 2,
+   "away_goals": 1,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-cuadrangulares-r3-cali-bucaramanga",
@@ -3205,19 +3205,19 @@
    "player_name": "Luciano Pons",
    "team": "bucaramanga",
    "goals": 10,
-   "played": 18
+   "played": 19
   },
   {
    "player_name": "Yeison Guzmán",
    "team": "america",
    "goals": 10,
-   "played": 19
+   "played": 20
   },
   {
    "player_name": "Emerson Batalla",
    "team": "bucaramanga",
    "goals": 8,
-   "played": 19
+   "played": 20
   },
   {
    "player_name": "Nahuel Bustos",
@@ -3259,7 +3259,7 @@
    "player_name": "Eduard Bello",
    "team": "cali",
    "goals": 6,
-   "played": 15
+   "played": 16
   }
  ],
  "assists": []
