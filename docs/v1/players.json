@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-11-25T23:03:36Z",
+  "updated": "2026-11-26T22:56:13Z",
   "source": "es.wikipedia.org (secciones 'Plantilla' de cada club)",
   "warnings": [
    "homónimos 'kevin-balanta' en ['fortaleza', 'santafe']: ids sufijados con el club",
@@ -376,7 +376,7 @@
    "team": "alianza",
    "position": "DF",
    "shirt_number": 32,
-   "age": 22,
+   "age": 23,
    "source": "https://es.wikipedia.org/wiki/Alianza_Valledupar",
    "id": "juan-viveros"
   },
@@ -709,7 +709,7 @@
    "team": "america",
    "position": "MF",
    "shirt_number": 15,
-   "age": 33,
+   "age": 34,
    "source": "https://es.wikipedia.org/wiki/América_de_Cali",
    "id": "rafael-carrascal"
   },
@@ -2685,15 +2685,6 @@
    "id": "hather-cuesta"
   },
   {
-   "name": "Diego Martínez",
-   "team": "jaguares",
-   "position": "GK",
-   "shirt_number": 1,
-   "age": 36,
-   "source": "https://es.wikipedia.org/wiki/Jaguares_de_Córdoba",
-   "id": "diego-martinez"
-  },
-  {
    "name": "Franklin Mosquera",
    "team": "jaguares",
    "position": "GK",
@@ -2703,24 +2694,6 @@
    "id": "franklin-mosquera"
   },
   {
-   "name": "Jerson Malagón",
-   "team": "jaguares",
-   "position": "DF",
-   "shirt_number": 3,
-   "age": 33,
-   "source": "https://es.wikipedia.org/wiki/Jaguares_de_Córdoba",
-   "id": "jerson-malagon"
-  },
-  {
-   "name": "Juan Franco",
-   "team": "jaguares",
-   "position": "DF",
-   "shirt_number": 4,
-   "age": 24,
-   "source": "https://es.wikipedia.org/wiki/Jaguares_de_Córdoba",
-   "id": "juan-franco"
-  },
-  {
    "name": "Jonathan Lovera",
    "team": "jaguares",
    "position": "DF",
@@ -2728,24 +2701,6 @@
    "age": 21,
    "source": "https://es.wikipedia.org/wiki/Jaguares_de_Córdoba",
    "id": "jonathan-lovera"
-  },
-  {
-   "name": "Edwin Martinez",
-   "team": "jaguares",
-   "position": "DF",
-   "shirt_number": 14,
-   "age": 22,
-   "source": "https://es.wikipedia.org/wiki/Jaguares_de_Córdoba",
-   "id": "edwin-martinez"
-  },
-  {
-   "name": "Luis Jiménez",
-   "team": "jaguares",
-   "position": "DF",
-   "shirt_number": 18,
-   "age": 29,
-   "source": "https://es.wikipedia.org/wiki/Jaguares_de_Córdoba",
-   "id": "luis-jimenez"
   },
   {
    "name": "Nicolás Giraldo",
@@ -2766,15 +2721,6 @@
    "id": "juan-arcila"
   },
   {
-   "name": "Carlos Henao",
-   "team": "jaguares",
-   "position": "DF",
-   "shirt_number": 29,
-   "age": 37,
-   "source": "https://es.wikipedia.org/wiki/Jaguares_de_Córdoba",
-   "id": "carlos-henao"
-  },
-  {
    "name": "Yan Mosquera",
    "team": "jaguares",
    "position": "DF",
@@ -2784,15 +2730,6 @@
    "id": "yan-mosquera"
   },
   {
-   "name": "Andrés Alfonso",
-   "team": "jaguares",
-   "position": "MF",
-   "shirt_number": 2,
-   "age": 21,
-   "source": "https://es.wikipedia.org/wiki/Jaguares_de_Córdoba",
-   "id": "andres-alfonso"
-  },
-  {
    "name": "Royscer Colpa",
    "team": "jaguares",
    "position": "MF",
@@ -2800,24 +2737,6 @@
    "age": 31,
    "source": "https://es.wikipedia.org/wiki/Jaguares_de_Córdoba",
    "id": "royscer-colpa"
-  },
-  {
-   "name": "Duvan Rodríguez",
-   "team": "jaguares",
-   "position": "MF",
-   "shirt_number": 8,
-   "age": 30,
-   "source": "https://es.wikipedia.org/wiki/Jaguares_de_Córdoba",
-   "id": "duvan-rodriguez"
-  },
-  {
-   "name": "Cristian Álvarez",
-   "team": "jaguares",
-   "position": "MF",
-   "shirt_number": 10,
-   "age": 34,
-   "source": "https://es.wikipedia.org/wiki/Jaguares_de_Córdoba",
-   "id": "cristian-alvarez"
   },
   {
    "name": "Johan Hinestroza",
@@ -2847,24 +2766,6 @@
    "id": "esteban-beltran"
   },
   {
-   "name": "Carlos Cantillo",
-   "team": "jaguares",
-   "position": "MF",
-   "shirt_number": 19,
-   "age": 23,
-   "source": "https://es.wikipedia.org/wiki/Jaguares_de_Córdoba",
-   "id": "carlos-cantillo"
-  },
-  {
-   "name": "Faber Gil",
-   "team": "jaguares",
-   "position": "MF",
-   "shirt_number": 20,
-   "age": 31,
-   "source": "https://es.wikipedia.org/wiki/Jaguares_de_Córdoba",
-   "id": "faber-gil"
-  },
-  {
    "name": "Rafael Bustamante",
    "team": "jaguares",
    "position": "MF",
@@ -2872,15 +2773,6 @@
    "age": 27,
    "source": "https://es.wikipedia.org/wiki/Jaguares_de_Córdoba",
    "id": "rafael-bustamante"
-  },
-  {
-   "name": "Wilfrido de la Rosa",
-   "team": "jaguares",
-   "position": "FW",
-   "shirt_number": 7,
-   "age": 32,
-   "source": "https://es.wikipedia.org/wiki/Jaguares_de_Córdoba",
-   "id": "wilfrido-de-la-rosa"
   },
   {
    "name": "Johar Mejía",
@@ -2932,18 +2824,9 @@
    "team": "junior",
    "position": "DF",
    "shirt_number": 12,
-   "age": 24,
+   "age": 25,
    "source": "https://es.wikipedia.org/wiki/Junior_de_Barranquilla",
    "id": "jaime-acosta"
-  },
-  {
-   "name": "Jefersson Martínez",
-   "team": "junior",
-   "position": "GK",
-   "shirt_number": 30,
-   "age": 33,
-   "source": "https://es.wikipedia.org/wiki/Junior_de_Barranquilla",
-   "id": "jefersson-martinez"
   },
   {
    "name": "Danny Castro SUB-20",
@@ -3027,15 +2910,6 @@
    "id": "jermein-pena"
   },
   {
-   "name": "Fabián Correa",
-   "team": "junior",
-   "position": "DF",
-   "shirt_number": 99,
-   "age": 20,
-   "source": "https://es.wikipedia.org/wiki/Junior_de_Barranquilla",
-   "id": "fabian-correa"
-  },
-  {
    "name": "Dilan Villarreal SUB-20",
    "team": "junior",
    "position": "MF",
@@ -3043,24 +2917,6 @@
    "age": 18,
    "source": "https://es.wikipedia.org/wiki/Junior_de_Barranquilla",
    "id": "dilan-villarreal-sub-20"
-  },
-  {
-   "name": "Harold Rivera",
-   "team": "junior",
-   "position": "MF",
-   "shirt_number": 7,
-   "age": 33,
-   "source": "https://es.wikipedia.org/wiki/Junior_de_Barranquilla",
-   "id": "harold-rivera"
-  },
-  {
-   "name": "Yimmi Chará",
-   "team": "junior",
-   "position": "MF",
-   "shirt_number": 8,
-   "age": 35,
-   "source": "https://es.wikipedia.org/wiki/Junior_de_Barranquilla",
-   "id": "yimmi-chara"
   },
   {
    "name": "Juan David Ríos",
@@ -3153,15 +3009,6 @@
    "id": "jose-munive-sub-20"
   },
   {
-   "name": "Francisco Fydriszewski",
-   "team": "junior",
-   "position": "FW",
-   "shirt_number": 19,
-   "age": 33,
-   "source": "https://es.wikipedia.org/wiki/Junior_de_Barranquilla",
-   "id": "francisco-fydriszewski"
-  },
-  {
    "name": "Joel Canchimbo",
    "team": "junior",
    "position": "FW",
@@ -3178,15 +3025,6 @@
    "age": 26,
    "source": "https://es.wikipedia.org/wiki/Junior_de_Barranquilla",
    "id": "deiber-caicedo"
-  },
-  {
-   "name": "Teófilo Gutiérrez",
-   "team": "junior",
-   "position": "FW",
-   "shirt_number": 29,
-   "age": 41,
-   "source": "https://es.wikipedia.org/wiki/Junior_de_Barranquilla",
-   "id": "teofilo-gutierrez"
   },
   {
    "name": "Cristian Barrios",
@@ -3288,6 +3126,15 @@
    "id": "daniel-quinones"
   },
   {
+   "name": "Geovan Montes",
+   "team": "llaneros",
+   "position": "DF",
+   "shirt_number": null,
+   "age": 30,
+   "source": "https://es.wikipedia.org/wiki/Club_Llaneros",
+   "id": "geovan-montes"
+  },
+  {
    "name": "Eyder Restrepo",
    "team": "llaneros",
    "position": "MF",
@@ -3378,13 +3225,31 @@
    "id": "joel-contreras"
   },
   {
-   "name": "Jhon Vásquez",
+   "name": "Duvan Mosquera",
    "team": "llaneros",
    "position": "MF",
-   "shirt_number": 95,
-   "age": 31,
+   "shirt_number": null,
+   "age": 28,
    "source": "https://es.wikipedia.org/wiki/Club_Llaneros",
-   "id": "jhon-vasquez"
+   "id": "duvan-mosquera"
+  },
+  {
+   "name": "Duban Ayala",
+   "team": "llaneros",
+   "position": "MF",
+   "shirt_number": null,
+   "age": 25,
+   "source": "https://es.wikipedia.org/wiki/Club_Llaneros",
+   "id": "duban-ayala"
+  },
+  {
+   "name": "Bryan Urueña",
+   "team": "llaneros",
+   "position": "MF",
+   "shirt_number": null,
+   "age": 34,
+   "source": "https://es.wikipedia.org/wiki/Club_Llaneros",
+   "id": "bryan-uruena"
   },
   {
    "name": "Luis Miranda",
@@ -3421,6 +3286,15 @@
    "age": 20,
    "source": "https://es.wikipedia.org/wiki/Club_Llaneros",
    "id": "kevin-rincon"
+  },
+  {
+   "name": "Jhon Vásquez",
+   "team": "llaneros",
+   "position": "FW",
+   "shirt_number": 95,
+   "age": 31,
+   "source": "https://es.wikipedia.org/wiki/Club_Llaneros",
+   "id": "jhon-vasquez"
   },
   {
    "name": "Salvador Ichazo",

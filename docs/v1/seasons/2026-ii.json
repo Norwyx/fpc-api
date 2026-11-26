@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-11-25T23:03:11Z",
+  "updated": "2026-11-26T22:55:49Z",
   "source": "https://es.wikipedia.org/wiki/Torneo_Finalización_2026_(Colombia)"
  },
  "season": {
@@ -304,55 +304,55 @@
    "stage": "cuadrangulares",
    "standings": [
     {
-     "team": "medellin",
-     "position": 1,
-     "played": 1,
-     "won": 1,
-     "drawn": 0,
-     "lost": 0,
-     "goals_for": 1,
-     "goals_against": 0,
-     "goal_diff": 1,
-     "points": 3,
-     "bonus": null
-    },
-    {
      "team": "nacional",
-     "position": 2,
-     "played": 1,
-     "won": 0,
+     "position": 1,
+     "played": 2,
+     "won": 1,
      "drawn": 1,
      "lost": 0,
-     "goals_for": 0,
-     "goals_against": 0,
-     "goal_diff": 0,
-     "points": 1,
-     "bonus": null
-    },
-    {
-     "team": "caldas",
-     "position": 3,
-     "played": 1,
-     "won": 0,
-     "drawn": 1,
-     "lost": 0,
-     "goals_for": 0,
-     "goals_against": 0,
-     "goal_diff": 0,
-     "points": 1,
+     "goals_for": 3,
+     "goals_against": 1,
+     "goal_diff": 2,
+     "points": 4,
      "bonus": null
     },
     {
      "team": "santafe",
-     "position": 4,
-     "played": 1,
-     "won": 0,
+     "position": 2,
+     "played": 2,
+     "won": 1,
      "drawn": 0,
      "lost": 1,
-     "goals_for": 0,
+     "goals_for": 3,
      "goals_against": 1,
+     "goal_diff": 2,
+     "points": 3,
+     "bonus": null
+    },
+    {
+     "team": "medellin",
+     "position": 3,
+     "played": 2,
+     "won": 1,
+     "drawn": 0,
+     "lost": 1,
+     "goals_for": 2,
+     "goals_against": 3,
      "goal_diff": -1,
-     "points": 0,
+     "points": 3,
+     "bonus": null
+    },
+    {
+     "team": "caldas",
+     "position": 4,
+     "played": 2,
+     "won": 0,
+     "drawn": 1,
+     "lost": 1,
+     "goals_for": 0,
+     "goals_against": 3,
+     "goal_diff": -3,
+     "points": 1,
      "bonus": null
     }
    ]
@@ -2921,10 +2921,10 @@
    "date": "2026-11-25",
    "home": "santafe",
    "away": "caldas",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 3,
+   "away_goals": 0,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-cuadrangulares-r2-nacional-medellin",
@@ -2934,10 +2934,10 @@
    "date": "2026-11-25",
    "home": "nacional",
    "away": "medellin",
-   "home_goals": null,
-   "away_goals": null,
+   "home_goals": 3,
+   "away_goals": 1,
    "penalties": null,
-   "status": "scheduled"
+   "status": "played"
   },
   {
    "id": "2026-ii-cuadrangulares-r3-santafe-nacional",
@@ -3214,6 +3214,12 @@
    "played": 20
   },
   {
+   "player_name": "Franco Fagúndez",
+   "team": "santafe",
+   "goals": 8,
+   "played": 19
+  },
+  {
    "player_name": "Emerson Batalla",
    "team": "bucaramanga",
    "goals": 8,
@@ -3223,7 +3229,7 @@
    "player_name": "Nahuel Bustos",
    "team": "santafe",
    "goals": 7,
-   "played": 13
+   "played": 14
   },
   {
    "player_name": "Andrés Sarmiento",
@@ -3235,13 +3241,13 @@
    "player_name": "Dayro Moreno",
    "team": "caldas",
    "goals": 7,
-   "played": 17
+   "played": 18
   },
   {
-   "player_name": "Franco Fagúndez",
-   "team": "santafe",
-   "goals": 7,
-   "played": 18
+   "player_name": "Alfredo Morelos",
+   "team": "nacional",
+   "goals": 6,
+   "played": 13
   },
   {
    "player_name": "Andrés Rentería",
@@ -3253,13 +3259,7 @@
    "player_name": "Edwin Cardona",
    "team": "nacional",
    "goals": 6,
-   "played": 14
-  },
-  {
-   "player_name": "Eduard Bello",
-   "team": "cali",
-   "goals": 6,
-   "played": 16
+   "played": 15
   }
  ],
  "assists": []
