@@ -1,7 +1,7 @@
 {
  "meta": {
   "version": 1,
-  "updated": "2026-11-26T22:56:13Z",
+  "updated": "2026-11-27T22:36:15Z",
   "source": "es.wikipedia.org (secciones 'Plantilla' de cada club)",
   "warnings": [
    "homónimos 'kevin-balanta' en ['fortaleza', 'santafe']: ids sufijados con el club",
@@ -3814,7 +3814,7 @@
    "team": "millonarios",
    "position": "FW",
    "shirt_number": 27,
-   "age": 30,
+   "age": 31,
    "source": "https://es.wikipedia.org/wiki/Millonarios_Fútbol_Club",
    "id": "rodrigo-contreras"
   },
